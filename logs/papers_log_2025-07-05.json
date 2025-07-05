@@ -1,0 +1,121 @@
+[
+  {
+    "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02592",
+    "scraped_at": "2025-07-05T13:45:47.946094"
+  },
+  {
+    "title": "LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with\n  TriMap Video Diffusion",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02813",
+    "scraped_at": "2025-07-05T13:45:47.946429"
+  },
+  {
+    "title": "Heeding the Inner Voice: Aligning ControlNet Training via Intermediate\n  Features Feedback",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02321",
+    "scraped_at": "2025-07-05T13:45:47.946727"
+  },
+  {
+    "title": "IntFold: A Controllable Foundation Model for General and Specialized\n  Biomolecular Structure Prediction",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02025",
+    "scraped_at": "2025-07-05T13:45:47.947048"
+  },
+  {
+    "title": "Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.01352",
+    "scraped_at": "2025-07-05T13:45:47.947350"
+  },
+  {
+    "title": "Thinking with Images for Multimodal Reasoning: Foundations, Methods, and\n  Future Frontiers",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2506.23918",
+    "scraped_at": "2025-07-05T13:45:47.947640"
+  },
+  {
+    "title": "Decoupled Planning and Execution: A Hierarchical Reasoning Framework for\n  Deep Search",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02652",
+    "scraped_at": "2025-07-05T13:45:47.947931"
+  },
+  {
+    "title": "Fast and Simplex: 2-Simplicial Attention in Triton",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02754",
+    "scraped_at": "2025-07-05T13:45:47.948196"
+  },
+  {
+    "title": "Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02726",
+    "scraped_at": "2025-07-05T13:45:47.948450"
+  },
+  {
+    "title": "Can LLMs Identify Critical Limitations within Scientific Research? A\n  Systematic Evaluation on AI Research Papers",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02694",
+    "scraped_at": "2025-07-05T13:45:47.948702"
+  },
+  {
+    "title": "Energy-Based Transformers are Scalable Learners and Thinkers",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02092",
+    "scraped_at": "2025-07-05T13:45:47.948990"
+  },
+  {
+    "title": "Self-Correction Bench: Revealing and Addressing the Self-Correction\n  Blind Spot in LLMs",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02778",
+    "scraped_at": "2025-07-05T13:45:47.949254"
+  },
+  {
+    "title": "Selecting and Merging: Towards Adaptable and Scalable Named Entity\n  Recognition with Large Language Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2506.22813",
+    "scraped_at": "2025-07-05T13:45:47.949522"
+  },
+  {
+    "title": "AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM\n  Post-Training",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.01663",
+    "scraped_at": "2025-07-05T13:45:47.949782"
+  },
+  {
+    "title": "ZeCO: Zero Communication Overhead Sequence Parallelism for Linear\n  Attention",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.01004",
+    "scraped_at": "2025-07-05T13:45:47.950046"
+  },
+  {
+    "title": "CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for\n  Multi-Organ Segmentation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2506.23121",
+    "scraped_at": "2025-07-05T13:45:47.950328"
+  },
+  {
+    "title": "HalluSegBench: Counterfactual Visual Reasoning for Segmentation\n  Hallucination Evaluation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2506.21546",
+    "scraped_at": "2025-07-05T13:45:47.950580"
+  }
+]
