@@ -1,0 +1,58 @@
+name: HuggingFace Papers Scraper
+
+on:
+  schedule:
+    # Runs every day at 10:00 AM IST (4:30 AM UTC)
+    - cron: '30 4 * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Specific date to scrape (YYYY-MM-DD format, optional)'
+        required: false
+        type: string
+
+jobs:
+  scrape-papers:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml
+    
+    - name: Run scraper
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        HF_GITHUB_TOKEN: ${{ secrets.HF_GITHUB_TOKEN }}
+        HF_REPO_NAME: ${{ secrets.HF_REPO_NAME }}
+        HF_REPO_OWNER: ${{ secrets.HF_REPO_OWNER }}
+      run: |
+        if [ -n "${{ github.event.inputs.date }}" ]; then
+          python scraper.py "${{ github.event.inputs.date }}"
+        else
+          python scraper.py
+        fi
+    
+    - name: Create logs directory if it doesn't exist
+      run: mkdir -p logs
+    
+    - name: Commit and push logs (if any changes)
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add logs/
+        git diff --staged --quiet || git commit -m "Update papers log - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push || echo "No changes to push"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
