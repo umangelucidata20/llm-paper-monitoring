@@ -1,0 +1,72 @@
+[
+  {
+    "title": "MemOS: A Memory OS for AI System",
+    "authors": "39 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.03724",
+    "scraped_at": "2025-07-08T04:50:17.977411"
+  },
+  {
+    "title": "Pre-Trained Policy Discriminators are General Reward Models",
+    "authors": "22 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05197",
+    "scraped_at": "2025-07-08T04:50:17.977741"
+  },
+  {
+    "title": "4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous\n  Capture",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05163",
+    "scraped_at": "2025-07-08T04:50:17.978028"
+  },
+  {
+    "title": "RefineX: Learning to Refine Pre-training Data at Scale from\n  Expert-Guided Programs",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.03253",
+    "scraped_at": "2025-07-08T04:50:17.978340"
+  },
+  {
+    "title": "BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning\n  Dataset",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.03483",
+    "scraped_at": "2025-07-08T04:50:17.978620"
+  },
+  {
+    "title": "ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code\n  Generation Evaluation",
+    "authors": "32 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04952",
+    "scraped_at": "2025-07-08T04:50:17.978934"
+  },
+  {
+    "title": "VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and\n  Visual Documents",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04590",
+    "scraped_at": "2025-07-08T04:50:17.979218"
+  },
+  {
+    "title": "Disambiguation-Centric Finetuning Makes Enterprise Tool-Calling LLMs\n  More Realistic and Less Risky",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.03336",
+    "scraped_at": "2025-07-08T04:50:17.979477"
+  },
+  {
+    "title": "PresentAgent: Multimodal Agent for Presentation Video Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04036",
+    "scraped_at": "2025-07-08T04:50:17.979750"
+  },
+  {
+    "title": "OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device\n  Speculative Decoding",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.02659",
+    "scraped_at": "2025-07-08T04:50:17.980011"
+  }
+]
