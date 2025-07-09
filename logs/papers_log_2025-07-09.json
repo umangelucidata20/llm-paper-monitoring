@@ -1,0 +1,128 @@
+[
+  {
+    "title": "A Survey on Latent Reasoning",
+    "authors": "33 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06203",
+    "scraped_at": "2025-07-09T04:55:19.957647"
+  },
+  {
+    "title": "RLVER: Reinforcement Learning with Verifiable Emotion Rewards for\n  Empathetic Agents",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.03112",
+    "scraped_at": "2025-07-09T04:55:19.957958"
+  },
+  {
+    "title": "OmniPart: Part-Aware 3D Generation with Semantic Decoupling and\n  Structural Cohesion",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06165",
+    "scraped_at": "2025-07-09T04:55:19.958250"
+  },
+  {
+    "title": "CriticLean: Critic-Guided Reinforcement Learning for Mathematical\n  Formalization",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06181",
+    "scraped_at": "2025-07-09T04:55:19.958557"
+  },
+  {
+    "title": "MedGen: Unlocking Medical Video Generation by Scaling\n  Granularly-annotated Medical Videos",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05675",
+    "scraped_at": "2025-07-09T04:55:19.958832"
+  },
+  {
+    "title": "Coding Triangle: How Does Large Language Model Understand Code?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06138",
+    "scraped_at": "2025-07-09T04:55:19.959082"
+  },
+  {
+    "title": "Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06223",
+    "scraped_at": "2025-07-09T04:55:19.959350"
+  },
+  {
+    "title": "GTA1: GUI Test-time Scaling Agent",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05791",
+    "scraped_at": "2025-07-09T04:55:19.959636"
+  },
+  {
+    "title": "SAMed-2: Selective Memory Enhanced Medical Segment Anything Model",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.03698",
+    "scraped_at": "2025-07-09T04:55:19.959892"
+  },
+  {
+    "title": "Is Diversity All You Need for Scalable Robotic Manipulation?",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06219",
+    "scraped_at": "2025-07-09T04:55:19.960142"
+  },
+  {
+    "title": "PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to\n  Graphs",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05101",
+    "scraped_at": "2025-07-09T04:55:19.960405"
+  },
+  {
+    "title": "StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context\n  Modeling",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05240",
+    "scraped_at": "2025-07-09T04:55:19.960653"
+  },
+  {
+    "title": "any4: Learned 4-bit Numeric Representation for LLMs",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04610",
+    "scraped_at": "2025-07-09T04:55:19.960901"
+  },
+  {
+    "title": "Tora2: Motion and Appearance Customized Diffusion Transformer for\n  Multi-Entity Video Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05963",
+    "scraped_at": "2025-07-09T04:55:19.961145"
+  },
+  {
+    "title": "The Landscape of Memorization in LLMs: Mechanisms, Measurement, and\n  Mitigation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05578",
+    "scraped_at": "2025-07-09T04:55:19.961400"
+  },
+  {
+    "title": "How to Train Your LLM Web Agent: A Statistical Diagnosis",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04103",
+    "scraped_at": "2025-07-09T04:55:19.961643"
+  },
+  {
+    "title": "High-Resolution Visual Reasoning via Multi-Turn Grounding-Based\n  Reinforcement Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05920",
+    "scraped_at": "2025-07-09T04:55:19.961886"
+  },
+  {
+    "title": "LOOM-Scope: a comprehensive and efficient LOng-cOntext Model evaluation\n  framework",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04723",
+    "scraped_at": "2025-07-09T04:55:19.962128"
+  }
+]
