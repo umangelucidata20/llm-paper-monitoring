@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Perception-Aware Policy Optimization for Multimodal Reasoning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06448",
+    "scraped_at": "2025-07-10T04:54:04.852850"
+  },
+  {
+    "title": "A Systematic Analysis of Hybrid Linear Attention",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06457",
+    "scraped_at": "2025-07-10T04:54:04.853163"
+  },
+  {
+    "title": "Rethinking Verification for LLM Code Generation: From Generation to\n  Testing",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06920",
+    "scraped_at": "2025-07-10T04:54:04.853493"
+  },
+  {
+    "title": "Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07095",
+    "scraped_at": "2025-07-10T04:54:04.853768"
+  },
+  {
+    "title": "Towards Solving More Challenging IMO Problems via Decoupled Reasoning\n  and Proving",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06804",
+    "scraped_at": "2025-07-10T04:54:04.854025"
+  },
+  {
+    "title": "A Survey on Vision-Language-Action Models for Autonomous Driving",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2506.24044",
+    "scraped_at": "2025-07-10T04:54:04.854313"
+  },
+  {
+    "title": "First Return, Entropy-Eliciting Explore",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07017",
+    "scraped_at": "2025-07-10T04:54:04.854604"
+  },
+  {
+    "title": "AutoTriton: Automatic Triton Programming with Reinforcement Learning in\n  LLMs",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05687",
+    "scraped_at": "2025-07-10T04:54:04.854880"
+  },
+  {
+    "title": "DiffSpectra: Molecular Structure Elucidation from Spectra using\n  Diffusion Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06853",
+    "scraped_at": "2025-07-10T04:54:04.855145"
+  },
+  {
+    "title": "Evaluating the Critical Risks of Amazon's Nova Premier under the\n  Frontier Model Safety Framework",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06260",
+    "scraped_at": "2025-07-10T04:54:04.855497"
+  }
+]
