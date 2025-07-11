@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Scaling RL to Long Videos",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07966",
+    "scraped_at": "2025-07-11T04:55:15.260987"
+  },
+  {
+    "title": "Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and\n  Methodology",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07999",
+    "scraped_at": "2025-07-11T04:55:15.261322"
+  },
+  {
+    "title": "PyVision: Agentic Vision with Dynamic Tooling",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07998",
+    "scraped_at": "2025-07-11T04:55:15.261741"
+  },
+  {
+    "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+\n  FPS",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07136",
+    "scraped_at": "2025-07-11T04:55:15.262014"
+  },
+  {
+    "title": "A Survey on Long-Video Storytelling Generation: Architectures,\n  Consistency, and Cinematic Quality",
+    "authors": "29 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07202",
+    "scraped_at": "2025-07-11T04:55:15.262273"
+  },
+  {
+    "title": "Geometry Forcing: Marrying Video Diffusion and 3D Representation for\n  Consistent World Modeling",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07982",
+    "scraped_at": "2025-07-11T04:55:15.262531"
+  },
+  {
+    "title": "Machine Bullshit: Characterizing the Emergent Disregard for Truth in\n  Large Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07484",
+    "scraped_at": "2025-07-11T04:55:15.262815"
+  }
+]
