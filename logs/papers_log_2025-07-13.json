@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Scaling RL to Long Videos",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07966",
+    "scraped_at": "2025-07-13T04:54:13.223635"
+  },
+  {
+    "title": "T-LoRA: Single Image Diffusion Model Customization Without Overfitting",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05964",
+    "scraped_at": "2025-07-13T04:54:13.224003"
+  },
+  {
+    "title": "Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and\n  Methodology",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07999",
+    "scraped_at": "2025-07-13T04:54:13.224334"
+  },
+  {
+    "title": "OST-Bench: Evaluating the Capabilities of MLLMs in Online\n  Spatio-temporal Scene Understanding",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07984",
+    "scraped_at": "2025-07-13T04:54:13.224636"
+  },
+  {
+    "title": "Multi-Granular Spatio-Temporal Token Merging for Training-Free\n  Acceleration of Video LLMs",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07990",
+    "scraped_at": "2025-07-13T04:54:13.224942"
+  },
+  {
+    "title": "Geometry Forcing: Marrying Video Diffusion and 3D Representation for\n  Consistent World Modeling",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07982",
+    "scraped_at": "2025-07-13T04:54:13.225217"
+  },
+  {
+    "title": "PyVision: Agentic Vision with Dynamic Tooling",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07998",
+    "scraped_at": "2025-07-13T04:54:13.225512"
+  },
+  {
+    "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+\n  FPS",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07136",
+    "scraped_at": "2025-07-13T04:54:13.225796"
+  },
+  {
+    "title": "Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07996",
+    "scraped_at": "2025-07-13T04:54:13.226059"
+  },
+  {
+    "title": "A Survey on Long-Video Storytelling Generation: Architectures,\n  Consistency, and Cinematic Quality",
+    "authors": "29 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07202",
+    "scraped_at": "2025-07-13T04:54:13.226324"
+  },
+  {
+    "title": "Token Bottleneck: One Token to Remember Dynamics",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.06543",
+    "scraped_at": "2025-07-13T04:54:13.226610"
+  },
+  {
+    "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07955",
+    "scraped_at": "2025-07-13T04:54:13.226869"
+  },
+  {
+    "title": "Machine Bullshit: Characterizing the Emergent Disregard for Truth in\n  Large Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07484",
+    "scraped_at": "2025-07-13T04:54:13.227118"
+  },
+  {
+    "title": "Beyond the Linear Separability Ceiling",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07574",
+    "scraped_at": "2025-07-13T04:54:13.227388"
+  },
+  {
+    "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I.\n  X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.05241",
+    "scraped_at": "2025-07-13T04:54:13.227639"
+  },
+  {
+    "title": "Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07867",
+    "scraped_at": "2025-07-13T04:54:13.227897"
+  },
+  {
+    "title": "Growing Transformers: Modular Composition and Layer-wise Expansion on a\n  Frozen Substrate",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07129",
+    "scraped_at": "2025-07-13T04:54:13.228139"
+  },
+  {
+    "title": "Emergent Semantics Beyond Token Embeddings: Transformer LMs with Frozen\n  Visual Unicode Representations",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04886",
+    "scraped_at": "2025-07-13T04:54:13.228397"
+  }
+]
