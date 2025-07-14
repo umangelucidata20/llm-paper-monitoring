@@ -1,0 +1,58 @@
+[
+  {
+    "title": "CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive\n  Neural Rendering",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.08776",
+    "scraped_at": "2025-07-14T04:58:15.797234"
+  },
+  {
+    "title": "Test-Time Scaling with Reflective Generative Model",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.01951",
+    "scraped_at": "2025-07-14T04:58:15.797564"
+  },
+  {
+    "title": "NeuralOS: Towards Simulating Operating Systems via Neural Generative\n  Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.08800",
+    "scraped_at": "2025-07-14T04:58:15.797870"
+  },
+  {
+    "title": "Lumos-1: On Autoregressive Video Generation from a Unified Model\n  Perspective",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.08801",
+    "scraped_at": "2025-07-14T04:58:15.798155"
+  },
+  {
+    "title": "From One to More: Contextual Part Latents for 3D Generation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.08772",
+    "scraped_at": "2025-07-14T04:58:15.798447"
+  },
+  {
+    "title": "One Token to Fool LLM-as-a-Judge",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.08794",
+    "scraped_at": "2025-07-14T04:58:15.798700"
+  },
+  {
+    "title": "BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with\n  Chunk-Level Activation Sparsity",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.08771",
+    "scraped_at": "2025-07-14T04:58:15.798955"
+  },
+  {
+    "title": "Robust Multimodal Large Language Models Against Modality Conflict",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.07151",
+    "scraped_at": "2025-07-14T04:58:15.799259"
+  }
+]
