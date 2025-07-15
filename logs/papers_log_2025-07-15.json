@@ -1,0 +1,30 @@
+[
+  {
+    "title": "SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual\n  Dyadic Interactive Human Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.09862",
+    "scraped_at": "2025-07-15T04:56:47.121230"
+  },
+  {
+    "title": "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.10548",
+    "scraped_at": "2025-07-15T04:56:47.121547"
+  },
+  {
+    "title": "CompassJudger-2: Towards Generalist Judge Model via Verifiable Rewards",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.09104",
+    "scraped_at": "2025-07-15T04:56:47.121861"
+  },
+  {
+    "title": "LayerCake: Token-Aware Contrastive Decoding within Large Language Model\n  Layers",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04404",
+    "scraped_at": "2025-07-15T04:56:47.122133"
+  }
+]
