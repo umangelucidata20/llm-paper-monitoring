@@ -1,0 +1,37 @@
+[
+  {
+    "title": "PhysX: Physical-Grounded 3D Asset Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12465",
+    "scraped_at": "2025-07-17T04:56:49.075567"
+  },
+  {
+    "title": "Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning\n  Systems in LLMs",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.09477",
+    "scraped_at": "2025-07-17T04:56:49.075965"
+  },
+  {
+    "title": "MOSPA: Human Motion Generation Driven by Spatial Audio",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.11949",
+    "scraped_at": "2025-07-17T04:56:49.076368"
+  },
+  {
+    "title": "DrafterBench: Benchmarking Large Language Models for Tasks Automation in\n  Civil Engineering",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.11527",
+    "scraped_at": "2025-07-17T04:56:49.076731"
+  },
+  {
+    "title": "Lizard: An Efficient Linearization Framework for Large Language Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.09025",
+    "scraped_at": "2025-07-17T04:56:49.077074"
+  }
+]
