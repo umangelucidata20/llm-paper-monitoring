@@ -1,0 +1,65 @@
+[
+  {
+    "title": "A Survey of Context Engineering for Large Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13334",
+    "scraped_at": "2025-07-18T04:58:16.431705"
+  },
+  {
+    "title": "π^3: Scalable Permutation-Equivariant Visual Geometry Learning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13347",
+    "scraped_at": "2025-07-18T04:58:16.432012"
+  },
+  {
+    "title": "The Imitation Game: Turing Machine Imitator is Length Generalizable\n  Reasoner",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13332",
+    "scraped_at": "2025-07-18T04:58:16.432322"
+  },
+  {
+    "title": "AnyCap Project: A Unified Framework, Dataset, and Benchmark for\n  Controllable Omni-modal Captioning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12841",
+    "scraped_at": "2025-07-18T04:58:16.432604"
+  },
+  {
+    "title": "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12508",
+    "scraped_at": "2025-07-18T04:58:16.432861"
+  },
+  {
+    "title": "AbGen: Evaluating Large Language Models in Ablation Study Design and\n  Evaluation for Scientific Research",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13300",
+    "scraped_at": "2025-07-18T04:58:16.433142"
+  },
+  {
+    "title": "VisionThink: Smart and Efficient Vision Language Model via Reinforcement\n  Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13348",
+    "scraped_at": "2025-07-18T04:58:16.433410"
+  },
+  {
+    "title": "FLEXITOKENS: Flexible Tokenization for Evolving Language Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12720",
+    "scraped_at": "2025-07-18T04:58:16.433658"
+  },
+  {
+    "title": "TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame\n  Interpolation",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04984",
+    "scraped_at": "2025-07-18T04:58:16.433923"
+  }
+]
