@@ -1,0 +1,114 @@
+[
+  {
+    "title": "A Survey of Context Engineering for Large Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13334",
+    "scraped_at": "2025-07-19T04:51:26.607680"
+  },
+  {
+    "title": "VisionThink: Smart and Efficient Vision Language Model via Reinforcement\n  Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13348",
+    "scraped_at": "2025-07-19T04:51:26.608037"
+  },
+  {
+    "title": "π^3: Scalable Permutation-Equivariant Visual Geometry Learning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13347",
+    "scraped_at": "2025-07-19T04:51:26.608390"
+  },
+  {
+    "title": "The Imitation Game: Turing Machine Imitator is Length Generalizable\n  Reasoner",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13332",
+    "scraped_at": "2025-07-19T04:51:26.608690"
+  },
+  {
+    "title": "AnyCap Project: A Unified Framework, Dataset, and Benchmark for\n  Controllable Omni-modal Captioning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12841",
+    "scraped_at": "2025-07-19T04:51:26.608985"
+  },
+  {
+    "title": "Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos\n  with Spatio-Temporal Diffusion Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13344",
+    "scraped_at": "2025-07-19T04:51:26.609272"
+  },
+  {
+    "title": "RiemannLoRA: A Unified Riemannian Framework for Ambiguity-Free LoRA\n  Optimization",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12142",
+    "scraped_at": "2025-07-19T04:51:26.609572"
+  },
+  {
+    "title": "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12508",
+    "scraped_at": "2025-07-19T04:51:26.609870"
+  },
+  {
+    "title": "Voxtral",
+    "authors": "106 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13264",
+    "scraped_at": "2025-07-19T04:51:26.610126"
+  },
+  {
+    "title": "FantasyPortrait: Enhancing Multi-Character Portrait Animation with\n  Expression-Augmented Diffusion Transformers",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12956",
+    "scraped_at": "2025-07-19T04:51:26.610443"
+  },
+  {
+    "title": "AbGen: Evaluating Large Language Models in Ablation Study Design and\n  Evaluation for Scientific Research",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13300",
+    "scraped_at": "2025-07-19T04:51:26.610726"
+  },
+  {
+    "title": "Teach Old SAEs New Domain Tricks with Boosting",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12990",
+    "scraped_at": "2025-07-19T04:51:26.611001"
+  },
+  {
+    "title": "FLEXITOKENS: Flexible Tokenization for Evolving Language Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.12720",
+    "scraped_at": "2025-07-19T04:51:26.611245"
+  },
+  {
+    "title": "TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame\n  Interpolation",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.04984",
+    "scraped_at": "2025-07-19T04:51:26.611533"
+  },
+  {
+    "title": "Automating Steering for Safe Multimodal Large Language Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13255",
+    "scraped_at": "2025-07-19T04:51:26.611791"
+  },
+  {
+    "title": "Einstein Fields: A Neural Perspective To Computational General\n  Relativity",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.11589",
+    "scraped_at": "2025-07-19T04:51:26.612067"
+  }
+]
