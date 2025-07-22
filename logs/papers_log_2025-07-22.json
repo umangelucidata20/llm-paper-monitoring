@@ -1,0 +1,72 @@
+[
+  {
+    "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking\n  Formalization",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15061",
+    "scraped_at": "2025-07-22T04:57:24.351362"
+  },
+  {
+    "title": "GUI-G^2: Gaussian Reward Modeling for GUI Grounding",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15846",
+    "scraped_at": "2025-07-22T04:57:24.351673"
+  },
+  {
+    "title": "MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via\n  Context-Aware Multi-Stage Policy Optimization",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.14683",
+    "scraped_at": "2025-07-22T04:57:24.351966"
+  },
+  {
+    "title": "GR-3 Technical Report",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15493",
+    "scraped_at": "2025-07-22T04:57:24.352255"
+  },
+  {
+    "title": "Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for\n  RLVR",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15778",
+    "scraped_at": "2025-07-22T04:57:24.352529"
+  },
+  {
+    "title": "Towards Video Thinking Test: A Holistic Benchmark for Advanced Video\n  Reasoning and Understanding",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15028",
+    "scraped_at": "2025-07-22T04:57:24.352781"
+  },
+  {
+    "title": "Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with\n  Regularized Score Distillation Sampling",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.11061",
+    "scraped_at": "2025-07-22T04:57:24.353104"
+  },
+  {
+    "title": "Streaming 4D Visual Geometry Transformer",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.11539",
+    "scraped_at": "2025-07-22T04:57:24.353400"
+  },
+  {
+    "title": "LLM Economist: Large Population Models and Mechanism Design in\n  Multi-Agent Generative Simulacra",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15815",
+    "scraped_at": "2025-07-22T04:57:24.353668"
+  },
+  {
+    "title": "STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for\n  Spoken Language Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15375",
+    "scraped_at": "2025-07-22T04:57:24.353916"
+  }
+]
