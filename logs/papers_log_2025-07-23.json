@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Step-Audio 2 Technical Report",
+    "authors": "109 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16632",
+    "scraped_at": "2025-07-23T04:58:33.639574"
+  },
+  {
+    "title": "Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16784",
+    "scraped_at": "2025-07-23T04:58:33.639885"
+  },
+  {
+    "title": "ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent\n  Planning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16815",
+    "scraped_at": "2025-07-23T04:58:33.640176"
+  },
+  {
+    "title": "MegaScience: Pushing the Frontiers of Post-Training Datasets for Science\n  Reasoning",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16812",
+    "scraped_at": "2025-07-23T04:58:33.640459"
+  },
+  {
+    "title": "Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking\n  Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16814",
+    "scraped_at": "2025-07-23T04:58:33.640741"
+  },
+  {
+    "title": "Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16746",
+    "scraped_at": "2025-07-23T04:58:33.641022"
+  },
+  {
+    "title": "RefCritic: Training Long Chain-of-Thought Critic Models with Refinement\n  Feedback",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15024",
+    "scraped_at": "2025-07-23T04:58:33.641277"
+  },
+  {
+    "title": "HOComp: Interaction-Aware Human-Object Composition",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16813",
+    "scraped_at": "2025-07-23T04:58:33.641531"
+  },
+  {
+    "title": "Does More Inference-Time Compute Really Help Robustness?",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15974",
+    "scraped_at": "2025-07-23T04:58:33.641800"
+  },
+  {
+    "title": "SPAR: Scholar Paper Retrieval with LLM-based Agents for Enhanced\n  Academic Search",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15245",
+    "scraped_at": "2025-07-23T04:58:33.642068"
+  },
+  {
+    "title": "Steering Out-of-Distribution Generalization with Concept Ablation\n  Fine-Tuning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16795",
+    "scraped_at": "2025-07-23T04:58:33.642323"
+  },
+  {
+    "title": "ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via\n  Gaussian Splatting",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15454",
+    "scraped_at": "2025-07-23T04:58:33.642599"
+  }
+]
