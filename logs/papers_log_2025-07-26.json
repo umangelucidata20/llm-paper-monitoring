@@ -1,0 +1,149 @@
+[
+  {
+    "title": "nablaNABLA: Neighborhood Adaptive Block-Level Attention",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.13546",
+    "scraped_at": "2025-07-26T04:55:55.559780"
+  },
+  {
+    "title": "Group Sequence Policy Optimization",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18071",
+    "scraped_at": "2025-07-26T04:55:55.560133"
+  },
+  {
+    "title": "MUR: Momentum Uncertainty guided Reasoning for Large Language Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.14958",
+    "scraped_at": "2025-07-26T04:55:55.560449"
+  },
+  {
+    "title": "LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy\n  Optimization",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15758",
+    "scraped_at": "2025-07-26T04:55:55.560759"
+  },
+  {
+    "title": "Captain Cinema: Towards Short Movie Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18634",
+    "scraped_at": "2025-07-26T04:55:55.561111"
+  },
+  {
+    "title": "TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive\n  Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18537",
+    "scraped_at": "2025-07-26T04:55:55.561403"
+  },
+  {
+    "title": "Hierarchical Budget Policy Optimization for Adaptive Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15844",
+    "scraped_at": "2025-07-26T04:55:55.561696"
+  },
+  {
+    "title": "GLiNER2: An Efficient Multi-Task Information Extraction System with\n  Schema-Driven Interface",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18546",
+    "scraped_at": "2025-07-26T04:55:55.561981"
+  },
+  {
+    "title": "EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent\n  Diffusion",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16535",
+    "scraped_at": "2025-07-26T04:55:55.562246"
+  },
+  {
+    "title": "DriftMoE: A Mixture of Experts Approach to Handle Concept Drifts",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18464",
+    "scraped_at": "2025-07-26T04:55:55.562525"
+  },
+  {
+    "title": "DMOSpeech 2: Reinforcement Learning for Duration Prediction in\n  Metric-Optimized Speech Synthesis",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.14988",
+    "scraped_at": "2025-07-26T04:55:55.562781"
+  },
+  {
+    "title": "Technical Report of TeleChat2, TeleChat2.5 and T1",
+    "authors": "38 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18013",
+    "scraped_at": "2025-07-26T04:55:55.563066"
+  },
+  {
+    "title": "A New Pair of GloVes",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18103",
+    "scraped_at": "2025-07-26T04:55:55.563311"
+  },
+  {
+    "title": "SegDT: A Diffusion Transformer-Based Segmentation Model for Medical\n  Imaging",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15595",
+    "scraped_at": "2025-07-26T04:55:55.563584"
+  },
+  {
+    "title": "TeEFusion: Blending Text Embeddings to Distill Classifier-Free Guidance",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18192",
+    "scraped_at": "2025-07-26T04:55:55.563894"
+  },
+  {
+    "title": "Discovering and using Spelke segments",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16038",
+    "scraped_at": "2025-07-26T04:55:55.564196"
+  },
+  {
+    "title": "Iwin Transformer: Hierarchical Vision Transformer using Interleaved\n  Windows",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18405",
+    "scraped_at": "2025-07-26T04:55:55.564457"
+  },
+  {
+    "title": "Agentar-Fin-R1: Enhancing Financial Intelligence through Domain\n  Expertise, Training Efficiency, and Advanced Reasoning",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.16802",
+    "scraped_at": "2025-07-26T04:55:55.564705"
+  },
+  {
+    "title": "Deep Learning-Based Age Estimation and Gender Deep Learning-Based Age\n  Estimation and Gender Classification for Targeted Advertisement",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.18565",
+    "scraped_at": "2025-07-26T04:55:55.564993"
+  },
+  {
+    "title": "HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic\n  Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.17402",
+    "scraped_at": "2025-07-26T04:55:55.565277"
+  },
+  {
+    "title": "True Multimodal In-Context Learning Needs Attention to the Visual\n  Context",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.15807",
+    "scraped_at": "2025-07-26T04:55:55.565528"
+  }
+]
