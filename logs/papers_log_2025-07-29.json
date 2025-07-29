@@ -1,0 +1,79 @@
+[
+  {
+    "title": "ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World\n  Shorts",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20939",
+    "scraped_at": "2025-07-29T05:02:31.105695"
+  },
+  {
+    "title": "Reconstructing 4D Spatial Intelligence: A Survey",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.21045",
+    "scraped_at": "2025-07-29T05:02:31.106025"
+  },
+  {
+    "title": "Agentic Reinforced Policy Optimization",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.19849",
+    "scraped_at": "2025-07-29T05:02:31.106327"
+  },
+  {
+    "title": "Region-based Cluster Discrimination for Visual Representation Learning",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20025",
+    "scraped_at": "2025-07-29T05:02:31.106625"
+  },
+  {
+    "title": "Rep-MTL: Unleashing the Power of Representation-level Task Saliency for\n  Multi-Task Learning",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.21049",
+    "scraped_at": "2025-07-29T05:02:31.106892"
+  },
+  {
+    "title": "SmallThinker: A Family of Efficient Large Language Models Natively\n  Trained for Local Deployment",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20984",
+    "scraped_at": "2025-07-29T05:02:31.107148"
+  },
+  {
+    "title": "Geometric-Mean Policy Optimization",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20673",
+    "scraped_at": "2025-07-29T05:02:31.107418"
+  },
+  {
+    "title": "GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.21033",
+    "scraped_at": "2025-07-29T05:02:31.107711"
+  },
+  {
+    "title": "ForCenNet: Foreground-Centric Network for Document Image Rectification",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.19804",
+    "scraped_at": "2025-07-29T05:02:31.107978"
+  },
+  {
+    "title": "Music Arena: Live Evaluation for Text-to-Music",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20900",
+    "scraped_at": "2025-07-29T05:02:31.108235"
+  },
+  {
+    "title": "JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability\n  and Aesthetic Alignment",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20880",
+    "scraped_at": "2025-07-29T05:02:31.108501"
+  }
+]
