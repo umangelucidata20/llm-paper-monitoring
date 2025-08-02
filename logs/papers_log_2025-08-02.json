@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
+    "authors": "36 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23726",
+    "scraped_at": "2025-08-02T04:55:50.036258"
+  },
+  {
+    "title": "Phi-Ground Tech Report: Advancing Perception in GUI Grounding",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23779",
+    "scraped_at": "2025-08-02T04:55:50.036603"
+  },
+  {
+    "title": "C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring\n  Challenges in Complex Conversations",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.22968",
+    "scraped_at": "2025-08-02T04:55:50.036915"
+  },
+  {
+    "title": "villa-X: Enhancing Latent Action Modeling in Vision-Language-Action\n  Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23682",
+    "scraped_at": "2025-08-02T04:55:50.037195"
+  },
+  {
+    "title": "RecGPT Technical Report",
+    "authors": "53 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.22879",
+    "scraped_at": "2025-08-02T04:55:50.037447"
+  },
+  {
+    "title": "iLRM: An Iterative Large 3D Reconstruction Model",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23277",
+    "scraped_at": "2025-08-02T04:55:50.037730"
+  },
+  {
+    "title": "Scalable Multi-Task Reinforcement Learning for Generalizable Spatial\n  Intelligence in Visuomotor Agents",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23698",
+    "scraped_at": "2025-08-02T04:55:50.038005"
+  },
+  {
+    "title": "NeRF Is a Valuable Assistant for 3D Gaussian Splatting",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23374",
+    "scraped_at": "2025-08-02T04:55:50.038261"
+  },
+  {
+    "title": "Persona Vectors: Monitoring and Controlling Character Traits in Language\n  Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.21509",
+    "scraped_at": "2025-08-02T04:55:50.038523"
+  },
+  {
+    "title": "TARS: MinMax Token-Adaptive Preference Strategy for Hallucination\n  Reduction in MLLMs",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.21584",
+    "scraped_at": "2025-08-02T04:55:50.038868"
+  },
+  {
+    "title": "AgroBench: Vision-Language Model Benchmark in Agriculture",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.20519",
+    "scraped_at": "2025-08-02T04:55:50.039133"
+  },
+  {
+    "title": "Beyond Linear Bottlenecks: Spline-Based Knowledge Distillation for\n  Culturally Diverse Art Style Classification",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23436",
+    "scraped_at": "2025-08-02T04:55:50.039374"
+  },
+  {
+    "title": "On the Expressiveness of Softmax Attention: A Recurrent Neural Network\n  Perspective",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23632",
+    "scraped_at": "2025-08-02T04:55:50.039637"
+  },
+  {
+    "title": "Flow Equivariant Recurrent Neural Networks",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.14793",
+    "scraped_at": "2025-08-02T04:55:50.039865"
+  },
+  {
+    "title": "Enhanced Arabic Text Retrieval with Attentive Relevance Scoring",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23404",
+    "scraped_at": "2025-08-02T04:55:50.040126"
+  },
+  {
+    "title": "Efficient Machine Unlearning via Influence Approximation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23257",
+    "scraped_at": "2025-08-02T04:55:50.040368"
+  }
+]
