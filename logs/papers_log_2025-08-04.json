@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Beyond Fixed: Variable-Length Denoising for Diffusion Large Language\n  Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.00819",
+    "scraped_at": "2025-08-04T05:10:20.660963"
+  },
+  {
+    "title": "PixNerd: Pixel Neural Field Diffusion",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23268",
+    "scraped_at": "2025-08-04T05:10:20.661309"
+  },
+  {
+    "title": "SWE-Exp: Experience-Driven Software Issue Resolution",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23361",
+    "scraped_at": "2025-08-04T05:10:20.661598"
+  },
+  {
+    "title": "SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23348",
+    "scraped_at": "2025-08-04T05:10:20.661865"
+  },
+  {
+    "title": "Multimodal Referring Segmentation: A Survey",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.00265",
+    "scraped_at": "2025-08-04T05:10:20.662144"
+  },
+  {
+    "title": "IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.00823",
+    "scraped_at": "2025-08-04T05:10:20.662403"
+  },
+  {
+    "title": "Learning an Efficient Multi-Turn Dialogue Evaluator from Multiple Judges",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.00454",
+    "scraped_at": "2025-08-04T05:10:20.662672"
+  },
+  {
+    "title": "Investigating Hallucination in Conversations for Low Resource Languages",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.22720",
+    "scraped_at": "2025-08-04T05:10:20.662927"
+  },
+  {
+    "title": "3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23478",
+    "scraped_at": "2025-08-04T05:10:20.663188"
+  }
+]
