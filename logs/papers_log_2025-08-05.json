@@ -1,0 +1,51 @@
+[
+  {
+    "title": "CellForge: Agentic Design of Virtual Cell Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02276",
+    "scraped_at": "2025-08-05T05:03:01.181286"
+  },
+  {
+    "title": "Llama-3.1-FoundationAI-SecurityLLM-8B-Instruct Technical Report",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01059",
+    "scraped_at": "2025-08-05T05:03:01.181625"
+  },
+  {
+    "title": "InstructVLA: Vision-Language-Action Instruction Tuning from\n  Understanding to Manipulation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.17520",
+    "scraped_at": "2025-08-05T05:03:01.181917"
+  },
+  {
+    "title": "Personalized Safety Alignment for Text-to-Image Diffusion Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01151",
+    "scraped_at": "2025-08-05T05:03:01.182246"
+  },
+  {
+    "title": "VeOmni: Scaling Any Modality Model Training with Model-Centric\n  Distributed Recipe Zoo",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02317",
+    "scraped_at": "2025-08-05T05:03:01.182538"
+  },
+  {
+    "title": "RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Lifelong\n  Learning in Physical Embodied Systems",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01415",
+    "scraped_at": "2025-08-05T05:03:01.182791"
+  },
+  {
+    "title": "Cyber-Zero: Training Cybersecurity Agents without Runtime",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.00910",
+    "scraped_at": "2025-08-05T05:03:01.183057"
+  }
+]
