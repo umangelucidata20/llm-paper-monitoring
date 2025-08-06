@@ -1,0 +1,51 @@
+[
+  {
+    "title": "LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03694",
+    "scraped_at": "2025-08-06T05:02:29.565243"
+  },
+  {
+    "title": "Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding\n  and Generation",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03320",
+    "scraped_at": "2025-08-06T05:02:29.565603"
+  },
+  {
+    "title": "Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed\n  Inference",
+    "authors": "22 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02193",
+    "scraped_at": "2025-08-06T05:02:29.565962"
+  },
+  {
+    "title": "Tool-integrated Reinforcement Learning for Repo Deep Search",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03012",
+    "scraped_at": "2025-08-06T05:02:29.566258"
+  },
+  {
+    "title": "LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01780",
+    "scraped_at": "2025-08-06T05:02:29.566551"
+  },
+  {
+    "title": "AlignGuard-LoRA: Alignment-Preserving Fine-Tuning via Fisher-Guided\n  Decomposition and Riemannian-Geodesic Collision Regularization",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02079",
+    "scraped_at": "2025-08-06T05:02:29.566817"
+  },
+  {
+    "title": "TRACEALIGN -- Tracing the Drift: Attributing Alignment Failures to\n  Training-Time Belief Sources in LLMs",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02063",
+    "scraped_at": "2025-08-06T05:02:29.567064"
+  }
+]
