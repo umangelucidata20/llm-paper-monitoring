@@ -1,0 +1,121 @@
+[
+  {
+    "title": "VeriGUI: Verifiable Long-Chain GUI Dataset",
+    "authors": "32 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04026",
+    "scraped_at": "2025-08-07T05:01:48.353481"
+  },
+  {
+    "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from\n  Experience",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04700",
+    "scraped_at": "2025-08-07T05:01:48.353822"
+  },
+  {
+    "title": "CoTox: Chain-of-Thought-Based Molecular Toxicity Reasoning and\n  Prediction",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03159",
+    "scraped_at": "2025-08-07T05:01:48.354121"
+  },
+  {
+    "title": "Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01191",
+    "scraped_at": "2025-08-07T05:01:48.354417"
+  },
+  {
+    "title": "Sotopia-RL: Reward Design for Social Intelligence",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03905",
+    "scraped_at": "2025-08-07T05:01:48.354715"
+  },
+  {
+    "title": "HPSv3: Towards Wide-Spectrum Human Preference Score",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03789",
+    "scraped_at": "2025-08-07T05:01:48.354975"
+  },
+  {
+    "title": "Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web\n  Agents",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01858",
+    "scraped_at": "2025-08-07T05:01:48.355270"
+  },
+  {
+    "title": "Sculptor: Empowering LLMs with Cognitive Agency via Active Context\n  Management",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04664",
+    "scraped_at": "2025-08-07T05:01:48.355574"
+  },
+  {
+    "title": "Gaussian Variation Field Diffusion for High-fidelity Video-to-4D\n  Synthesis",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23785",
+    "scraped_at": "2025-08-07T05:01:48.355863"
+  },
+  {
+    "title": "Position: The Current AI Conference Model is Unsustainable! Diagnosing\n  the Crisis of Centralized AI Conference",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04586",
+    "scraped_at": "2025-08-07T05:01:48.356119"
+  },
+  {
+    "title": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03680",
+    "scraped_at": "2025-08-07T05:01:48.356393"
+  },
+  {
+    "title": "LeanK: Learnable K Cache Channel Pruning for Efficient Decoding",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02215",
+    "scraped_at": "2025-08-07T05:01:48.356702"
+  },
+  {
+    "title": "LaTCoder: Converting Webpage Design to Code with Layout-as-Thought",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03560",
+    "scraped_at": "2025-08-07T05:01:48.356975"
+  },
+  {
+    "title": "EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust\n  Translation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04295",
+    "scraped_at": "2025-08-07T05:01:48.357232"
+  },
+  {
+    "title": "A Coarse-to-Fine Approach to Multi-Modality 3D Occupancy Grounding",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01197",
+    "scraped_at": "2025-08-07T05:01:48.357530"
+  },
+  {
+    "title": "OpenMed NER: Open-Source, Domain-Adapted State-of-the-Art Transformers\n  for Biomedical NER Across 12 Public Datasets",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01630",
+    "scraped_at": "2025-08-07T05:01:48.357784"
+  },
+  {
+    "title": "The Cow of Rembrandt - Analyzing Artistic Prompt Interpretation in\n  Text-to-Image Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.23313",
+    "scraped_at": "2025-08-07T05:01:48.358040"
+  }
+]
