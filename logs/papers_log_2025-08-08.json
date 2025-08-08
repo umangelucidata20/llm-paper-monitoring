@@ -1,0 +1,107 @@
+[
+  {
+    "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05004",
+    "scraped_at": "2025-08-08T05:01:35.914301"
+  },
+  {
+    "title": "DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05405",
+    "scraped_at": "2025-08-08T05:01:35.914725"
+  },
+  {
+    "title": "On the Generalization of SFT: A Reinforcement Learning Perspective with\n  Reward Rectification",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05629",
+    "scraped_at": "2025-08-08T05:01:35.915071"
+  },
+  {
+    "title": "Genie Envisioner: A Unified World Foundation Platform for Robotic\n  Manipulation",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05635",
+    "scraped_at": "2025-08-08T05:01:35.915435"
+  },
+  {
+    "title": "Hi3DEval: Advancing 3D Generation Evaluation with Hierarchical Validity",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05609",
+    "scraped_at": "2025-08-08T05:01:35.915739"
+  },
+  {
+    "title": "Are We on the Right Way for Assessing Document Retrieval-Augmented\n  Generation?",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03644",
+    "scraped_at": "2025-08-08T05:01:35.916029"
+  },
+  {
+    "title": "Are Today's LLMs Ready to Explain Well-Being Concepts?",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03990",
+    "scraped_at": "2025-08-08T05:01:35.916352"
+  },
+  {
+    "title": "Can Large Multimodal Models Actively Recognize Faulty Inputs? A\n  Systematic Evaluation Framework of Their Input Scrutiny Ability",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04017",
+    "scraped_at": "2025-08-08T05:01:35.916666"
+  },
+  {
+    "title": "MOSEv2: A More Challenging Dataset for Video Object Segmentation in\n  Complex Scenes",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05630",
+    "scraped_at": "2025-08-08T05:01:35.916955"
+  },
+  {
+    "title": "Hop, Skip, and Overthink: Diagnosing Why Reasoning Models Fumble during\n  Multi-Hop Analysis",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04699",
+    "scraped_at": "2025-08-08T05:01:35.917273"
+  },
+  {
+    "title": "Don't Overthink It: A Survey of Efficient R1-style Large Reasoning\n  Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02120",
+    "scraped_at": "2025-08-08T05:01:35.917578"
+  },
+  {
+    "title": "PRvL: Quantifying the Capabilities and Risks of Large Language Models\n  for PII Redaction",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05545",
+    "scraped_at": "2025-08-08T05:01:35.917852"
+  },
+  {
+    "title": "I Think, Therefore I Am Under-Qualified? A Benchmark for Evaluating\n  Linguistic Shibboleth Detection in LLM Hiring Evaluations",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04939",
+    "scraped_at": "2025-08-08T05:01:35.918126"
+  },
+  {
+    "title": "Evaluating, Synthesizing, and Enhancing for Customer Support\n  Conversation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04423",
+    "scraped_at": "2025-08-08T05:01:35.918419"
+  },
+  {
+    "title": "StrandDesigner: Towards Practical Strand Generation with Sketch Guidance",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01650",
+    "scraped_at": "2025-08-08T05:01:35.918709"
+  }
+]
