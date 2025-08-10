@@ -1,0 +1,184 @@
+[
+  {
+    "title": "On the Generalization of SFT: A Reinforcement Learning Perspective with\n  Reward Rectification",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05629",
+    "scraped_at": "2025-08-10T04:57:06.968858"
+  },
+  {
+    "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05004",
+    "scraped_at": "2025-08-10T04:57:06.969223"
+  },
+  {
+    "title": "Genie Envisioner: A Unified World Foundation Platform for Robotic\n  Manipulation",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05635",
+    "scraped_at": "2025-08-10T04:57:06.969563"
+  },
+  {
+    "title": "DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05405",
+    "scraped_at": "2025-08-10T04:57:06.969861"
+  },
+  {
+    "title": "Hi3DEval: Advancing 3D Generation Evaluation with Hierarchical Validity",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05609",
+    "scraped_at": "2025-08-10T04:57:06.970129"
+  },
+  {
+    "title": "Are Today's LLMs Ready to Explain Well-Being Concepts?",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03990",
+    "scraped_at": "2025-08-10T04:57:06.970432"
+  },
+  {
+    "title": "Are We on the Right Way for Assessing Document Retrieval-Augmented\n  Generation?",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03644",
+    "scraped_at": "2025-08-10T04:57:06.970710"
+  },
+  {
+    "title": "Can Large Multimodal Models Actively Recognize Faulty Inputs? A\n  Systematic Evaluation Framework of Their Input Scrutiny Ability",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04017",
+    "scraped_at": "2025-08-10T04:57:06.970968"
+  },
+  {
+    "title": "CoAct-1: Computer-using Agents with Coding as Actions",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03923",
+    "scraped_at": "2025-08-10T04:57:06.971307"
+  },
+  {
+    "title": "Don't Overthink It: A Survey of Efficient R1-style Large Reasoning\n  Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02120",
+    "scraped_at": "2025-08-10T04:57:06.971628"
+  },
+  {
+    "title": "Marco-Voice Technical Report",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02038",
+    "scraped_at": "2025-08-10T04:57:06.971883"
+  },
+  {
+    "title": "Evaluating, Synthesizing, and Enhancing for Customer Support\n  Conversation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04423",
+    "scraped_at": "2025-08-10T04:57:06.972160"
+  },
+  {
+    "title": "InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs\n  to Enhance Reasoning Capabilities",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05496",
+    "scraped_at": "2025-08-10T04:57:06.972424"
+  },
+  {
+    "title": "MOSEv2: A More Challenging Dataset for Video Object Segmentation in\n  Complex Scenes",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05630",
+    "scraped_at": "2025-08-10T04:57:06.972670"
+  },
+  {
+    "title": "StrandDesigner: Towards Practical Strand Generation with Sketch Guidance",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.01650",
+    "scraped_at": "2025-08-10T04:57:06.972929"
+  },
+  {
+    "title": "Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast\n  Image Compression",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04979",
+    "scraped_at": "2025-08-10T04:57:06.973197"
+  },
+  {
+    "title": "Learning to Reason for Factuality",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05618",
+    "scraped_at": "2025-08-10T04:57:06.973447"
+  },
+  {
+    "title": "Visual Document Understanding and Question Answering: A Multi-Agent\n  Collaboration Framework with Test-Time Scaling",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.03404",
+    "scraped_at": "2025-08-10T04:57:06.973694"
+  },
+  {
+    "title": "PRvL: Quantifying the Capabilities and Risks of Large Language Models\n  for PII Redaction",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05545",
+    "scraped_at": "2025-08-10T04:57:06.973953"
+  },
+  {
+    "title": "REINA: Regularized Entropy Information-Based Loss for Efficient\n  Simultaneous Speech Translation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04946",
+    "scraped_at": "2025-08-10T04:57:06.974238"
+  },
+  {
+    "title": "I Think, Therefore I Am Under-Qualified? A Benchmark for Evaluating\n  Linguistic Shibboleth Detection in LLM Hiring Evaluations",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04939",
+    "scraped_at": "2025-08-10T04:57:06.974500"
+  },
+  {
+    "title": "Hop, Skip, and Overthink: Diagnosing Why Reasoning Models Fumble during\n  Multi-Hop Analysis",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04699",
+    "scraped_at": "2025-08-10T04:57:06.974760"
+  },
+  {
+    "title": "RPCANet++: Deep Interpretable Robust PCA for Sparse Object Segmentation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04190",
+    "scraped_at": "2025-08-10T04:57:06.975032"
+  },
+  {
+    "title": "Unlocking the Potential of MLLMs in Referring Expression Segmentation\n  via a Light-weight Mask Decode",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04107",
+    "scraped_at": "2025-08-10T04:57:06.975311"
+  },
+  {
+    "title": "I2CR: Intra- and Inter-modal Collaborative Reflections for Multimodal\n  Entity Linking",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.02243",
+    "scraped_at": "2025-08-10T04:57:06.975559"
+  },
+  {
+    "title": "Attention Basin: Why Contextual Position Matters in Large Language\n  Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05128",
+    "scraped_at": "2025-08-10T04:57:06.975803"
+  }
+]
