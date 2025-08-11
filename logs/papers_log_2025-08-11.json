@@ -1,0 +1,37 @@
+[
+  {
+    "title": "InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy\n  Optimization",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05731",
+    "scraped_at": "2025-08-11T05:00:37.632207"
+  },
+  {
+    "title": "Voost: A Unified and Scalable Diffusion Transformer for Bidirectional\n  Virtual Try-On and Try-Off",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.04825",
+    "scraped_at": "2025-08-11T05:00:37.632582"
+  },
+  {
+    "title": "Pruning the Unsurprising: Efficient Code Reasoning via First-Token\n  Surprisal",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05988",
+    "scraped_at": "2025-08-11T05:00:37.632902"
+  },
+  {
+    "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+    "authors": "171 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.06471",
+    "scraped_at": "2025-08-11T05:00:37.633177"
+  },
+  {
+    "title": "MELLA: Bridging Linguistic Capability and Cultural Groundedness for\n  Low-Resource Language MLLMs",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05502",
+    "scraped_at": "2025-08-11T05:00:37.633459"
+  }
+]
