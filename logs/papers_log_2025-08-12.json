@@ -1,0 +1,79 @@
+[
+  {
+    "title": "WideSearch: Benchmarking Agentic Broad Info-Seeking",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07999",
+    "scraped_at": "2025-08-12T04:48:28.693034"
+  },
+  {
+    "title": "ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07050",
+    "scraped_at": "2025-08-12T04:48:28.693350"
+  },
+  {
+    "title": "Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving\n  Clipping Policy Optimization",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07629",
+    "scraped_at": "2025-08-12T04:48:28.693661"
+  },
+  {
+    "title": "OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05614",
+    "scraped_at": "2025-08-12T04:48:28.693990"
+  },
+  {
+    "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of\n  Deep-Research Agent",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.06600",
+    "scraped_at": "2025-08-12T04:48:28.694266"
+  },
+  {
+    "title": "UserBench: An Interactive Gym Environment for User-Centric Agents",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2507.22034",
+    "scraped_at": "2025-08-12T04:48:28.694528"
+  },
+  {
+    "title": "Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via\n  Past-Future",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.06026",
+    "scraped_at": "2025-08-12T04:48:28.694801"
+  },
+  {
+    "title": "Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided\n  Region Control",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.08134",
+    "scraped_at": "2025-08-12T04:48:28.695071"
+  },
+  {
+    "title": "MolmoAct: Action Reasoning Models that can Reason in Space",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07917",
+    "scraped_at": "2025-08-12T04:48:28.695326"
+  },
+  {
+    "title": "Less Is More: Training-Free Sparse Attention with Global Locality for\n  Efficient Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07101",
+    "scraped_at": "2025-08-12T04:48:28.695583"
+  },
+  {
+    "title": "Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant\n  Safeguards into Open-Weight LLMs",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.06601",
+    "scraped_at": "2025-08-12T04:48:28.695879"
+  }
+]
