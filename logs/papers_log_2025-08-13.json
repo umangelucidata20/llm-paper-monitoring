@@ -1,0 +1,79 @@
+[
+  {
+    "title": "WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05748",
+    "scraped_at": "2025-08-13T04:51:01.415825"
+  },
+  {
+    "title": "Matrix-3D: Omnidirectional Explorable 3D World Generation",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.08086",
+    "scraped_at": "2025-08-13T04:51:01.416160"
+  },
+  {
+    "title": "Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale\n  Asynchronous RL",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07976",
+    "scraped_at": "2025-08-13T04:51:01.416467"
+  },
+  {
+    "title": "Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language\n  Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09138",
+    "scraped_at": "2025-08-13T04:51:01.416776"
+  },
+  {
+    "title": "HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating\n  Local and Web Searches",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.08088",
+    "scraped_at": "2025-08-13T04:51:01.417047"
+  },
+  {
+    "title": "Test-Time Reinforcement Learning for GUI Grounding via Region\n  Consistency",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05615",
+    "scraped_at": "2025-08-13T04:51:01.417334"
+  },
+  {
+    "title": "UNCAGE: Contrastive Attention Guidance for Masked Generative\n  Transformers in Text-to-Image Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05399",
+    "scraped_at": "2025-08-13T04:51:01.417618"
+  },
+  {
+    "title": "AutoCodeBench: Large Language Models are Automatic Code Benchmark\n  Generators",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09101",
+    "scraped_at": "2025-08-13T04:51:01.417879"
+  },
+  {
+    "title": "Feedback-Driven Tool-Use Improvements in Large Language Models via\n  Automated Build Environments",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.08791",
+    "scraped_at": "2025-08-13T04:51:01.418149"
+  },
+  {
+    "title": "Cut2Next: Generating Next Shot via In-Context Tuning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.08244",
+    "scraped_at": "2025-08-13T04:51:01.418401"
+  },
+  {
+    "title": "CharacterShot: Controllable and Consistent 4D Character Animation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.07409",
+    "scraped_at": "2025-08-13T04:51:01.418675"
+  }
+]
