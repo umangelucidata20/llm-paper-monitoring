@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.08401",
+    "scraped_at": "2025-08-14T04:51:03.431170"
+  },
+  {
+    "title": "AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust\n  GAIA Problem Solving",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09889",
+    "scraped_at": "2025-08-14T04:51:03.431474"
+  },
+  {
+    "title": "Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved\n  Image Generation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09987",
+    "scraped_at": "2025-08-14T04:51:03.431806"
+  },
+  {
+    "title": "MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math\n  Reasoning in Multimodal Large Language Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.06009",
+    "scraped_at": "2025-08-14T04:51:03.432106"
+  },
+  {
+    "title": "IAG: Input-aware Backdoor Attack on VLMs for Visual Grounding",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09456",
+    "scraped_at": "2025-08-14T04:51:03.432357"
+  },
+  {
+    "title": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning\n  for Large Language Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.05613",
+    "scraped_at": "2025-08-14T04:51:03.432666"
+  },
+  {
+    "title": "Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09968",
+    "scraped_at": "2025-08-14T04:51:03.432930"
+  },
+  {
+    "title": "Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion\n  Forcing",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09192",
+    "scraped_at": "2025-08-14T04:51:03.433212"
+  }
+]
