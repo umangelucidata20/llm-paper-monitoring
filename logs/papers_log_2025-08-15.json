@@ -1,0 +1,44 @@
+[
+  {
+    "title": "NextStep-1: Toward Autoregressive Image Generation with Continuous\n  Tokens at Scale",
+    "authors": "50 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10711",
+    "scraped_at": "2025-08-15T04:50:30.225567"
+  },
+  {
+    "title": "We-Math 2.0: A Versatile MathBook System for Incentivizing Visual\n  Mathematical Reasoning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10433",
+    "scraped_at": "2025-08-15T04:50:30.225948"
+  },
+  {
+    "title": "PRELUDE: A Benchmark Designed to Require Global Comprehension and\n  Reasoning over Long Contexts",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09848",
+    "scraped_at": "2025-08-15T04:50:30.226265"
+  },
+  {
+    "title": "UI-Venus Technical Report: Building High-performance UI Agents with RFT",
+    "authors": "24 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10833",
+    "scraped_at": "2025-08-15T04:50:30.226544"
+  },
+  {
+    "title": "HumanSense: From Multimodal Perception to Empathetic Context-Aware\n  Responses through Reasoning MLLMs",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10576",
+    "scraped_at": "2025-08-15T04:50:30.226840"
+  },
+  {
+    "title": "From Black Box to Transparency: Enhancing Automated Interpreting\n  Assessment with Explainable AI in College Classrooms",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10860",
+    "scraped_at": "2025-08-15T04:50:30.227096"
+  }
+]
