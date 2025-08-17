@@ -1,0 +1,93 @@
+[
+  {
+    "title": "We-Math 2.0: A Versatile MathBook System for Incentivizing Visual\n  Mathematical Reasoning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10433",
+    "scraped_at": "2025-08-17T04:51:40.778850"
+  },
+  {
+    "title": "NextStep-1: Toward Autoregressive Image Generation with Continuous\n  Tokens at Scale",
+    "authors": "50 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10711",
+    "scraped_at": "2025-08-17T04:51:40.779181"
+  },
+  {
+    "title": "ToonComposer: Streamlining Cartoon Production with Generative\n  Post-Keyframing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10881",
+    "scraped_at": "2025-08-17T04:51:40.779615"
+  },
+  {
+    "title": "PRELUDE: A Benchmark Designed to Require Global Comprehension and\n  Reasoning over Long Contexts",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09848",
+    "scraped_at": "2025-08-17T04:51:40.779891"
+  },
+  {
+    "title": "STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10893",
+    "scraped_at": "2025-08-17T04:51:40.780178"
+  },
+  {
+    "title": "Puppeteer: Rig and Animate Your 3D Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10898",
+    "scraped_at": "2025-08-17T04:51:40.780473"
+  },
+  {
+    "title": "UI-Venus Technical Report: Building High-performance UI Agents with RFT",
+    "authors": "24 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10833",
+    "scraped_at": "2025-08-17T04:51:40.780747"
+  },
+  {
+    "title": "A Survey on Diffusion Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10875",
+    "scraped_at": "2025-08-17T04:51:40.781005"
+  },
+  {
+    "title": "Pass@k Training for Adaptively Balancing Exploration and Exploitation of\n  Large Reasoning Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10751",
+    "scraped_at": "2025-08-17T04:51:40.781280"
+  },
+  {
+    "title": "HumanSense: From Multimodal Perception to Empathetic Context-Aware\n  Responses through Reasoning MLLMs",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10576",
+    "scraped_at": "2025-08-17T04:51:40.781584"
+  },
+  {
+    "title": "Processing and acquisition traces in visual encoders: What does CLIP\n  know about your camera?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10637",
+    "scraped_at": "2025-08-17T04:51:40.781856"
+  },
+  {
+    "title": "From Black Box to Transparency: Enhancing Automated Interpreting\n  Assessment with Explainable AI in College Classrooms",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10860",
+    "scraped_at": "2025-08-17T04:51:40.782095"
+  },
+  {
+    "title": "When Explainability Meets Privacy: An Investigation at the Intersection\n  of Post-hoc Explainability and Differential Privacy in the Context of Natural\n  Language Processing",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10482",
+    "scraped_at": "2025-08-17T04:51:40.782378"
+  }
+]
