@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Thyme: Think Beyond Images",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11630",
+    "scraped_at": "2025-08-18T04:56:03.397198"
+  },
+  {
+    "title": "StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image\n  Translation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11203",
+    "scraped_at": "2025-08-18T04:56:03.397509"
+  },
+  {
+    "title": "PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical\n  Register Indexing",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11116",
+    "scraped_at": "2025-08-18T04:56:03.397846"
+  },
+  {
+    "title": "Controlling Multimodal LLMs via Reward-guided Decoding",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11616",
+    "scraped_at": "2025-08-18T04:56:03.398116"
+  },
+  {
+    "title": "SPARSE Data, Rich Results: Few-Shot Semi-Supervised Learning via\n  Class-Conditioned Image Translation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.06429",
+    "scraped_at": "2025-08-18T04:56:03.398401"
+  }
+]
