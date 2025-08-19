@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Ovis2.5 Technical Report",
+    "authors": "42 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11737",
+    "scraped_at": "2025-08-19T04:43:21.629890"
+  },
+  {
+    "title": "Speed Always Wins: A Survey on Efficient Architectures for Large\n  Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09834",
+    "scraped_at": "2025-08-19T04:43:21.630282"
+  },
+  {
+    "title": "ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long\n  Narrative Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10419",
+    "scraped_at": "2025-08-19T04:43:21.630763"
+  },
+  {
+    "title": "4DNeX: Feed-Forward 4D Generative Modeling Made Easy",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13154",
+    "scraped_at": "2025-08-19T04:43:21.631087"
+  },
+  {
+    "title": "Next Visual Granularity Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.12811",
+    "scraped_at": "2025-08-19T04:43:21.631357"
+  },
+  {
+    "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive\n  World Model",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13009",
+    "scraped_at": "2025-08-19T04:43:21.631669"
+  },
+  {
+    "title": "S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of\n  Diffusion Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.12880",
+    "scraped_at": "2025-08-19T04:43:21.631950"
+  },
+  {
+    "title": "Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision\n  Mapping",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.12466",
+    "scraped_at": "2025-08-19T04:43:21.632220"
+  },
+  {
+    "title": "Lumen: Consistent Video Relighting and Harmonious Background Replacement\n  with Video Generative Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.12945",
+    "scraped_at": "2025-08-19T04:43:21.632492"
+  },
+  {
+    "title": "Representing Speech Through Autoregressive Prediction of Cochlear Tokens",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11598",
+    "scraped_at": "2025-08-19T04:43:21.632742"
+  }
+]
