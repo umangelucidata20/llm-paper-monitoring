@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent\n  Distillation and Agentic RL",
+    "authors": "30 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13167",
+    "scraped_at": "2025-08-20T04:44:00.728872"
+  },
+  {
+    "title": "LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14041",
+    "scraped_at": "2025-08-20T04:44:00.729268"
+  },
+  {
+    "title": "Prompt Orchestration Markup Language",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13948",
+    "scraped_at": "2025-08-20T04:44:00.729586"
+  },
+  {
+    "title": "Training-Free Text-Guided Color Editing with Multi-Modal Diffusion\n  Transformer",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.09131",
+    "scraped_at": "2025-08-20T04:44:00.729873"
+  },
+  {
+    "title": "OmniTry: Virtual Try-On Anything without Masks",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13632",
+    "scraped_at": "2025-08-20T04:44:00.730386"
+  },
+  {
+    "title": "MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic\n  Evaluation of Audio General Intelligence",
+    "authors": "34 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13992",
+    "scraped_at": "2025-08-20T04:44:00.730855"
+  },
+  {
+    "title": "Leveraging Large Language Models for Predictive Analysis of Human Misery",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.12669",
+    "scraped_at": "2025-08-20T04:44:00.731344"
+  }
+]
