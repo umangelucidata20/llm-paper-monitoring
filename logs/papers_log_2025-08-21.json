@@ -1,0 +1,65 @@
+[
+  {
+    "title": "From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating\n  Financial Large Language Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13491",
+    "scraped_at": "2025-08-21T04:43:56.147184"
+  },
+  {
+    "title": "FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction",
+    "authors": "30 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.11987",
+    "scraped_at": "2025-08-21T04:43:56.147512"
+  },
+  {
+    "title": "Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From\n  Sparse Inputs without Per-Scene Optimization",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14811",
+    "scraped_at": "2025-08-21T04:43:56.147822"
+  },
+  {
+    "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14879",
+    "scraped_at": "2025-08-21T04:43:56.148124"
+  },
+  {
+    "title": "RynnEC: Bringing MLLMs into Embodied World",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14160",
+    "scraped_at": "2025-08-21T04:43:56.148407"
+  },
+  {
+    "title": "Quantization Meets dLLMs: A Systematic Study of Post-training\n  Quantization for Diffusion LLMs",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14896",
+    "scraped_at": "2025-08-21T04:43:56.148665"
+  },
+  {
+    "title": "NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid\n  Mamba-Transformer Reasoning Model",
+    "authors": "211 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14444",
+    "scraped_at": "2025-08-21T04:43:56.148919"
+  },
+  {
+    "title": "DuPO: Enabling Reliable LLM Self-Verification via Dual Preference\n  Optimization",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14460",
+    "scraped_at": "2025-08-21T04:43:56.149221"
+  },
+  {
+    "title": "Local Scale Equivariance with Latent Deep Equilibrium Canonicalizer",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.14187",
+    "scraped_at": "2025-08-21T04:43:56.149480"
+  }
+]
