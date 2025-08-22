@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Intern-S1: A Scientific Multimodal Foundation Model",
+    "authors": "175 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15763",
+    "scraped_at": "2025-08-22T04:43:22.083885"
+  },
+  {
+    "title": "Mobile-Agent-v3: Foundamental Agents for GUI Automation",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15144",
+    "scraped_at": "2025-08-22T04:43:22.084214"
+  },
+  {
+    "title": "Deep Think with Confidence",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15260",
+    "scraped_at": "2025-08-22T04:43:22.084503"
+  },
+  {
+    "title": "SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15769",
+    "scraped_at": "2025-08-22T04:43:22.084788"
+  },
+  {
+    "title": "Waver: Wave Your Way to Lifelike Video Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15761",
+    "scraped_at": "2025-08-22T04:43:22.085065"
+  },
+  {
+    "title": "Fin-PRM: A Domain-Specialized Process Reward Model for Financial\n  Reasoning in Large Language Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15202",
+    "scraped_at": "2025-08-22T04:43:22.085326"
+  },
+  {
+    "title": "ATLAS: Decoupling Skeletal and Shape Parameters for Expressive\n  Parametric Human Modeling",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15767",
+    "scraped_at": "2025-08-22T04:43:22.085580"
+  },
+  {
+    "title": "\"Does the cafe entrance look accessible? Where is the door?\" Towards\n  Geospatial AI Agents for Visual Inquiries",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15752",
+    "scraped_at": "2025-08-22T04:43:22.085839"
+  },
+  {
+    "title": "When and What: Diffusion-Grounded VideoLLM with Entity Aware\n  Segmentation for Long Video Understanding",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15641",
+    "scraped_at": "2025-08-22T04:43:22.086105"
+  },
+  {
+    "title": "A Survey on Large Language Model Benchmarks",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15361",
+    "scraped_at": "2025-08-22T04:43:22.086357"
+  }
+]
