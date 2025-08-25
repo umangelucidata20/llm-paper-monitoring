@@ -1,0 +1,51 @@
+[
+  {
+    "title": "AetherCode: Evaluating LLMs' Ability to Win In Premier Programming\n  Competitions",
+    "authors": "28 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16402",
+    "scraped_at": "2025-08-25T04:47:13.092581"
+  },
+  {
+    "title": "Do What? Teaching Vision-Language-Action Models to Reject the Impossible",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16292",
+    "scraped_at": "2025-08-25T04:47:13.092887"
+  },
+  {
+    "title": "TPLA: Tensor Parallel Latent Attention for Efficient Disaggregated\n  Prefill \\& Decode Inference",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15881",
+    "scraped_at": "2025-08-25T04:47:13.093199"
+  },
+  {
+    "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16279",
+    "scraped_at": "2025-08-25T04:47:13.093486"
+  },
+  {
+    "title": "AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16153",
+    "scraped_at": "2025-08-25T04:47:13.093759"
+  },
+  {
+    "title": "InMind: Evaluating LLMs in Capturing and Applying Individual Human\n  Reasoning Styles",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16072",
+    "scraped_at": "2025-08-25T04:47:13.094027"
+  },
+  {
+    "title": "Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.10390",
+    "scraped_at": "2025-08-25T04:47:13.094323"
+  }
+]
