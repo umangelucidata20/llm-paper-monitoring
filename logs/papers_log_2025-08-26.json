@@ -1,0 +1,72 @@
+[
+  {
+    "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,\n  Reasoning, and Efficiency",
+    "authors": "61 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18265",
+    "scraped_at": "2025-08-26T04:44:00.301383"
+  },
+  {
+    "title": "Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance\n  for Text-to-Image Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18032",
+    "scraped_at": "2025-08-26T04:44:00.301700"
+  },
+  {
+    "title": "T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image\n  Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17472",
+    "scraped_at": "2025-08-26T04:44:00.302031"
+  },
+  {
+    "title": "PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent\n  LLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17188",
+    "scraped_at": "2025-08-26T04:44:00.302301"
+  },
+  {
+    "title": "Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement\n  Learning for General LLM Reasoning",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16949",
+    "scraped_at": "2025-08-26T04:44:00.302568"
+  },
+  {
+    "title": "UQ: Assessing Language Models on Unsolved Questions",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17580",
+    "scraped_at": "2025-08-26T04:44:00.302883"
+  },
+  {
+    "title": "ST-Raptor: LLM-Powered Semi-Structured Table Question Answering",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18190",
+    "scraped_at": "2025-08-26T04:44:00.303221"
+  },
+  {
+    "title": "SpotEdit: Evaluating Visually-Guided Image Editing Methods",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18159",
+    "scraped_at": "2025-08-26T04:44:00.303495"
+  },
+  {
+    "title": "Neither Valid nor Reliable? Investigating the Use of LLMs as Judges",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18076",
+    "scraped_at": "2025-08-26T04:44:00.303767"
+  },
+  {
+    "title": "TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language\n  Modeling",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16790",
+    "scraped_at": "2025-08-26T04:44:00.304028"
+  }
+]
