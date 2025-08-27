@@ -1,0 +1,128 @@
+[
+  {
+    "title": "VibeVoice Technical Report",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19205",
+    "scraped_at": "2025-08-27T04:42:36.508654"
+  },
+  {
+    "title": "Spacer: Towards Engineered Scientific Inspiration",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17661",
+    "scraped_at": "2025-08-27T04:42:36.509015"
+  },
+  {
+    "title": "CMPhysBench: A Benchmark for Evaluating Large Language Models in\n  Condensed Matter Physics",
+    "authors": "35 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18124",
+    "scraped_at": "2025-08-27T04:42:36.509360"
+  },
+  {
+    "title": "OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive\n  Simulation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19209",
+    "scraped_at": "2025-08-27T04:42:36.509633"
+  },
+  {
+    "title": "UltraMemV2: Memory Networks Scaling to 120B Parameters with Superior\n  Long-Context Learning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18756",
+    "scraped_at": "2025-08-27T04:42:36.509917"
+  },
+  {
+    "title": "VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D\n  Space",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19247",
+    "scraped_at": "2025-08-27T04:42:36.510227"
+  },
+  {
+    "title": "TreePO: Bridging the Gap of Policy Optimization and Efficacy and\n  Inference Efficiency with Heuristic Tree-based Modeling",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17445",
+    "scraped_at": "2025-08-27T04:42:36.510497"
+  },
+  {
+    "title": "Pixie: Fast and Generalizable Supervised Learning of 3D Physics from\n  Pixels",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17437",
+    "scraped_at": "2025-08-27T04:42:36.510780"
+  },
+  {
+    "title": "CineScale: Free Lunch in High-Resolution Cinematic Visual Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15774",
+    "scraped_at": "2025-08-27T04:42:36.511069"
+  },
+  {
+    "title": "Wan-S2V: Audio-Driven Cinematic Video Generation",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18621",
+    "scraped_at": "2025-08-27T04:42:36.511355"
+  },
+  {
+    "title": "QueryBandits for Hallucination Mitigation: Exploiting Semantic Features\n  for No-Regret Rewriting",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.16697",
+    "scraped_at": "2025-08-27T04:42:36.511622"
+  },
+  {
+    "title": "Autoregressive Universal Video Segmentation Model",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19242",
+    "scraped_at": "2025-08-27T04:42:36.511883"
+  },
+  {
+    "title": "MovieCORE: COgnitive REasoning in Movies",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19026",
+    "scraped_at": "2025-08-27T04:42:36.512162"
+  },
+  {
+    "title": "ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large\n  Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18773",
+    "scraped_at": "2025-08-27T04:42:36.512418"
+  },
+  {
+    "title": "Training Language Model Agents to Find Vulnerabilities with CTF-Dojo",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18370",
+    "scraped_at": "2025-08-27T04:42:36.512670"
+  },
+  {
+    "title": "FastMesh:Efficient Artistic Mesh Generation via Component Decoupling",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19188",
+    "scraped_at": "2025-08-27T04:42:36.512922"
+  },
+  {
+    "title": "ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion\n  Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18271",
+    "scraped_at": "2025-08-27T04:42:36.513194"
+  },
+  {
+    "title": "Unraveling the cognitive patterns of Large Language Models through\n  module communities",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18192",
+    "scraped_at": "2025-08-27T04:42:36.513444"
+  }
+]
