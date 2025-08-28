@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Self-Rewarding Vision-Language Model via Reasoning Decomposition",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19652",
+    "scraped_at": "2025-08-28T04:42:17.573282"
+  },
+  {
+    "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer\n  Use Agent with Decoupled Reinforcement Learning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20096",
+    "scraped_at": "2025-08-28T04:42:17.573618"
+  },
+  {
+    "title": "Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding\n  in Vision-Language-Action Policies",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20072",
+    "scraped_at": "2025-08-28T04:42:17.573907"
+  },
+  {
+    "title": "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered\n  Smartphone Agents",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19493",
+    "scraped_at": "2025-08-28T04:42:17.574206"
+  },
+  {
+    "title": "StepWiser: Stepwise Generative Judges for Wiser Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19229",
+    "scraped_at": "2025-08-28T04:42:17.574467"
+  },
+  {
+    "title": "Predicting the Order of Upcoming Tokens Improves Language Modeling",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19228",
+    "scraped_at": "2025-08-28T04:42:17.574713"
+  },
+  {
+    "title": "AudioStory: Generating Long-Form Narrative Audio with Large Language\n  Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20088",
+    "scraped_at": "2025-08-28T04:42:17.574962"
+  },
+  {
+    "title": "Diffusion Language Models Know the Answer Before Decoding",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19982",
+    "scraped_at": "2025-08-28T04:42:17.575230"
+  },
+  {
+    "title": "Taming the Chaos: Coordinated Autoscaling for Heterogeneous and\n  Disaggregated LLM Inference",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19559",
+    "scraped_at": "2025-08-28T04:42:17.575481"
+  },
+  {
+    "title": "DeepScholar-Bench: A Live Benchmark and Automated Evaluation for\n  Generative Research Synthesis",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20033",
+    "scraped_at": "2025-08-28T04:42:17.575727"
+  },
+  {
+    "title": "MotionFlux: Efficient Text-Guided Motion Generation through Rectified\n  Flow Matching and Preference Alignment",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.19527",
+    "scraped_at": "2025-08-28T04:42:17.575976"
+  }
+]
