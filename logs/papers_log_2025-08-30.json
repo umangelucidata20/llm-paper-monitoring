@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable\n  Text-to-Image Reinforcement Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20751",
+    "scraped_at": "2025-08-30T04:40:09.474193"
+  },
+  {
+    "title": "rStar2-Agent: Agentic Reasoning Technical Report",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20722",
+    "scraped_at": "2025-08-30T04:40:09.474529"
+  },
+  {
+    "title": "USO: Unified Style and Subject-Driven Generation via Disentangled and\n  Reward Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18966",
+    "scraped_at": "2025-08-30T04:40:09.474857"
+  },
+  {
+    "title": "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World\n  Tasks via MCP Servers",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20453",
+    "scraped_at": "2025-08-30T04:40:09.475160"
+  },
+  {
+    "title": "AWorld: Orchestrating the Training Recipe for Agentic AI",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20404",
+    "scraped_at": "2025-08-30T04:40:09.476252"
+  },
+  {
+    "title": "TCIA: A Task-Centric Instruction Augmentation Method for Instruction\n  Finetuning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20374",
+    "scraped_at": "2025-08-30T04:40:09.476534"
+  },
+  {
+    "title": "Mixture of Contexts for Long Video Generation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21058",
+    "scraped_at": "2025-08-30T04:40:09.476792"
+  },
+  {
+    "title": "Turning the Spell Around: Lightweight Alignment Amplification via\n  Rank-One Safety Injection",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20766",
+    "scraped_at": "2025-08-30T04:40:09.477062"
+  },
+  {
+    "title": "OneReward: Unified Mask-Guided Image Generation via Multi-Task Human\n  Preference Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21066",
+    "scraped_at": "2025-08-30T04:40:09.477326"
+  },
+  {
+    "title": "Multi-View 3D Point Tracking",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21060",
+    "scraped_at": "2025-08-30T04:40:09.477587"
+  },
+  {
+    "title": "CogVLA: Cognition-Aligned Vision-Language-Action Model via\n  Instruction-Driven Routing & Sparsification",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21046",
+    "scraped_at": "2025-08-30T04:40:09.477848"
+  },
+  {
+    "title": "Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability\n  in Knowledge and Safety with DuET-PD",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17450",
+    "scraped_at": "2025-08-30T04:40:09.478196"
+  },
+  {
+    "title": "Dress&Dance: Dress up and Dance as You Like It - Technical Preview",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21070",
+    "scraped_at": "2025-08-30T04:40:09.478543"
+  },
+  {
+    "title": "FakeParts: a New Family of AI-Generated DeepFakes",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21052",
+    "scraped_at": "2025-08-30T04:40:09.478937"
+  },
+  {
+    "title": "ROSE: Remove Objects with Side Effects in Videos",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18633",
+    "scraped_at": "2025-08-30T04:40:09.479441"
+  },
+  {
+    "title": "OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn\n  Dialogue with Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21061",
+    "scraped_at": "2025-08-30T04:40:09.479897"
+  },
+  {
+    "title": "Provable Benefits of In-Tool Learning for Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20755",
+    "scraped_at": "2025-08-30T04:40:09.480212"
+  },
+  {
+    "title": "Collaborative Multi-Modal Coding for High-Quality 3D Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.15228",
+    "scraped_at": "2025-08-30T04:40:09.480456"
+  },
+  {
+    "title": "Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and\n  Voice",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17502",
+    "scraped_at": "2025-08-30T04:40:09.480696"
+  }
+]
