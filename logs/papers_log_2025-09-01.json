@@ -1,0 +1,79 @@
+[
+  {
+    "title": "A.S.E: A Repository-Level Benchmark for Evaluating Security in\n  AI-Generated Code",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18106",
+    "scraped_at": "2025-09-01T04:46:50.090689"
+  },
+  {
+    "title": "EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for\n  General Robot Control",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21112",
+    "scraped_at": "2025-09-01T04:46:50.091078"
+  },
+  {
+    "title": "R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs\n  via Bi-Mode Annealing and Reinforce Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21113",
+    "scraped_at": "2025-09-01T04:46:50.091402"
+  },
+  {
+    "title": "TiKMiX: Take Data Influence into Dynamic Mixture for Language Model\n  Pre-training",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.17677",
+    "scraped_at": "2025-09-01T04:46:50.091672"
+  },
+  {
+    "title": "TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head\n  Synthesis",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.13618",
+    "scraped_at": "2025-09-01T04:46:50.091956"
+  },
+  {
+    "title": "UItron: Foundational GUI Agent with Advanced Perception and Planning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21767",
+    "scraped_at": "2025-09-01T04:46:50.092234"
+  },
+  {
+    "title": "Morae: Proactively Pausing UI Agents for User Choices",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21456",
+    "scraped_at": "2025-09-01T04:46:50.092493"
+  },
+  {
+    "title": "AHELM: A Holistic Evaluation of Audio-Language Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21376",
+    "scraped_at": "2025-09-01T04:46:50.092756"
+  },
+  {
+    "title": "Think in Games: Learning to Reason in Games via Reinforcement Learning\n  with Large Language Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21365",
+    "scraped_at": "2025-09-01T04:46:50.093033"
+  },
+  {
+    "title": "Efficient Code Embeddings from Code Generation Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.21290",
+    "scraped_at": "2025-09-01T04:46:50.093290"
+  },
+  {
+    "title": "HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data\n  for Mobile Dexterous Manipulation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20085",
+    "scraped_at": "2025-09-01T04:46:50.093545"
+  }
+]
