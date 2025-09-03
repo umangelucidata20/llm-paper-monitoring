@@ -1,0 +1,107 @@
+[
+  {
+    "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.02547",
+    "scraped_at": "2025-09-03T04:41:27.902277"
+  },
+  {
+    "title": "Implicit Actor Critic Coupling via a Supervised Learning Framework for\n  RLVR",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.02522",
+    "scraped_at": "2025-09-03T04:41:27.902601"
+  },
+  {
+    "title": "LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.00676",
+    "scraped_at": "2025-09-03T04:41:27.902912"
+  },
+  {
+    "title": "POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models\n  for Document Conversion",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01215",
+    "scraped_at": "2025-09-03T04:41:27.903187"
+  },
+  {
+    "title": "Jointly Reinforcing Diversity and Quality in Language Model Generations",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.02534",
+    "scraped_at": "2025-09-03T04:41:27.903445"
+  },
+  {
+    "title": "SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn\n  Tool-Integrated Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.02479",
+    "scraped_at": "2025-09-03T04:41:27.903730"
+  },
+  {
+    "title": "OpenVision 2: A Family of Generative Pretrained Visual Encoders for\n  Multimodal Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01644",
+    "scraped_at": "2025-09-03T04:41:27.903988"
+  },
+  {
+    "title": "Kwai Keye-VL 1.5 Technical Report",
+    "authors": "60 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01563",
+    "scraped_at": "2025-09-03T04:41:27.904252"
+  },
+  {
+    "title": "M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via\n  Self-Supervision",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01360",
+    "scraped_at": "2025-09-03T04:41:27.904506"
+  },
+  {
+    "title": "Attributes as Textual Genes: Leveraging LLMs as Genetic Algorithm\n  Simulators for Conditional Synthetic Data Generation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.02040",
+    "scraped_at": "2025-09-03T04:41:27.904764"
+  },
+  {
+    "title": "Universal Deep Research: Bring Your Own Model and Strategy",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.00244",
+    "scraped_at": "2025-09-03T04:41:27.905004"
+  },
+  {
+    "title": "MedDINOv3: How to adapt vision foundation models for medical image\n  segmentation?",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.02379",
+    "scraped_at": "2025-09-03T04:41:27.905269"
+  },
+  {
+    "title": "Discrete Noise Inversion for Next-scale Autoregressive Text-based Image\n  Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01984",
+    "scraped_at": "2025-09-03T04:41:27.905515"
+  },
+  {
+    "title": "Improving Large Vision and Language Models by Learning from a Panel of\n  Peers",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01610",
+    "scraped_at": "2025-09-03T04:41:27.905781"
+  },
+  {
+    "title": "Towards More Diverse and Challenging Pre-training for Point Cloud\n  Learning: Self-Supervised Cross Reconstruction with Decoupled Views",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01250",
+    "scraped_at": "2025-09-03T04:41:27.906038"
+  }
+]
