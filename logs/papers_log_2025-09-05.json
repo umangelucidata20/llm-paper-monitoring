@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Towards a Unified View of Large Language Model Post-Training",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04419",
+    "scraped_at": "2025-09-05T04:41:47.198404"
+  },
+  {
+    "title": "DeepResearch Arena: The First Exam of LLMs' Research Abilities via\n  Seminar-Grounded Tasks",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01396",
+    "scraped_at": "2025-09-05T04:41:47.198755"
+  },
+  {
+    "title": "Transition Models: Rethinking the Generative Learning Objective",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04394",
+    "scraped_at": "2025-09-05T04:41:47.199079"
+  },
+  {
+    "title": "From Editor to Dense Geometry Estimator",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04338",
+    "scraped_at": "2025-09-05T04:41:47.199348"
+  },
+  {
+    "title": "Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from\n  Vector Drawings",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18733",
+    "scraped_at": "2025-09-05T04:41:47.199634"
+  },
+  {
+    "title": "Few-step Flow for 3D Generation via Marginal-Data Transport Distillation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04406",
+    "scraped_at": "2025-09-05T04:41:47.199931"
+  },
+  {
+    "title": "Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow\n  Real Instructions?",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04292",
+    "scraped_at": "2025-09-05T04:41:47.200187"
+  },
+  {
+    "title": "Durian: Dual Reference-guided Portrait Animation with Attribute Transfer",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04434",
+    "scraped_at": "2025-09-05T04:41:47.200460"
+  },
+  {
+    "title": "False Sense of Security: Why Probing-based Malicious Input Detection\n  Fails to Generalize",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.03888",
+    "scraped_at": "2025-09-05T04:41:47.200729"
+  }
+]
