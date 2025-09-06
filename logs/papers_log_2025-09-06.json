@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.03867",
+    "scraped_at": "2025-09-06T04:40:11.474485"
+  },
+  {
+    "title": "From Editor to Dense Geometry Estimator",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04338",
+    "scraped_at": "2025-09-06T04:40:11.474833"
+  },
+  {
+    "title": "Towards a Unified View of Large Language Model Post-Training",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04419",
+    "scraped_at": "2025-09-06T04:40:11.475190"
+  },
+  {
+    "title": "Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow\n  Real Instructions?",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04292",
+    "scraped_at": "2025-09-06T04:40:11.475476"
+  },
+  {
+    "title": "DeepResearch Arena: The First Exam of LLMs' Research Abilities via\n  Seminar-Grounded Tasks",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01396",
+    "scraped_at": "2025-09-06T04:40:11.475749"
+  },
+  {
+    "title": "Transition Models: Rethinking the Generative Learning Objective",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04394",
+    "scraped_at": "2025-09-06T04:40:11.476045"
+  },
+  {
+    "title": "Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.20478",
+    "scraped_at": "2025-09-06T04:40:11.476315"
+  },
+  {
+    "title": "NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware\n  Embeddings",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04011",
+    "scraped_at": "2025-09-06T04:40:11.476584"
+  },
+  {
+    "title": "Few-step Flow for 3D Generation via Marginal-Data Transport Distillation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04406",
+    "scraped_at": "2025-09-06T04:40:11.476847"
+  },
+  {
+    "title": "Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers",
+    "authors": "46 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.03059",
+    "scraped_at": "2025-09-06T04:40:11.477134"
+  },
+  {
+    "title": "Durian: Dual Reference-guided Portrait Animation with Attribute Transfer",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04434",
+    "scraped_at": "2025-09-06T04:40:11.477405"
+  },
+  {
+    "title": "Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from\n  Vector Drawings",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2508.18733",
+    "scraped_at": "2025-09-06T04:40:11.477683"
+  },
+  {
+    "title": "Delta Activations: A Representation for Finetuned Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.04442",
+    "scraped_at": "2025-09-06T04:40:11.477954"
+  },
+  {
+    "title": "False Sense of Security: Why Probing-based Malicious Input Detection\n  Fails to Generalize",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.03888",
+    "scraped_at": "2025-09-06T04:40:11.478324"
+  }
+]
