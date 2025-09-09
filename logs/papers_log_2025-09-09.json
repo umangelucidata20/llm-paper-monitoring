@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Reinforced Visual Perception with Tools",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01656",
+    "scraped_at": "2025-09-09T04:42:18.444486"
+  },
+  {
+    "title": "Reverse-Engineered Reasoning for Open-Ended Generation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06160",
+    "scraped_at": "2025-09-09T04:42:18.444808"
+  },
+  {
+    "title": "Revolutionizing Reinforcement Learning Framework for Diffusion Large\n  Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06949",
+    "scraped_at": "2025-09-09T04:42:18.445124"
+  },
+  {
+    "title": "Reinforcement Learning Foundations for Deep Research Systems: A Survey",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06733",
+    "scraped_at": "2025-09-09T04:42:18.445433"
+  },
+  {
+    "title": "Does DINOv3 Set a New Medical Vision Standard?",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06467",
+    "scraped_at": "2025-09-09T04:42:18.445699"
+  },
+  {
+    "title": "UniVerse-1: Unified Audio-Video Generation via Stitching of Experts",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06155",
+    "scraped_at": "2025-09-09T04:42:18.445967"
+  },
+  {
+    "title": "Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06461",
+    "scraped_at": "2025-09-09T04:42:18.446220"
+  },
+  {
+    "title": "Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage,\n  but Not Direct the Play?",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.03516",
+    "scraped_at": "2025-09-09T04:42:18.446542"
+  },
+  {
+    "title": "R^textbf{2AI}: Towards Resistant and Resilient AI in an\n  Evolving World",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06786",
+    "scraped_at": "2025-09-09T04:42:18.446797"
+  },
+  {
+    "title": "Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM\n  Step-Provers",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06493",
+    "scraped_at": "2025-09-09T04:42:18.447046"
+  },
+  {
+    "title": "Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI\n  Agents",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06917",
+    "scraped_at": "2025-09-09T04:42:18.447290"
+  },
+  {
+    "title": "MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI\n  Agents",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06477",
+    "scraped_at": "2025-09-09T04:42:18.447577"
+  },
+  {
+    "title": "D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06771",
+    "scraped_at": "2025-09-09T04:42:18.447842"
+  },
+  {
+    "title": "Llama-GENBA-10B: A Trilingual Large Language Model for German, English\n  and Bavarian",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.05668",
+    "scraped_at": "2025-09-09T04:42:18.448089"
+  }
+]
