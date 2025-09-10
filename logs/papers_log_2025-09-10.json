@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Parallel-R1: Towards Parallel Thinking via Reinforcement Learning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07980",
+    "scraped_at": "2025-09-10T04:39:58.039767"
+  },
+  {
+    "title": "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual\n  Search",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07969",
+    "scraped_at": "2025-09-10T04:39:58.040104"
+  },
+  {
+    "title": "Reconstruction Alignment Improves Unified Multimodal Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07295",
+    "scraped_at": "2025-09-10T04:39:58.040414"
+  },
+  {
+    "title": "F1: A Vision-Language-Action Model Bridging Understanding and Generation\n  to Actions",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06951",
+    "scraped_at": "2025-09-10T04:39:58.040708"
+  },
+  {
+    "title": "Staying in the Sweet Spot: Responsive Reasoning Evolution via\n  Capability-Adaptive Hint Scaffolding",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06923",
+    "scraped_at": "2025-09-10T04:39:58.040977"
+  },
+  {
+    "title": "UMO: Scaling Multi-Identity Consistency for Image Customization via\n  Matching Reward",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06818",
+    "scraped_at": "2025-09-10T04:39:58.041281"
+  },
+  {
+    "title": "Visual Representation Alignment for Multimodal Large Language Models",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07979",
+    "scraped_at": "2025-09-10T04:39:58.041537"
+  },
+  {
+    "title": "Language Self-Play For Data-Free Training",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07414",
+    "scraped_at": "2025-09-10T04:39:58.041794"
+  },
+  {
+    "title": "SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric\n  Knowledge",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07968",
+    "scraped_at": "2025-09-10T04:39:58.042042"
+  },
+  {
+    "title": "Causal Attention with Lookahead Keys",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07301",
+    "scraped_at": "2025-09-10T04:39:58.042304"
+  },
+  {
+    "title": "Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with\n  Quantization-Aware Scheduling",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01624",
+    "scraped_at": "2025-09-10T04:39:58.042541"
+  }
+]
