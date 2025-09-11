@@ -1,0 +1,58 @@
+[
+  {
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "authors": "39 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08827",
+    "scraped_at": "2025-09-11T04:41:32.469450"
+  },
+  {
+    "title": "RewardDance: Reward Scaling in Visual Generation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08826",
+    "scraped_at": "2025-09-11T04:41:32.469777"
+  },
+  {
+    "title": "AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making\n  through Multi-Turn Reinforcement Learning",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08755",
+    "scraped_at": "2025-09-11T04:41:32.470092"
+  },
+  {
+    "title": "Hunyuan-MT Technical Report",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.05209",
+    "scraped_at": "2025-09-11T04:41:32.470407"
+  },
+  {
+    "title": "P3-SAM: Native 3D Part Segmentation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06784",
+    "scraped_at": "2025-09-11T04:41:32.470698"
+  },
+  {
+    "title": "3D and 4D World Modeling: A Survey",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07996",
+    "scraped_at": "2025-09-11T04:41:32.470981"
+  },
+  {
+    "title": "EnvX: Agentize Everything with Agentic AI",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08088",
+    "scraped_at": "2025-09-11T04:41:32.471243"
+  },
+  {
+    "title": "HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI\n  Assistants",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08494",
+    "scraped_at": "2025-09-11T04:41:32.471519"
+  }
+]
