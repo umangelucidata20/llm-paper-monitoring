@@ -1,0 +1,86 @@
+[
+  {
+    "title": "SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09674",
+    "scraped_at": "2025-09-12T04:39:53.546746"
+  },
+  {
+    "title": "EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for\n  Speech-to-Speech LLMs",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09174",
+    "scraped_at": "2025-09-12T04:39:53.547215"
+  },
+  {
+    "title": "Harnessing Uncertainty: Entropy-Modulated Policy Gradients for\n  Long-Horizon LLM Agents",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09265",
+    "scraped_at": "2025-09-12T04:39:53.547528"
+  },
+  {
+    "title": "FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning\n  Dataset and Comprehensive Benchmark",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09680",
+    "scraped_at": "2025-09-12T04:39:53.547820"
+  },
+  {
+    "title": "Kling-Avatar: Grounding Multimodal Instructions for Cascaded\n  Long-Duration Avatar Animation Synthesis",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09595",
+    "scraped_at": "2025-09-12T04:39:53.548134"
+  },
+  {
+    "title": "SpatialVID: A Large-Scale Video Dataset with Spatial Annotations",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09676",
+    "scraped_at": "2025-09-12T04:39:53.548409"
+  },
+  {
+    "title": "Visual Programmability: A Guide for Code-as-Thought in Chart\n  Understanding",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09286",
+    "scraped_at": "2025-09-12T04:39:53.548682"
+  },
+  {
+    "title": "Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust\n  Text-based Person Retrieval",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09118",
+    "scraped_at": "2025-09-12T04:39:53.548992"
+  },
+  {
+    "title": "2D Gaussian Splatting with Semantic Alignment for Image Inpainting",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01964",
+    "scraped_at": "2025-09-12T04:39:53.549262"
+  },
+  {
+    "title": "LoCoBench: A Benchmark for Long-Context Large Language Models in Complex\n  Software Engineering",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09614",
+    "scraped_at": "2025-09-12T04:39:53.549530"
+  },
+  {
+    "title": "OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and\n  Embodiment-aware Reasoning",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09332",
+    "scraped_at": "2025-09-12T04:39:53.549787"
+  },
+  {
+    "title": "The Choice of Divergence: A Neglected Key to Mitigating Diversity\n  Collapse in Reinforcement Learning with Verifiable Reward",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07430",
+    "scraped_at": "2025-09-12T04:39:53.550079"
+  }
+]
