@@ -1,0 +1,177 @@
+[
+  {
+    "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action\n  Model",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09372",
+    "scraped_at": "2025-09-14T04:39:40.565605"
+  },
+  {
+    "title": "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal\n  Conditioning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08519",
+    "scraped_at": "2025-09-14T04:39:40.565978"
+  },
+  {
+    "title": "SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09674",
+    "scraped_at": "2025-09-14T04:39:40.566313"
+  },
+  {
+    "title": "EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for\n  Speech-to-Speech LLMs",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09174",
+    "scraped_at": "2025-09-14T04:39:40.566613"
+  },
+  {
+    "title": "MachineLearningLM: Continued Pretraining Language Models on Millions of\n  Synthetic Tabular Prediction Tasks Scales In-Context ML",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06806",
+    "scraped_at": "2025-09-14T04:39:40.566935"
+  },
+  {
+    "title": "Kling-Avatar: Grounding Multimodal Instructions for Cascaded\n  Long-Duration Avatar Animation Synthesis",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09595",
+    "scraped_at": "2025-09-14T04:39:40.567198"
+  },
+  {
+    "title": "Harnessing Uncertainty: Entropy-Modulated Policy Gradients for\n  Long-Horizon LLM Agents",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09265",
+    "scraped_at": "2025-09-14T04:39:40.567470"
+  },
+  {
+    "title": "FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning\n  Dataset and Comprehensive Benchmark",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09680",
+    "scraped_at": "2025-09-14T04:39:40.567745"
+  },
+  {
+    "title": "Can Understanding and Generation Truly Benefit Together -- or Just\n  Coexist?",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09666",
+    "scraped_at": "2025-09-14T04:39:40.568029"
+  },
+  {
+    "title": "SpatialVID: A Large-Scale Video Dataset with Spatial Annotations",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09676",
+    "scraped_at": "2025-09-14T04:39:40.568312"
+  },
+  {
+    "title": "AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.08031",
+    "scraped_at": "2025-09-14T04:39:40.568592"
+  },
+  {
+    "title": "mmBERT: A Modern Multilingual Encoder with Annealed Language Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06888",
+    "scraped_at": "2025-09-14T04:39:40.568872"
+  },
+  {
+    "title": "Visual Programmability: A Guide for Code-as-Thought in Chart\n  Understanding",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09286",
+    "scraped_at": "2025-09-14T04:39:40.569152"
+  },
+  {
+    "title": "Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View\n  Scenes",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06266",
+    "scraped_at": "2025-09-14T04:39:40.569436"
+  },
+  {
+    "title": "Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust\n  Text-based Person Retrieval",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09118",
+    "scraped_at": "2025-09-14T04:39:40.569711"
+  },
+  {
+    "title": "2D Gaussian Splatting with Semantic Alignment for Image Inpainting",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.01964",
+    "scraped_at": "2025-09-14T04:39:40.569984"
+  },
+  {
+    "title": "LoCoBench: A Benchmark for Long-Context Large Language Models in Complex\n  Software Engineering",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09614",
+    "scraped_at": "2025-09-14T04:39:40.570254"
+  },
+  {
+    "title": "ObjectReact: Learning Object-Relative Control for Visual Navigation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09594",
+    "scraped_at": "2025-09-14T04:39:40.570518"
+  },
+  {
+    "title": "OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and\n  Embodiment-aware Reasoning",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09332",
+    "scraped_at": "2025-09-14T04:39:40.570765"
+  },
+  {
+    "title": "Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset\n  for Panoramic X-ray Analysis",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09254",
+    "scraped_at": "2025-09-14T04:39:40.571075"
+  },
+  {
+    "title": "Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on\n  Open & Industry Data",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09313",
+    "scraped_at": "2025-09-14T04:39:40.571329"
+  },
+  {
+    "title": "Modality Alignment with Multi-scale Bilateral Attention for Multimodal\n  Recommendation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09114",
+    "scraped_at": "2025-09-14T04:39:40.571597"
+  },
+  {
+    "title": "The Choice of Divergence: A Neglected Key to Mitigating Diversity\n  Collapse in Reinforcement Learning with Verifiable Reward",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07430",
+    "scraped_at": "2025-09-14T04:39:40.571861"
+  },
+  {
+    "title": "All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated\n  Vulnerability Detection and Patching",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.07225",
+    "scraped_at": "2025-09-14T04:39:40.572143"
+  },
+  {
+    "title": "Reasoning Introduces New Poisoning Attacks Yet Makes Them More\n  Complicated",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.05739",
+    "scraped_at": "2025-09-14T04:39:40.572390"
+  }
+]
