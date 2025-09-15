@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Illusion of Diminishing Returns: Measuring Long Horizon Execution in\n  LLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09677",
+    "scraped_at": "2025-09-15T04:42:35.079692"
+  },
+  {
+    "title": "VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09716",
+    "scraped_at": "2025-09-15T04:42:35.080002"
+  },
+  {
+    "title": "Virtual Agent Economies",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10147",
+    "scraped_at": "2025-09-15T04:42:35.080319"
+  },
+  {
+    "title": "MCP-AgentBench: Evaluating Real-World Language Agent Performance with\n  MCP-Mediated Tools",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09734",
+    "scraped_at": "2025-09-15T04:42:35.080604"
+  },
+  {
+    "title": "InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10441",
+    "scraped_at": "2025-09-15T04:42:35.080876"
+  },
+  {
+    "title": "HANRAG: Heuristic Accurate Noise-resistant Retrieval-Augmented\n  Generation for Multi-hop Question Answering",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09713",
+    "scraped_at": "2025-09-15T04:42:35.081143"
+  },
+  {
+    "title": "Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings\n  for Improved Diffusion Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10058",
+    "scraped_at": "2025-09-15T04:42:35.081439"
+  },
+  {
+    "title": "QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09995",
+    "scraped_at": "2025-09-15T04:42:35.081709"
+  },
+  {
+    "title": "LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised\n  Learning in Open-World Scenarios",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09926",
+    "scraped_at": "2025-09-15T04:42:35.081966"
+  },
+  {
+    "title": "CMHG: A Dataset and Benchmark for Headline Generation of Minority\n  Languages in China",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09990",
+    "scraped_at": "2025-09-15T04:42:35.082224"
+  }
+]
