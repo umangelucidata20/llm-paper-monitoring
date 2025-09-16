@@ -1,0 +1,93 @@
+[
+  {
+    "title": "UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11543",
+    "scraped_at": "2025-09-16T04:40:36.268464"
+  },
+  {
+    "title": "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.12201",
+    "scraped_at": "2025-09-16T04:40:36.268797"
+  },
+  {
+    "title": "Locality in Image Diffusion Models Emerges from Data Statistics",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09672",
+    "scraped_at": "2025-09-16T04:40:36.269098"
+  },
+  {
+    "title": "LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion\n  Transformers via Explicit Correspondence",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.12203",
+    "scraped_at": "2025-09-16T04:40:36.269397"
+  },
+  {
+    "title": "Nav-R1: Reasoning and Navigation in Embodied Scenes",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10884",
+    "scraped_at": "2025-09-16T04:40:36.269681"
+  },
+  {
+    "title": "CognitiveSky: Scalable Sentiment and Narrative Analysis for\n  Decentralized Social Media",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11444",
+    "scraped_at": "2025-09-16T04:40:36.269946"
+  },
+  {
+    "title": "InternScenes: A Large-scale Simulatable Indoor Scene Dataset with\n  Realistic Layouts",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10813",
+    "scraped_at": "2025-09-16T04:40:36.270217"
+  },
+  {
+    "title": "EthicsMH: A Pilot Benchmark for Ethical Reasoning in Mental Health AI",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11648",
+    "scraped_at": "2025-09-16T04:40:36.270480"
+  },
+  {
+    "title": "Learning to Optimize Multi-Objective Alignment Through Dynamic Reward\n  Weighting",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11452",
+    "scraped_at": "2025-09-16T04:40:36.270757"
+  },
+  {
+    "title": "PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11362",
+    "scraped_at": "2025-09-16T04:40:36.271063"
+  },
+  {
+    "title": "Measuring Epistemic Humility in Multimodal Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09658",
+    "scraped_at": "2025-09-16T04:40:36.271349"
+  },
+  {
+    "title": "Lost in Embeddings: Information Loss in Vision-Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11986",
+    "scraped_at": "2025-09-16T04:40:36.271607"
+  },
+  {
+    "title": "GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10844",
+    "scraped_at": "2025-09-16T04:40:36.271862"
+  }
+]
