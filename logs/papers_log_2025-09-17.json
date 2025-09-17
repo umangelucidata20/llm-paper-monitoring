@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Single-stream Policy Optimization",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13232",
+    "scraped_at": "2025-09-17T04:40:50.599280"
+  },
+  {
+    "title": "Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset\n  Generation",
+    "authors": "100 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.12815",
+    "scraped_at": "2025-09-17T04:40:50.599592"
+  },
+  {
+    "title": "EconProver: Towards More Economical Test-Time Scaling for Automated\n  Theorem Proving",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.12603",
+    "scraped_at": "2025-09-17T04:40:50.599889"
+  },
+  {
+    "title": "Multimodal Reasoning for Science: Technical Report and 1st Place\n  Solution to the ICML 2025 SeePhys Challenge",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06079",
+    "scraped_at": "2025-09-17T04:40:50.600177"
+  },
+  {
+    "title": "3D Aware Region Prompted Vision Language Model",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13317",
+    "scraped_at": "2025-09-17T04:40:50.600432"
+  },
+  {
+    "title": "Exact Coset Sampling for Quantum Lattice Algorithms",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.12341",
+    "scraped_at": "2025-09-17T04:40:50.600681"
+  },
+  {
+    "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for\n  Open-Ended Deep Research",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13312",
+    "scraped_at": "2025-09-17T04:40:50.600956"
+  },
+  {
+    "title": "Towards General Agentic Intelligence via Environment Scaling",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13311",
+    "scraped_at": "2025-09-17T04:40:50.601265"
+  },
+  {
+    "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon\n  Agents",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13309",
+    "scraped_at": "2025-09-17T04:40:50.601519"
+  },
+  {
+    "title": "Multiple Instance Learning Framework with Masked Hard Instance Mining\n  for Gigapixel Histopathology Image Analysis",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.11526",
+    "scraped_at": "2025-09-17T04:40:50.601781"
+  }
+]
