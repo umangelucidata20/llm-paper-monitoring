@@ -1,0 +1,86 @@
+[
+  {
+    "title": "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform\n  Data",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15221",
+    "scraped_at": "2025-09-19T04:41:33.375601"
+  },
+  {
+    "title": "FlowRL: Matching Reward Distributions for LLM Reasoning",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15207",
+    "scraped_at": "2025-09-19T04:41:33.375922"
+  },
+  {
+    "title": "Evolving Language Models without Labels: Majority Drives Selection,\n  Novelty Promotes Variation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15194",
+    "scraped_at": "2025-09-19T04:41:33.376213"
+  },
+  {
+    "title": "Understand Before You Generate: Self-Guided Training for Autoregressive\n  Image Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15185",
+    "scraped_at": "2025-09-19T04:41:33.376500"
+  },
+  {
+    "title": "Reasoning over Boundaries: Enhancing Specification Alignment via\n  Test-time Delibration",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14760",
+    "scraped_at": "2025-09-19T04:41:33.376756"
+  },
+  {
+    "title": "FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial\n  Search and Reasoning",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13160",
+    "scraped_at": "2025-09-19T04:41:33.377015"
+  },
+  {
+    "title": "RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15212",
+    "scraped_at": "2025-09-19T04:41:33.377298"
+  },
+  {
+    "title": "WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model\n  via Training-Free Guidance",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15130",
+    "scraped_at": "2025-09-19T04:41:33.377566"
+  },
+  {
+    "title": "MultiEdit: Advancing Instruction-based Image Editing on Diverse and\n  Challenging Tasks",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14638",
+    "scraped_at": "2025-09-19T04:41:33.377818"
+  },
+  {
+    "title": "AToken: A Unified Tokenizer for Vision",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14476",
+    "scraped_at": "2025-09-19T04:41:33.378063"
+  },
+  {
+    "title": "Unleashing the Potential of Multimodal LLMs for Zero-Shot\n  Spatio-Temporal Video Grounding",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15178",
+    "scraped_at": "2025-09-19T04:41:33.378340"
+  },
+  {
+    "title": "FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution\n  Remote Sensing Change Detection",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06482",
+    "scraped_at": "2025-09-19T04:41:33.378619"
+  }
+]
