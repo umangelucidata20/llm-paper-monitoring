@@ -1,0 +1,142 @@
+[
+  {
+    "title": "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform\n  Data",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15221",
+    "scraped_at": "2025-09-20T04:40:31.492064"
+  },
+  {
+    "title": "FlowRL: Matching Reward Distributions for LLM Reasoning",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15207",
+    "scraped_at": "2025-09-20T04:40:31.492460"
+  },
+  {
+    "title": "Reasoning over Boundaries: Enhancing Specification Alignment via\n  Test-time Delibration",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14760",
+    "scraped_at": "2025-09-20T04:40:31.492794"
+  },
+  {
+    "title": "Evolving Language Models without Labels: Majority Drives Selection,\n  Novelty Promotes Variation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15194",
+    "scraped_at": "2025-09-20T04:40:31.493090"
+  },
+  {
+    "title": "Understand Before You Generate: Self-Guided Training for Autoregressive\n  Image Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15185",
+    "scraped_at": "2025-09-20T04:40:31.493392"
+  },
+  {
+    "title": "FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial\n  Search and Reasoning",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13160",
+    "scraped_at": "2025-09-20T04:40:31.493663"
+  },
+  {
+    "title": "RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15212",
+    "scraped_at": "2025-09-20T04:40:31.493951"
+  },
+  {
+    "title": "AToken: A Unified Tokenizer for Vision",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14476",
+    "scraped_at": "2025-09-20T04:40:31.494233"
+  },
+  {
+    "title": "WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model\n  via Training-Free Guidance",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15130",
+    "scraped_at": "2025-09-20T04:40:31.494532"
+  },
+  {
+    "title": "Unleashing the Potential of Multimodal LLMs for Zero-Shot\n  Spatio-Temporal Video Grounding",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15178",
+    "scraped_at": "2025-09-20T04:40:31.494810"
+  },
+  {
+    "title": "MultiEdit: Advancing Instruction-based Image Editing on Diverse and\n  Challenging Tasks",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14638",
+    "scraped_at": "2025-09-20T04:40:31.495075"
+  },
+  {
+    "title": "Apertus: Democratizing Open and Compliant LLMs for Global Language\n  Environments",
+    "authors": "101 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14233",
+    "scraped_at": "2025-09-20T04:40:31.495388"
+  },
+  {
+    "title": "RecoWorld: Building Simulated Environments for Agentic Recommender\n  Systems",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10397",
+    "scraped_at": "2025-09-20T04:40:31.495654"
+  },
+  {
+    "title": "EdiVal-Agent: An Object-Centric Framework for Automated, Scalable,\n  Fine-Grained Evaluation of Multi-Turn Editing",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.13399",
+    "scraped_at": "2025-09-20T04:40:31.495914"
+  },
+  {
+    "title": "Mind the Gap: A Closer Look at Tokenization for Multiple-Choice Question\n  Answering with LLMs",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15020",
+    "scraped_at": "2025-09-20T04:40:31.496166"
+  },
+  {
+    "title": "Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on\n  Materials Characterization",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09307",
+    "scraped_at": "2025-09-20T04:40:31.496460"
+  },
+  {
+    "title": "Agentic Software Engineering: Foundational Pillars and a Research\n  Roadmap",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06216",
+    "scraped_at": "2025-09-20T04:40:31.496717"
+  },
+  {
+    "title": "EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal\n  Ultrasound Intelligence",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14977",
+    "scraped_at": "2025-09-20T04:40:31.497002"
+  },
+  {
+    "title": "Developer-LLM Conversations: An Empirical Study of Interactions and\n  Generated Code Quality",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10402",
+    "scraped_at": "2025-09-20T04:40:31.497248"
+  },
+  {
+    "title": "FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution\n  Remote Sensing Change Detection",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.06482",
+    "scraped_at": "2025-09-20T04:40:31.497565"
+  }
+]
