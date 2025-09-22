@@ -1,0 +1,86 @@
+[
+  {
+    "title": "RPG: A Repository Planning Graph for Unified and Scalable Codebase\n  Generation",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.16198",
+    "scraped_at": "2025-09-22T04:41:33.535535"
+  },
+  {
+    "title": "BaseReward: A Strong Baseline for Multimodal Reward Model",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.16127",
+    "scraped_at": "2025-09-22T04:41:33.535935"
+  },
+  {
+    "title": "MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid\n  Vision Tokenizer",
+    "authors": "27 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.16197",
+    "scraped_at": "2025-09-22T04:41:33.536258"
+  },
+  {
+    "title": "BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15566",
+    "scraped_at": "2025-09-22T04:41:33.536534"
+  },
+  {
+    "title": "A Vision-Language-Action-Critic Model for Robotic Real-World\n  Reinforcement Learning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15937",
+    "scraped_at": "2025-09-22T04:41:33.536915"
+  },
+  {
+    "title": "SPATIALGEN: Layout-guided 3D Indoor Scene Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14981",
+    "scraped_at": "2025-09-22T04:41:33.537192"
+  },
+  {
+    "title": "Latent Zoning Network: A Unified Principle for Generative Modeling,\n  Representation Learning, and Classification",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15591",
+    "scraped_at": "2025-09-22T04:41:33.537446"
+  },
+  {
+    "title": "Lynx: Towards High-Fidelity Personalized Video Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15496",
+    "scraped_at": "2025-09-22T04:41:33.537760"
+  },
+  {
+    "title": "RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15123",
+    "scraped_at": "2025-09-22T04:41:33.538020"
+  },
+  {
+    "title": "Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided\n  Role-playing Agents",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15233",
+    "scraped_at": "2025-09-22T04:41:33.538283"
+  },
+  {
+    "title": "WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained\n  Speech Recognition Transformers",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.10452",
+    "scraped_at": "2025-09-22T04:41:33.538537"
+  },
+  {
+    "title": "Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn\n  Dialogue",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15061",
+    "scraped_at": "2025-09-22T04:41:33.538838"
+  }
+]
