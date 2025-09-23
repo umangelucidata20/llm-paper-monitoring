@@ -1,0 +1,107 @@
+[
+  {
+    "title": "OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion\n  Transformer Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17627",
+    "scraped_at": "2025-09-23T04:41:29.573943"
+  },
+  {
+    "title": "OnePiece: Bringing Context Engineering and Reasoning to Industrial\n  Cascade Ranking System",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.18091",
+    "scraped_at": "2025-09-23T04:41:29.574277"
+  },
+  {
+    "title": "LIMI: Less is More for Agency",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17567",
+    "scraped_at": "2025-09-23T04:41:29.574582"
+  },
+  {
+    "title": "ByteWrist: A Parallel Robotic Wrist Enabling Flexible and\n  Anthropomorphic Motion for Confined Spaces",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.18084",
+    "scraped_at": "2025-09-23T04:41:29.574858"
+  },
+  {
+    "title": "Qwen3-Omni Technical Report",
+    "authors": "38 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17765",
+    "scraped_at": "2025-09-23T04:41:29.575150"
+  },
+  {
+    "title": "DiffusionNFT: Online Diffusion Reinforcement with Forward Process",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.16117",
+    "scraped_at": "2025-09-23T04:41:29.575409"
+  },
+  {
+    "title": "SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering\n  Tasks?",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.16941",
+    "scraped_at": "2025-09-23T04:41:29.575662"
+  },
+  {
+    "title": "Analyzing the Effects of Supervised Fine-Tuning on Model Knowledge from\n  Token and Parameter Levels",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.16596",
+    "scraped_at": "2025-09-23T04:41:29.575928"
+  },
+  {
+    "title": "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video\n  Diffusion Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17985",
+    "scraped_at": "2025-09-23T04:41:29.576193"
+  },
+  {
+    "title": "EpiCache: Episodic KV Cache Management for Long Conversational Question\n  Answering",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17396",
+    "scraped_at": "2025-09-23T04:41:29.576448"
+  },
+  {
+    "title": "ARE: Scaling Up Agent Environments and Evaluations",
+    "authors": "24 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17158",
+    "scraped_at": "2025-09-23T04:41:29.576697"
+  },
+  {
+    "title": "Mano Report",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17336",
+    "scraped_at": "2025-09-23T04:41:29.576943"
+  },
+  {
+    "title": "Synthetic bootstrapped pretraining",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.15248",
+    "scraped_at": "2025-09-23T04:41:29.577205"
+  },
+  {
+    "title": "ContextFlow: Training-Free Video Object Editing via Adaptive Context\n  Enrichment",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17818",
+    "scraped_at": "2025-09-23T04:41:29.577451"
+  },
+  {
+    "title": "From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI\n  Ecosystem",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.09873",
+    "scraped_at": "2025-09-23T04:41:29.577710"
+  }
+]
