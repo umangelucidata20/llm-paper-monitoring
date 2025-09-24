@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Reinforcement Learning on Pre-Training Data",
+    "authors": "36 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19249",
+    "scraped_at": "2025-09-24T04:41:53.861705"
+  },
+  {
+    "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and\n  Training Recipe",
+    "authors": "34 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.18154",
+    "scraped_at": "2025-09-24T04:41:53.862030"
+  },
+  {
+    "title": "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model\n  Self-Distillation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19296",
+    "scraped_at": "2025-09-24T04:41:53.862336"
+  },
+  {
+    "title": "What Characterizes Effective Reasoning? Revisiting Length, Review, and\n  Structure of CoT",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19284",
+    "scraped_at": "2025-09-24T04:41:53.862702"
+  },
+  {
+    "title": "Hyper-Bagel: A Unified Acceleration Framework for Multimodal\n  Understanding and Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.18824",
+    "scraped_at": "2025-09-24T04:41:53.862958"
+  },
+  {
+    "title": "VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with\n  Voxel-Aligned Prediction",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19297",
+    "scraped_at": "2025-09-24T04:41:53.863232"
+  },
+  {
+    "title": "MAPO: Mixed Advantage Policy Optimization",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.18849",
+    "scraped_at": "2025-09-24T04:41:53.863524"
+  },
+  {
+    "title": "CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target\n  for Better Flow Matching",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19300",
+    "scraped_at": "2025-09-24T04:41:53.863782"
+  },
+  {
+    "title": "Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal\n  Gemini 2.5 Model for Remote Sensing Applications",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19087",
+    "scraped_at": "2025-09-24T04:41:53.864030"
+  },
+  {
+    "title": "HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel\n  View Synthesis",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.17083",
+    "scraped_at": "2025-09-24T04:41:53.864292"
+  }
+]
