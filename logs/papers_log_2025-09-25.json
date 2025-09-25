@@ -1,0 +1,65 @@
+[
+  {
+    "title": "SIM-CoT: Supervised Implicit Chain-of-Thought",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20317",
+    "scraped_at": "2025-09-25T04:41:45.997833"
+  },
+  {
+    "title": "EmbeddingGemma: Powerful and Lightweight Text Representations",
+    "authors": "88 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20354",
+    "scraped_at": "2025-09-25T04:41:45.998154"
+  },
+  {
+    "title": "Video models are zero-shot learners and reasoners",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20328",
+    "scraped_at": "2025-09-25T04:41:45.998467"
+  },
+  {
+    "title": "LLMs4All: A Review on Large Language Models for Research and\n  Applications in Academic Disciplines",
+    "authors": "32 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19580",
+    "scraped_at": "2025-09-25T04:41:45.998762"
+  },
+  {
+    "title": "Logics-Parsing Technical Report",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19760",
+    "scraped_at": "2025-09-25T04:41:45.999042"
+  },
+  {
+    "title": "EditVerse: Unifying Image and Video Editing and Generation with\n  In-Context Learning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20360",
+    "scraped_at": "2025-09-25T04:41:45.999308"
+  },
+  {
+    "title": "PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video\n  Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20358",
+    "scraped_at": "2025-09-25T04:41:45.999606"
+  },
+  {
+    "title": "Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal\n  Understanding and Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19244",
+    "scraped_at": "2025-09-25T04:41:45.999887"
+  },
+  {
+    "title": "On the Use of Agentic Coding: An Empirical Study of Pull Requests on\n  GitHub",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14745",
+    "scraped_at": "2025-09-25T04:41:46.000160"
+  }
+]
