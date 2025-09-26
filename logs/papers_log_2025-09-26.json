@@ -1,0 +1,135 @@
+[
+  {
+    "title": "MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and\n  Open Resources",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21268",
+    "scraped_at": "2025-09-26T04:41:31.994376"
+  },
+  {
+    "title": "SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines",
+    "authors": "32 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21320",
+    "scraped_at": "2025-09-26T04:41:31.994728"
+  },
+  {
+    "title": "VCRL: Variance-based Curriculum Reinforcement Learning for Large\n  Language Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19803",
+    "scraped_at": "2025-09-26T04:41:31.995025"
+  },
+  {
+    "title": "Seedream 4.0: Toward Next-generation Multimodal Image Generation",
+    "authors": "50 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20427",
+    "scraped_at": "2025-09-26T04:41:31.995308"
+  },
+  {
+    "title": "CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy\n  Optimization in Reinforcement Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20712",
+    "scraped_at": "2025-09-26T04:41:31.995641"
+  },
+  {
+    "title": "Tree Search for LLM Agent Reinforcement Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21240",
+    "scraped_at": "2025-09-26T04:41:31.995922"
+  },
+  {
+    "title": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D\n  Assets",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21245",
+    "scraped_at": "2025-09-26T04:41:31.996180"
+  },
+  {
+    "title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21114",
+    "scraped_at": "2025-09-26T04:41:31.996495"
+  },
+  {
+    "title": "Interactive Recommendation Agent with Active User Commands",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21317",
+    "scraped_at": "2025-09-26T04:41:31.996753"
+  },
+  {
+    "title": "Thinking Augmented Pre-training",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20186",
+    "scraped_at": "2025-09-26T04:41:31.997005"
+  },
+  {
+    "title": "Does FLUX Already Know How to Perform Physically Plausible Image\n  Composition?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21278",
+    "scraped_at": "2025-09-26T04:41:31.997266"
+  },
+  {
+    "title": "ScaleDiff: Scaling Difficult Problems for Advanced Mathematical\n  Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21070",
+    "scraped_at": "2025-09-26T04:41:31.997564"
+  },
+  {
+    "title": "SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and\n  Self-Reflective Agent",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20414",
+    "scraped_at": "2025-09-26T04:41:31.997814"
+  },
+  {
+    "title": "Understanding the Thinking Process of Reasoning Models: A Perspective\n  from Schoenfeld's Episode Theory",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14662",
+    "scraped_at": "2025-09-26T04:41:31.998066"
+  },
+  {
+    "title": "SD3.5-Flash: Distribution-Guided Distillation of Generative Flows",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21318",
+    "scraped_at": "2025-09-26T04:41:31.998331"
+  },
+  {
+    "title": "The Unanticipated Asymmetry Between Perceptual Optimization and\n  Assessment",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20878",
+    "scraped_at": "2025-09-26T04:41:31.998600"
+  },
+  {
+    "title": "MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for\n  Video Temporal Reasoning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21113",
+    "scraped_at": "2025-09-26T04:41:31.998847"
+  },
+  {
+    "title": "Behind RoPE: How Does Causal Mask Encode Positional Information?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21042",
+    "scraped_at": "2025-09-26T04:41:31.999091"
+  },
+  {
+    "title": "StyleBench: Evaluating thinking styles in Large Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20868",
+    "scraped_at": "2025-09-26T04:41:31.999389"
+  }
+]
