@@ -1,0 +1,247 @@
+[
+  {
+    "title": "VCRL: Variance-based Curriculum Reinforcement Learning for Large\n  Language Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19803",
+    "scraped_at": "2025-09-28T04:40:27.813201"
+  },
+  {
+    "title": "MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and\n  Open Resources",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21268",
+    "scraped_at": "2025-09-28T04:40:27.813561"
+  },
+  {
+    "title": "SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines",
+    "authors": "32 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21320",
+    "scraped_at": "2025-09-28T04:40:27.813889"
+  },
+  {
+    "title": "Tree Search for LLM Agent Reinforcement Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21240",
+    "scraped_at": "2025-09-28T04:40:27.814177"
+  },
+  {
+    "title": "Seedream 4.0: Toward Next-generation Multimodal Image Generation",
+    "authors": "50 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20427",
+    "scraped_at": "2025-09-28T04:40:27.814507"
+  },
+  {
+    "title": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D\n  Assets",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21245",
+    "scraped_at": "2025-09-28T04:40:27.814783"
+  },
+  {
+    "title": "AutoIntent: AutoML for Text Classification",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21138",
+    "scraped_at": "2025-09-28T04:40:27.815065"
+  },
+  {
+    "title": "TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21117",
+    "scraped_at": "2025-09-28T04:40:27.815375"
+  },
+  {
+    "title": "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21114",
+    "scraped_at": "2025-09-28T04:40:27.815686"
+  },
+  {
+    "title": "CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy\n  Optimization in Reinforcement Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20712",
+    "scraped_at": "2025-09-28T04:40:27.816013"
+  },
+  {
+    "title": "Residual Off-Policy RL for Finetuning Behavior Cloning Policies",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19301",
+    "scraped_at": "2025-09-28T04:40:27.816264"
+  },
+  {
+    "title": "Thinking Augmented Pre-training",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20186",
+    "scraped_at": "2025-09-28T04:40:27.816555"
+  },
+  {
+    "title": "Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web\n  Reconnaissance, Tool Generation, and Task Execution",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21072",
+    "scraped_at": "2025-09-28T04:40:27.816836"
+  },
+  {
+    "title": "Does FLUX Already Know How to Perform Physically Plausible Image\n  Composition?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21278",
+    "scraped_at": "2025-09-28T04:40:27.817107"
+  },
+  {
+    "title": "Understanding the Thinking Process of Reasoning Models: A Perspective\n  from Schoenfeld's Episode Theory",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.14662",
+    "scraped_at": "2025-09-28T04:40:27.817387"
+  },
+  {
+    "title": "V-GameGym: Visual Game Generation for Code Large Language Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20136",
+    "scraped_at": "2025-09-28T04:40:27.817642"
+  },
+  {
+    "title": "UserRL: Training Interactive User-Centric Agent via Reinforcement\n  Learning",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19736",
+    "scraped_at": "2025-09-28T04:40:27.817886"
+  },
+  {
+    "title": "SD3.5-Flash: Distribution-Guided Distillation of Generative Flows",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21318",
+    "scraped_at": "2025-09-28T04:40:27.818102"
+  },
+  {
+    "title": "ScaleDiff: Scaling Difficult Problems for Advanced Mathematical\n  Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21070",
+    "scraped_at": "2025-09-28T04:40:27.818429"
+  },
+  {
+    "title": "SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and\n  Self-Reflective Agent",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20414",
+    "scraped_at": "2025-09-28T04:40:27.818685"
+  },
+  {
+    "title": "Quantized Visual Geometry Grounded Transformer",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21302",
+    "scraped_at": "2025-09-28T04:40:27.818957"
+  },
+  {
+    "title": "BESPOKE: Benchmark for Search-Augmented Large Language Model\n  Personalization via Diagnostic Feedback",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21106",
+    "scraped_at": "2025-09-28T04:40:27.819217"
+  },
+  {
+    "title": "Interactive Recommendation Agent with Active User Commands",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21317",
+    "scraped_at": "2025-09-28T04:40:27.819500"
+  },
+  {
+    "title": "When Judgment Becomes Noise: How Design Failures in LLM Judge Benchmarks\n  Silently Undermine Validity",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20293",
+    "scraped_at": "2025-09-28T04:40:27.819769"
+  },
+  {
+    "title": "MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for\n  Video Temporal Reasoning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21113",
+    "scraped_at": "2025-09-28T04:40:27.820015"
+  },
+  {
+    "title": "Behind RoPE: How Does Causal Mask Encode Positional Information?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21042",
+    "scraped_at": "2025-09-28T04:40:27.820276"
+  },
+  {
+    "title": "CompLLM: Compression for Long Context Q&A",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19228",
+    "scraped_at": "2025-09-28T04:40:27.820516"
+  },
+  {
+    "title": "StyleBench: Evaluating thinking styles in Large Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20868",
+    "scraped_at": "2025-09-28T04:40:27.820782"
+  },
+  {
+    "title": "Discrete Diffusion for Reflective Vision-Language-Action Models in\n  Autonomous Driving",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20109",
+    "scraped_at": "2025-09-28T04:40:27.821055"
+  },
+  {
+    "title": "Thinking While Listening: Simple Test Time Scaling For Audio\n  Classification",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19676",
+    "scraped_at": "2025-09-28T04:40:27.821289"
+  },
+  {
+    "title": "OverLayBench: A Benchmark for Layout-to-Image Generation with Dense\n  Overlaps",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19282",
+    "scraped_at": "2025-09-28T04:40:27.821573"
+  },
+  {
+    "title": "The Unanticipated Asymmetry Between Perceptual Optimization and\n  Assessment",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20878",
+    "scraped_at": "2025-09-28T04:40:27.821857"
+  },
+  {
+    "title": "MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with\n  Closed-Source Large-Audio Language Model",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20706",
+    "scraped_at": "2025-09-28T04:40:27.822109"
+  },
+  {
+    "title": "Blueprints of Trust: AI System Cards for End to End Transparency and\n  Governance",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.20394",
+    "scraped_at": "2025-09-28T04:40:27.822410"
+  },
+  {
+    "title": "Evaluating Large Language Models for Detecting Antisemitism",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.18293",
+    "scraped_at": "2025-09-28T04:40:27.822661"
+  }
+]
