@@ -1,0 +1,156 @@
+[
+  {
+    "title": "LongLive: Real-time Interactive Long Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22622",
+    "scraped_at": "2025-09-29T04:42:22.928747"
+  },
+  {
+    "title": "Quantile Advantage Estimation for Entropy-Safe Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22611",
+    "scraped_at": "2025-09-29T04:42:22.929097"
+  },
+  {
+    "title": "EPO: Entropy-regularized Policy Optimization for LLM Agents\n  Reinforcement Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22576",
+    "scraped_at": "2025-09-29T04:42:22.930544"
+  },
+  {
+    "title": "Variational Reasoning for Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22637",
+    "scraped_at": "2025-09-29T04:42:22.930791"
+  },
+  {
+    "title": "ReviewScore: Misinformed Peer Review Detection with Large Language\n  Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21679",
+    "scraped_at": "2025-09-29T04:42:22.931029"
+  },
+  {
+    "title": "Language Models Can Learn from Verbal Feedback Without Scalar Rewards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22638",
+    "scraped_at": "2025-09-29T04:42:22.931300"
+  },
+  {
+    "title": "VoiceAssistant-Eval: Benchmarking AI Assistants across Listening,\n  Speaking, and Viewing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22651",
+    "scraped_at": "2025-09-29T04:42:22.931547"
+  },
+  {
+    "title": "CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement\n  Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22647",
+    "scraped_at": "2025-09-29T04:42:22.931795"
+  },
+  {
+    "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level\n  Feedback and Step-Level Reinforcement Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22644",
+    "scraped_at": "2025-09-29T04:42:22.932055"
+  },
+  {
+    "title": "LucidFlux: Caption-Free Universal Image Restoration via a Large-Scale\n  Diffusion Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22414",
+    "scraped_at": "2025-09-29T04:42:22.932327"
+  },
+  {
+    "title": "Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on\n  Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21710",
+    "scraped_at": "2025-09-29T04:42:22.932584"
+  },
+  {
+    "title": "UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon\n  Scenarios",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21766",
+    "scraped_at": "2025-09-29T04:42:22.932852"
+  },
+  {
+    "title": "UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21760",
+    "scraped_at": "2025-09-29T04:42:22.933111"
+  },
+  {
+    "title": "D-Artemis: A Deliberative Cognitive Framework for Mobile GUI\n  Multi-Agents",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21799",
+    "scraped_at": "2025-09-29T04:42:22.933408"
+  },
+  {
+    "title": "X-Streamer: Unified Human World Modeling with Audiovisual Interaction",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21574",
+    "scraped_at": "2025-09-29T04:42:22.933663"
+  },
+  {
+    "title": "SPARK: Synergistic Policy And Reward Co-Evolving Framework",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22624",
+    "scraped_at": "2025-09-29T04:42:22.933908"
+  },
+  {
+    "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
+    "authors": "61 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22186",
+    "scraped_at": "2025-09-29T04:42:22.934175"
+  },
+  {
+    "title": "Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive\n  Exploration for Agentic Reinforcement Learning",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22601",
+    "scraped_at": "2025-09-29T04:42:22.934466"
+  },
+  {
+    "title": "Where MLLMs Attend and What They Rely On: Explaining Autoregressive\n  Token Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22496",
+    "scraped_at": "2025-09-29T04:42:22.934724"
+  },
+  {
+    "title": "StateX: Enhancing RNN Recall via Post-training State Expansion",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22630",
+    "scraped_at": "2025-09-29T04:42:22.934995"
+  },
+  {
+    "title": "FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image\n  Editing",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22244",
+    "scraped_at": "2025-09-29T04:42:22.935321"
+  },
+  {
+    "title": "CHURRO: Making History Readable with an Open-Weight Large\n  Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19768",
+    "scraped_at": "2025-09-29T04:42:22.935564"
+  }
+]
