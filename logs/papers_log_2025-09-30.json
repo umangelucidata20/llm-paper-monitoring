@@ -1,0 +1,289 @@
+[
+  {
+    "title": "SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable\n  Sparse-Linear Attention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24006",
+    "scraped_at": "2025-09-30T04:41:42.368250"
+  },
+  {
+    "title": "Multiplayer Nash Preference Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23102",
+    "scraped_at": "2025-09-30T04:41:42.368568"
+  },
+  {
+    "title": "Visual Jigsaw Post-Training Improves MLLMs",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25190",
+    "scraped_at": "2025-09-30T04:41:42.368894"
+  },
+  {
+    "title": "Democratizing AI scientists using ToolUniverse",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23426",
+    "scraped_at": "2025-09-30T04:41:42.369157"
+  },
+  {
+    "title": "EditScore: Unlocking Online RL for Image Editing via High-Fidelity\n  Reward Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23909",
+    "scraped_at": "2025-09-30T04:41:42.369406"
+  },
+  {
+    "title": "EasySteer: A Unified Framework for High-Performance and Extensible LLM\n  Steering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25175",
+    "scraped_at": "2025-09-30T04:41:42.369669"
+  },
+  {
+    "title": "RealUnify: Do Unified Models Truly Benefit from Unification? A\n  Comprehensive Benchmark",
+    "authors": "26 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24897",
+    "scraped_at": "2025-09-30T04:41:42.369948"
+  },
+  {
+    "title": "OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation\n  and Editing",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24900",
+    "scraped_at": "2025-09-30T04:41:42.370217"
+  },
+  {
+    "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24695",
+    "scraped_at": "2025-09-30T04:41:42.370445"
+  },
+  {
+    "title": "SparseD: Sparse Attention for Diffusion Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24014",
+    "scraped_at": "2025-09-30T04:41:42.370737"
+  },
+  {
+    "title": "SIRI: Scaling Iterative Reinforcement Learning with Interleaved\n  Compression",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25176",
+    "scraped_at": "2025-09-30T04:41:42.370977"
+  },
+  {
+    "title": "Critique-Coder: Enhancing Coder Models by Critique Reinforcement\n  Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22824",
+    "scraped_at": "2025-09-30T04:41:42.371197"
+  },
+  {
+    "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22799",
+    "scraped_at": "2025-09-30T04:41:42.371414"
+  },
+  {
+    "title": "InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long\n  Adaptation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24663",
+    "scraped_at": "2025-09-30T04:41:42.371684"
+  },
+  {
+    "title": "Euclid's Gift: Enhancing Spatial Perception and Reasoning in\n  Vision-Language Models via Geometric Surrogate Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24473",
+    "scraped_at": "2025-09-30T04:41:42.371926"
+  },
+  {
+    "title": "Sequential Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24007",
+    "scraped_at": "2025-09-30T04:41:42.372164"
+  },
+  {
+    "title": "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25161",
+    "scraped_at": "2025-09-30T04:41:42.372417"
+  },
+  {
+    "title": "AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced\n  Self-Play",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24193",
+    "scraped_at": "2025-09-30T04:41:42.372726"
+  },
+  {
+    "title": "GSM8K-V: Can Vision Language Models Solve Grade School Math Word\n  Problems in Visual Contexts",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25160",
+    "scraped_at": "2025-09-30T04:41:42.373002"
+  },
+  {
+    "title": "Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference\n  Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23285",
+    "scraped_at": "2025-09-30T04:41:42.373243"
+  },
+  {
+    "title": "Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs\n  at Test Time",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22572",
+    "scraped_at": "2025-09-30T04:41:42.373491"
+  },
+  {
+    "title": "MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25131",
+    "scraped_at": "2025-09-30T04:41:42.373755"
+  },
+  {
+    "title": "Hyperspherical Latents Improve Continuous-Token Autoregressive\n  Generation",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24335",
+    "scraped_at": "2025-09-30T04:41:42.374014"
+  },
+  {
+    "title": "HunyuanImage 3.0 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23951",
+    "scraped_at": "2025-09-30T04:41:42.374248"
+  },
+  {
+    "title": "Alignment through Meta-Weighted Online Sampling: Bridging the Gap\n  between Data Generation and Preference Optimization",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23371",
+    "scraped_at": "2025-09-30T04:41:42.374499"
+  },
+  {
+    "title": "MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially\n  Disentangled Attention and Identity-Aware Reinforcement Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21953",
+    "scraped_at": "2025-09-30T04:41:42.374770"
+  },
+  {
+    "title": "PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on\n  Structured Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25185",
+    "scraped_at": "2025-09-30T04:41:42.375009"
+  },
+  {
+    "title": "LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in\n  Mechanism via Multi-Step Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24786",
+    "scraped_at": "2025-09-30T04:41:42.375228"
+  },
+  {
+    "title": "Efficient Multi-turn RL for GUI Agents via Decoupled Training and\n  Adaptive Data Curation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23866",
+    "scraped_at": "2025-09-30T04:41:42.375464"
+  },
+  {
+    "title": "From Harm to Help: Turning Reasoning In-Context Demos into Assets for\n  Reasoning LMs",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23196",
+    "scraped_at": "2025-09-30T04:41:42.375737"
+  },
+  {
+    "title": "UniMIC: Token-Based Multimodal Interactive Coding for Human-AI\n  Collaboration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22570",
+    "scraped_at": "2025-09-30T04:41:42.375965"
+  },
+  {
+    "title": "Pretraining Large Language Models with NVFP4",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25149",
+    "scraped_at": "2025-09-30T04:41:42.376187"
+  },
+  {
+    "title": "Learning Goal-Oriented Language-Guided Navigation with Self-Improving\n  Demonstrations at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24910",
+    "scraped_at": "2025-09-30T04:41:42.376425"
+  },
+  {
+    "title": "AdvChain: Adversarial Chain-of-Thought Tuning for Robust Safety\n  Alignment of Large Reasoning Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24269",
+    "scraped_at": "2025-09-30T04:41:42.376669"
+  },
+  {
+    "title": "MathBode: Frequency-Domain Fingerprints of LLM Mathematical Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23143",
+    "scraped_at": "2025-09-30T04:41:42.376892"
+  },
+  {
+    "title": "REMA: A Unified Reasoning Manifold Framework for Interpreting Large\n  Language Model",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22518",
+    "scraped_at": "2025-09-30T04:41:42.377158"
+  },
+  {
+    "title": "BRIDGE - Building Reinforcement-Learning Depth-to-Image Data Generation\n  Engine for Monocular Depth Estimation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25077",
+    "scraped_at": "2025-09-30T04:41:42.377376"
+  },
+  {
+    "title": "Cogito, Ergo Ludo: An Agent that Learns to Play by Reasoning and\n  Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25052",
+    "scraped_at": "2025-09-30T04:41:42.377608"
+  },
+  {
+    "title": "IWR-Bench: Can LVLMs reconstruct interactive webpage from a user\n  interaction video?",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24709",
+    "scraped_at": "2025-09-30T04:41:42.377877"
+  },
+  {
+    "title": "RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human\n  Mobility",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23115",
+    "scraped_at": "2025-09-30T04:41:42.378119"
+  },
+  {
+    "title": "ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22830",
+    "scraped_at": "2025-09-30T04:41:42.378342"
+  }
+]
