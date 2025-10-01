@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified\n  Self-Play",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25541",
+    "scraped_at": "2025-10-01T04:41:54.808502"
+  },
+  {
+    "title": "TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25760",
+    "scraped_at": "2025-10-01T04:41:54.808789"
+  },
+  {
+    "title": "OceanGym: A Benchmark Environment for Underwater Embodied Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26536",
+    "scraped_at": "2025-10-01T04:41:54.809069"
+  },
+  {
+    "title": "DC-VideoGen: Efficient Video Generation with Deep Compression Video\n  Autoencoder",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25182",
+    "scraped_at": "2025-10-01T04:41:54.809323"
+  },
+  {
+    "title": "Thinking Sparks!: Emergent Attention Heads in Reasoning Models During\n  Post Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25758",
+    "scraped_at": "2025-10-01T04:41:54.809550"
+  },
+  {
+    "title": "Who's Your Judge? On the Detectability of LLM-Generated Judgments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25154",
+    "scraped_at": "2025-10-01T04:41:54.809775"
+  },
+  {
+    "title": "VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in\n  Real-world Applications",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26490",
+    "scraped_at": "2025-10-01T04:41:54.810023"
+  },
+  {
+    "title": "MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP\n  Use",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24002",
+    "scraped_at": "2025-10-01T04:41:54.810322"
+  },
+  {
+    "title": "Learning to See Before Seeing: Demystifying LLM Visual Priors from\n  Language Pre-training",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26625",
+    "scraped_at": "2025-10-01T04:41:54.810587"
+  },
+  {
+    "title": "IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26231",
+    "scraped_at": "2025-10-01T04:41:54.810826"
+  },
+  {
+    "title": "dParallel: Learnable Parallel Decoding for dLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26488",
+    "scraped_at": "2025-10-01T04:41:54.811070"
+  },
+  {
+    "title": "Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and\n  Multi-Scale Global-Local Attention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23610",
+    "scraped_at": "2025-10-01T04:41:54.811319"
+  },
+  {
+    "title": "Attention as a Compass: Efficient Exploration for Process-Supervised RL\n  in Reasoning Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26628",
+    "scraped_at": "2025-10-01T04:41:54.811541"
+  },
+  {
+    "title": "OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost\n  Always!",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26495",
+    "scraped_at": "2025-10-01T04:41:54.811761"
+  },
+  {
+    "title": "Benefits and Pitfalls of Reinforcement Learning for Language Model\n  Planning: A Theoretical Perspective",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22613",
+    "scraped_at": "2025-10-01T04:41:54.811984"
+  },
+  {
+    "title": "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26539",
+    "scraped_at": "2025-10-01T04:41:54.812201"
+  },
+  {
+    "title": "Regression Language Models for Code",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26476",
+    "scraped_at": "2025-10-01T04:41:54.812435"
+  },
+  {
+    "title": "MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26391",
+    "scraped_at": "2025-10-01T04:41:54.812699"
+  },
+  {
+    "title": "InfoAgent: Advancing Autonomous Information-Seeking Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25189",
+    "scraped_at": "2025-10-01T04:41:54.812916"
+  },
+  {
+    "title": "TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26329",
+    "scraped_at": "2025-10-01T04:41:54.813166"
+  },
+  {
+    "title": "VisualOverload: Probing Visual Understanding of VLMs in Really Dense\n  Scenes",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25339",
+    "scraped_at": "2025-10-01T04:41:54.813451"
+  },
+  {
+    "title": "Humanline: Online Alignment as Perceptual Loss",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24207",
+    "scraped_at": "2025-10-01T04:41:54.813676"
+  },
+  {
+    "title": "Test-Time Policy Adaptation for Enhanced Multi-Turn Interactions with\n  LLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23166",
+    "scraped_at": "2025-10-01T04:41:54.813925"
+  },
+  {
+    "title": "Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced\n  Performance Gap",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26542",
+    "scraped_at": "2025-10-01T04:41:54.814172"
+  },
+  {
+    "title": "More Thought, Less Accuracy? On the Dual Nature of Reasoning in\n  Vision-Language Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25848",
+    "scraped_at": "2025-10-01T04:41:54.814464"
+  },
+  {
+    "title": "Knowledge Homophily in Large Language Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23773",
+    "scraped_at": "2025-10-01T04:41:54.814714"
+  },
+  {
+    "title": "Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics\n  Research Benchmark",
+    "authors": "64 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26574",
+    "scraped_at": "2025-10-01T04:41:54.814966"
+  },
+  {
+    "title": "Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional\n  Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26555",
+    "scraped_at": "2025-10-01T04:41:54.815186"
+  }
+]
