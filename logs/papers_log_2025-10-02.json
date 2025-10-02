@@ -1,0 +1,114 @@
+[
+  {
+    "title": "GEM: A Gym for Agentic LLMs",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01051",
+    "scraped_at": "2025-10-02T04:40:09.886126"
+  },
+  {
+    "title": "DeepSearch: Overcome the Bottleneck of Reinforcement Learning with\n  Verifiable Rewards via Monte Carlo Tree Search",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25454",
+    "scraped_at": "2025-10-02T04:40:09.886427"
+  },
+  {
+    "title": "Code2Video: A Code-centric Paradigm for Educational Video Generation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01174",
+    "scraped_at": "2025-10-02T04:40:09.886732"
+  },
+  {
+    "title": "Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals\n  Long-Range Dependency Pitfalls",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00184",
+    "scraped_at": "2025-10-02T04:40:09.887034"
+  },
+  {
+    "title": "Beyond Log Likelihood: Probability-Based Objectives for Supervised\n  Fine-Tuning across the Model Capability Continuum",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00526",
+    "scraped_at": "2025-10-02T04:40:09.887330"
+  },
+  {
+    "title": "BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model\n  Responses",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00232",
+    "scraped_at": "2025-10-02T04:40:09.887615"
+  },
+  {
+    "title": "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel\n  Execution",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25301",
+    "scraped_at": "2025-10-02T04:40:09.887853"
+  },
+  {
+    "title": "In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn\n  Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00777",
+    "scraped_at": "2025-10-02T04:40:09.888107"
+  },
+  {
+    "title": "On Predictability of Reinforcement Learning Dynamics for Large Language\n  Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00553",
+    "scraped_at": "2025-10-02T04:40:09.888405"
+  },
+  {
+    "title": "Infusing Theory of Mind into Socially Intelligent LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22887",
+    "scraped_at": "2025-10-02T04:40:09.888629"
+  },
+  {
+    "title": "GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00536",
+    "scraped_at": "2025-10-02T04:40:09.888879"
+  },
+  {
+    "title": "JoyAgent-JDGenie: Technical Report on the GAIA",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00510",
+    "scraped_at": "2025-10-02T04:40:09.889114"
+  },
+  {
+    "title": "VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified\n  Rewards in World Simulators",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00406",
+    "scraped_at": "2025-10-02T04:40:09.889407"
+  },
+  {
+    "title": "Boolean Satisfiability via Imitation Learning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25411",
+    "scraped_at": "2025-10-02T04:40:09.889673"
+  },
+  {
+    "title": "Training Vision-Language Process Reward Models for Test-Time Scaling in\n  Multimodal Reasoning: Key Insights and Lessons Learned",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23250",
+    "scraped_at": "2025-10-02T04:40:09.889909"
+  },
+  {
+    "title": "An Empirical Study of Testing Practices in Open Source AI Agent\n  Frameworks and Agentic Applications",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.19185",
+    "scraped_at": "2025-10-02T04:40:09.890183"
+  }
+]
