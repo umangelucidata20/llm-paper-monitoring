@@ -1,0 +1,366 @@
+[
+  {
+    "title": "LongCodeZip: Compress Long Context for Code Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00446",
+    "scraped_at": "2025-10-04T04:39:17.211006"
+  },
+  {
+    "title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02283",
+    "scraped_at": "2025-10-04T04:39:17.211350"
+  },
+  {
+    "title": "ExGRPO: Learning to Reason from Experience",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02245",
+    "scraped_at": "2025-10-04T04:39:17.211677"
+  },
+  {
+    "title": "StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided\n  Illusions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02314",
+    "scraped_at": "2025-10-04T04:39:17.211929"
+  },
+  {
+    "title": "Interactive Training: Feedback-Driven Neural Network Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02297",
+    "scraped_at": "2025-10-04T04:39:17.212197"
+  },
+  {
+    "title": "ModernVBERT: Towards Smaller Visual Document Retrievers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01149",
+    "scraped_at": "2025-10-04T04:39:17.212430"
+  },
+  {
+    "title": "StockBench: Can LLM Agents Trade Stocks Profitably In Real-world\n  Markets?",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02209",
+    "scraped_at": "2025-10-04T04:39:17.212689"
+  },
+  {
+    "title": "VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal\n  Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01444",
+    "scraped_at": "2025-10-04T04:39:17.212922"
+  },
+  {
+    "title": "CLUE: Non-parametric Verification from Experience via Hidden-State\n  Clustering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01591",
+    "scraped_at": "2025-10-04T04:39:17.213141"
+  },
+  {
+    "title": "The Rogue Scalpel: Activation Steering Compromises LLM Safety",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22067",
+    "scraped_at": "2025-10-04T04:39:17.213421"
+  },
+  {
+    "title": "Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming\n  Attacks",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02286",
+    "scraped_at": "2025-10-04T04:39:17.213682"
+  },
+  {
+    "title": "The Unreasonable Effectiveness of Scaling Agents for Computer Use",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02250",
+    "scraped_at": "2025-10-04T04:39:17.213928"
+  },
+  {
+    "title": "RLP: Reinforcement as a Pretraining Objective",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01265",
+    "scraped_at": "2025-10-04T04:39:17.214161"
+  },
+  {
+    "title": "RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via\n  Multi-Stage Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02240",
+    "scraped_at": "2025-10-04T04:39:17.214423"
+  },
+  {
+    "title": "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research\n  Agents: From Answers to Reports",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02190",
+    "scraped_at": "2025-10-04T04:39:17.214671"
+  },
+  {
+    "title": "Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01284",
+    "scraped_at": "2025-10-04T04:39:17.214908"
+  },
+  {
+    "title": "F2LLM Technical Report: Matching SOTA Embedding Performance with 6\n  Million Open-Source Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02294",
+    "scraped_at": "2025-10-04T04:39:17.215148"
+  },
+  {
+    "title": "DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag\n  Editing",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02253",
+    "scraped_at": "2025-10-04T04:39:17.215462"
+  },
+  {
+    "title": "Learning to Reason for Hallucination Span Detection",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02173",
+    "scraped_at": "2025-10-04T04:39:17.215724"
+  },
+  {
+    "title": "TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP\n  Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01179",
+    "scraped_at": "2025-10-04T04:39:17.215963"
+  },
+  {
+    "title": "Aristotle: IMO-level Automated Theorem Proving",
+    "authors": "22 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01346",
+    "scraped_at": "2025-10-04T04:39:17.216228"
+  },
+  {
+    "title": "VideoNSA: Native Sparse Attention Scales Video Understanding",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02295",
+    "scraped_at": "2025-10-04T04:39:17.216499"
+  },
+  {
+    "title": "Visual Multi-Agent System: Mitigating Hallucination Snowballing via\n  Visual Flow",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.21789",
+    "scraped_at": "2025-10-04T04:39:17.216760"
+  },
+  {
+    "title": "Automated Structured Radiology Report Generation with Rich Clinical\n  Context",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00428",
+    "scraped_at": "2025-10-04T04:39:17.217032"
+  },
+  {
+    "title": "Go with Your Gut: Scaling Confidence for Autoregressive Image Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26376",
+    "scraped_at": "2025-10-04T04:39:17.217322"
+  },
+  {
+    "title": "Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01670",
+    "scraped_at": "2025-10-04T04:39:17.217538"
+  },
+  {
+    "title": "VLA-R1: Enhancing Reasoning in Vision-Language-Action Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01623",
+    "scraped_at": "2025-10-04T04:39:17.217803"
+  },
+  {
+    "title": "Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and\n  Reasoning in Vision-Language Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01304",
+    "scraped_at": "2025-10-04T04:39:17.218079"
+  },
+  {
+    "title": "Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject\n  Fidelity",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02315",
+    "scraped_at": "2025-10-04T04:39:17.218363"
+  },
+  {
+    "title": "RLAD: Training LLMs to Discover Abstractions for Solving Reasoning\n  Problems",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02263",
+    "scraped_at": "2025-10-04T04:39:17.218609"
+  },
+  {
+    "title": "Transformers Discover Molecular Structure Without Graph Priors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02259",
+    "scraped_at": "2025-10-04T04:39:17.218823"
+  },
+  {
+    "title": "VIRTUE: Visual-Interactive Text-Image Universal Embedder",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00523",
+    "scraped_at": "2025-10-04T04:39:17.219068"
+  },
+  {
+    "title": "Group-Relative REINFORCE Is Secretly an Off-Policy Algorithm:\n  Demystifying Some Myths About GRPO and Its Friends",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24203",
+    "scraped_at": "2025-10-04T04:39:17.219359"
+  },
+  {
+    "title": "Sparse Query Attention (SQA): A Computationally Efficient Attention\n  Mechanism with Query Heads Reduction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01817",
+    "scraped_at": "2025-10-04T04:39:17.219602"
+  },
+  {
+    "title": "Rethinking the shape convention of an MLP",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01796",
+    "scraped_at": "2025-10-04T04:39:17.219822"
+  },
+  {
+    "title": "SKYLENAGE Technical Report: Mathematical Reasoning and\n  Contest-Innovation Benchmarks for Multi-Level Math Evaluation",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01241",
+    "scraped_at": "2025-10-04T04:39:17.220066"
+  },
+  {
+    "title": "Parallel Scaling Law: Unveiling Reasoning Generalization through A\n  Cross-Linguistic Perspective",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02272",
+    "scraped_at": "2025-10-04T04:39:17.220313"
+  },
+  {
+    "title": "TimeSeriesScientist: A General-Purpose AI Agent for Time Series Analysis",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01538",
+    "scraped_at": "2025-10-04T04:39:17.220569"
+  },
+  {
+    "title": "Generalized Parallel Scaling with Interdependent Generations",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01143",
+    "scraped_at": "2025-10-04T04:39:17.220812"
+  },
+  {
+    "title": "Rethinking Thinking Tokens: LLMs as Improvement Operators",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01123",
+    "scraped_at": "2025-10-04T04:39:17.221056"
+  },
+  {
+    "title": "Optimizing What Matters: AUC-Driven Learning for Robust Neural Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00137",
+    "scraped_at": "2025-10-04T04:39:17.221304"
+  },
+  {
+    "title": "Controlled Generation for Private Synthetic Text",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25729",
+    "scraped_at": "2025-10-04T04:39:17.221527"
+  },
+  {
+    "title": "FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame\n  Spotlighting",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24304",
+    "scraped_at": "2025-10-04T04:39:17.221786"
+  },
+  {
+    "title": "Drawing Conclusions from Draws: Rethinking Preference Semantics in\n  Arena-Style LLM Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02306",
+    "scraped_at": "2025-10-04T04:39:17.222015"
+  },
+  {
+    "title": "MedQ-Bench: Evaluating and Exploring Medical Image Quality Assessment\n  Abilities in MLLMs",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01691",
+    "scraped_at": "2025-10-04T04:39:17.222274"
+  },
+  {
+    "title": "Spectral Scaling Laws in Language Models: How Effectively Do\n  Feed-Forward Networks Use Their Latent Space?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00537",
+    "scraped_at": "2025-10-04T04:39:17.222493"
+  },
+  {
+    "title": "One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy\n  Gradient",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26313",
+    "scraped_at": "2025-10-04T04:39:17.222748"
+  },
+  {
+    "title": "Fine-Grained Detection of Context-Grounded Hallucinations Using LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.22582",
+    "scraped_at": "2025-10-04T04:39:17.222962"
+  },
+  {
+    "title": "Think Right: Learning to Mitigate Under-Over Thinking via Adaptive,\n  Attentive Compression",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01581",
+    "scraped_at": "2025-10-04T04:39:17.223221"
+  },
+  {
+    "title": "AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with\n  Multi-Objective Guidance",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00352",
+    "scraped_at": "2025-10-04T04:39:17.223460"
+  },
+  {
+    "title": "SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking\n  for Training-free Zero-Shot Composed Image Retrieval",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26330",
+    "scraped_at": "2025-10-04T04:39:17.223715"
+  },
+  {
+    "title": "IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01260",
+    "scraped_at": "2025-10-04T04:39:17.223960"
+  }
+]
