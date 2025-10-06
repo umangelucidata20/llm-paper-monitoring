@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Compose Your Policies! Improving Diffusion-based or Flow-based Robot\n  Policies via Test-time Distribution-level Composition",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01068",
+    "scraped_at": "2025-10-06T04:41:09.890236"
+  },
+  {
+    "title": "Self-Improvement in Multimodal Large Language Models: A Survey",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02665",
+    "scraped_at": "2025-10-06T04:41:09.890639"
+  },
+  {
+    "title": "REPAIR: Robust Editing via Progressive Adaptive Intervention and\n  Reintegration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01879",
+    "scraped_at": "2025-10-06T04:41:09.890908"
+  },
+  {
+    "title": "Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26354",
+    "scraped_at": "2025-10-06T04:41:09.891201"
+  },
+  {
+    "title": "Improving GUI Grounding with Explicit Position-to-Coordinate Mapping",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03230",
+    "scraped_at": "2025-10-06T04:41:09.891471"
+  },
+  {
+    "title": "FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of\n  Web Agents",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03204",
+    "scraped_at": "2025-10-06T04:41:09.891788"
+  },
+  {
+    "title": "SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the\n  SpineMed-450k Corpus",
+    "authors": "26 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03160",
+    "scraped_at": "2025-10-06T04:41:09.892052"
+  },
+  {
+    "title": "SurveyBench: How Well Can LLM(-Agents) Write Academic Surveys?",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03120",
+    "scraped_at": "2025-10-06T04:41:09.892340"
+  },
+  {
+    "title": "How Confident are Video Models? Empowering Video Models to Express their\n  Uncertainty",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02571",
+    "scraped_at": "2025-10-06T04:41:09.892600"
+  },
+  {
+    "title": "LSPO: Length-aware Dynamic Sampling for Policy Optimization in LLM\n  Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01459",
+    "scraped_at": "2025-10-06T04:41:09.892846"
+  },
+  {
+    "title": "Free Lunch Alignment of Text-to-Image Diffusion Models without\n  Preference Image Pairs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25771",
+    "scraped_at": "2025-10-06T04:41:09.893069"
+  }
+]
