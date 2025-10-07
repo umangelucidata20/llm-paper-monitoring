@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05096",
+    "scraped_at": "2025-10-07T04:40:48.053336"
+  },
+  {
+    "title": "Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large\n  Multimodal Models",
+    "authors": "27 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05034",
+    "scraped_at": "2025-10-07T04:40:48.053664"
+  },
+  {
+    "title": "MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual\n  Information",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03632",
+    "scraped_at": "2025-10-07T04:40:48.053930"
+  },
+  {
+    "title": "Judging with Confidence: Calibrating Autoraters to Preference\n  Distributions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00263",
+    "scraped_at": "2025-10-07T04:40:48.054187"
+  },
+  {
+    "title": "Hybrid Architectures for Language Models: Systematic Analysis and Design\n  Insights",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04800",
+    "scraped_at": "2025-10-07T04:40:48.054413"
+  },
+  {
+    "title": "Factuality Matters: When Image Generation and Editing Meet Structured\n  Visuals",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05091",
+    "scraped_at": "2025-10-07T04:40:48.054688"
+  },
+  {
+    "title": "Reinforce-Ada: An Adaptive Sampling Framework for Reinforce-Style LLM\n  Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04996",
+    "scraped_at": "2025-10-07T04:40:48.054916"
+  },
+  {
+    "title": "SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior\n  Reasoning LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05069",
+    "scraped_at": "2025-10-07T04:40:48.055165"
+  },
+  {
+    "title": "ChronoEdit: Towards Temporal Reasoning for Image Editing and World\n  Simulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04290",
+    "scraped_at": "2025-10-07T04:40:48.055388"
+  },
+  {
+    "title": "Front-Loading Reasoning: The Synergy between Pretraining and\n  Post-Training Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03264",
+    "scraped_at": "2025-10-07T04:40:48.055609"
+  },
+  {
+    "title": "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05094",
+    "scraped_at": "2025-10-07T04:40:48.055880"
+  },
+  {
+    "title": "Watch and Learn: Learning to Use Computers from Online Videos",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04673",
+    "scraped_at": "2025-10-07T04:40:48.056157"
+  },
+  {
+    "title": "Reactive Transformer (RxT) -- Stateful Real-Time Processing for\n  Event-Driven Reactive Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03561",
+    "scraped_at": "2025-10-07T04:40:48.056396"
+  },
+  {
+    "title": "HiKE: Hierarchical Evaluation Framework for Korean-English\n  Code-Switching Speech Recognition",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24613",
+    "scraped_at": "2025-10-07T04:40:48.056642"
+  },
+  {
+    "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving\n  Language Models",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04618",
+    "scraped_at": "2025-10-07T04:40:48.056894"
+  },
+  {
+    "title": "Utility-Learning Tension in Self-Modifying Agents",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04399",
+    "scraped_at": "2025-10-07T04:40:48.057158"
+  },
+  {
+    "title": "Thai Semantic End-of-Turn Detection for Real-Time Voice Agents",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04016",
+    "scraped_at": "2025-10-07T04:40:48.057406"
+  },
+  {
+    "title": "AdvEvo-MARL: Shaping Internalized Safety through Adversarial\n  Co-Evolution in Multi-Agent Reinforcement Learning",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01586",
+    "scraped_at": "2025-10-07T04:40:48.057659"
+  },
+  {
+    "title": "Graph2Eval: Automatic Multimodal Task Generation for Agents via\n  Knowledge Graphs",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.00507",
+    "scraped_at": "2025-10-07T04:40:48.057927"
+  },
+  {
+    "title": "Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04434",
+    "scraped_at": "2025-10-07T04:40:48.058199"
+  }
+]
