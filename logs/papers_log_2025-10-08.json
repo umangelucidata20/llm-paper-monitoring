@@ -1,0 +1,128 @@
+[
+  {
+    "title": "TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular\n  Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06217",
+    "scraped_at": "2025-10-08T04:41:10.657619"
+  },
+  {
+    "title": "Fast-dLLM v2: Efficient Block-Diffusion LLM",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26328",
+    "scraped_at": "2025-10-08T04:41:10.657926"
+  },
+  {
+    "title": "CoDA: Coding LM via Diffusion Adaptation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03270",
+    "scraped_at": "2025-10-08T04:41:10.658224"
+  },
+  {
+    "title": "AInstein: Assessing the Feasibility of AI-Generated Approaches to\n  Research Problems",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05432",
+    "scraped_at": "2025-10-08T04:41:10.658494"
+  },
+  {
+    "title": "ASPO: Asymmetric Importance Sampling Policy Optimization",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06062",
+    "scraped_at": "2025-10-08T04:41:10.658748"
+  },
+  {
+    "title": "HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05560",
+    "scraped_at": "2025-10-08T04:41:10.659024"
+  },
+  {
+    "title": "Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model\n  Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04081",
+    "scraped_at": "2025-10-08T04:41:10.659324"
+  },
+  {
+    "title": "Demystifying deep search: a holistic evaluation with hint-free multi-hop\n  questions and factorised metrics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05137",
+    "scraped_at": "2025-10-08T04:41:10.659555"
+  },
+  {
+    "title": "Mixing Mechanisms: How Language Models Retrieve Bound Entities\n  In-Context",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06182",
+    "scraped_at": "2025-10-08T04:41:10.659797"
+  },
+  {
+    "title": "LightCache: Memory-Efficient, Training-Free Acceleration for Video\n  Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05367",
+    "scraped_at": "2025-10-08T04:41:10.660101"
+  },
+  {
+    "title": "Margin Adaptive DPO: Leveraging Reward Model for Granular Control in\n  Preference Optimization",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05342",
+    "scraped_at": "2025-10-08T04:41:10.660363"
+  },
+  {
+    "title": "EgoNight: Towards Egocentric Vision Understanding at Night with a\n  Challenging Benchmark",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06218",
+    "scraped_at": "2025-10-08T04:41:10.660616"
+  },
+  {
+    "title": "Deforming Videos to Masks: Flow Matching for Referring Video\n  Segmentation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06139",
+    "scraped_at": "2025-10-08T04:41:10.660860"
+  },
+  {
+    "title": "Discrete Diffusion Models with MLLMs for Unified Medical Multimodal\n  Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06131",
+    "scraped_at": "2025-10-08T04:41:10.661122"
+  },
+  {
+    "title": "A Contextual Quality Reward Model for Reliable and Efficient Best-of-N\n  Sampling",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04087",
+    "scraped_at": "2025-10-08T04:41:10.661364"
+  },
+  {
+    "title": "VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05156",
+    "scraped_at": "2025-10-08T04:41:10.661577"
+  },
+  {
+    "title": "CARE: Cognitive-reasoning Augmented Reinforcement for Emotional Support\n  Conversation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05122",
+    "scraped_at": "2025-10-08T04:41:10.661794"
+  },
+  {
+    "title": "DRIFT: Learning from Abundant User Dissatisfaction in Real-World\n  Preference Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02341",
+    "scraped_at": "2025-10-08T04:41:10.662044"
+  }
+]
