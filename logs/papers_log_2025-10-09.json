@@ -1,0 +1,128 @@
+[
+  {
+    "title": "SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06917",
+    "scraped_at": "2025-10-09T04:42:23.008692"
+  },
+  {
+    "title": "Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal\n  Generation and Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06308",
+    "scraped_at": "2025-10-09T04:42:23.008999"
+  },
+  {
+    "title": "Vibe Checker: Aligning Code Evaluation with Human Preference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07315",
+    "scraped_at": "2025-10-09T04:42:23.009260"
+  },
+  {
+    "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language\n  Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03215",
+    "scraped_at": "2025-10-09T04:42:23.009515"
+  },
+  {
+    "title": "Multi-Agent Tool-Integrated Policy Optimization",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04678",
+    "scraped_at": "2025-10-09T04:42:23.009803"
+  },
+  {
+    "title": "MATRIX: Mask Track Alignment for Interaction-aware Video Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07310",
+    "scraped_at": "2025-10-09T04:42:23.010073"
+  },
+  {
+    "title": "OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06751",
+    "scraped_at": "2025-10-09T04:42:23.010311"
+  },
+  {
+    "title": "Artificial Hippocampus Networks for Efficient Long-Context Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07318",
+    "scraped_at": "2025-10-09T04:42:23.010558"
+  },
+  {
+    "title": "Why Low-Precision Transformer Training Fails: An Analysis on Flash\n  Attention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04212",
+    "scraped_at": "2025-10-09T04:42:23.010853"
+  },
+  {
+    "title": "When Benchmarks Age: Temporal Misalignment through Large Language Model\n  Factuality Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07238",
+    "scraped_at": "2025-10-09T04:42:23.011153"
+  },
+  {
+    "title": "Revisiting Long-context Modeling from Context Denoising Perspective",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05862",
+    "scraped_at": "2025-10-09T04:42:23.011375"
+  },
+  {
+    "title": "WristWorld: Generating Wrist-Views via 4D World Models for Robotic\n  Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07313",
+    "scraped_at": "2025-10-09T04:42:23.011594"
+  },
+  {
+    "title": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07307",
+    "scraped_at": "2025-10-09T04:42:23.011833"
+  },
+  {
+    "title": "TTRV: Test-Time Reinforcement Learning for Vision Language Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06783",
+    "scraped_at": "2025-10-09T04:42:23.012098"
+  },
+  {
+    "title": "Bridging Text and Video Generation: A Survey",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04999",
+    "scraped_at": "2025-10-09T04:42:23.012351"
+  },
+  {
+    "title": "AlphaApollo: Orchestrating Foundation Models and Professional Tools into\n  a Self-Evolving System for Deep Agentic Reasoning",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06261",
+    "scraped_at": "2025-10-09T04:42:23.012616"
+  },
+  {
+    "title": "U-Bench: A Comprehensive Understanding of U-Net through 100-Variant\n  Benchmarking",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07041",
+    "scraped_at": "2025-10-09T04:42:23.012899"
+  },
+  {
+    "title": "D^3QE: Learning Discrete Distribution Discrepancy-aware\n  Quantization Error for Autoregressive-Generated Image Detection",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05891",
+    "scraped_at": "2025-10-09T04:42:23.013165"
+  }
+]
