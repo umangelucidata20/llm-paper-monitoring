@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Agent Learning via Early Experience",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08558",
+    "scraped_at": "2025-10-12T04:40:08.230218"
+  },
+  {
+    "title": "MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with\n  Holistic Platform and Adaptive Hybrid Policy Optimization",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08540",
+    "scraped_at": "2025-10-12T04:40:08.230579"
+  },
+  {
+    "title": "MemMamba: Rethinking Memory Patterns in State Space Model",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03279",
+    "scraped_at": "2025-10-12T04:40:08.230877"
+  },
+  {
+    "title": "VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal\n  Patches via In-Context Conditioning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08555",
+    "scraped_at": "2025-10-12T04:40:08.231153"
+  },
+  {
+    "title": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08377",
+    "scraped_at": "2025-10-12T04:40:08.231420"
+  },
+  {
+    "title": "DreamOmni2: Multimodal Instruction-based Editing and Generation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06679",
+    "scraped_at": "2025-10-12T04:40:08.231734"
+  },
+  {
+    "title": "From What to Why: A Multi-Agent System for Evidence-based Chemical\n  Reaction Condition Reasoning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23768",
+    "scraped_at": "2025-10-12T04:40:08.232002"
+  },
+  {
+    "title": "Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement\n  Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03259",
+    "scraped_at": "2025-10-12T04:40:08.232271"
+  },
+  {
+    "title": "When Thoughts Meet Facts: Reusable Reasoning for Long-Context LMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07499",
+    "scraped_at": "2025-10-12T04:40:08.232502"
+  },
+  {
+    "title": "Low-probability Tokens Sustain Exploration in Reinforcement Learning\n  with Verifiable Reward",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03222",
+    "scraped_at": "2025-10-12T04:40:08.232746"
+  },
+  {
+    "title": "The Alignment Waltz: Jointly Training Agents to Collaborate for Safety",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08240",
+    "scraped_at": "2025-10-12T04:40:08.232965"
+  },
+  {
+    "title": "Training-Free Group Relative Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08191",
+    "scraped_at": "2025-10-12T04:40:08.233220"
+  },
+  {
+    "title": "Hybrid Reinforcement: When Reward Is Sparse, It's Better to Be Dense",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07242",
+    "scraped_at": "2025-10-12T04:40:08.233437"
+  },
+  {
+    "title": "NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM\n  Agents",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07172",
+    "scraped_at": "2025-10-12T04:40:08.233720"
+  },
+  {
+    "title": "ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D\n  Reconstruction with Structured Scene Representation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08551",
+    "scraped_at": "2025-10-12T04:40:08.233951"
+  },
+  {
+    "title": "DeepPrune: Parallel Scaling without Inter-trace Redundancy",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08483",
+    "scraped_at": "2025-10-12T04:40:08.234211"
+  },
+  {
+    "title": "First Try Matters: Revisiting the Role of Reflection in Reasoning Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08308",
+    "scraped_at": "2025-10-12T04:40:08.234463"
+  },
+  {
+    "title": "LLMs Learn to Deceive Unintentionally: Emergent Misalignment in\n  Dishonesty from Misaligned Samples to Biased Human-AI Interactions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08211",
+    "scraped_at": "2025-10-12T04:40:08.234688"
+  },
+  {
+    "title": "UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video\n  Super-Resolution",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08143",
+    "scraped_at": "2025-10-12T04:40:08.234923"
+  },
+  {
+    "title": "NaViL: Rethinking Scaling Properties of Native Multimodal Large Language\n  Models under Data Constraints",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08565",
+    "scraped_at": "2025-10-12T04:40:08.235179"
+  },
+  {
+    "title": "CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08529",
+    "scraped_at": "2025-10-12T04:40:08.235465"
+  },
+  {
+    "title": "PickStyle: Video-to-Video Style Transfer with Context-Style Adapters",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07546",
+    "scraped_at": "2025-10-12T04:40:08.235692"
+  },
+  {
+    "title": "InstructX: Towards Unified Visual Editing with MLLM Guidance",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08485",
+    "scraped_at": "2025-10-12T04:40:08.235941"
+  },
+  {
+    "title": "UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03663",
+    "scraped_at": "2025-10-12T04:40:08.236199"
+  },
+  {
+    "title": "LongRM: Revealing and Unlocking the Context Boundary of Reward Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06915",
+    "scraped_at": "2025-10-12T04:40:08.236441"
+  },
+  {
+    "title": "Learning on the Job: An Experience-Driven Self-Evolving Agent for\n  Long-Horizon Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08002",
+    "scraped_at": "2025-10-12T04:40:08.236665"
+  },
+  {
+    "title": "Reinforcing Diffusion Models by Direct Group Preference Optimization",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08425",
+    "scraped_at": "2025-10-12T04:40:08.236917"
+  },
+  {
+    "title": "Taming Text-to-Sounding Video Generation via Advanced Modality Condition\n  and Interaction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.03117",
+    "scraped_at": "2025-10-12T04:40:08.237153"
+  },
+  {
+    "title": "SciVideoBench: Benchmarking Scientific Video Reasoning in Large\n  Multimodal Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08559",
+    "scraped_at": "2025-10-12T04:40:08.237423"
+  },
+  {
+    "title": "Large Scale Diffusion Distillation via Score-Regularized Continuous-Time\n  Consistency",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08431",
+    "scraped_at": "2025-10-12T04:40:08.237673"
+  },
+  {
+    "title": "Beyond Turn Limits: Training Deep Search Agents with Dynamic Context\n  Window",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08276",
+    "scraped_at": "2025-10-12T04:40:08.237922"
+  },
+  {
+    "title": "OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward\n  Modeling and LLM Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07743",
+    "scraped_at": "2025-10-12T04:40:08.238146"
+  },
+  {
+    "title": "Entropy Regularizing Activation: Boosting Continuous Control, Large\n  Language Models, and Image Classification with Activation as Entropy\n  Constraints",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08549",
+    "scraped_at": "2025-10-12T04:40:08.238428"
+  },
+  {
+    "title": "Memory Retrieval and Consolidation in Large Language Models through\n  Function Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08203",
+    "scraped_at": "2025-10-12T04:40:08.238641"
+  },
+  {
+    "title": "Recycling Pretrained Checkpoints: Orthogonal Growth of\n  Mixture-of-Experts for Efficient Large Language Model Pre-Training",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08008",
+    "scraped_at": "2025-10-12T04:40:08.238901"
+  },
+  {
+    "title": "GCPO: When Contrast Fails, Go Gold",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07790",
+    "scraped_at": "2025-10-12T04:40:08.239154"
+  },
+  {
+    "title": "UP2You: Fast Reconstruction of Yourself from Unconstrained Photo\n  Collections",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24817",
+    "scraped_at": "2025-10-12T04:40:08.239440"
+  },
+  {
+    "title": "OmniRetarget: Interaction-Preserving Data Generation for Humanoid\n  Whole-Body Loco-Manipulation and Scene Interaction",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.26633",
+    "scraped_at": "2025-10-12T04:40:08.239685"
+  },
+  {
+    "title": "DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via\n  Joint-Wise Neural Dynamics Model",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08556",
+    "scraped_at": "2025-10-12T04:40:08.239929"
+  },
+  {
+    "title": "A^2Search: Ambiguity-Aware Question Answering with Reinforcement\n  Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07958",
+    "scraped_at": "2025-10-12T04:40:08.240177"
+  },
+  {
+    "title": "Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07429",
+    "scraped_at": "2025-10-12T04:40:08.240431"
+  },
+  {
+    "title": "Search-R3: Unifying Reasoning and Embedding Generation in Large Language\n  Models",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07048",
+    "scraped_at": "2025-10-12T04:40:08.240693"
+  },
+  {
+    "title": "R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized\n  Manipulation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08547",
+    "scraped_at": "2025-10-12T04:40:08.240947"
+  },
+  {
+    "title": "Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06209",
+    "scraped_at": "2025-10-12T04:40:08.241212"
+  },
+  {
+    "title": "Beyond Outliers: A Study of Optimizers Under Quantization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.23500",
+    "scraped_at": "2025-10-12T04:40:08.241438"
+  },
+  {
+    "title": "SViM3D: Stable Video Material Diffusion for Single Image 3D Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08271",
+    "scraped_at": "2025-10-12T04:40:08.241651"
+  },
+  {
+    "title": "GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07314",
+    "scraped_at": "2025-10-12T04:40:08.241864"
+  },
+  {
+    "title": "Towards Scalable and Consistent 3D Editing",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02994",
+    "scraped_at": "2025-10-12T04:40:08.242117"
+  },
+  {
+    "title": "Use the Online Network If You Can: Towards Fast and Stable Reinforcement\n  Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.02590",
+    "scraped_at": "2025-10-12T04:40:08.242391"
+  },
+  {
+    "title": "Fidelity-Aware Data Composition for Robust Robot Generalization",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.24797",
+    "scraped_at": "2025-10-12T04:40:08.242816"
+  }
+]
