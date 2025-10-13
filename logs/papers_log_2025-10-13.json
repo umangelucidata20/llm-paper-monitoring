@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Thinking with Camera: A Unified Multimodal Model for Camera-Centric\n  Understanding and Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08673",
+    "scraped_at": "2025-10-13T04:42:38.993649"
+  },
+  {
+    "title": "TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion\n  Sampling",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04533",
+    "scraped_at": "2025-10-13T04:42:38.994187"
+  },
+  {
+    "title": "Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for\n  MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09201",
+    "scraped_at": "2025-10-13T04:42:38.994472"
+  },
+  {
+    "title": "Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining\n  Levels",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.06499",
+    "scraped_at": "2025-10-13T04:42:38.994735"
+  },
+  {
+    "title": "SpaceVista: All-Scale Visual Spatial Reasoning from mm to km",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09606",
+    "scraped_at": "2025-10-13T04:42:38.995042"
+  },
+  {
+    "title": "StreamingVLM: Real-Time Understanding for Infinite Video Streams",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09608",
+    "scraped_at": "2025-10-13T04:42:38.995316"
+  },
+  {
+    "title": "Don't Waste Mistakes: Leveraging Negative RL-Groups via Confidence\n  Reweighting",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08696",
+    "scraped_at": "2025-10-13T04:42:38.995571"
+  },
+  {
+    "title": "AutoPR: Let's Automate Your Academic Promotion!",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09558",
+    "scraped_at": "2025-10-13T04:42:38.995886"
+  },
+  {
+    "title": "StatEval: A Comprehensive Benchmark for Large Language Models in\n  Statistics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09517",
+    "scraped_at": "2025-10-13T04:42:38.996112"
+  },
+  {
+    "title": "R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth\n  and Depth?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08189",
+    "scraped_at": "2025-10-13T04:42:38.996342"
+  },
+  {
+    "title": "Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open\n  Vocabulary Occupancy Prediction",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04759",
+    "scraped_at": "2025-10-13T04:42:38.996609"
+  },
+  {
+    "title": "MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for\n  Reasoning-Intensive Multimodal Retrieval",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09510",
+    "scraped_at": "2025-10-13T04:42:38.996906"
+  },
+  {
+    "title": "BigCodeArena: Unveiling More Reliable Human Preferences in Code\n  Generation via Execution",
+    "authors": "40 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08697",
+    "scraped_at": "2025-10-13T04:42:38.997158"
+  },
+  {
+    "title": "Dyna-Mind: Learning to Simulate from Experience for Better AI Agents",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09577",
+    "scraped_at": "2025-10-13T04:42:38.997409"
+  },
+  {
+    "title": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future\n  of Peer Review",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08867",
+    "scraped_at": "2025-10-13T04:42:38.997654"
+  },
+  {
+    "title": "ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level\n  Entropy Shaping",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08457",
+    "scraped_at": "2025-10-13T04:42:38.997933"
+  },
+  {
+    "title": "Pseudo2Real: Task Arithmetic for Pseudo-Label Correction in Automatic\n  Speech Recognition",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08047",
+    "scraped_at": "2025-10-13T04:42:38.998194"
+  },
+  {
+    "title": "Parallel Test-Time Scaling for Latent Reasoning Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07745",
+    "scraped_at": "2025-10-13T04:42:38.998428"
+  },
+  {
+    "title": "Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in\n  Spoken Language Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09592",
+    "scraped_at": "2025-10-13T04:42:38.998691"
+  },
+  {
+    "title": "PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09507",
+    "scraped_at": "2025-10-13T04:42:38.998990"
+  },
+  {
+    "title": "Understanding DeepResearch via Reports",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07861",
+    "scraped_at": "2025-10-13T04:42:38.999242"
+  },
+  {
+    "title": "A Goal Without a Plan Is Just a Wish: Efficient and Effective Global\n  Planner Training for Long-Horizon Agent Tasks",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.05608",
+    "scraped_at": "2025-10-13T04:42:38.999490"
+  },
+  {
+    "title": "TC-LoRA: Temporally Modulated Conditional LoRA for Adaptive Diffusion\n  Control",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09561",
+    "scraped_at": "2025-10-13T04:42:38.999733"
+  },
+  {
+    "title": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08872",
+    "scraped_at": "2025-10-13T04:42:39"
+  },
+  {
+    "title": "ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual\n  Recall",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07896",
+    "scraped_at": "2025-10-13T04:42:39.000247"
+  },
+  {
+    "title": "Temporal Prompting Matters: Rethinking Referring Video Object\n  Segmentation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07319",
+    "scraped_at": "2025-10-13T04:42:39.000502"
+  },
+  {
+    "title": "Mitigating Overthinking through Reasoning Shaping",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09535",
+    "scraped_at": "2025-10-13T04:42:39.000745"
+  },
+  {
+    "title": "Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive\n  Text-to-image Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08994",
+    "scraped_at": "2025-10-13T04:42:39.001021"
+  },
+  {
+    "title": "Instant4D: 4D Gaussian Splatting in Minutes",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.01119",
+    "scraped_at": "2025-10-13T04:42:39.001263"
+  }
+]
