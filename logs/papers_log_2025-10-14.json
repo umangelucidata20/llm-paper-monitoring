@@ -1,0 +1,240 @@
+[
+  {
+    "title": "QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning\n  for LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11696",
+    "scraped_at": "2025-10-14T04:41:40.706320"
+  },
+  {
+    "title": "OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni\n  MLLMs",
+    "authors": "42 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10689",
+    "scraped_at": "2025-10-14T04:41:40.706644"
+  },
+  {
+    "title": "Diffusion Transformers with Representation Autoencoders",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11690",
+    "scraped_at": "2025-10-14T04:41:40.706940"
+  },
+  {
+    "title": "Demystifying Reinforcement Learning in Agentic Reasoning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11701",
+    "scraped_at": "2025-10-14T04:41:40.707261"
+  },
+  {
+    "title": "AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10395",
+    "scraped_at": "2025-10-14T04:41:40.707551"
+  },
+  {
+    "title": "Making Mathematical Reasoning Adaptive",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04617",
+    "scraped_at": "2025-10-14T04:41:40.707843"
+  },
+  {
+    "title": "AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning\n  in 4D Scenes",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10670",
+    "scraped_at": "2025-10-14T04:41:40.708092"
+  },
+  {
+    "title": "DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11712",
+    "scraped_at": "2025-10-14T04:41:40.708381"
+  },
+  {
+    "title": "FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark\n  for Evaluating LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08886",
+    "scraped_at": "2025-10-14T04:41:40.708635"
+  },
+  {
+    "title": "Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11027",
+    "scraped_at": "2025-10-14T04:41:40.708911"
+  },
+  {
+    "title": "GIR-Bench: Versatile Benchmark for Generating Images with Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11026",
+    "scraped_at": "2025-10-14T04:41:40.709175"
+  },
+  {
+    "title": "RLFR: Extending Reinforcement Learning for LLMs with Flow Environment",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10201",
+    "scraped_at": "2025-10-14T04:41:40.709451"
+  },
+  {
+    "title": "Building a Foundational Guardrail for General Agentic Systems via\n  Synthetic Data",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09781",
+    "scraped_at": "2025-10-14T04:41:40.709709"
+  },
+  {
+    "title": "SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09541",
+    "scraped_at": "2025-10-14T04:41:40.709956"
+  },
+  {
+    "title": "On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in\n  Large Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09008",
+    "scraped_at": "2025-10-14T04:41:40.710219"
+  },
+  {
+    "title": "CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven\n  Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11718",
+    "scraped_at": "2025-10-14T04:41:40.710467"
+  },
+  {
+    "title": "ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web\n  Coding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11498",
+    "scraped_at": "2025-10-14T04:41:40.710714"
+  },
+  {
+    "title": "Skill-Targeted Adaptive Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10023",
+    "scraped_at": "2025-10-14T04:41:40.710941"
+  },
+  {
+    "title": "Self-Improving LLM Agents at Test-Time",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07841",
+    "scraped_at": "2025-10-14T04:41:40.711224"
+  },
+  {
+    "title": "The Personalization Trap: How User Memory Alters Emotional Reasoning in\n  LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09905",
+    "scraped_at": "2025-10-14T04:41:40.711461"
+  },
+  {
+    "title": "PEAR: Phase Entropy Aware Reward for Efficient Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08026",
+    "scraped_at": "2025-10-14T04:41:40.711701"
+  },
+  {
+    "title": "DocReward: A Document Reward Model for Structuring and Stylizing",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11391",
+    "scraped_at": "2025-10-14T04:41:40.711960"
+  },
+  {
+    "title": "FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging\n  with Diffusion Decoding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10868",
+    "scraped_at": "2025-10-14T04:41:40.712212"
+  },
+  {
+    "title": "BrowserAgent: Building Web Agents with Human-Inspired Web Browsing\n  Actions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10666",
+    "scraped_at": "2025-10-14T04:41:40.712437"
+  },
+  {
+    "title": "InfiniHuman: Infinite 3D Human Creation with Precise Control",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11650",
+    "scraped_at": "2025-10-14T04:41:40.712688"
+  },
+  {
+    "title": "RePro: Training Language Models to Faithfully Recycle the Web for\n  Pretraining",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10681",
+    "scraped_at": "2025-10-14T04:41:40.712935"
+  },
+  {
+    "title": "LLaMAX2: Your Translation-Enhanced Model also Performs Well in Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09189",
+    "scraped_at": "2025-10-14T04:41:40.713214"
+  },
+  {
+    "title": "Graph Diffusion Transformers are In-Context Molecular Designers",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.08744",
+    "scraped_at": "2025-10-14T04:41:40.713495"
+  },
+  {
+    "title": "Are Large Reasoning Models Interruptible?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11713",
+    "scraped_at": "2025-10-14T04:41:40.713746"
+  },
+  {
+    "title": "IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing\n  Assessment",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11647",
+    "scraped_at": "2025-10-14T04:41:40.714016"
+  },
+  {
+    "title": "LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion\n  Models via Likelihood Preference",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11512",
+    "scraped_at": "2025-10-14T04:41:40.714276"
+  },
+  {
+    "title": "The Hidden DNA of LLM-Generated JavaScript: Structural Patterns Enable\n  High-Accuracy Authorship Attribution",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10493",
+    "scraped_at": "2025-10-14T04:41:40.714529"
+  },
+  {
+    "title": "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic\n  Manipulation Learning with Gaussian Splatting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10637",
+    "scraped_at": "2025-10-14T04:41:40.714752"
+  },
+  {
+    "title": "Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole\n  Slide Image Diagnosis Behavior",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04587",
+    "scraped_at": "2025-10-14T04:41:40.714973"
+  }
+]
