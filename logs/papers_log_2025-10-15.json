@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Advancing End-to-End Pixel Space Generative Modeling via Self-supervised\n  Pre-training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12586",
+    "scraped_at": "2025-10-15T04:42:05.159479"
+  },
+  {
+    "title": "DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel\n  Translation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09116",
+    "scraped_at": "2025-10-15T04:42:05.159783"
+  },
+  {
+    "title": "Scaling Language-Centric Omnimodal Representation Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11693",
+    "scraped_at": "2025-10-15T04:42:05.160068"
+  },
+  {
+    "title": "FlashVSR: Towards Real-Time Diffusion-Based Streaming Video\n  Super-Resolution",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12747",
+    "scraped_at": "2025-10-15T04:42:05.160391"
+  },
+  {
+    "title": "Detect Anything via Next Point Prediction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12798",
+    "scraped_at": "2025-10-15T04:42:05.160632"
+  },
+  {
+    "title": "A Survey of Vibe Coding with Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12399",
+    "scraped_at": "2025-10-15T04:42:05.160879"
+  },
+  {
+    "title": "ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning\n  and Online Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12693",
+    "scraped_at": "2025-10-15T04:42:05.161111"
+  },
+  {
+    "title": "Spatial Forcing: Implicit Spatial Representation Alignment for\n  Vision-language-action Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12276",
+    "scraped_at": "2025-10-15T04:42:05.161385"
+  },
+  {
+    "title": "Dr.LLM: Dynamic Layer Routing in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12773",
+    "scraped_at": "2025-10-15T04:42:05.161631"
+  },
+  {
+    "title": "Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion\n  Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11683",
+    "scraped_at": "2025-10-15T04:42:05.161867"
+  },
+  {
+    "title": "SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12784",
+    "scraped_at": "2025-10-15T04:42:05.162104"
+  },
+  {
+    "title": "Memory as Action: Autonomous Context Curation for Long-Horizon Agentic\n  Tasks",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12635",
+    "scraped_at": "2025-10-15T04:42:05.162386"
+  },
+  {
+    "title": "SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12709",
+    "scraped_at": "2025-10-15T04:42:05.162604"
+  },
+  {
+    "title": "DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12801",
+    "scraped_at": "2025-10-15T04:42:05.162821"
+  },
+  {
+    "title": "UniFusion: Vision-Language Model as Unified Encoder in Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12789",
+    "scraped_at": "2025-10-15T04:42:05.163036"
+  },
+  {
+    "title": "What If : Understanding Motion Through Sparse Interactions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12777",
+    "scraped_at": "2025-10-15T04:42:05.163291"
+  },
+  {
+    "title": "HoneyBee: Data Recipes for Vision-Language Reasoners",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12225",
+    "scraped_at": "2025-10-15T04:42:05.163509"
+  },
+  {
+    "title": "LLM Reasoning for Machine Translation: Synthetic Data Generation over\n  Thinking Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11919",
+    "scraped_at": "2025-10-15T04:42:05.163724"
+  }
+]
