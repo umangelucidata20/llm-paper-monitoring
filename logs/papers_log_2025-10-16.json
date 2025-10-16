@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm\n  Enables Fine-Grained Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13554",
+    "scraped_at": "2025-10-16T04:41:44.592427"
+  },
+  {
+    "title": "FlashWorld: High-quality 3D Scene Generation within Seconds",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13678",
+    "scraped_at": "2025-10-16T04:41:44.592774"
+  },
+  {
+    "title": "InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn\n  Dialogue",
+    "authors": "26 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13747",
+    "scraped_at": "2025-10-16T04:41:44.593076"
+  },
+  {
+    "title": "CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal\n  Reconstruction Model for Autonomous Driving",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.07944",
+    "scraped_at": "2025-10-16T04:41:44.593418"
+  },
+  {
+    "title": "Generative Universal Verifier as Multimodal Meta-Reasoner",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13804",
+    "scraped_at": "2025-10-16T04:41:44.593659"
+  },
+  {
+    "title": "Trace Anything: Representing Any Video in 4D via Trajectory Fields",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13802",
+    "scraped_at": "2025-10-16T04:41:44.593897"
+  },
+  {
+    "title": "Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully\n  Open MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13795",
+    "scraped_at": "2025-10-16T04:41:44.594129"
+  },
+  {
+    "title": "LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action\n  Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13626",
+    "scraped_at": "2025-10-16T04:41:44.594413"
+  },
+  {
+    "title": "ParallelBench: Understanding the Trade-offs of Parallel Decoding in\n  Diffusion LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.04767",
+    "scraped_at": "2025-10-16T04:41:44.594663"
+  },
+  {
+    "title": "The Role of Computing Resources in Publishing Foundation Model Research",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13621",
+    "scraped_at": "2025-10-16T04:41:44.594933"
+  },
+  {
+    "title": "UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13515",
+    "scraped_at": "2025-10-16T04:41:44.595232"
+  },
+  {
+    "title": "Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13759",
+    "scraped_at": "2025-10-16T04:41:44.595479"
+  },
+  {
+    "title": "FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10921",
+    "scraped_at": "2025-10-16T04:41:44.595745"
+  },
+  {
+    "title": "PhysMaster: Mastering Physical Representation for Video Generation via\n  Reinforcement Learning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13809",
+    "scraped_at": "2025-10-16T04:41:44.596013"
+  },
+  {
+    "title": "Revisiting Model Interpolation for Efficient Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10977",
+    "scraped_at": "2025-10-16T04:41:44.596282"
+  },
+  {
+    "title": "UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity\n  MoE",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13344",
+    "scraped_at": "2025-10-16T04:41:44.596516"
+  },
+  {
+    "title": "Direct Multi-Token Decoding",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.11958",
+    "scraped_at": "2025-10-16T04:41:44.596771"
+  },
+  {
+    "title": "NOSA: Native and Offloadable Sparse Attention",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13602",
+    "scraped_at": "2025-10-16T04:41:44.597028"
+  },
+  {
+    "title": "CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in\n  Latent World Models for Autonomous Driving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12560",
+    "scraped_at": "2025-10-16T04:41:44.597296"
+  },
+  {
+    "title": "Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier\n  Math",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13744",
+    "scraped_at": "2025-10-16T04:41:44.597545"
+  },
+  {
+    "title": "MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic\n  Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12831",
+    "scraped_at": "2025-10-16T04:41:44.597789"
+  },
+  {
+    "title": "HyperAgent: Leveraging Hypergraphs for Topology Optimization in\n  Multi-Agent Communication",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10611",
+    "scraped_at": "2025-10-16T04:41:44.598065"
+  },
+  {
+    "title": "GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust\n  Multi-Turn Deep Search",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10581",
+    "scraped_at": "2025-10-16T04:41:44.598385"
+  },
+  {
+    "title": "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for\n  Generalist Robot Policy",
+    "authors": "29 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13778",
+    "scraped_at": "2025-10-16T04:41:44.598666"
+  },
+  {
+    "title": "Deflanderization for Game Dialogue: Balancing Character Authenticity\n  with Task Execution in LLM-based NPCs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13586",
+    "scraped_at": "2025-10-16T04:41:44.598887"
+  },
+  {
+    "title": "Universal Image Restoration Pre-training via Masked Degradation\n  Classification",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13282",
+    "scraped_at": "2025-10-16T04:41:44.599146"
+  },
+  {
+    "title": "X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment\n  Vision-Language-Action Model",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10274",
+    "scraped_at": "2025-10-16T04:41:44.599447"
+  }
+]
