@@ -1,0 +1,170 @@
+[
+  {
+    "title": "WithAnyone: Towards Controllable and ID Consistent Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14975",
+    "scraped_at": "2025-10-17T04:42:04.090997"
+  },
+  {
+    "title": "From Pixels to Words -- Towards Native Vision-Language Primitives at\n  Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14979",
+    "scraped_at": "2025-10-17T04:42:04.091295"
+  },
+  {
+    "title": "Agentic Entropy-Balanced Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14545",
+    "scraped_at": "2025-10-17T04:42:04.091627"
+  },
+  {
+    "title": "AI for Service: Proactive Assistance with AI Glasses",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14359",
+    "scraped_at": "2025-10-17T04:42:04.091868"
+  },
+  {
+    "title": "Information Gain-based Policy Optimization: A Simple and Effective\n  Approach for Multi-Turn LLM Agents",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14967",
+    "scraped_at": "2025-10-17T04:42:04.092126"
+  },
+  {
+    "title": "LaSeR: Reinforcement Learning with Last-Token Self-Rewarding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14943",
+    "scraped_at": "2025-10-17T04:42:04.092409"
+  },
+  {
+    "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14528",
+    "scraped_at": "2025-10-17T04:42:04.092646"
+  },
+  {
+    "title": "Attention Is All You Need for KV Cache in Diffusion LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14973",
+    "scraped_at": "2025-10-17T04:42:04.092886"
+  },
+  {
+    "title": "BitNet Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13998",
+    "scraped_at": "2025-10-17T04:42:04.093121"
+  },
+  {
+    "title": "VR-Thinker: Boosting Video Reward Models through Thinking-with-Image\n  Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10518",
+    "scraped_at": "2025-10-17T04:42:04.093378"
+  },
+  {
+    "title": "TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14972",
+    "scraped_at": "2025-10-17T04:42:04.093629"
+  },
+  {
+    "title": "LLM-guided Hierarchical Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13217",
+    "scraped_at": "2025-10-17T04:42:04.093865"
+  },
+  {
+    "title": "Large Language Models Do NOT Really Know What They Don't Know",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.09033",
+    "scraped_at": "2025-10-17T04:42:04.094082"
+  },
+  {
+    "title": "Qwen3Guard Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14276",
+    "scraped_at": "2025-10-17T04:42:04.094319"
+  },
+  {
+    "title": "Learning an Image Editing Model without Image Editing Pairs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14978",
+    "scraped_at": "2025-10-17T04:42:04.094554"
+  },
+  {
+    "title": "LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent\n  Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14969",
+    "scraped_at": "2025-10-17T04:42:04.094773"
+  },
+  {
+    "title": "VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a\n  Video Generator",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13454",
+    "scraped_at": "2025-10-17T04:42:04.095036"
+  },
+  {
+    "title": "VLA-0: Building State-of-the-Art VLAs with Zero Modification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13054",
+    "scraped_at": "2025-10-17T04:42:04.095252"
+  },
+  {
+    "title": "pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14974",
+    "scraped_at": "2025-10-17T04:42:04.095532"
+  },
+  {
+    "title": "MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal\n  Mathematical Reasoning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14958",
+    "scraped_at": "2025-10-17T04:42:04.095800"
+  },
+  {
+    "title": "Fantastic (small) Retrievers and How to Train Them:\n  mxbai-edge-colbert-v0 Tech Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14880",
+    "scraped_at": "2025-10-17T04:42:04.096025"
+  },
+  {
+    "title": "MoM: Mixtures of Scenario-Aware Document Memories for\n  Retrieval-Augmented Generation Systems",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14252",
+    "scraped_at": "2025-10-17T04:42:04.096293"
+  },
+  {
+    "title": "RefusalBench: Generative Evaluation of Selective Refusal in Grounded\n  Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.10390",
+    "scraped_at": "2025-10-17T04:42:04.096558"
+  },
+  {
+    "title": "Beyond One World: Benchmarking Super Heros in Role-Playing Across\n  Multiversal Contexts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14351",
+    "scraped_at": "2025-10-17T04:42:04.096800"
+  }
+]
