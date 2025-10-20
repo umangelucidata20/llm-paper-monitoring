@@ -1,0 +1,107 @@
+[
+  {
+    "title": "OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding\n  LLM",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15870",
+    "scraped_at": "2025-10-20T04:43:56.607776"
+  },
+  {
+    "title": "Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite\n  Imagery",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15869",
+    "scraped_at": "2025-10-20T04:43:56.608133"
+  },
+  {
+    "title": "LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15868",
+    "scraped_at": "2025-10-20T04:43:56.608417"
+  },
+  {
+    "title": "Latent Diffusion Model without Variational Autoencoder",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15301",
+    "scraped_at": "2025-10-20T04:43:56.608669"
+  },
+  {
+    "title": "MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14265",
+    "scraped_at": "2025-10-20T04:43:56.608908"
+  },
+  {
+    "title": "Scaling Instruction-Based Video Editing with a High-Quality Synthetic\n  Dataset",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15742",
+    "scraped_at": "2025-10-20T04:43:56.609210"
+  },
+  {
+    "title": "Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive\n  Online Exploration for Deep Research Agents",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14438",
+    "scraped_at": "2025-10-20T04:43:56.609488"
+  },
+  {
+    "title": "BLIP3o-NEXT: Next Frontier of Native Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15857",
+    "scraped_at": "2025-10-20T04:43:56.609716"
+  },
+  {
+    "title": "Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15564",
+    "scraped_at": "2025-10-20T04:43:56.609969"
+  },
+  {
+    "title": "FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in\n  Finance Domain",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15232",
+    "scraped_at": "2025-10-20T04:43:56.610268"
+  },
+  {
+    "title": "DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per\n  Token via Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15110",
+    "scraped_at": "2025-10-20T04:43:56.610491"
+  },
+  {
+    "title": "VISTA: A Test-Time Self-Improving Video Generation Agent",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15831",
+    "scraped_at": "2025-10-20T04:43:56.610739"
+  },
+  {
+    "title": "Robust Layerwise Scaling Rules by Proper Weight Decay Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15262",
+    "scraped_at": "2025-10-20T04:43:56.610955"
+  },
+  {
+    "title": "Paper2Web: Let's Make Your Paper Alive!",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15842",
+    "scraped_at": "2025-10-20T04:43:56.611222"
+  },
+  {
+    "title": "Train a Unified Multimodal Data Quality Classifier with Synthetic Data",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15162",
+    "scraped_at": "2025-10-20T04:43:56.611467"
+  }
+]
