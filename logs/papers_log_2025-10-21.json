@@ -1,0 +1,142 @@
+[
+  {
+    "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16872",
+    "scraped_at": "2025-10-21T04:42:22.347987"
+  },
+  {
+    "title": "Towards Mixed-Modal Retrieval for Universal Retrieval-Augmented\n  Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17354",
+    "scraped_at": "2025-10-21T04:42:22.348279"
+  },
+  {
+    "title": "Glyph: Scaling Context Windows via Visual-Text Compression",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17800",
+    "scraped_at": "2025-10-21T04:42:22.348603"
+  },
+  {
+    "title": "PICABench: How Far Are We from Physically Realistic Image Editing?",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17681",
+    "scraped_at": "2025-10-21T04:42:22.348886"
+  },
+  {
+    "title": "ConsistEdit: Highly Consistent and Precise Training-free Visual Editing",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17803",
+    "scraped_at": "2025-10-21T04:42:22.349146"
+  },
+  {
+    "title": "Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware\n  Finetuning and MLLM Implicit Feedback",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16888",
+    "scraped_at": "2025-10-21T04:42:22.349377"
+  },
+  {
+    "title": "Executable Knowledge Graphs for Replicating AI Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17795",
+    "scraped_at": "2025-10-21T04:42:22.349650"
+  },
+  {
+    "title": "Annotation-Efficient Universal Honesty Alignment",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17509",
+    "scraped_at": "2025-10-21T04:42:22.349931"
+  },
+  {
+    "title": "FineVision: Open Data Is All You Need",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17269",
+    "scraped_at": "2025-10-21T04:42:22.350161"
+  },
+  {
+    "title": "Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native\n  Agentic AI",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16720",
+    "scraped_at": "2025-10-21T04:42:22.350385"
+  },
+  {
+    "title": "Deep Self-Evolving Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17498",
+    "scraped_at": "2025-10-21T04:42:22.350630"
+  },
+  {
+    "title": "Visual Autoregressive Models Beat Diffusion Models on Inference Time\n  Scaling",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16751",
+    "scraped_at": "2025-10-21T04:42:22.350879"
+  },
+  {
+    "title": "RL makes MLLMs see better than SFT",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16333",
+    "scraped_at": "2025-10-21T04:42:22.351101"
+  },
+  {
+    "title": "Distractor Injection Attacks on Large Reasoning Models: Characterization\n  and Defense",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16259",
+    "scraped_at": "2025-10-21T04:42:22.351325"
+  },
+  {
+    "title": "Enterprise Deep Research: Steerable Multi-Agent Deep Research for\n  Enterprise Analytics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17797",
+    "scraped_at": "2025-10-21T04:42:22.351578"
+  },
+  {
+    "title": "UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17790",
+    "scraped_at": "2025-10-21T04:42:22.351812"
+  },
+  {
+    "title": "Knowledge-based Visual Question Answer with Multimodal Processing,\n  Retrieval and Filtering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14605",
+    "scraped_at": "2025-10-21T04:42:22.352042"
+  },
+  {
+    "title": "Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16258",
+    "scraped_at": "2025-10-21T04:42:22.352261"
+  },
+  {
+    "title": "AsyncVoice Agent: Real-Time Explanation for LLM Planning and Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16156",
+    "scraped_at": "2025-10-21T04:42:22.352514"
+  },
+  {
+    "title": "Balanced Multi-Task Attention for Satellite Image Classification: A\n  Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without\n  Pre-Training",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15527",
+    "scraped_at": "2025-10-21T04:42:22.352772"
+  }
+]
