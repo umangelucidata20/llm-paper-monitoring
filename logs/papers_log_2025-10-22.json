@@ -1,0 +1,114 @@
+[
+  {
+    "title": "LightMem: Lightweight and Efficient Memory-Augmented Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18866",
+    "scraped_at": "2025-10-22T04:43:46.719481"
+  },
+  {
+    "title": "World-in-World: World Models in a Closed-Loop World",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18135",
+    "scraped_at": "2025-10-22T04:43:46.719802"
+  },
+  {
+    "title": "UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image\n  Generation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18701",
+    "scraped_at": "2025-10-22T04:43:46.720110"
+  },
+  {
+    "title": "Chem-R: Learning to Reason as a Chemist",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16880",
+    "scraped_at": "2025-10-22T04:43:46.720375"
+  },
+  {
+    "title": "MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18692",
+    "scraped_at": "2025-10-22T04:43:46.720602"
+  },
+  {
+    "title": "IF-VidCap: Can Video Caption Models Follow Instructions?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18726",
+    "scraped_at": "2025-10-22T04:43:46.720849"
+  },
+  {
+    "title": "Towards Faithful and Controllable Personalization via Critique-Post-Edit\n  Reinforcement Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18849",
+    "scraped_at": "2025-10-22T04:43:46.721102"
+  },
+  {
+    "title": "Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale\n  Thinking Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18855",
+    "scraped_at": "2025-10-22T04:43:46.721367"
+  },
+  {
+    "title": "Grasp Any Region: Towards Precise, Contextual Pixel Understanding for\n  Multimodal LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18876",
+    "scraped_at": "2025-10-22T04:43:46.721613"
+  },
+  {
+    "title": "ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18795",
+    "scraped_at": "2025-10-22T04:43:46.721880"
+  },
+  {
+    "title": "MT-Video-Bench: A Holistic Video Understanding Benchmark for Evaluating\n  Multimodal LLMs in Multi-Turn Dialogues",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17722",
+    "scraped_at": "2025-10-22T04:43:46.722117"
+  },
+  {
+    "title": "ssToken: Self-modulated and Semantic-aware Token Selection for LLM\n  Fine-tuning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18250",
+    "scraped_at": "2025-10-22T04:43:46.722382"
+  },
+  {
+    "title": "MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation\n  Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17519",
+    "scraped_at": "2025-10-22T04:43:46.722624"
+  },
+  {
+    "title": "UltraGen: High-Resolution Video Generation with Hierarchical Attention",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18775",
+    "scraped_at": "2025-10-22T04:43:46.722867"
+  },
+  {
+    "title": "Video Reasoning without Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17045",
+    "scraped_at": "2025-10-22T04:43:46.723083"
+  },
+  {
+    "title": "Unleashing Scientific Reasoning for Bio-experimental Protocol Generation\n  via Structured Component-based Reward Mechanism",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15600",
+    "scraped_at": "2025-10-22T04:43:46.723350"
+  }
+]
