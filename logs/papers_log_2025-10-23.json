@@ -1,0 +1,156 @@
+[
+  {
+    "title": "LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19363",
+    "scraped_at": "2025-10-23T04:42:15.380970"
+  },
+  {
+    "title": "BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via\n  Balanced Policy Optimization with Adaptive Clipping",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18927",
+    "scraped_at": "2025-10-23T04:42:15.381306"
+  },
+  {
+    "title": "Every Attention Matters: An Efficient Hybrid Architecture for\n  Long-Context Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19338",
+    "scraped_at": "2025-10-23T04:42:15.381591"
+  },
+  {
+    "title": "DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile\n  Phone Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19336",
+    "scraped_at": "2025-10-23T04:42:15.381834"
+  },
+  {
+    "title": "Unified Reinforcement and Imitation Learning for Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19307",
+    "scraped_at": "2025-10-23T04:42:15.383085"
+  },
+  {
+    "title": "ColorAgent: Building A Robust, Personalized, and Interactive OS Agent",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19386",
+    "scraped_at": "2025-10-23T04:42:15.383395"
+  },
+  {
+    "title": "TheMCPCompany: Creating General-purpose Agents with Task-specific Tools",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19286",
+    "scraped_at": "2025-10-23T04:42:15.383674"
+  },
+  {
+    "title": "olmOCR 2: Unit Test Rewards for Document OCR",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19817",
+    "scraped_at": "2025-10-23T04:42:15.383914"
+  },
+  {
+    "title": "Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19808",
+    "scraped_at": "2025-10-23T04:42:15.384145"
+  },
+  {
+    "title": "MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for\n  Large Multimodal Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19457",
+    "scraped_at": "2025-10-23T04:42:15.384430"
+  },
+  {
+    "title": "KORE: Enhancing Knowledge Injection for Large Multimodal Models via\n  Knowledge-Oriented Augmentations and Constraints",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19316",
+    "scraped_at": "2025-10-23T04:42:15.384688"
+  },
+  {
+    "title": "Are they lovers or friends? Evaluating LLMs' Social Reasoning in English\n  and Korean Dialogues",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19028",
+    "scraped_at": "2025-10-23T04:42:15.384935"
+  },
+  {
+    "title": "OmniNWM: Omniscient Driving Navigation World Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18313",
+    "scraped_at": "2025-10-23T04:42:15.385198"
+  },
+  {
+    "title": "FinSight: Towards Real-World Financial Deep Research",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16844",
+    "scraped_at": "2025-10-23T04:42:15.385481"
+  },
+  {
+    "title": "VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19488",
+    "scraped_at": "2025-10-23T04:42:15.385740"
+  },
+  {
+    "title": "NeuroAda: Activating Each Neuron's Potential for Parameter-Efficient\n  Fine-Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18940",
+    "scraped_at": "2025-10-23T04:42:15.385983"
+  },
+  {
+    "title": "AlphaOPT: Formulating Optimization Programs with Self-Improving LLM\n  Experience Library",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18428",
+    "scraped_at": "2025-10-23T04:42:15.386230"
+  },
+  {
+    "title": "Machine Text Detectors are Membership Inference Attacks",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19492",
+    "scraped_at": "2025-10-23T04:42:15.386497"
+  },
+  {
+    "title": "ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to\n  Answer and Judge",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18941",
+    "scraped_at": "2025-10-23T04:42:15.386712"
+  },
+  {
+    "title": "RIR-Mega: a large-scale simulated room impulse response dataset for\n  machine learning and room acoustics modeling",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18917",
+    "scraped_at": "2025-10-23T04:42:15.386957"
+  },
+  {
+    "title": "Learning from the Best, Differently: A Diversity-Driven Rethinking on\n  Data Selection",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18909",
+    "scraped_at": "2025-10-23T04:42:15.387207"
+  },
+  {
+    "title": "GigaBrain-0: A World Model-Powered Vision-Language-Action Model",
+    "authors": "27 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19430",
+    "scraped_at": "2025-10-23T04:42:15.387470"
+  }
+]
