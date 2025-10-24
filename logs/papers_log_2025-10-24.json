@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal\n  Evidence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20579",
+    "scraped_at": "2025-10-24T04:42:02.716195"
+  },
+  {
+    "title": "The Massive Legal Embedding Benchmark (MLEB)",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19365",
+    "scraped_at": "2025-10-24T04:42:02.716505"
+  },
+  {
+    "title": "Every Question Has Its Own Value: Reinforcement Learning with Explicit\n  Human Values",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20187",
+    "scraped_at": "2025-10-24T04:42:02.716791"
+  },
+  {
+    "title": "Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19304",
+    "scraped_at": "2025-10-24T04:42:02.717088"
+  },
+  {
+    "title": "HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video\n  Narratives",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20822",
+    "scraped_at": "2025-10-24T04:42:02.717326"
+  },
+  {
+    "title": "AdaSPEC: Selective Knowledge Distillation for Efficient Speculative\n  Decoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19779",
+    "scraped_at": "2025-10-24T04:42:02.717588"
+  },
+  {
+    "title": "Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19600",
+    "scraped_at": "2025-10-24T04:42:02.717875"
+  },
+  {
+    "title": "LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered\n  Canvas",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20820",
+    "scraped_at": "2025-10-24T04:42:02.718112"
+  },
+  {
+    "title": "ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20270",
+    "scraped_at": "2025-10-24T04:42:02.718369"
+  },
+  {
+    "title": "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20803",
+    "scraped_at": "2025-10-24T04:42:02.718611"
+  },
+  {
+    "title": "AlphaFlow: Understanding and Improving MeanFlow Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20771",
+    "scraped_at": "2025-10-24T04:42:02.718840"
+  },
+  {
+    "title": "DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20766",
+    "scraped_at": "2025-10-24T04:42:02.719078"
+  },
+  {
+    "title": "Conan: Progressive Learning to Reason Like a Detective over Multi-Scale\n  Visual Evidence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20470",
+    "scraped_at": "2025-10-24T04:42:02.719316"
+  }
+]
