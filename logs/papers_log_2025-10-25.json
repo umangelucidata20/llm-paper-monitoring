@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19600",
+    "scraped_at": "2025-10-25T04:40:31.571445"
+  },
+  {
+    "title": "AdaSPEC: Selective Knowledge Distillation for Efficient Speculative\n  Decoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19779",
+    "scraped_at": "2025-10-25T04:40:31.571778"
+  },
+  {
+    "title": "Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal\n  Evidence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20579",
+    "scraped_at": "2025-10-25T04:40:31.572066"
+  },
+  {
+    "title": "HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video\n  Narratives",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20822",
+    "scraped_at": "2025-10-25T04:40:31.572340"
+  },
+  {
+    "title": "Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19304",
+    "scraped_at": "2025-10-25T04:40:31.572673"
+  },
+  {
+    "title": "DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20766",
+    "scraped_at": "2025-10-25T04:40:31.572924"
+  },
+  {
+    "title": "The Massive Legal Embedding Benchmark (MLEB)",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19365",
+    "scraped_at": "2025-10-25T04:40:31.573175"
+  },
+  {
+    "title": "Every Question Has Its Own Value: Reinforcement Learning with Explicit\n  Human Values",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20187",
+    "scraped_at": "2025-10-25T04:40:31.573411"
+  },
+  {
+    "title": "SAKE: Towards Editing Auditory Attribute Knowledge of Large\n  Audio-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16917",
+    "scraped_at": "2025-10-25T04:40:31.573680"
+  },
+  {
+    "title": "Investigating Safety Vulnerabilities of Large Audio-Language Models\n  Under Speaker Emotional Variations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.16893",
+    "scraped_at": "2025-10-25T04:40:31.573929"
+  },
+  {
+    "title": "Thought Communication in Multiagent Collaboration",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20733",
+    "scraped_at": "2025-10-25T04:40:31.574194"
+  },
+  {
+    "title": "Search Self-play: Pushing the Frontier of Agent Capability without\n  Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18821",
+    "scraped_at": "2025-10-25T04:40:31.574439"
+  },
+  {
+    "title": "Conan: Progressive Learning to Reason Like a Detective over Multi-Scale\n  Visual Evidence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20470",
+    "scraped_at": "2025-10-25T04:40:31.574695"
+  },
+  {
+    "title": "Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19944",
+    "scraped_at": "2025-10-25T04:40:31.574919"
+  },
+  {
+    "title": "LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered\n  Canvas",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20820",
+    "scraped_at": "2025-10-25T04:40:31.575139"
+  },
+  {
+    "title": "Diff-XYZ: A Benchmark for Evaluating Diff Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.12487",
+    "scraped_at": "2025-10-25T04:40:31.575366"
+  },
+  {
+    "title": "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20803",
+    "scraped_at": "2025-10-25T04:40:31.575608"
+  },
+  {
+    "title": "AlphaFlow: Understanding and Improving MeanFlow Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20771",
+    "scraped_at": "2025-10-25T04:40:31.575840"
+  },
+  {
+    "title": "From Masks to Worlds: A Hitchhiker's Guide to World Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20668",
+    "scraped_at": "2025-10-25T04:40:31.576120"
+  },
+  {
+    "title": "ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20270",
+    "scraped_at": "2025-10-25T04:40:31.576367"
+  },
+  {
+    "title": "Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18413",
+    "scraped_at": "2025-10-25T04:40:31.576680"
+  },
+  {
+    "title": "Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18245",
+    "scraped_at": "2025-10-25T04:40:31.576912"
+  },
+  {
+    "title": "Long-Context Attention Benchmark: From Kernel Efficiency to Distributed\n  Context Parallelism",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17896",
+    "scraped_at": "2025-10-25T04:40:31.577174"
+  },
+  {
+    "title": "CiteGuard: Faithful Citation Attribution for LLMs via\n  Retrieval-Augmented Validation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17853",
+    "scraped_at": "2025-10-25T04:40:31.577456"
+  },
+  {
+    "title": "Communication to Completion: Modeling Collaborative Workflows with\n  Intelligent Multi-Agent Communication",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19995",
+    "scraped_at": "2025-10-25T04:40:31.577726"
+  },
+  {
+    "title": "MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19423",
+    "scraped_at": "2025-10-25T04:40:31.577955"
+  },
+  {
+    "title": "Emergence of Linear Truth Encodings in Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15804",
+    "scraped_at": "2025-10-25T04:40:31.578207"
+  },
+  {
+    "title": "ComProScanner: A multi-agent based framework for composition-property\n  structured data extraction from scientific literature",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20362",
+    "scraped_at": "2025-10-25T04:40:31.578442"
+  }
+]
