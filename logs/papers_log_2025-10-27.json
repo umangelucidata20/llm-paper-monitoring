@@ -1,0 +1,135 @@
+[
+  {
+    "title": "DeepAgent: A General Reasoning Agent with Scalable Toolsets",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21618",
+    "scraped_at": "2025-10-27T04:48:23.877894"
+  },
+  {
+    "title": "Video-As-Prompt: Unified Semantic Control for Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20888",
+    "scraped_at": "2025-10-27T04:48:23.878200"
+  },
+  {
+    "title": "UI-Ins: Enhancing GUI Grounding with Multi-Perspective\n  Instruction-as-Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20286",
+    "scraped_at": "2025-10-27T04:48:23.878480"
+  },
+  {
+    "title": "From Denoising to Refining: A Corrective Framework for Vision-Language\n  Diffusion Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19871",
+    "scraped_at": "2025-10-27T04:48:23.878724"
+  },
+  {
+    "title": "RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via\n  Hierarchical Model Merging",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20479",
+    "scraped_at": "2025-10-27T04:48:23.878946"
+  },
+  {
+    "title": "RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via\n  Data Alignment and Test-Time Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20206",
+    "scraped_at": "2025-10-27T04:48:23.879186"
+  },
+  {
+    "title": "Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.13251",
+    "scraped_at": "2025-10-27T04:48:23.879512"
+  },
+  {
+    "title": "Model Merging with Functional Dual Anchors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21223",
+    "scraped_at": "2025-10-27T04:48:23.879772"
+  },
+  {
+    "title": "A Definition of AGI",
+    "authors": "33 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.18212",
+    "scraped_at": "2025-10-27T04:48:23.880040"
+  },
+  {
+    "title": "WorldGrow: Generating Infinite 3D World",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21682",
+    "scraped_at": "2025-10-27T04:48:23.880290"
+  },
+  {
+    "title": "Visual Diffusion Models are Geometric Solvers",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21697",
+    "scraped_at": "2025-10-27T04:48:23.880574"
+  },
+  {
+    "title": "Sparser Block-Sparse Attention via Token Permutation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21270",
+    "scraped_at": "2025-10-27T04:48:23.880806"
+  },
+  {
+    "title": "Reasoning with Sampling: Your Base Model is Smarter Than You Think",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.14901",
+    "scraped_at": "2025-10-27T04:48:23.881025"
+  },
+  {
+    "title": "Are Large Reasoning Models Good Translation Evaluators? Analysis and\n  Performance Boost",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20780",
+    "scraped_at": "2025-10-27T04:48:23.881289"
+  },
+  {
+    "title": "AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research\n  Suite",
+    "authors": "39 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21652",
+    "scraped_at": "2025-10-27T04:48:23.881565"
+  },
+  {
+    "title": "PhysWorld: From Real Videos to World Models of Deformable Objects via\n  Physics-Aware Demonstration Synthesis",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21447",
+    "scraped_at": "2025-10-27T04:48:23.881814"
+  },
+  {
+    "title": "ARC-Encoder: learning compressed text representations for large language\n  models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20535",
+    "scraped_at": "2025-10-27T04:48:23.882056"
+  },
+  {
+    "title": "Taming Modality Entanglement in Continual Audio-Visual Segmentation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.17234",
+    "scraped_at": "2025-10-27T04:48:23.882313"
+  },
+  {
+    "title": "Document Understanding, Measurement, and Manipulation Using Category\n  Theory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21553",
+    "scraped_at": "2025-10-27T04:48:23.882545"
+  }
+]
