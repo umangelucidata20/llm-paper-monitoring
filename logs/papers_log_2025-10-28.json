@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial\n  Representations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23607",
+    "scraped_at": "2025-10-28T04:43:03.988007"
+  },
+  {
+    "title": "VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing,\n  Speaking, and Acting",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21817",
+    "scraped_at": "2025-10-28T04:43:03.988310"
+  },
+  {
+    "title": "FARMER: Flow AutoRegressive Transformer over Pixels",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23588",
+    "scraped_at": "2025-10-28T04:43:03.988569"
+  },
+  {
+    "title": "ACG: Action Coherence Guidance for Flow-based VLA models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22201",
+    "scraped_at": "2025-10-28T04:43:03.988807"
+  },
+  {
+    "title": "Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human\n  Animation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23581",
+    "scraped_at": "2025-10-28T04:43:03.989034"
+  },
+  {
+    "title": "Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with\n  Free-Form Preferences",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23451",
+    "scraped_at": "2025-10-28T04:43:03.989243"
+  },
+  {
+    "title": "IGGT: Instance-Grounded Geometry Transformer for Semantic 3D\n  Reconstruction",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22706",
+    "scraped_at": "2025-10-28T04:43:03.989481"
+  },
+  {
+    "title": "E^2Rank: Your Text Embedding can Also be an Effective\n  and Efficient Listwise Reranker",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22733",
+    "scraped_at": "2025-10-28T04:43:03.989712"
+  },
+  {
+    "title": "PixelRefer: A Unified Framework for Spatio-Temporal Object Referring\n  with Arbitrary Granularity",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23603",
+    "scraped_at": "2025-10-28T04:43:03.989936"
+  },
+  {
+    "title": "LimRank: Less is More for Reasoning-Intensive Information Reranking",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23544",
+    "scraped_at": "2025-10-28T04:43:03.990153"
+  },
+  {
+    "title": "Knocking-Heads Attention",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23052",
+    "scraped_at": "2025-10-28T04:43:03.990374"
+  },
+  {
+    "title": "RobotArena infty: Scalable Robot Benchmarking via Real-to-Sim\n  Translation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23571",
+    "scraped_at": "2025-10-28T04:43:03.990601"
+  },
+  {
+    "title": "Language Server CLI Empowers Language Agents with Process Rewards",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22907",
+    "scraped_at": "2025-10-28T04:43:03.990808"
+  },
+  {
+    "title": "Distilled Decoding 2: One-step Sampling of Image Auto-regressive Models\n  with Conditional Score Distillation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21003",
+    "scraped_at": "2025-10-28T04:43:03.991028"
+  },
+  {
+    "title": "PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error\n  Detection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23594",
+    "scraped_at": "2025-10-28T04:43:03.991233"
+  },
+  {
+    "title": "ReCode: Unify Plan and Action for Universal Granularity Control",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23564",
+    "scraped_at": "2025-10-28T04:43:03.991448"
+  },
+  {
+    "title": "LightBagel: A Light-weighted, Double Fusion Framework for Unified\n  Multimodal Understanding and Generation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22946",
+    "scraped_at": "2025-10-28T04:43:03.991671"
+  },
+  {
+    "title": "LongCat-Video Technical Report",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22200",
+    "scraped_at": "2025-10-28T04:43:03.991899"
+  },
+  {
+    "title": "MARS-M: When Variance Reduction Meets Matrices",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21800",
+    "scraped_at": "2025-10-28T04:43:03.992101"
+  }
+]
