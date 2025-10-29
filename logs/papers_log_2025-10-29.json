@@ -1,0 +1,163 @@
+[
+  {
+    "title": "InteractComp: Evaluating Search Agents With Ambiguous Queries",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24668",
+    "scraped_at": "2025-10-29T04:46:15.832982"
+  },
+  {
+    "title": "Tongyi DeepResearch Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24701",
+    "scraped_at": "2025-10-29T04:46:15.833298"
+  },
+  {
+    "title": "RoboOmni: Proactive Robot Manipulation in Omni-modal Context",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23763",
+    "scraped_at": "2025-10-29T04:46:15.833589"
+  },
+  {
+    "title": "Group Relative Attention Guidance for Image Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24657",
+    "scraped_at": "2025-10-29T04:46:15.833848"
+  },
+  {
+    "title": "Game-TARS: Pretrained Foundation Models for Scalable Generalist\n  Multimodal Game Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23691",
+    "scraped_at": "2025-10-29T04:46:15.834080"
+  },
+  {
+    "title": "Routing Matters in MoE: Scaling Diffusion Transformers with Explicit\n  Routing Guidance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24711",
+    "scraped_at": "2025-10-29T04:46:15.834326"
+  },
+  {
+    "title": "Critique-RL: Training Language Models for Critiquing through Two-Stage\n  Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24320",
+    "scraped_at": "2025-10-29T04:46:15.834569"
+  },
+  {
+    "title": "Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal\n  Reasoning in MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24514",
+    "scraped_at": "2025-10-29T04:46:15.834816"
+  },
+  {
+    "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23642",
+    "scraped_at": "2025-10-29T04:46:15.835058"
+  },
+  {
+    "title": "ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24698",
+    "scraped_at": "2025-10-29T04:46:15.835300"
+  },
+  {
+    "title": "AgentFold: Long-Horizon Web Agents with Proactive Context Management",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24699",
+    "scraped_at": "2025-10-29T04:46:15.835532"
+  },
+  {
+    "title": "WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling\n  Info-Rich Seeking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24697",
+    "scraped_at": "2025-10-29T04:46:15.835753"
+  },
+  {
+    "title": "STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D\n  Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24693",
+    "scraped_at": "2025-10-29T04:46:15.835987"
+  },
+  {
+    "title": "AgentFrontier: Expanding the Capability Frontier of LLM Agents with\n  ZPD-Guided Data Synthesis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24695",
+    "scraped_at": "2025-10-29T04:46:15.836202"
+  },
+  {
+    "title": "Repurposing Synthetic Data for Fine-grained Search Agent Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24694",
+    "scraped_at": "2025-10-29T04:46:15.836440"
+  },
+  {
+    "title": "ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining,\n  Finetuning, and Decoding the Curse of Multilinguality",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22037",
+    "scraped_at": "2025-10-29T04:46:15.836663"
+  },
+  {
+    "title": "Uniform Discrete Diffusion with Metric Path for Video Generation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24717",
+    "scraped_at": "2025-10-29T04:46:15.836912"
+  },
+  {
+    "title": "FunReason-MT Technical Report: Overcoming the Complexity Barrier in\n  Multi-Turn Function Calling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24645",
+    "scraped_at": "2025-10-29T04:46:15.837130"
+  },
+  {
+    "title": "ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24591",
+    "scraped_at": "2025-10-29T04:46:15.837397"
+  },
+  {
+    "title": "OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24563",
+    "scraped_at": "2025-10-29T04:46:15.837618"
+  },
+  {
+    "title": "Generalization or Memorization: Dynamic Decoding for Mode Steering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22099",
+    "scraped_at": "2025-10-29T04:46:15.837834"
+  },
+  {
+    "title": "Rethinking Visual Intelligence: Insights from Video Pretraining",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24448",
+    "scraped_at": "2025-10-29T04:46:15.838080"
+  },
+  {
+    "title": "VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a\n  Unified Concept Set",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21323",
+    "scraped_at": "2025-10-29T04:46:15.838335"
+  }
+]
