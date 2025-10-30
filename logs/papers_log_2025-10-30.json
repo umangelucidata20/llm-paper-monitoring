@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Video-Thinker: Sparking \"Thinking with Videos\" via Reinforcement\n  Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23473",
+    "scraped_at": "2025-10-30T04:42:50.199951"
+  },
+  {
+    "title": "JanusCoder: Towards a Foundational Visual-Programmatic Interface for\n  Code Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.23538",
+    "scraped_at": "2025-10-30T04:42:50.200263"
+  },
+  {
+    "title": "RegionE: Adaptive Region-Aware Generation for Efficient Image Editing",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25590",
+    "scraped_at": "2025-10-30T04:42:50.200576"
+  },
+  {
+    "title": "The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic,\n  and Long-Horizon Task Execution",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25726",
+    "scraped_at": "2025-10-30T04:42:50.200889"
+  },
+  {
+    "title": "Scaling Latent Reasoning via Looped Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25741",
+    "scraped_at": "2025-10-30T04:42:50.201121"
+  },
+  {
+    "title": "VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context\n  Learning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25772",
+    "scraped_at": "2025-10-30T04:42:50.201399"
+  },
+  {
+    "title": "Reasoning-Aware GRPO using Process Mining",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25065",
+    "scraped_at": "2025-10-30T04:42:50.201631"
+  },
+  {
+    "title": "ReForm: Reflective Autoformalization with Prospective Bounded Sequence\n  Optimization",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24592",
+    "scraped_at": "2025-10-30T04:42:50.201961"
+  },
+  {
+    "title": "Rethinking Driving World Model as Synthetic Data Generator for\n  Perception Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19195",
+    "scraped_at": "2025-10-30T04:42:50.202190"
+  },
+  {
+    "title": "Parallel Loop Transformer for Efficient Test-Time Computation Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24824",
+    "scraped_at": "2025-10-30T04:42:50.202416"
+  },
+  {
+    "title": "MASPRM: Multi-Agent System Process Reward Model",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24803",
+    "scraped_at": "2025-10-30T04:42:50.202681"
+  },
+  {
+    "title": "Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal\n  Perception and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24821",
+    "scraped_at": "2025-10-30T04:42:50.202907"
+  },
+  {
+    "title": "SeeingEye: Agentic Information Flow Unlocks Multimodal Reasoning In\n  Text-only LLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25092",
+    "scraped_at": "2025-10-30T04:42:50.203178"
+  },
+  {
+    "title": "TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological\n  Counseling",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25758",
+    "scraped_at": "2025-10-30T04:42:50.203439"
+  },
+  {
+    "title": "BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic\n  Domains",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25409",
+    "scraped_at": "2025-10-30T04:42:50.203672"
+  }
+]
