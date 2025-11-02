@@ -1,0 +1,205 @@
+[
+  {
+    "title": "The End of Manual Decoding: Towards Truly End-to-End Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26697",
+    "scraped_at": "2025-11-02T04:42:50.208772"
+  },
+  {
+    "title": "Emu3.5: Native Multimodal Models are World Learners",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26583",
+    "scraped_at": "2025-11-02T04:42:50.209095"
+  },
+  {
+    "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26692",
+    "scraped_at": "2025-11-02T04:42:50.209389"
+  },
+  {
+    "title": "Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in\n  Web Games",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26298",
+    "scraped_at": "2025-11-02T04:42:50.209708"
+  },
+  {
+    "title": "Exploring Conditions for Diffusion models in Robotic Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.15510",
+    "scraped_at": "2025-11-02T04:42:50.209956"
+  },
+  {
+    "title": "AMO-Bench: Large Language Models Still Struggle in High School Math\n  Competitions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26768",
+    "scraped_at": "2025-11-02T04:42:50.210210"
+  },
+  {
+    "title": "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with\n  the MME-CoF Benchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26802",
+    "scraped_at": "2025-11-02T04:42:50.210468"
+  },
+  {
+    "title": "Surfer 2: The Next Generation of Cross-Platform Computer Use Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.19949",
+    "scraped_at": "2025-11-02T04:42:50.210738"
+  },
+  {
+    "title": "The Quest for Generalizable Motion Generation: Data, Model, and\n  Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26794",
+    "scraped_at": "2025-11-02T04:42:50.211038"
+  },
+  {
+    "title": "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise\n  Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25992",
+    "scraped_at": "2025-11-02T04:42:50.211278"
+  },
+  {
+    "title": "The Era of Agentic Organization: Learning to Organize with Language\n  Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26658",
+    "scraped_at": "2025-11-02T04:42:50.211586"
+  },
+  {
+    "title": "OmniX: From Unified Panoramic Generation and Perception to\n  Graphics-Ready 3D Scenes",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26800",
+    "scraped_at": "2025-11-02T04:42:50.211842"
+  },
+  {
+    "title": "MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and\n  efficiency",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25897",
+    "scraped_at": "2025-11-02T04:42:50.212121"
+  },
+  {
+    "title": "EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic\n  Health Record Analysis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25628",
+    "scraped_at": "2025-11-02T04:42:50.212366"
+  },
+  {
+    "title": "OmniLayout: Enabling Coarse-to-Fine Learning with LLMs for Universal\n  Document Layout Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26213",
+    "scraped_at": "2025-11-02T04:42:50.212657"
+  },
+  {
+    "title": "Magentic Marketplace: An Open-Source Environment for Studying Agentic\n  Markets",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25779",
+    "scraped_at": "2025-11-02T04:42:50.212900"
+  },
+  {
+    "title": "MedVLSynther: Synthesizing High-Quality Visual Question Answering from\n  Medical Documents with Generator-Verifier LMMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25867",
+    "scraped_at": "2025-11-02T04:42:50.213140"
+  },
+  {
+    "title": "Remote Labor Index: Measuring AI Automation of Remote Work",
+    "authors": "47 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26787",
+    "scraped_at": "2025-11-02T04:42:50.213395"
+  },
+  {
+    "title": "CLASS-IT: Conversational and Lecture-Aligned Small-Scale Instruction\n  Tuning for BabyLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25364",
+    "scraped_at": "2025-11-02T04:42:50.213674"
+  },
+  {
+    "title": "CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26160",
+    "scraped_at": "2025-11-02T04:42:50.213902"
+  },
+  {
+    "title": "FullPart: Generating each 3D Part at Full Resolution",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26140",
+    "scraped_at": "2025-11-02T04:42:50.214181"
+  },
+  {
+    "title": "Counteracting Matthew Effect in Self-Improvement of LVLMs through\n  Head-Tail Re-balancing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26474",
+    "scraped_at": "2025-11-02T04:42:50.214443"
+  },
+  {
+    "title": "PORTool: Tool-Use LLM Training with Rewarded Tree",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26020",
+    "scraped_at": "2025-11-02T04:42:50.214704"
+  },
+  {
+    "title": "EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme\n  Backbone Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.25132",
+    "scraped_at": "2025-11-02T04:42:50.214934"
+  },
+  {
+    "title": "CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language\n  Models via Reinforcement Learning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22282",
+    "scraped_at": "2025-11-02T04:42:50.215226"
+  },
+  {
+    "title": "Performance Trade-offs of Optimizing Small Language Models for\n  E-Commerce",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.21970",
+    "scraped_at": "2025-11-02T04:42:50.215470"
+  },
+  {
+    "title": "POWSM: A Phonetic Open Whisper-Style Speech Foundation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24992",
+    "scraped_at": "2025-11-02T04:42:50.215716"
+  },
+  {
+    "title": "L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.20976",
+    "scraped_at": "2025-11-02T04:42:50.215972"
+  },
+  {
+    "title": "ChartAB: A Benchmark for Chart Grounding & Dense Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26781",
+    "scraped_at": "2025-11-02T04:42:50.216221"
+  }
+]
