@@ -1,0 +1,100 @@
+[
+  {
+    "title": "The Underappreciated Power of Vision Models for Graph Structural\n  Understanding",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.24788",
+    "scraped_at": "2025-11-04T04:42:55.213386"
+  },
+  {
+    "title": "Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open\n  Language Foundation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.22115",
+    "scraped_at": "2025-11-04T04:42:55.213697"
+  },
+  {
+    "title": "Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.00086",
+    "scraped_at": "2025-11-04T04:42:55.213954"
+  },
+  {
+    "title": "Towards Universal Video Retrieval: Generalizing Video Embedding via\n  Synthesized Multimodal Pyramid Curriculum",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.27571",
+    "scraped_at": "2025-11-04T04:42:55.214197"
+  },
+  {
+    "title": "Trove: A Flexible Toolkit for Dense Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01857",
+    "scraped_at": "2025-11-04T04:42:55.214435"
+  },
+  {
+    "title": "TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images\n  Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01833",
+    "scraped_at": "2025-11-04T04:42:55.214734"
+  },
+  {
+    "title": "UniREditBench: A Unified Reasoning-based Image Editing Benchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01295",
+    "scraped_at": "2025-11-04T04:42:55.214979"
+  },
+  {
+    "title": "Towards Robust Mathematical Reasoning",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01846",
+    "scraped_at": "2025-11-04T04:42:55.215243"
+  },
+  {
+    "title": "How Far Are Surgeons from Surgical World Models? A Pilot Study on\n  Zero-shot Surgical Video Generation with Expert Assessment",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01775",
+    "scraped_at": "2025-11-04T04:42:55.215505"
+  },
+  {
+    "title": "Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete\n  Denoising Diffusion Process",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01718",
+    "scraped_at": "2025-11-04T04:42:55.215766"
+  },
+  {
+    "title": "UME-R1: Exploring Reasoning-Driven Generative Multimodal Embeddings",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.00405",
+    "scraped_at": "2025-11-04T04:42:55.216020"
+  },
+  {
+    "title": "LongCat-Flash-Omni Technical Report",
+    "authors": "132 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.00279",
+    "scraped_at": "2025-11-04T04:42:55.216268"
+  },
+  {
+    "title": "Data-Efficient RLVR via Off-Policy Influence Guidance",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.26491",
+    "scraped_at": "2025-11-04T04:42:55.216532"
+  },
+  {
+    "title": "World Simulation with Video Foundation Models for Physical AI",
+    "authors": "89 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.00062",
+    "scraped_at": "2025-11-04T04:42:55.216800"
+  }
+]
