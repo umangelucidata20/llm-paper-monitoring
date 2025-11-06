@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Diffusion Language Models are Super Data Learners",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03276",
+    "scraped_at": "2025-11-06T04:46:50.371878"
+  },
+  {
+    "title": "LiveTradeBench: Seeking Real-World Alpha with Large Language Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03628",
+    "scraped_at": "2025-11-06T04:46:50.372160"
+  },
+  {
+    "title": "MME-CC: A Challenging Multi-Modal Evaluation Benchmark of Cognitive\n  Capacity",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03146",
+    "scraped_at": "2025-11-06T04:46:50.372386"
+  },
+  {
+    "title": "Kinematify: Open-Vocabulary Synthesis of High-DoF Articulated Objects",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01294",
+    "scraped_at": "2025-11-06T04:46:50.372619"
+  },
+  {
+    "title": "LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied\n  Environments with Tool Augmentation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03001",
+    "scraped_at": "2025-11-06T04:46:50.372847"
+  },
+  {
+    "title": "Let Multimodal Embedders Learn When to Augment Query via Adaptive Query\n  Augmentation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.02358",
+    "scraped_at": "2025-11-06T04:46:50.373080"
+  }
+]
