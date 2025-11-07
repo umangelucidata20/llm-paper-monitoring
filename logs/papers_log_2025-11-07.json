@@ -1,0 +1,65 @@
+[
+  {
+    "title": "V-Thinker: Interactive Thinking with Images",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04460",
+    "scraped_at": "2025-11-07T04:43:00.703493"
+  },
+  {
+    "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04570",
+    "scraped_at": "2025-11-07T04:43:00.703794"
+  },
+  {
+    "title": "Scaling Agent Learning via Experience Synthesis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03773",
+    "scraped_at": "2025-11-07T04:43:00.704068"
+  },
+  {
+    "title": "Cambrian-S: Towards Spatial Supersensing in Video",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04670",
+    "scraped_at": "2025-11-07T04:43:00.704364"
+  },
+  {
+    "title": "GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04307",
+    "scraped_at": "2025-11-07T04:43:00.704595"
+  },
+  {
+    "title": "NVIDIA Nemotron Nano V2 VL",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03929",
+    "scraped_at": "2025-11-07T04:43:00.704878"
+  },
+  {
+    "title": "The Strong Lottery Ticket Hypothesis for Multi-Head Attention Mechanisms",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04217",
+    "scraped_at": "2025-11-07T04:43:00.705186"
+  },
+  {
+    "title": "Benchmark Designers Should \"Train on the Test Set\" to Expose Exploitable\n  Non-Visual Shortcuts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04655",
+    "scraped_at": "2025-11-07T04:43:00.705489"
+  },
+  {
+    "title": "Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03996",
+    "scraped_at": "2025-11-07T04:43:00.705713"
+  }
+]
