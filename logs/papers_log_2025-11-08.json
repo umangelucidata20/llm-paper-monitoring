@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Thinking with Video: Video Generation as a Promising Multimodal\n  Reasoning Paradigm",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04570",
+    "scraped_at": "2025-11-08T04:41:47.704731"
+  },
+  {
+    "title": "V-Thinker: Interactive Thinking with Images",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04460",
+    "scraped_at": "2025-11-08T04:41:47.705080"
+  },
+  {
+    "title": "Scaling Agent Learning via Experience Synthesis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03773",
+    "scraped_at": "2025-11-08T04:41:47.705350"
+  },
+  {
+    "title": "Cambrian-S: Towards Spatial Supersensing in Video",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04670",
+    "scraped_at": "2025-11-08T04:41:47.705625"
+  },
+  {
+    "title": "GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04307",
+    "scraped_at": "2025-11-08T04:41:47.705857"
+  },
+  {
+    "title": "NVIDIA Nemotron Nano V2 VL",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03929",
+    "scraped_at": "2025-11-08T04:41:47.706121"
+  },
+  {
+    "title": "Contamination Detection for VLMs using Multi-Modal Semantic Perturbation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03774",
+    "scraped_at": "2025-11-08T04:41:47.706346"
+  },
+  {
+    "title": "The Strong Lottery Ticket Hypothesis for Multi-Head Attention Mechanisms",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04217",
+    "scraped_at": "2025-11-08T04:41:47.706622"
+  },
+  {
+    "title": "Benchmark Designers Should \"Train on the Test Set\" to Expose Exploitable\n  Non-Visual Shortcuts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04655",
+    "scraped_at": "2025-11-08T04:41:47.706842"
+  },
+  {
+    "title": "Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03996",
+    "scraped_at": "2025-11-08T04:41:47.707135"
+  },
+  {
+    "title": "How to Evaluate Speech Translation with Source-Aware Neural MT Metrics",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03295",
+    "scraped_at": "2025-11-08T04:41:47.707438"
+  },
+  {
+    "title": "SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04668",
+    "scraped_at": "2025-11-08T04:41:47.707661"
+  },
+  {
+    "title": "RDMA Point-to-Point Communication for LLM Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2510.27656",
+    "scraped_at": "2025-11-08T04:41:47.707877"
+  },
+  {
+    "title": "SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL\n  Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.02280",
+    "scraped_at": "2025-11-08T04:41:47.708192"
+  },
+  {
+    "title": "EVTAR: End-to-End Try on with Additional Unpaired Visual Reference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.00956",
+    "scraped_at": "2025-11-08T04:41:47.708444"
+  }
+]
