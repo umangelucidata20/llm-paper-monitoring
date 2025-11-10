@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Visual Spatial Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.05491",
+    "scraped_at": "2025-11-10T04:46:12.606819"
+  },
+  {
+    "title": "DeepEyesV2: Toward Agentic Multimodal Model",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.05271",
+    "scraped_at": "2025-11-10T04:46:12.607247"
+  },
+  {
+    "title": "Towards Mitigating Hallucinations in Large Vision-Language Models by\n  Refining Textual Embeddings",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.05017",
+    "scraped_at": "2025-11-10T04:46:12.607549"
+  },
+  {
+    "title": "Too Good to be Bad: On the Failure of LLMs to Role-Play Villains",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04962",
+    "scraped_at": "2025-11-10T04:46:12.607788"
+  },
+  {
+    "title": "Dense Motion Captioning",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.05369",
+    "scraped_at": "2025-11-10T04:46:12.608102"
+  },
+  {
+    "title": "Jailbreaking in the Haystack",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04707",
+    "scraped_at": "2025-11-10T04:46:12.608388"
+  }
+]
