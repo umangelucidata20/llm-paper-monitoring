@@ -1,0 +1,86 @@
+[
+  {
+    "title": "HaluMem: Evaluating Hallucinations in Memory Systems of Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.03506",
+    "scraped_at": "2025-11-11T04:44:42.952017"
+  },
+  {
+    "title": "Routing Manifold Alignment Improves Generalization of Mixture-of-Experts\n  LLMs",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07419",
+    "scraped_at": "2025-11-11T04:44:42.952336"
+  },
+  {
+    "title": "IterResearch: Rethinking Long-Horizon Agents via Markovian State\n  Reconstruction",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07327",
+    "scraped_at": "2025-11-11T04:44:42.952627"
+  },
+  {
+    "title": "RedOne 2.0: Rethinking Domain-specific LLM Post-Training in Social\n  Networking Services",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07070",
+    "scraped_at": "2025-11-11T04:44:42.952897"
+  },
+  {
+    "title": "MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal\n  LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07250",
+    "scraped_at": "2025-11-11T04:44:42.953139"
+  },
+  {
+    "title": "The Station: An Open-World Environment for AI-Driven Discovery",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06309",
+    "scraped_at": "2025-11-11T04:44:42.953378"
+  },
+  {
+    "title": "Robot Learning from a Physical World Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07416",
+    "scraped_at": "2025-11-11T04:44:42.953603"
+  },
+  {
+    "title": "DigiData: Training and Evaluating General-Purpose Mobile Control Agents",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07413",
+    "scraped_at": "2025-11-11T04:44:42.953868"
+  },
+  {
+    "title": "DIMO: Diverse 3D Motion Generation for Arbitrary Objects",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07409",
+    "scraped_at": "2025-11-11T04:44:42.954138"
+  },
+  {
+    "title": "SWE-fficiency: Can Language Models Optimize Real-World Repositories on\n  Real Workloads?",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06090",
+    "scraped_at": "2025-11-11T04:44:42.954388"
+  },
+  {
+    "title": "RLoop: An Self-Improving Framework for Reinforcement Learning with\n  Iterative Policy Initialization",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04285",
+    "scraped_at": "2025-11-11T04:44:42.954639"
+  },
+  {
+    "title": "LUT-LLM: Efficient Large Language Model Inference with Memory-based\n  Computations on FPGAs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06174",
+    "scraped_at": "2025-11-11T04:44:42.954887"
+  }
+]
