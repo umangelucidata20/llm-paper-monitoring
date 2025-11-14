@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.08892",
+    "scraped_at": "2025-11-14T04:43:43.713673"
+  },
+  {
+    "title": "MADD: Multi-Agent Drug Discovery Orchestra",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.08217",
+    "scraped_at": "2025-11-14T04:43:43.714003"
+  },
+  {
+    "title": "TiDAR: Think in Diffusion, Talk in Autoregression",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.08923",
+    "scraped_at": "2025-11-14T04:43:43.714263"
+  },
+  {
+    "title": "Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.08633",
+    "scraped_at": "2025-11-14T04:43:43.714517"
+  },
+  {
+    "title": "Motif 2 12.7B technical report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07464",
+    "scraped_at": "2025-11-14T04:43:43.714741"
+  },
+  {
+    "title": "LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09148",
+    "scraped_at": "2025-11-14T04:43:43.715003"
+  },
+  {
+    "title": "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09515",
+    "scraped_at": "2025-11-14T04:43:43.715256"
+  },
+  {
+    "title": "MathSE: Improving Multimodal Mathematical Reasoning via Self-Evolving Iterative Reflection and Reward-Guided Fine-Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06805",
+    "scraped_at": "2025-11-14T04:43:43.715501"
+  },
+  {
+    "title": "WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06251",
+    "scraped_at": "2025-11-14T04:43:43.715734"
+  },
+  {
+    "title": "Toward the Frontiers of Reliable Diffusion Sampling via Adversarial Sinkhorn Attention Guidance",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07499",
+    "scraped_at": "2025-11-14T04:43:43.715988"
+  },
+  {
+    "title": "Adapting Web Agents with Synthetic Supervision",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06101",
+    "scraped_at": "2025-11-14T04:43:43.716256"
+  },
+  {
+    "title": "Agentic Refactoring: An Empirical Study of AI Coding Agents",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.04824",
+    "scraped_at": "2025-11-14T04:43:43.716518"
+  },
+  {
+    "title": "Stemming Hallucination in Language Models Using a Licensing Oracle",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.06073",
+    "scraped_at": "2025-11-14T04:43:43.716763"
+  }
+]
