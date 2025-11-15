@@ -1,0 +1,128 @@
+[
+  {
+    "title": "One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10629",
+    "scraped_at": "2025-11-15T04:42:19.115012"
+  },
+  {
+    "title": "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation",
+    "authors": "34 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09057",
+    "scraped_at": "2025-11-15T04:42:19.115334"
+  },
+  {
+    "title": "UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.08521",
+    "scraped_at": "2025-11-15T04:42:19.115621"
+  },
+  {
+    "title": "Black-Box On-Policy Distillation of Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10643",
+    "scraped_at": "2025-11-15T04:42:19.115891"
+  },
+  {
+    "title": "Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09780",
+    "scraped_at": "2025-11-15T04:42:19.116122"
+  },
+  {
+    "title": "Depth Anything 3: Recovering the Visual Space from Any Views",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10647",
+    "scraped_at": "2025-11-15T04:42:19.116358"
+  },
+  {
+    "title": "Solving a Million-Step LLM Task with Zero Errors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09030",
+    "scraped_at": "2025-11-15T04:42:19.116576"
+  },
+  {
+    "title": "Superpositional Gradient Descent: Harnessing Quantum Principles for\n  Model Training",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.01918",
+    "scraped_at": "2025-11-15T04:42:19.116856"
+  },
+  {
+    "title": "AlphaResearch: Accelerating New Algorithm Discovery with Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.08522",
+    "scraped_at": "2025-11-15T04:42:19.117152"
+  },
+  {
+    "title": "Music Flamingo: Scaling Music Understanding in Audio Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10289",
+    "scraped_at": "2025-11-15T04:42:19.117376"
+  },
+  {
+    "title": "Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10507",
+    "scraped_at": "2025-11-15T04:42:19.117622"
+  },
+  {
+    "title": "ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07685",
+    "scraped_at": "2025-11-15T04:42:19.117839"
+  },
+  {
+    "title": "Benchmarking Diversity in Image Generation via Attribute-Conditional Human Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10547",
+    "scraped_at": "2025-11-15T04:42:19.118083"
+  },
+  {
+    "title": "MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10047",
+    "scraped_at": "2025-11-15T04:42:19.118298"
+  },
+  {
+    "title": "AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10017",
+    "scraped_at": "2025-11-15T04:42:19.118542"
+  },
+  {
+    "title": "SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09715",
+    "scraped_at": "2025-11-15T04:42:19.118791"
+  },
+  {
+    "title": "MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09067",
+    "scraped_at": "2025-11-15T04:42:19.119022"
+  },
+  {
+    "title": "CC30k: A Citation Contexts Dataset for Reproducibility-Oriented Sentiment Analysis",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.07790",
+    "scraped_at": "2025-11-15T04:42:19.119255"
+  }
+]
