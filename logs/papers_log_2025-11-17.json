@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Virtual Width Networks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11238",
+    "scraped_at": "2025-11-17T04:46:22.156843"
+  },
+  {
+    "title": "MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11373",
+    "scraped_at": "2025-11-17T04:46:22.157173"
+  },
+  {
+    "title": "GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11134",
+    "scraped_at": "2025-11-17T04:46:22.157467"
+  },
+  {
+    "title": "EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11002",
+    "scraped_at": "2025-11-17T04:46:22.157742"
+  },
+  {
+    "title": "DiscoX: Benchmarking Discourse-Level Translation task in Expert Domains",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10984",
+    "scraped_at": "2025-11-17T04:46:22.157970"
+  },
+  {
+    "title": "CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11168",
+    "scraped_at": "2025-11-17T04:46:22.158237"
+  }
+]
