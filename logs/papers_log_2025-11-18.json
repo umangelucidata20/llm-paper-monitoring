@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.12609",
+    "scraped_at": "2025-11-18T04:43:55.200942"
+  },
+  {
+    "title": "MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09611",
+    "scraped_at": "2025-11-18T04:43:55.201257"
+  },
+  {
+    "title": "TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13704",
+    "scraped_at": "2025-11-18T04:43:55.201571"
+  },
+  {
+    "title": "UFO^3: Weaving the Digital Agent Galaxy",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11332",
+    "scraped_at": "2025-11-18T04:43:55.201831"
+  },
+  {
+    "title": "GroupRank: A Groupwise Reranking Paradigm Driven by Reinforcement Learning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11653",
+    "scraped_at": "2025-11-18T04:43:55.202094"
+  },
+  {
+    "title": "Part-X-MLLM: Part-aware 3D Multimodal Large Language Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13647",
+    "scraped_at": "2025-11-18T04:43:55.202331"
+  },
+  {
+    "title": "PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13648",
+    "scraped_at": "2025-11-18T04:43:55.202631"
+  },
+  {
+    "title": "Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.09809",
+    "scraped_at": "2025-11-18T04:43:55.202861"
+  },
+  {
+    "title": "OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13655",
+    "scraped_at": "2025-11-18T04:43:55.203098"
+  },
+  {
+    "title": "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13646",
+    "scraped_at": "2025-11-18T04:43:55.203347"
+  },
+  {
+    "title": "WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.12997",
+    "scraped_at": "2025-11-18T04:43:55.203613"
+  },
+  {
+    "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
+    "authors": "54 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11793",
+    "scraped_at": "2025-11-18T04:43:55.203863"
+  }
+]
