@@ -1,0 +1,65 @@
+[
+  {
+    "title": "A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.10555",
+    "scraped_at": "2025-11-19T04:44:16.186052"
+  },
+  {
+    "title": "MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14159",
+    "scraped_at": "2025-11-19T04:44:16.186390"
+  },
+  {
+    "title": "REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13026",
+    "scraped_at": "2025-11-19T04:44:16.186724"
+  },
+  {
+    "title": "ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning",
+    "authors": "36 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14366",
+    "scraped_at": "2025-11-19T04:44:16.187004"
+  },
+  {
+    "title": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14460",
+    "scraped_at": "2025-11-19T04:44:16.187294"
+  },
+  {
+    "title": "Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14210",
+    "scraped_at": "2025-11-19T04:44:16.187565"
+  },
+  {
+    "title": "Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13853",
+    "scraped_at": "2025-11-19T04:44:16.187835"
+  },
+  {
+    "title": "Error-Driven Scene Editing for 3D Grounding in Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14086",
+    "scraped_at": "2025-11-19T04:44:16.188071"
+  },
+  {
+    "title": "Agent READMEs: An Empirical Study of Context Files for Agentic Coding",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.12884",
+    "scraped_at": "2025-11-19T04:44:16.188336"
+  }
+]
