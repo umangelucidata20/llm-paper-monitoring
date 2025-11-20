@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15065",
+    "scraped_at": "2025-11-20T04:43:29.863236"
+  },
+  {
+    "title": "Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dataset",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15186",
+    "scraped_at": "2025-11-20T04:43:29.863509"
+  },
+  {
+    "title": "MHR: Momentum Human Rig",
+    "authors": "41 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15586",
+    "scraped_at": "2025-11-20T04:43:29.863833"
+  },
+  {
+    "title": "FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13524",
+    "scraped_at": "2025-11-20T04:43:29.864138"
+  },
+  {
+    "title": "Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14993",
+    "scraped_at": "2025-11-20T04:43:29.864414"
+  },
+  {
+    "title": "VisPlay: Self-Evolving Vision-Language Models from Images",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15661",
+    "scraped_at": "2025-11-20T04:43:29.864675"
+  }
+]
