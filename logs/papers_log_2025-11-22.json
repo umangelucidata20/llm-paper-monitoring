@@ -1,0 +1,156 @@
+[
+  {
+    "title": "V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16668",
+    "scraped_at": "2025-11-22T04:42:01.939802"
+  },
+  {
+    "title": "First Frame Is the Place to Go for Video Content Customization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15700",
+    "scraped_at": "2025-11-22T04:42:01.940105"
+  },
+  {
+    "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16043",
+    "scraped_at": "2025-11-22T04:42:01.940414"
+  },
+  {
+    "title": "Step-Audio-R1 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15848",
+    "scraped_at": "2025-11-22T04:42:01.940669"
+  },
+  {
+    "title": "Scaling Spatial Intelligence with Multimodal Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13719",
+    "scraped_at": "2025-11-22T04:42:01.940918"
+  },
+  {
+    "title": "SAM 3D: 3Dfy Anything in Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16624",
+    "scraped_at": "2025-11-22T04:42:01.941154"
+  },
+  {
+    "title": "Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16669",
+    "scraped_at": "2025-11-22T04:42:01.941466"
+  },
+  {
+    "title": "MiMo-Embodied: X-Embodied Foundation Model Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16518",
+    "scraped_at": "2025-11-22T04:42:01.941714"
+  },
+  {
+    "title": "Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16664",
+    "scraped_at": "2025-11-22T04:42:01.941929"
+  },
+  {
+    "title": "Generalist Foundation Models Are Not Clinical Enough for Hospital Operations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.13703",
+    "scraped_at": "2025-11-22T04:42:01.942151"
+  },
+  {
+    "title": "Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16671",
+    "scraped_at": "2025-11-22T04:42:01.942457"
+  },
+  {
+    "title": "TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16528",
+    "scraped_at": "2025-11-22T04:42:01.942692"
+  },
+  {
+    "title": "SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15605",
+    "scraped_at": "2025-11-22T04:42:01.942915"
+  },
+  {
+    "title": "PartUV: Part-Based UV Unwrapping of 3D Meshes",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16659",
+    "scraped_at": "2025-11-22T04:42:01.943166"
+  },
+  {
+    "title": "SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16618",
+    "scraped_at": "2025-11-22T04:42:01.943422"
+  },
+  {
+    "title": "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16595",
+    "scraped_at": "2025-11-22T04:42:01.943659"
+  },
+  {
+    "title": "NaTex: Seamless Texture Generation as Latent Color Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16317",
+    "scraped_at": "2025-11-22T04:42:01.943894"
+  },
+  {
+    "title": "EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15248",
+    "scraped_at": "2025-11-22T04:42:01.944131"
+  },
+  {
+    "title": "FinTRec: Transformer Based Unified Contextual Ads Targeting and Personalization for Financial Applications",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.14865",
+    "scraped_at": "2025-11-22T04:42:01.944368"
+  },
+  {
+    "title": "BioBench: A Blueprint to Move Beyond ImageNet for Scientific ML Benchmarks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16315",
+    "scraped_at": "2025-11-22T04:42:01.944598"
+  },
+  {
+    "title": "Boosting Medical Visual Understanding From Multi-Granular Language Learning",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15943",
+    "scraped_at": "2025-11-22T04:42:01.944867"
+  },
+  {
+    "title": "Draft and Refine with Visual Experts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.11005",
+    "scraped_at": "2025-11-22T04:42:01.945099"
+  }
+]
