@@ -1,0 +1,128 @@
+[
+  {
+    "title": "General Agentic Memory Via Deep Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.18423",
+    "scraped_at": "2025-11-25T04:46:14.678353"
+  },
+  {
+    "title": "AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19304",
+    "scraped_at": "2025-11-25T04:46:14.678674"
+  },
+  {
+    "title": "Computer-Use Agents as Judges for Generative User Interface",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15567",
+    "scraped_at": "2025-11-25T04:46:14.678956"
+  },
+  {
+    "title": "UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.18050",
+    "scraped_at": "2025-11-25T04:46:14.679225"
+  },
+  {
+    "title": "In-Video Instructions: Visual Signals as Generative Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19401",
+    "scraped_at": "2025-11-25T04:46:14.679456"
+  },
+  {
+    "title": "DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19365",
+    "scraped_at": "2025-11-25T04:46:14.679696"
+  },
+  {
+    "title": "M3-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.17729",
+    "scraped_at": "2025-11-25T04:46:14.679975"
+  },
+  {
+    "title": "Budget-Aware Tool-Use Enables Effective Agent Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.17006",
+    "scraped_at": "2025-11-25T04:46:14.680227"
+  },
+  {
+    "title": "Controllable Layer Decomposition for Reversible Multi-Layer Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16249",
+    "scraped_at": "2025-11-25T04:46:14.680474"
+  },
+  {
+    "title": "PRInTS: Reward Modeling for Long-Horizon Information Seeking",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19314",
+    "scraped_at": "2025-11-25T04:46:14.680724"
+  },
+  {
+    "title": "HunyuanVideo 1.5 Technical Report",
+    "authors": "81 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.18870",
+    "scraped_at": "2025-11-25T04:46:14.680975"
+  },
+  {
+    "title": "Flow Map Distillation Without Data",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19428",
+    "scraped_at": "2025-11-25T04:46:14.681239"
+  },
+  {
+    "title": "Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19418",
+    "scraped_at": "2025-11-25T04:46:14.681503"
+  },
+  {
+    "title": "MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.18373",
+    "scraped_at": "2025-11-25T04:46:14.681781"
+  },
+  {
+    "title": "Plan-X: Instruct Video Generation via Semantic Planning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.17986",
+    "scraped_at": "2025-11-25T04:46:14.682036"
+  },
+  {
+    "title": "Pillar-0: A New Frontier for Radiology Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.17803",
+    "scraped_at": "2025-11-25T04:46:14.682271"
+  },
+  {
+    "title": "Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.17792",
+    "scraped_at": "2025-11-25T04:46:14.682541"
+  },
+  {
+    "title": "SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19319",
+    "scraped_at": "2025-11-25T04:46:14.682797"
+  }
+]
