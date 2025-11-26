@@ -1,0 +1,72 @@
+[
+  {
+    "title": "MedSAM3: Delving into Segment Anything with Medical Concepts",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19046",
+    "scraped_at": "2025-11-26T04:46:17.779787"
+  },
+  {
+    "title": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19861",
+    "scraped_at": "2025-11-26T04:46:17.780155"
+  },
+  {
+    "title": "SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19320",
+    "scraped_at": "2025-11-26T04:46:17.780444"
+  },
+  {
+    "title": "Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20561",
+    "scraped_at": "2025-11-26T04:46:17.780705"
+  },
+  {
+    "title": "HunyuanOCR Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19575",
+    "scraped_at": "2025-11-26T04:46:17.780969"
+  },
+  {
+    "title": "iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20635",
+    "scraped_at": "2025-11-26T04:46:17.781207"
+  },
+  {
+    "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19663",
+    "scraped_at": "2025-11-26T04:46:17.781430"
+  },
+  {
+    "title": "PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20562",
+    "scraped_at": "2025-11-26T04:46:17.781693"
+  },
+  {
+    "title": "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19773",
+    "scraped_at": "2025-11-26T04:46:17.781932"
+  },
+  {
+    "title": "Unified all-atom molecule generation with neural fields",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15906",
+    "scraped_at": "2025-11-26T04:46:17.782189"
+  }
+]
