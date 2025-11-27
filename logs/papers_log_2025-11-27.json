@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Latent Collaboration in Multi-Agent Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20639",
+    "scraped_at": "2025-11-27T04:44:55.194732"
+  },
+  {
+    "title": "Monet: Reasoning in Latent Visual Space Beyond Images and Language",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21395",
+    "scraped_at": "2025-11-27T04:44:55.195063"
+  },
+  {
+    "title": "Revisiting Generalization Across Difficulty Levels: It's Not So Easy",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21692",
+    "scraped_at": "2025-11-27T04:44:55.195322"
+  },
+  {
+    "title": "NVIDIA Nemotron Parse 1.1",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20478",
+    "scraped_at": "2025-11-27T04:44:55.195631"
+  },
+  {
+    "title": "Terminal Velocity Matching",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19797",
+    "scraped_at": "2025-11-27T04:44:55.195885"
+  },
+  {
+    "title": "Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20714",
+    "scraped_at": "2025-11-27T04:44:55.196160"
+  },
+  {
+    "title": "Frequency-Adaptive Sharpness Regularization for Improving 3D Gaussian Splatting Generalization",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.17918",
+    "scraped_at": "2025-11-27T04:44:55.196430"
+  }
+]
