@@ -1,0 +1,23 @@
+[
+  {
+    "title": "MIRA: Multimodal Iterative Reasoning Agent for Image Editing",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21087",
+    "scraped_at": "2025-11-28T04:44:38.401565"
+  },
+  {
+    "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21662",
+    "scraped_at": "2025-11-28T04:44:38.401857"
+  },
+  {
+    "title": "Agentic Learner with Grow-and-Refine Multimodal Semantic Memory",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21678",
+    "scraped_at": "2025-11-28T04:44:38.402153"
+  }
+]
