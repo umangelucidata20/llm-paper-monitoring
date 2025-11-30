@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Video Generation Models Are Good Latent Reward Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21541",
+    "scraped_at": "2025-11-30T04:51:54.339285"
+  },
+  {
+    "title": "Canvas-to-Image: Compositional Image Generation with Multimodal Controls",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21691",
+    "scraped_at": "2025-11-30T04:51:54.339865"
+  },
+  {
+    "title": "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20937",
+    "scraped_at": "2025-11-30T04:51:54.340325"
+  },
+  {
+    "title": "MIRA: Multimodal Iterative Reasoning Agent for Image Editing",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21087",
+    "scraped_at": "2025-11-30T04:51:54.340735"
+  },
+  {
+    "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21662",
+    "scraped_at": "2025-11-30T04:51:54.341093"
+  },
+  {
+    "title": "What does it mean to understand language?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.19757",
+    "scraped_at": "2025-11-30T04:51:54.341413"
+  },
+  {
+    "title": "Agentic Learner with Grow-and-Refine Multimodal Semantic Memory",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21678",
+    "scraped_at": "2025-11-30T04:51:54.341836"
+  }
+]
