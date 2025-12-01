@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22699",
+    "scraped_at": "2025-12-01T05:02:02.710530"
+  },
+  {
+    "title": "AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.23475",
+    "scraped_at": "2025-12-01T05:02:02.710875"
+  },
+  {
+    "title": "Vision Bridge Transformer at Scale",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.23199",
+    "scraped_at": "2025-12-01T05:02:02.711170"
+  },
+  {
+    "title": "DiP: Taming Diffusion Models in Pixel Space",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.18822",
+    "scraped_at": "2025-12-01T05:02:02.711443"
+  },
+  {
+    "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22677",
+    "scraped_at": "2025-12-01T05:02:02.711708"
+  },
+  {
+    "title": "Architecture Decoupling Is Not All You Need For Unified Multimodal Model",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22663",
+    "scraped_at": "2025-12-01T05:02:02.711980"
+  },
+  {
+    "title": "DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22134",
+    "scraped_at": "2025-12-01T05:02:02.712234"
+  },
+  {
+    "title": "Every Token Counts: Generalizing 16M Ultra-Long Context in Large Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.23319",
+    "scraped_at": "2025-12-01T05:02:02.712496"
+  },
+  {
+    "title": "Captain Safari: A World Engine",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22815",
+    "scraped_at": "2025-12-01T05:02:02.712786"
+  },
+  {
+    "title": "Test-time scaling of diffusions with flow maps",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22688",
+    "scraped_at": "2025-12-01T05:02:02.713043"
+  },
+  {
+    "title": "The Collapse of Patches",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22281",
+    "scraped_at": "2025-12-01T05:02:02.713306"
+  },
+  {
+    "title": "OralGPT-Omni: A Versatile Dental Multimodal Large Language Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22055",
+    "scraped_at": "2025-12-01T05:02:02.713523"
+  },
+  {
+    "title": "SO-Bench: A Structural Output Evaluation of Multimodal LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21750",
+    "scraped_at": "2025-12-01T05:02:02.713773"
+  },
+  {
+    "title": "World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22787",
+    "scraped_at": "2025-12-01T05:02:02.714021"
+  },
+  {
+    "title": "REASONEDIT: Towards Reasoning-Enhanced Image Editing Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22625",
+    "scraped_at": "2025-12-01T05:02:02.714235"
+  },
+  {
+    "title": "Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22176",
+    "scraped_at": "2025-12-01T05:02:02.714480"
+  },
+  {
+    "title": "FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22265",
+    "scraped_at": "2025-12-01T05:02:02.714743"
+  }
+]
