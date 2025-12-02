@@ -1,0 +1,142 @@
+[
+  {
+    "title": "LongVT: Incentivizing \"Thinking with Long Videos\" via Native Tool Calling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20785",
+    "scraped_at": "2025-12-02T04:49:40.645358"
+  },
+  {
+    "title": "Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01816",
+    "scraped_at": "2025-12-02T04:49:40.645668"
+  },
+  {
+    "title": "How Far Are We from Genuinely Useful Deep Research Agents?",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01948",
+    "scraped_at": "2025-12-02T04:49:40.645976"
+  },
+  {
+    "title": "What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00425",
+    "scraped_at": "2025-12-02T04:49:40.646227"
+  },
+  {
+    "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02014",
+    "scraped_at": "2025-12-02T04:49:40.646464"
+  },
+  {
+    "title": "Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20649",
+    "scraped_at": "2025-12-02T04:49:40.646725"
+  },
+  {
+    "title": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01801",
+    "scraped_at": "2025-12-02T04:49:40.646957"
+  },
+  {
+    "title": "SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00722",
+    "scraped_at": "2025-12-02T04:49:40.647182"
+  },
+  {
+    "title": "The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20614",
+    "scraped_at": "2025-12-02T04:49:40.647443"
+  },
+  {
+    "title": "Rectifying LLM Thought from Lens of Optimization",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01925",
+    "scraped_at": "2025-12-02T04:49:40.647712"
+  },
+  {
+    "title": "VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01031",
+    "scraped_at": "2025-12-02T04:49:40.647935"
+  },
+  {
+    "title": "HiconAgent: History Context-aware Policy Optimization for GUI Agents",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01763",
+    "scraped_at": "2025-12-02T04:49:40.648202"
+  },
+  {
+    "title": "InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01342",
+    "scraped_at": "2025-12-02T04:49:40.648408"
+  },
+  {
+    "title": "Seeing the Wind from a Falling Leaf",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00762",
+    "scraped_at": "2025-12-02T04:49:40.648672"
+  },
+  {
+    "title": "ChronosObserver: Taming 4D World with Hyperspace Diffusion Sampling",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01481",
+    "scraped_at": "2025-12-02T04:49:40.648923"
+  },
+  {
+    "title": "Generalist Large Language Models Outperform Clinical Tools on Medical Benchmarks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01191",
+    "scraped_at": "2025-12-02T04:49:40.649138"
+  },
+  {
+    "title": "Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01030",
+    "scraped_at": "2025-12-02T04:49:40.649392"
+  },
+  {
+    "title": "WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00387",
+    "scraped_at": "2025-12-02T04:49:40.649651"
+  },
+  {
+    "title": "Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv5 Instance Segmentation",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00639",
+    "scraped_at": "2025-12-02T04:49:40.649877"
+  },
+  {
+    "title": "IndicParam: Benchmark to evaluate LLMs on low-resource Indic Languages",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00333",
+    "scraped_at": "2025-12-02T04:49:40.650089"
+  }
+]
