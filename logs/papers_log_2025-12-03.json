@@ -1,0 +1,121 @@
+[
+  {
+    "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02556",
+    "scraped_at": "2025-12-03T04:48:02.885536"
+  },
+  {
+    "title": "Guided Self-Evolving LLMs with Minimal Human Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02472",
+    "scraped_at": "2025-12-03T04:48:02.885849"
+  },
+  {
+    "title": "SimScale: Learning to Drive via Real-World Simulation at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.23369",
+    "scraped_at": "2025-12-03T04:48:02.886147"
+  },
+  {
+    "title": "Does Hearing Help Seeing? Investigating Audio-Video Joint Denoising for Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02457",
+    "scraped_at": "2025-12-03T04:48:02.886406"
+  },
+  {
+    "title": "DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.23127",
+    "scraped_at": "2025-12-03T04:48:02.886686"
+  },
+  {
+    "title": "DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01715",
+    "scraped_at": "2025-12-03T04:48:02.886951"
+  },
+  {
+    "title": "Glance: Accelerating Diffusion Models with 1 Sample",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02899",
+    "scraped_at": "2025-12-03T04:48:02.887207"
+  },
+  {
+    "title": "PAI-Bench: A Comprehensive Benchmark For Physical AI",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01989",
+    "scraped_at": "2025-12-03T04:48:02.887484"
+  },
+  {
+    "title": "Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22586",
+    "scraped_at": "2025-12-03T04:48:02.887708"
+  },
+  {
+    "title": "TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01248",
+    "scraped_at": "2025-12-03T04:48:02.887984"
+  },
+  {
+    "title": "SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00903",
+    "scraped_at": "2025-12-03T04:48:02.888211"
+  },
+  {
+    "title": "Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03040",
+    "scraped_at": "2025-12-03T04:48:02.888475"
+  },
+  {
+    "title": "GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02423",
+    "scraped_at": "2025-12-03T04:48:02.888727"
+  },
+  {
+    "title": "Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02942",
+    "scraped_at": "2025-12-03T04:48:02.889016"
+  },
+  {
+    "title": "YingVideo-MV: Music-Driven Multi-Stage Video Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02492",
+    "scraped_at": "2025-12-03T04:48:02.889267"
+  },
+  {
+    "title": "WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02425",
+    "scraped_at": "2025-12-03T04:48:02.889526"
+  },
+  {
+    "title": "UnicEdit-10M: A Dataset and Benchmark Breaking the Scale-Quality Barrier via Unified Verification for Reasoning-Enriched Edits",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02790",
+    "scraped_at": "2025-12-03T04:48:02.889774"
+  }
+]
