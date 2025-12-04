@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Qwen3-VL Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.21631",
+    "scraped_at": "2025-12-04T04:49:17.334561"
+  },
+  {
+    "title": "ViDiC: Video Difference Captioning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03405",
+    "scraped_at": "2025-12-04T04:49:17.334902"
+  },
+  {
+    "title": "OneThinker: All-in-one Reasoning Model for Image and Video",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03043",
+    "scraped_at": "2025-12-04T04:49:17.335209"
+  },
+  {
+    "title": "PretrainZero: Reinforcement Active Pretraining",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03442",
+    "scraped_at": "2025-12-04T04:49:17.335505"
+  },
+  {
+    "title": "Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03534",
+    "scraped_at": "2025-12-04T04:49:17.335766"
+  },
+  {
+    "title": "Thinking with Programming Vision: Towards a Unified View for Thinking with Images",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03746",
+    "scraped_at": "2025-12-04T04:49:17.336010"
+  },
+  {
+    "title": "RELIC: Interactive Video World Model with Long-Horizon Memory",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04040",
+    "scraped_at": "2025-12-04T04:49:17.336269"
+  },
+  {
+    "title": "CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03540",
+    "scraped_at": "2025-12-04T04:49:17.336560"
+  },
+  {
+    "title": "SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02807",
+    "scraped_at": "2025-12-04T04:49:17.336802"
+  },
+  {
+    "title": "AlignBench: Benchmarking Fine-Grained Image-Text Alignment with Synthetic Image-Caption Pairs",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20515",
+    "scraped_at": "2025-12-04T04:49:17.337054"
+  }
+]
