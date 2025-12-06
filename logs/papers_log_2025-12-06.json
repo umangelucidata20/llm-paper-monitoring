@@ -1,0 +1,268 @@
+[
+  {
+    "title": "DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04324",
+    "scraped_at": "2025-12-06T04:42:42.467695"
+  },
+  {
+    "title": "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04677",
+    "scraped_at": "2025-12-06T04:42:42.468036"
+  },
+  {
+    "title": "Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04987",
+    "scraped_at": "2025-12-06T04:42:42.468334"
+  },
+  {
+    "title": "ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05111",
+    "scraped_at": "2025-12-06T04:42:42.468605"
+  },
+  {
+    "title": "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04678",
+    "scraped_at": "2025-12-06T04:42:42.468889"
+  },
+  {
+    "title": "Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04926",
+    "scraped_at": "2025-12-06T04:42:42.469142"
+  },
+  {
+    "title": "PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02589",
+    "scraped_at": "2025-12-06T04:42:42.469445"
+  },
+  {
+    "title": "DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03000",
+    "scraped_at": "2025-12-06T04:42:42.469706"
+  },
+  {
+    "title": "4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05060",
+    "scraped_at": "2025-12-06T04:42:42.469942"
+  },
+  {
+    "title": "UltraImage: Rethinking Resolution Extrapolation in Image Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04504",
+    "scraped_at": "2025-12-06T04:42:42.470177"
+  },
+  {
+    "title": "Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05113",
+    "scraped_at": "2025-12-06T04:42:42.470477"
+  },
+  {
+    "title": "Model-Based and Sample-Efficient AI-Assisted Math Discovery in Sphere Packing",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04829",
+    "scraped_at": "2025-12-06T04:42:42.470739"
+  },
+  {
+    "title": "SIMA 2: A Generalist Embodied Agent for Virtual Worlds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04797",
+    "scraped_at": "2025-12-06T04:42:42.470959"
+  },
+  {
+    "title": "DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05112",
+    "scraped_at": "2025-12-06T04:42:42.471241"
+  },
+  {
+    "title": "TV2TV: A Unified Framework for Interleaved Language and Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05103",
+    "scraped_at": "2025-12-06T04:42:42.471480"
+  },
+  {
+    "title": "SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04746",
+    "scraped_at": "2025-12-06T04:42:42.471722"
+  },
+  {
+    "title": "On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04220",
+    "scraped_at": "2025-12-06T04:42:42.471968"
+  },
+  {
+    "title": "Generative Neural Video Compression via Video Diffusion Prior",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05016",
+    "scraped_at": "2025-12-06T04:42:42.472191"
+  },
+  {
+    "title": "Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04981",
+    "scraped_at": "2025-12-06T04:42:42.472424"
+  },
+  {
+    "title": "SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02631",
+    "scraped_at": "2025-12-06T04:42:42.472664"
+  },
+  {
+    "title": "Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04356",
+    "scraped_at": "2025-12-06T04:42:42.472888"
+  },
+  {
+    "title": "NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05106",
+    "scraped_at": "2025-12-06T04:42:42.473135"
+  },
+  {
+    "title": "Reflection Removal through Efficient Adaptation of Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05000",
+    "scraped_at": "2025-12-06T04:42:42.473396"
+  },
+  {
+    "title": "FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04390",
+    "scraped_at": "2025-12-06T04:42:42.473651"
+  },
+  {
+    "title": "Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.22826",
+    "scraped_at": "2025-12-06T04:42:42.473900"
+  },
+  {
+    "title": "LATTICE: Democratize High-Fidelity 3D Generation at Scale",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03052",
+    "scraped_at": "2025-12-06T04:42:42.474170"
+  },
+  {
+    "title": "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05081",
+    "scraped_at": "2025-12-06T04:42:42.474472"
+  },
+  {
+    "title": "BulletTime: Decoupled Control of Time and Camera Pose for Video Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05076",
+    "scraped_at": "2025-12-06T04:42:42.474725"
+  },
+  {
+    "title": "Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04844",
+    "scraped_at": "2025-12-06T04:42:42.474997"
+  },
+  {
+    "title": "EgoLCD: Egocentric Video Generation with Long Context Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04515",
+    "scraped_at": "2025-12-06T04:42:42.475243"
+  },
+  {
+    "title": "ShadowDraw: From Any Object to Shadow-Drawing Compositional Art",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05110",
+    "scraped_at": "2025-12-06T04:42:42.475482"
+  },
+  {
+    "title": "QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05049",
+    "scraped_at": "2025-12-06T04:42:42.475747"
+  },
+  {
+    "title": "GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Spaces",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03683",
+    "scraped_at": "2025-12-06T04:42:42.476011"
+  },
+  {
+    "title": "Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03125",
+    "scraped_at": "2025-12-06T04:42:42.476271"
+  },
+  {
+    "title": "When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04124",
+    "scraped_at": "2025-12-06T04:42:42.476554"
+  },
+  {
+    "title": "Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01803",
+    "scraped_at": "2025-12-06T04:42:42.476772"
+  },
+  {
+    "title": "REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.20233",
+    "scraped_at": "2025-12-06T04:42:42.477021"
+  },
+  {
+    "title": "A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.03915",
+    "scraped_at": "2025-12-06T04:42:42.477235"
+  }
+]
