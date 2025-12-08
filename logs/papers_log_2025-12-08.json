@@ -1,0 +1,93 @@
+[
+  {
+    "title": "EditThinker: Unlocking Iterative Reasoning for Any Image Editor",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05965",
+    "scraped_at": "2025-12-08T04:52:42.758419"
+  },
+  {
+    "title": "Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05591",
+    "scraped_at": "2025-12-08T04:52:42.758734"
+  },
+  {
+    "title": "From Imitation to Discrimination: Toward A Generalized Curriculum Advantage Mechanism Enhancing Cross-Domain Reasoning Tasks",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02580",
+    "scraped_at": "2025-12-08T04:52:42.759049"
+  },
+  {
+    "title": "Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05044",
+    "scraped_at": "2025-12-08T04:52:42.759314"
+  },
+  {
+    "title": "COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04563",
+    "scraped_at": "2025-12-08T04:52:42.759592"
+  },
+  {
+    "title": "ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02835",
+    "scraped_at": "2025-12-08T04:52:42.759896"
+  },
+  {
+    "title": "AI & Human Co-Improvement for Safer Co-Superintelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05356",
+    "scraped_at": "2025-12-08T04:52:42.760131"
+  },
+  {
+    "title": "RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.00473",
+    "scraped_at": "2025-12-08T04:52:42.760395"
+  },
+  {
+    "title": "World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05927",
+    "scraped_at": "2025-12-08T04:52:42.760651"
+  },
+  {
+    "title": "ProPhy: Progressive Physical Alignment for Dynamic World Simulation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05564",
+    "scraped_at": "2025-12-08T04:52:42.760925"
+  },
+  {
+    "title": "SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05343",
+    "scraped_at": "2025-12-08T04:52:42.761192"
+  },
+  {
+    "title": "Self-Improving VLM Judges Without Human Annotations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05145",
+    "scraped_at": "2025-12-08T04:52:42.761413"
+  },
+  {
+    "title": "PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04784",
+    "scraped_at": "2025-12-08T04:52:42.761655"
+  }
+]
