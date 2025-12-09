@@ -1,0 +1,93 @@
+[
+  {
+    "title": "DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06749",
+    "scraped_at": "2025-12-09T04:48:14.932832"
+  },
+  {
+    "title": "Unified Video Editing with Temporal Reasoner",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07469",
+    "scraped_at": "2025-12-09T04:48:14.933143"
+  },
+  {
+    "title": "Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07525",
+    "scraped_at": "2025-12-09T04:48:14.933425"
+  },
+  {
+    "title": "EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06065",
+    "scraped_at": "2025-12-09T04:48:14.933709"
+  },
+  {
+    "title": "Relational Visual Similarity",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07833",
+    "scraped_at": "2025-12-09T04:48:14.933987"
+  },
+  {
+    "title": "LongCat-Image Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07584",
+    "scraped_at": "2025-12-09T04:48:14.934229"
+  },
+  {
+    "title": "Scaling Zero-Shot Reference-to-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06905",
+    "scraped_at": "2025-12-09T04:48:14.934460"
+  },
+  {
+    "title": "Voxify3D: Pixel Art Meets Volumetric Rendering",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07834",
+    "scraped_at": "2025-12-09T04:48:14.934736"
+  },
+  {
+    "title": "Vector Quantization using Gaussian Variational Autoencoder",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06609",
+    "scraped_at": "2025-12-09T04:48:14.934987"
+  },
+  {
+    "title": "Rethinking Training Dynamics in Scale-wise Autoregressive Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06421",
+    "scraped_at": "2025-12-09T04:48:14.935207"
+  },
+  {
+    "title": "Group Representational Position Encoding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07805",
+    "scraped_at": "2025-12-09T04:48:14.935420"
+  },
+  {
+    "title": "VideoVLA: Video Generators Can Be Generalizable Robot Manipulators",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06963",
+    "scraped_at": "2025-12-09T04:48:14.935733"
+  },
+  {
+    "title": "Embodied Referring Expression Comprehension in Human-Robot Interaction",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06558",
+    "scraped_at": "2025-12-09T04:48:14.935983"
+  }
+]
