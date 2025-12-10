@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08765",
+    "scraped_at": "2025-12-10T04:52:01.284386"
+  },
+  {
+    "title": "Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07951",
+    "scraped_at": "2025-12-10T04:52:01.284669"
+  },
+  {
+    "title": "TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08153",
+    "scraped_at": "2025-12-10T04:52:01.285014"
+  },
+  {
+    "title": "EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08868",
+    "scraped_at": "2025-12-10T04:52:01.285267"
+  },
+  {
+    "title": "DeepCode: Open Agentic Coding",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07921",
+    "scraped_at": "2025-12-10T04:52:01.285561"
+  },
+  {
+    "title": "TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08358",
+    "scraped_at": "2025-12-10T04:52:01.285920"
+  },
+  {
+    "title": "ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07843",
+    "scraped_at": "2025-12-10T04:52:01.286205"
+  }
+]
