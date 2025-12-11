@@ -1,0 +1,65 @@
+[
+  {
+    "title": "UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09864",
+    "scraped_at": "2025-12-11T04:54:22.555342"
+  },
+  {
+    "title": "StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09363",
+    "scraped_at": "2025-12-11T04:54:22.555650"
+  },
+  {
+    "title": "OmniPSD: Layered PSD Generation with Diffusion Transformer",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09247",
+    "scraped_at": "2025-12-11T04:54:22.555937"
+  },
+  {
+    "title": "HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09928",
+    "scraped_at": "2025-12-11T04:54:22.556190"
+  },
+  {
+    "title": "WonderZoom: Multi-Scale 3D World Generation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09164",
+    "scraped_at": "2025-12-11T04:54:22.556438"
+  },
+  {
+    "title": "Learning Unmasking Policies for Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09106",
+    "scraped_at": "2025-12-11T04:54:22.556659"
+  },
+  {
+    "title": "Pay Less Attention to Function Words for Free Robustness of Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07222",
+    "scraped_at": "2025-12-11T04:54:22.556900"
+  },
+  {
+    "title": "Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.02892",
+    "scraped_at": "2025-12-11T04:54:22.557168"
+  },
+  {
+    "title": "Reinventing Clinical Dialogue: Agentic Paradigms for LLM Enabled Healthcare Communication",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.01453",
+    "scraped_at": "2025-12-11T04:54:22.557415"
+  }
+]
