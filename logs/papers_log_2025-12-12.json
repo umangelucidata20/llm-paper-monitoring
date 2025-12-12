@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10949",
+    "scraped_at": "2025-12-12T04:52:37.728140"
+  },
+  {
+    "title": "OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10756",
+    "scraped_at": "2025-12-12T04:52:37.728528"
+  },
+  {
+    "title": "Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10739",
+    "scraped_at": "2025-12-12T04:52:37.728822"
+  },
+  {
+    "title": "MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10881",
+    "scraped_at": "2025-12-12T04:52:37.729148"
+  },
+  {
+    "title": "Stronger Normalization-Free Transformers",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10938",
+    "scraped_at": "2025-12-12T04:52:37.729406"
+  },
+  {
+    "title": "Evaluating Gemini Robotics Policies in a Veo World Simulator",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10675",
+    "scraped_at": "2025-12-12T04:52:37.729638"
+  },
+  {
+    "title": "The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10791",
+    "scraped_at": "2025-12-12T04:52:37.729866"
+  },
+  {
+    "title": "Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10359",
+    "scraped_at": "2025-12-12T04:52:37.730126"
+  },
+  {
+    "title": "H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09406",
+    "scraped_at": "2025-12-12T04:52:37.730399"
+  },
+  {
+    "title": "Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10398",
+    "scraped_at": "2025-12-12T04:52:37.730636"
+  },
+  {
+    "title": "Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08870",
+    "scraped_at": "2025-12-12T04:52:37.730926"
+  }
+]
