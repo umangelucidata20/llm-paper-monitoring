@@ -1,0 +1,177 @@
+[
+  {
+    "title": "T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10430",
+    "scraped_at": "2025-12-14T04:52:28.448019"
+  },
+  {
+    "title": "Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10949",
+    "scraped_at": "2025-12-14T04:52:28.448331"
+  },
+  {
+    "title": "Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10739",
+    "scraped_at": "2025-12-14T04:52:28.448593"
+  },
+  {
+    "title": "OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10756",
+    "scraped_at": "2025-12-14T04:52:28.448829"
+  },
+  {
+    "title": "Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10534",
+    "scraped_at": "2025-12-14T04:52:28.449074"
+  },
+  {
+    "title": "MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10881",
+    "scraped_at": "2025-12-14T04:52:28.449344"
+  },
+  {
+    "title": "BEAVER: An Efficient Deterministic LLM Verifier",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.05439",
+    "scraped_at": "2025-12-14T04:52:28.449571"
+  },
+  {
+    "title": "Thinking with Images via Self-Calling Agent",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08511",
+    "scraped_at": "2025-12-14T04:52:28.449906"
+  },
+  {
+    "title": "From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10867",
+    "scraped_at": "2025-12-14T04:52:28.450152"
+  },
+  {
+    "title": "Stronger Normalization-Free Transformers",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10938",
+    "scraped_at": "2025-12-14T04:52:28.450424"
+  },
+  {
+    "title": "VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.23386",
+    "scraped_at": "2025-12-14T04:52:28.450651"
+  },
+  {
+    "title": "Evaluating Gemini Robotics Policies in a Veo World Simulator",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10675",
+    "scraped_at": "2025-12-14T04:52:28.450865"
+  },
+  {
+    "title": "StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10959",
+    "scraped_at": "2025-12-14T04:52:28.451135"
+  },
+  {
+    "title": "The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10791",
+    "scraped_at": "2025-12-14T04:52:28.451352"
+  },
+  {
+    "title": "MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09270",
+    "scraped_at": "2025-12-14T04:52:28.451631"
+  },
+  {
+    "title": "Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10359",
+    "scraped_at": "2025-12-14T04:52:28.451868"
+  },
+  {
+    "title": "ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09924",
+    "scraped_at": "2025-12-14T04:52:28.452177"
+  },
+  {
+    "title": "H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09406",
+    "scraped_at": "2025-12-14T04:52:28.452459"
+  },
+  {
+    "title": "Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.08870",
+    "scraped_at": "2025-12-14T04:52:28.452717"
+  },
+  {
+    "title": "Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10955",
+    "scraped_at": "2025-12-14T04:52:28.452931"
+  },
+  {
+    "title": "DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10894",
+    "scraped_at": "2025-12-14T04:52:28.453192"
+  },
+  {
+    "title": "Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10398",
+    "scraped_at": "2025-12-14T04:52:28.453408"
+  },
+  {
+    "title": "X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.04537",
+    "scraped_at": "2025-12-14T04:52:28.453621"
+  },
+  {
+    "title": "MOA: Multi-Objective Alignment for Role-Playing Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09756",
+    "scraped_at": "2025-12-14T04:52:28.453872"
+  },
+  {
+    "title": "DragMesh: Interactive 3D Generation Made Easy",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06424",
+    "scraped_at": "2025-12-14T04:52:28.454127"
+  }
+]
