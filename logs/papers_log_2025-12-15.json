@@ -1,0 +1,58 @@
+[
+  {
+    "title": "DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry",
+    "authors": "24 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11558",
+    "scraped_at": "2025-12-15T04:57:05.164442"
+  },
+  {
+    "title": "SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11749",
+    "scraped_at": "2025-12-15T04:57:05.164737"
+  },
+  {
+    "title": "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11799",
+    "scraped_at": "2025-12-15T04:57:05.165016"
+  },
+  {
+    "title": "Exploring MLLM-Diffusion Information Transfer with MetaCanvas",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11464",
+    "scraped_at": "2025-12-15T04:57:05.165252"
+  },
+  {
+    "title": "Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11792",
+    "scraped_at": "2025-12-15T04:57:05.165538"
+  },
+  {
+    "title": "PersonaLive! Expressive Portrait Image Animation for Live Streaming",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11253",
+    "scraped_at": "2025-12-15T04:57:05.165808"
+  },
+  {
+    "title": "The N-Body Problem: Parallel Execution from Single-Person Egocentric Video",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11393",
+    "scraped_at": "2025-12-15T04:57:05.166055"
+  },
+  {
+    "title": "Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.06951",
+    "scraped_at": "2025-12-15T04:57:05.166348"
+  }
+]
