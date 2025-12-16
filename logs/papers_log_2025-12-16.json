@@ -1,0 +1,121 @@
+[
+  {
+    "title": "LongVie 2: Multimodal Controllable Ultra-Long Video World Model",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13604",
+    "scraped_at": "2025-12-16T04:54:01.385221"
+  },
+  {
+    "title": "Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12602",
+    "scraped_at": "2025-12-16T04:54:01.385500"
+  },
+  {
+    "title": "Memory in the Age of AI Agents",
+    "authors": "47 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13564",
+    "scraped_at": "2025-12-16T04:54:01.385761"
+  },
+  {
+    "title": "Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10071",
+    "scraped_at": "2025-12-16T04:54:01.386010"
+  },
+  {
+    "title": "NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents",
+    "authors": "48 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12730",
+    "scraped_at": "2025-12-16T04:54:01.386246"
+  },
+  {
+    "title": "QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12967",
+    "scraped_at": "2025-12-16T04:54:01.386442"
+  },
+  {
+    "title": "ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13586",
+    "scraped_at": "2025-12-16T04:54:01.386688"
+  },
+  {
+    "title": "MentraSuite: Post-Training Large Language Models for Mental Health Reasoning and Assessment",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09636",
+    "scraped_at": "2025-12-16T04:54:01.386981"
+  },
+  {
+    "title": "V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11995",
+    "scraped_at": "2025-12-16T04:54:01.387212"
+  },
+  {
+    "title": "Image Diffusion Preview with Consistency Solver",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13592",
+    "scraped_at": "2025-12-16T04:54:01.387446"
+  },
+  {
+    "title": "KlingAvatar 2.0 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13313",
+    "scraped_at": "2025-12-16T04:54:01.387667"
+  },
+  {
+    "title": "Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13281",
+    "scraped_at": "2025-12-16T04:54:01.387899"
+  },
+  {
+    "title": "Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13250",
+    "scraped_at": "2025-12-16T04:54:01.388103"
+  },
+  {
+    "title": "Aesthetic Alignment Risks Assimilation: How Image Generation and Reward Models Reinforce Beauty Bias and Ideological \"Censorship\"",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11883",
+    "scraped_at": "2025-12-16T04:54:01.388315"
+  },
+  {
+    "title": "LitePT: Lighter Yet Stronger Point Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13689",
+    "scraped_at": "2025-12-16T04:54:01.388513"
+  },
+  {
+    "title": "START: Spatial and Textual Learning for Chart Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.07186",
+    "scraped_at": "2025-12-16T04:54:01.388722"
+  },
+  {
+    "title": "Towards Interactive Intelligence for Digital Humans",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13674",
+    "scraped_at": "2025-12-16T04:54:01.388937"
+  }
+]
