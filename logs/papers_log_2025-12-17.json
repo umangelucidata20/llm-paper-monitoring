@@ -1,0 +1,93 @@
+[
+  {
+    "title": "MMGR: Multi-Modal Generative Reasoning",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14691",
+    "scraped_at": "2025-12-17T04:52:09.692261"
+  },
+  {
+    "title": "RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13660",
+    "scraped_at": "2025-12-17T04:52:09.692571"
+  },
+  {
+    "title": "Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12675",
+    "scraped_at": "2025-12-17T04:52:09.692851"
+  },
+  {
+    "title": "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14614",
+    "scraped_at": "2025-12-17T04:52:09.693120"
+  },
+  {
+    "title": "MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14699",
+    "scraped_at": "2025-12-17T04:52:09.693417"
+  },
+  {
+    "title": "RecGPT-V2 Technical Report",
+    "authors": "35 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14503",
+    "scraped_at": "2025-12-17T04:52:09.693686"
+  },
+  {
+    "title": "ShowTable: Unlocking Creative Table Visualization with Collaborative Reflection and Refinement",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13303",
+    "scraped_at": "2025-12-17T04:52:09.693940"
+  },
+  {
+    "title": "VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14531",
+    "scraped_at": "2025-12-17T04:52:09.694203"
+  },
+  {
+    "title": "A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14442",
+    "scraped_at": "2025-12-17T04:52:09.694470"
+  },
+  {
+    "title": "Feedforward 3D Editing via Text-Steerable Image-to-3D",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13678",
+    "scraped_at": "2025-12-17T04:52:09.694698"
+  },
+  {
+    "title": "Olmo 3",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13961",
+    "scraped_at": "2025-12-17T04:52:09.694915"
+  },
+  {
+    "title": "Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14067",
+    "scraped_at": "2025-12-17T04:52:09.695129"
+  },
+  {
+    "title": "Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13655",
+    "scraped_at": "2025-12-17T04:52:09.695379"
+  }
+]
