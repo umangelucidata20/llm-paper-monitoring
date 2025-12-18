@@ -1,0 +1,128 @@
+[
+  {
+    "title": "DEER: Draft with Diffusion, Verify with Autoregressive Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15176",
+    "scraped_at": "2025-12-18T04:53:38.718069"
+  },
+  {
+    "title": "Fast and Accurate Causal Parallel Decoding using Jacobi Forcing",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14681",
+    "scraped_at": "2025-12-18T04:53:38.718408"
+  },
+  {
+    "title": "Universal Reasoning Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14693",
+    "scraped_at": "2025-12-18T04:53:38.718726"
+  },
+  {
+    "title": "Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15693",
+    "scraped_at": "2025-12-18T04:53:38.719057"
+  },
+  {
+    "title": "Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15687",
+    "scraped_at": "2025-12-18T04:53:38.719326"
+  },
+  {
+    "title": "VABench: A Comprehensive Benchmark for Audio-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09299",
+    "scraped_at": "2025-12-18T04:53:38.719574"
+  },
+  {
+    "title": "Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15603",
+    "scraped_at": "2025-12-18T04:53:38.719878"
+  },
+  {
+    "title": "SCOPE: Prompt Evolution for Enhancing Agent Effectiveness",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15374",
+    "scraped_at": "2025-12-18T04:53:38.720161"
+  },
+  {
+    "title": "Robust and Calibrated Detection of Authentic Multimedia Content",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15182",
+    "scraped_at": "2025-12-18T04:53:38.720393"
+  },
+  {
+    "title": "DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15713",
+    "scraped_at": "2025-12-18T04:53:38.720613"
+  },
+  {
+    "title": "VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15649",
+    "scraped_at": "2025-12-18T04:53:38.720872"
+  },
+  {
+    "title": "Step-GUI Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15431",
+    "scraped_at": "2025-12-18T04:53:38.721092"
+  },
+  {
+    "title": "In Pursuit of Pixel Supervision for Visual Pre-training",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15715",
+    "scraped_at": "2025-12-18T04:53:38.721363"
+  },
+  {
+    "title": "Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15110",
+    "scraped_at": "2025-12-18T04:53:38.721622"
+  },
+  {
+    "title": "SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13874",
+    "scraped_at": "2025-12-18T04:53:38.721889"
+  },
+  {
+    "title": "Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.09851",
+    "scraped_at": "2025-12-18T04:53:38.722129"
+  },
+  {
+    "title": "End-to-End Training for Autoregressive Video Diffusion via Self-Resampling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15702",
+    "scraped_at": "2025-12-18T04:53:38.722351"
+  },
+  {
+    "title": "LikeBench: Evaluating Subjective Likability in LLMs for Personalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13077",
+    "scraped_at": "2025-12-18T04:53:38.722576"
+  }
+]
