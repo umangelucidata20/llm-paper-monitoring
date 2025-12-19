@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13507",
+    "scraped_at": "2025-12-19T04:53:32.508277"
+  },
+  {
+    "title": "Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16913",
+    "scraped_at": "2025-12-19T04:53:32.508609"
+  },
+  {
+    "title": "StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16915",
+    "scraped_at": "2025-12-19T04:53:32.508924"
+  },
+  {
+    "title": "Next-Embedding Prediction Makes Strong Vision Learners",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16922",
+    "scraped_at": "2025-12-19T04:53:32.509201"
+  },
+  {
+    "title": "Adaptation of Agentic AI",
+    "authors": "34 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16301",
+    "scraped_at": "2025-12-19T04:53:32.509489"
+  },
+  {
+    "title": "Kling-Omni Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16776",
+    "scraped_at": "2025-12-19T04:53:32.509727"
+  },
+  {
+    "title": "DeContext as Defense: Safe Image Editing in Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16625",
+    "scraped_at": "2025-12-19T04:53:32.510021"
+  },
+  {
+    "title": "Alchemist: Unlocking Efficiency in Text-to-Image Model Training via Meta-Gradient Data Selection",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16905",
+    "scraped_at": "2025-12-19T04:53:32.510296"
+  },
+  {
+    "title": "LLaDA2.0: Scaling Up Diffusion Language Models to 100B",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15745",
+    "scraped_at": "2025-12-19T04:53:32.510537"
+  },
+  {
+    "title": "Generative Refocusing: Flexible Defocus Control from a Single Image",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16923",
+    "scraped_at": "2025-12-19T04:53:32.510808"
+  },
+  {
+    "title": "Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16912",
+    "scraped_at": "2025-12-19T04:53:32.511051"
+  },
+  {
+    "title": "Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16921",
+    "scraped_at": "2025-12-19T04:53:32.511285"
+  },
+  {
+    "title": "RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16864",
+    "scraped_at": "2025-12-19T04:53:32.511567"
+  },
+  {
+    "title": "AdaTooler-V: Adaptive Tool-Use for Images and Videos",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16918",
+    "scraped_at": "2025-12-19T04:53:32.511844"
+  },
+  {
+    "title": "TabReX : Tabular Referenceless eXplainable Evaluation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15907",
+    "scraped_at": "2025-12-19T04:53:32.512130"
+  },
+  {
+    "title": "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15528",
+    "scraped_at": "2025-12-19T04:53:32.512402"
+  }
+]
