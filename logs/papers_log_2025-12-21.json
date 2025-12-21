@@ -1,0 +1,268 @@
+[
+  {
+    "title": "Kling-Omni Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16776",
+    "scraped_at": "2025-12-21T04:53:06.549739"
+  },
+  {
+    "title": "Adaptation of Agentic AI",
+    "authors": "34 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16301",
+    "scraped_at": "2025-12-21T04:53:06.550120"
+  },
+  {
+    "title": "LLaDA2.0: Scaling Up Diffusion Language Models to 100B",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15745",
+    "scraped_at": "2025-12-21T04:53:06.550417"
+  },
+  {
+    "title": "Next-Embedding Prediction Makes Strong Vision Learners",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16922",
+    "scraped_at": "2025-12-21T04:53:06.550691"
+  },
+  {
+    "title": "StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16915",
+    "scraped_at": "2025-12-21T04:53:06.550967"
+  },
+  {
+    "title": "Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13507",
+    "scraped_at": "2025-12-21T04:53:06.551224"
+  },
+  {
+    "title": "Generative Refocusing: Flexible Defocus Control from a Single Image",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16923",
+    "scraped_at": "2025-12-21T04:53:06.551509"
+  },
+  {
+    "title": "Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16913",
+    "scraped_at": "2025-12-21T04:53:06.551804"
+  },
+  {
+    "title": "DeContext as Defense: Safe Image Editing in Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16625",
+    "scraped_at": "2025-12-21T04:53:06.552077"
+  },
+  {
+    "title": "Alchemist: Unlocking Efficiency in Text-to-Image Model Training via Meta-Gradient Data Selection",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16905",
+    "scraped_at": "2025-12-21T04:53:06.552343"
+  },
+  {
+    "title": "REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16636",
+    "scraped_at": "2025-12-21T04:53:06.552620"
+  },
+  {
+    "title": "The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16924",
+    "scraped_at": "2025-12-21T04:53:06.552872"
+  },
+  {
+    "title": "N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16561",
+    "scraped_at": "2025-12-21T04:53:06.553140"
+  },
+  {
+    "title": "JustRL: Scaling a 1.5B LLM with a Simple RL Recipe",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16649",
+    "scraped_at": "2025-12-21T04:53:06.553386"
+  },
+  {
+    "title": "EasyV2V: A High-quality Instruction-based Video Editing Framework",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16920",
+    "scraped_at": "2025-12-21T04:53:06.553614"
+  },
+  {
+    "title": "AdaTooler-V: Adaptive Tool-Use for Images and Videos",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16918",
+    "scraped_at": "2025-12-21T04:53:06.553892"
+  },
+  {
+    "title": "Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16912",
+    "scraped_at": "2025-12-21T04:53:06.554131"
+  },
+  {
+    "title": "FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16900",
+    "scraped_at": "2025-12-21T04:53:06.554395"
+  },
+  {
+    "title": "Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16899",
+    "scraped_at": "2025-12-21T04:53:06.554640"
+  },
+  {
+    "title": "RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16864",
+    "scraped_at": "2025-12-21T04:53:06.554950"
+  },
+  {
+    "title": "VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16501",
+    "scraped_at": "2025-12-21T04:53:06.555202"
+  },
+  {
+    "title": "ModelTables: A Corpus of Tables about Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16106",
+    "scraped_at": "2025-12-21T04:53:06.555449"
+  },
+  {
+    "title": "Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16378",
+    "scraped_at": "2025-12-21T04:53:06.555742"
+  },
+  {
+    "title": "Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16921",
+    "scraped_at": "2025-12-21T04:53:06.555992"
+  },
+  {
+    "title": "Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16615",
+    "scraped_at": "2025-12-21T04:53:06.556230"
+  },
+  {
+    "title": "Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.11251",
+    "scraped_at": "2025-12-21T04:53:06.556456"
+  },
+  {
+    "title": "FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16670",
+    "scraped_at": "2025-12-21T04:53:06.556719"
+  },
+  {
+    "title": "Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16767",
+    "scraped_at": "2025-12-21T04:53:06.556988"
+  },
+  {
+    "title": "Nemotron-Math: Efficient Long-Context Distillation of Mathematical Reasoning from Multi-Mode Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15489",
+    "scraped_at": "2025-12-21T04:53:06.557220"
+  },
+  {
+    "title": "Coupled Variational Reinforcement Learning for Language Model General Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12576",
+    "scraped_at": "2025-12-21T04:53:06.557488"
+  },
+  {
+    "title": "Bidirectional Normalizing Flow: From Data to Noise and Back",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.10953",
+    "scraped_at": "2025-12-21T04:53:06.557745"
+  },
+  {
+    "title": "MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16909",
+    "scraped_at": "2025-12-21T04:53:06.558001"
+  },
+  {
+    "title": "TabReX : Tabular Referenceless eXplainable Evaluation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15907",
+    "scraped_at": "2025-12-21T04:53:06.558274"
+  },
+  {
+    "title": "Vibe Spaces for Creatively Connecting and Expressing Visual Concepts",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14884",
+    "scraped_at": "2025-12-21T04:53:06.558550"
+  },
+  {
+    "title": "Improving Recursive Transformers with Mixture of LoRAs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12880",
+    "scraped_at": "2025-12-21T04:53:06.558778"
+  },
+  {
+    "title": "Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.12623",
+    "scraped_at": "2025-12-21T04:53:06.559022"
+  },
+  {
+    "title": "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15528",
+    "scraped_at": "2025-12-21T04:53:06.559292"
+  },
+  {
+    "title": "Sharing State Between Prompts and Programs",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.14805",
+    "scraped_at": "2025-12-21T04:53:06.559573"
+  }
+]
