@@ -1,0 +1,79 @@
+[
+  {
+    "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
+    "authors": "35 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16676",
+    "scraped_at": "2025-12-23T04:54:46.010961"
+  },
+  {
+    "title": "QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19134",
+    "scraped_at": "2025-12-23T04:54:46.011259"
+  },
+  {
+    "title": "Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment with Proficiency Simulation for Item Difficulty Prediction",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.18880",
+    "scraped_at": "2025-12-23T04:54:46.011552"
+  },
+  {
+    "title": "GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19682",
+    "scraped_at": "2025-12-23T04:54:46.011787"
+  },
+  {
+    "title": "Region-Constraint In-Context Generation for Instructional Video Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.17650",
+    "scraped_at": "2025-12-23T04:54:46.012016"
+  },
+  {
+    "title": "The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19693",
+    "scraped_at": "2025-12-23T04:54:46.012261"
+  },
+  {
+    "title": "WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19678",
+    "scraped_at": "2025-12-23T04:54:46.012492"
+  },
+  {
+    "title": "StoryMem: Multi-shot Long Video Storytelling with Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19539",
+    "scraped_at": "2025-12-23T04:54:46.012705"
+  },
+  {
+    "title": "MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive, and MCP-Augmented Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19432",
+    "scraped_at": "2025-12-23T04:54:46.012908"
+  },
+  {
+    "title": "Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19402",
+    "scraped_at": "2025-12-23T04:54:46.013140"
+  },
+  {
+    "title": "Name That Part: 3D Part Segmentation and Naming",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.18003",
+    "scraped_at": "2025-12-23T04:54:46.013412"
+  }
+]
