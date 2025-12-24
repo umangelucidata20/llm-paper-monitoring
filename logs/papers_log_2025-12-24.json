@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19673",
+    "scraped_at": "2025-12-24T04:54:18.391777"
+  },
+  {
+    "title": "SemanticGen: Video Generation in Semantic Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20619",
+    "scraped_at": "2025-12-24T04:54:18.392081"
+  },
+  {
+    "title": "SpatialTree: How Spatial Abilities Branch Out in MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20617",
+    "scraped_at": "2025-12-24T04:54:18.392361"
+  },
+  {
+    "title": "Step-DeepResearch Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20491",
+    "scraped_at": "2025-12-24T04:54:18.392638"
+  },
+  {
+    "title": "SAM Audio: Segment Anything in Audio",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.18099",
+    "scraped_at": "2025-12-24T04:54:18.392890"
+  },
+  {
+    "title": "Reinforcement Learning for Self-Improving Agent with Skill Library",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.17102",
+    "scraped_at": "2025-12-24T04:54:18.393161"
+  },
+  {
+    "title": "QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19526",
+    "scraped_at": "2025-12-24T04:54:18.393401"
+  },
+  {
+    "title": "Active Intelligence in Video Avatars via Closed-loop World Modeling",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20615",
+    "scraped_at": "2025-12-24T04:54:18.393699"
+  }
+]
