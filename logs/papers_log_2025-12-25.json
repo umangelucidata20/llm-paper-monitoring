@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20557",
+    "scraped_at": "2025-12-25T04:54:40.996044"
+  },
+  {
+    "title": "T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21094",
+    "scraped_at": "2025-12-25T04:54:40.996319"
+  },
+  {
+    "title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.16093",
+    "scraped_at": "2025-12-25T04:54:40.996587"
+  },
+  {
+    "title": "NVIDIA Nemotron 3: Efficient and Open Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20856",
+    "scraped_at": "2025-12-25T04:54:40.996809"
+  },
+  {
+    "title": "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20848",
+    "scraped_at": "2025-12-25T04:54:40.997023"
+  },
+  {
+    "title": "HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21338",
+    "scraped_at": "2025-12-25T04:54:40.997244"
+  },
+  {
+    "title": "Streaming Video Instruction Tuning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21334",
+    "scraped_at": "2025-12-25T04:54:40.997485"
+  },
+  {
+    "title": "LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21010",
+    "scraped_at": "2025-12-25T04:54:40.997698"
+  }
+]
