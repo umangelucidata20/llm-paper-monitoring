@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Latent Implicit Visual Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21218",
+    "scraped_at": "2025-12-28T04:58:48.687660"
+  },
+  {
+    "title": "Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20605",
+    "scraped_at": "2025-12-28T04:58:48.687955"
+  },
+  {
+    "title": "Spatia: Video Generation with Updatable Spatial Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.15716",
+    "scraped_at": "2025-12-28T04:58:48.688298"
+  },
+  {
+    "title": "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19995",
+    "scraped_at": "2025-12-28T04:58:48.688602"
+  },
+  {
+    "title": "How Much 3D Do Video Foundation Models Encode?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19949",
+    "scraped_at": "2025-12-28T04:58:48.688850"
+  },
+  {
+    "title": "VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.19680",
+    "scraped_at": "2025-12-28T04:58:48.689162"
+  },
+  {
+    "title": "GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.13043",
+    "scraped_at": "2025-12-28T04:58:48.689444"
+  }
+]
