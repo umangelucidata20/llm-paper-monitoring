@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.17220",
+    "scraped_at": "2025-12-29T05:02:48.052098"
+  },
+  {
+    "title": "InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.17504",
+    "scraped_at": "2025-12-29T05:02:48.052421"
+  },
+  {
+    "title": "MAI-UI Technical Report: Real-World Centric Foundation GUI Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22047",
+    "scraped_at": "2025-12-29T05:02:48.052696"
+  },
+  {
+    "title": "See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22120",
+    "scraped_at": "2025-12-29T05:02:48.052988"
+  },
+  {
+    "title": "TimeBill: Time-Budgeted Inference for Large Language Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21859",
+    "scraped_at": "2025-12-29T05:02:48.053267"
+  },
+  {
+    "title": "SVBench: Evaluation of Video Generation Models on Social Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21507",
+    "scraped_at": "2025-12-29T05:02:48.053556"
+  },
+  {
+    "title": "SWE-RM: Execution-free Feedback For Software Engineering Agents",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21919",
+    "scraped_at": "2025-12-29T05:02:48.053846"
+  },
+  {
+    "title": "UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21675",
+    "scraped_at": "2025-12-29T05:02:48.054153"
+  },
+  {
+    "title": "ProEdit: Inversion-based Editing From Prompts Done Right",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22118",
+    "scraped_at": "2025-12-29T05:02:48.054428"
+  }
+]
