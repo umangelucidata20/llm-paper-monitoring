@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Yume-1.5: A Text-Controlled Interactive World Generation Model",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22096",
+    "scraped_at": "2025-12-30T04:56:17.472306"
+  },
+  {
+    "title": "Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23705",
+    "scraped_at": "2025-12-30T04:56:17.472613"
+  },
+  {
+    "title": "SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22322",
+    "scraped_at": "2025-12-30T04:56:17.472890"
+  },
+  {
+    "title": "Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23447",
+    "scraped_at": "2025-12-30T04:56:17.473186"
+  },
+  {
+    "title": "Web World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23676",
+    "scraped_at": "2025-12-30T04:56:17.473449"
+  },
+  {
+    "title": "Monadic Context Engineering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22431",
+    "scraped_at": "2025-12-30T04:56:17.473697"
+  },
+  {
+    "title": "Training AI Co-Scientists Using Rubric Rewards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23707",
+    "scraped_at": "2025-12-30T04:56:17.473937"
+  },
+  {
+    "title": "Nested Browser-Use Learning for Agentic Information Seeking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23647",
+    "scraped_at": "2025-12-30T04:56:17.474200"
+  },
+  {
+    "title": "OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23646",
+    "scraped_at": "2025-12-30T04:56:17.474468"
+  },
+  {
+    "title": "Video-BrowseComp: Benchmarking Agentic Video Research on Open Web",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23044",
+    "scraped_at": "2025-12-30T04:56:17.474734"
+  },
+  {
+    "title": "SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23162",
+    "scraped_at": "2025-12-30T04:56:17.474968"
+  },
+  {
+    "title": "An Information Theoretic Perspective on Agentic System Design",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21720",
+    "scraped_at": "2025-12-30T04:56:17.475209"
+  }
+]
