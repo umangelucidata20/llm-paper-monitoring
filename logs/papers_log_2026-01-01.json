@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models",
+    "authors": "38 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24618",
+    "scraped_at": "2026-01-01T05:01:01.660715"
+  },
+  {
+    "title": "GR-Dexter Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24210",
+    "scraped_at": "2026-01-01T05:01:01.661012"
+  },
+  {
+    "title": "Scaling Open-Ended Reasoning to Predict the Future",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.25070",
+    "scraped_at": "2026-01-01T05:01:01.661326"
+  },
+  {
+    "title": "PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24551",
+    "scraped_at": "2026-01-01T05:01:01.661595"
+  },
+  {
+    "title": "SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.25075",
+    "scraped_at": "2026-01-01T05:01:01.661856"
+  },
+  {
+    "title": "Figure It Out: Improving the Frontier of Reasoning with Active Visual Thinking",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24297",
+    "scraped_at": "2026-01-01T05:01:01.662147"
+  },
+  {
+    "title": "Factorized Learning for Temporally Grounded Video-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24097",
+    "scraped_at": "2026-01-01T05:01:01.662389"
+  },
+  {
+    "title": "Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23988",
+    "scraped_at": "2026-01-01T05:01:01.662623"
+  },
+  {
+    "title": "JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22905",
+    "scraped_at": "2026-01-01T05:01:01.662858"
+  },
+  {
+    "title": "Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem",
+    "authors": "88 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24873",
+    "scraped_at": "2026-01-01T05:01:01.663130"
+  },
+  {
+    "title": "Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24385",
+    "scraped_at": "2026-01-01T05:01:01.663366"
+  },
+  {
+    "title": "Pretraining Frame Preservation in Autoregressive Video Memory Compression",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23851",
+    "scraped_at": "2026-01-01T05:01:01.663632"
+  }
+]
