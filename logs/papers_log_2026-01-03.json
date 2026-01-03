@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23959",
+    "scraped_at": "2026-01-03T04:51:30.495636"
+  },
+  {
+    "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24617",
+    "scraped_at": "2026-01-03T04:51:30.495948"
+  },
+  {
+    "title": "DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24165",
+    "scraped_at": "2026-01-03T04:51:30.496292"
+  },
+  {
+    "title": "On the Role of Discreteness in Diffusion LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.22630",
+    "scraped_at": "2026-01-03T04:51:30.496565"
+  },
+  {
+    "title": "FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24724",
+    "scraped_at": "2026-01-03T04:51:30.496836"
+  },
+  {
+    "title": "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24766",
+    "scraped_at": "2026-01-03T04:51:30.497111"
+  },
+  {
+    "title": "TESO Tabu Enhanced Simulation Optimization for Noisy Black Box Problems",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24007",
+    "scraped_at": "2026-01-03T04:51:30.497390"
+  }
+]
