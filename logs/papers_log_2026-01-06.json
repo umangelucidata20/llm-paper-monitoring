@@ -1,0 +1,86 @@
+[
+  {
+    "title": "K-EXAONE Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01739",
+    "scraped_at": "2026-01-06T04:56:39.131274"
+  },
+  {
+    "title": "DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01425",
+    "scraped_at": "2026-01-06T04:56:39.131553"
+  },
+  {
+    "title": "NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02204",
+    "scraped_at": "2026-01-06T04:56:39.131814"
+  },
+  {
+    "title": "VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02256",
+    "scraped_at": "2026-01-06T04:56:39.132053"
+  },
+  {
+    "title": "Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.20578",
+    "scraped_at": "2026-01-06T04:56:39.132286"
+  },
+  {
+    "title": "Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02356",
+    "scraped_at": "2026-01-06T04:56:39.132533"
+  },
+  {
+    "title": "KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01046",
+    "scraped_at": "2026-01-06T04:56:39.132757"
+  },
+  {
+    "title": "VINO: A Unified Visual Generator with Interleaved OmniModal Context",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02358",
+    "scraped_at": "2026-01-06T04:56:39.133028"
+  },
+  {
+    "title": "COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01836",
+    "scraped_at": "2026-01-06T04:56:39.133242"
+  },
+  {
+    "title": "Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02346",
+    "scraped_at": "2026-01-06T04:56:39.133438"
+  },
+  {
+    "title": "Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02314",
+    "scraped_at": "2026-01-06T04:56:39.133659"
+  },
+  {
+    "title": "OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01576",
+    "scraped_at": "2026-01-06T04:56:39.133891"
+  }
+]
