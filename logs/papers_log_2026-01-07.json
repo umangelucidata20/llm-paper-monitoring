@@ -1,0 +1,79 @@
+[
+  {
+    "title": "MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01554",
+    "scraped_at": "2026-01-07T04:57:39.267711"
+  },
+  {
+    "title": "InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03252",
+    "scraped_at": "2026-01-07T04:57:39.268031"
+  },
+  {
+    "title": "CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01874",
+    "scraped_at": "2026-01-07T04:57:39.268360"
+  },
+  {
+    "title": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
+    "authors": "29 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03233",
+    "scraped_at": "2026-01-07T04:57:39.268737"
+  },
+  {
+    "title": "NitroGen: An Open Foundation Model for Generalist Gaming Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02427",
+    "scraped_at": "2026-01-07T04:57:39.269004"
+  },
+  {
+    "title": "DreamStyle: A Unified Framework for Video Stylization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02785",
+    "scraped_at": "2026-01-07T04:57:39.269251"
+  },
+  {
+    "title": "X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03194",
+    "scraped_at": "2026-01-07T04:57:39.269585"
+  },
+  {
+    "title": "Parallel Latent Reasoning for Sequential Recommendation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03153",
+    "scraped_at": "2026-01-07T04:57:39.269862"
+  },
+  {
+    "title": "MiMo-V2-Flash Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02780",
+    "scraped_at": "2026-01-07T04:57:39.270113"
+  },
+  {
+    "title": "WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02439",
+    "scraped_at": "2026-01-07T04:57:39.270389"
+  },
+  {
+    "title": "FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01720",
+    "scraped_at": "2026-01-07T04:57:39.270684"
+  }
+]
