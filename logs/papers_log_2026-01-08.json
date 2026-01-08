@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02151",
+    "scraped_at": "2026-01-08T04:56:33.969566"
+  },
+  {
+    "title": "Benchmark^2: Systematic Evaluation of LLM Benchmarks",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03986",
+    "scraped_at": "2026-01-08T04:56:33.969899"
+  },
+  {
+    "title": "Choreographing a World of Dynamic Objects",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04194",
+    "scraped_at": "2026-01-08T04:56:33.970197"
+  },
+  {
+    "title": "E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.00423",
+    "scraped_at": "2026-01-08T04:56:33.970473"
+  },
+  {
+    "title": "Klear: Unified Multi-Task Audio-Video Joint Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04151",
+    "scraped_at": "2026-01-08T04:56:33.970737"
+  },
+  {
+    "title": "RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03699",
+    "scraped_at": "2026-01-08T04:56:33.970996"
+  },
+  {
+    "title": "Agentic Rubrics as Contextual Verifiers for SWE Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04171",
+    "scraped_at": "2026-01-08T04:56:33.971237"
+  },
+  {
+    "title": "EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03471",
+    "scraped_at": "2026-01-08T04:56:33.971528"
+  },
+  {
+    "title": "MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02075",
+    "scraped_at": "2026-01-08T04:56:33.971782"
+  },
+  {
+    "title": "ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03467",
+    "scraped_at": "2026-01-08T04:56:33.972008"
+  }
+]
