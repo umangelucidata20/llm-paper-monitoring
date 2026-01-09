@@ -1,0 +1,86 @@
+[
+  {
+    "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05242",
+    "scraped_at": "2026-01-09T04:57:11.416018"
+  },
+  {
+    "title": "RelayLLM: Efficient Reasoning via Collaborative Decoding",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05167",
+    "scraped_at": "2026-01-09T04:57:11.416377"
+  },
+  {
+    "title": "The Illusion of Specialization: Unveiling the Domain-Invariant \"Standing Committee\" in Mixture-of-Experts Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03425",
+    "scraped_at": "2026-01-09T04:57:11.416692"
+  },
+  {
+    "title": "Plenoptic Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05239",
+    "scraped_at": "2026-01-09T04:57:11.416949"
+  },
+  {
+    "title": "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05138",
+    "scraped_at": "2026-01-09T04:57:11.417219"
+  },
+  {
+    "title": "DocDancer: Towards Agentic Document-Grounded Information Seeking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05163",
+    "scraped_at": "2026-01-09T04:57:11.417486"
+  },
+  {
+    "title": "Agent-as-a-Judge",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05111",
+    "scraped_at": "2026-01-09T04:57:11.417793"
+  },
+  {
+    "title": "VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05175",
+    "scraped_at": "2026-01-09T04:57:11.418038"
+  },
+  {
+    "title": "Token-Level LLM Collaboration via FusionRoute",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05106",
+    "scraped_at": "2026-01-09T04:57:11.418299"
+  },
+  {
+    "title": "DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03559",
+    "scraped_at": "2026-01-09T04:57:11.418571"
+  },
+  {
+    "title": "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01887",
+    "scraped_at": "2026-01-09T04:57:11.418883"
+  },
+  {
+    "title": "Memorization in 3D Shape Generation: An Empirical Study",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23628",
+    "scraped_at": "2026-01-09T04:57:11.419128"
+  }
+]
