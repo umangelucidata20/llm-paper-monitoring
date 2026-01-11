@@ -1,0 +1,233 @@
+[
+  {
+    "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05242",
+    "scraped_at": "2026-01-11T05:00:29.742117"
+  },
+  {
+    "title": "Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04890",
+    "scraped_at": "2026-01-11T05:00:29.742438"
+  },
+  {
+    "title": "RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05249",
+    "scraped_at": "2026-01-11T05:00:29.742796"
+  },
+  {
+    "title": "Token-Level LLM Collaboration via FusionRoute",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05106",
+    "scraped_at": "2026-01-11T05:00:29.743087"
+  },
+  {
+    "title": "RelayLLM: Efficient Reasoning via Collaborative Decoding",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05167",
+    "scraped_at": "2026-01-11T05:00:29.743393"
+  },
+  {
+    "title": "RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05241",
+    "scraped_at": "2026-01-11T05:00:29.743750"
+  },
+  {
+    "title": "AT^2PO: Agentic Turn-based Policy Optimization via Tree Search",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04767",
+    "scraped_at": "2026-01-11T05:00:29.744018"
+  },
+  {
+    "title": "VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05175",
+    "scraped_at": "2026-01-11T05:00:29.744281"
+  },
+  {
+    "title": "Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.21815",
+    "scraped_at": "2026-01-11T05:00:29.744528"
+  },
+  {
+    "title": "VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05138",
+    "scraped_at": "2026-01-11T05:00:29.744828"
+  },
+  {
+    "title": "The Illusion of Specialization: Unveiling the Domain-Invariant \"Standing Committee\" in Mixture-of-Experts Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03425",
+    "scraped_at": "2026-01-11T05:00:29.745077"
+  },
+  {
+    "title": "Agent-as-a-Judge",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05111",
+    "scraped_at": "2026-01-11T05:00:29.745367"
+  },
+  {
+    "title": "Plenoptic Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05239",
+    "scraped_at": "2026-01-11T05:00:29.745628"
+  },
+  {
+    "title": "CoV: Chain-of-View Prompting for Spatial Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05172",
+    "scraped_at": "2026-01-11T05:00:29.745891"
+  },
+  {
+    "title": "DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03559",
+    "scraped_at": "2026-01-11T05:00:29.746134"
+  },
+  {
+    "title": "Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05124",
+    "scraped_at": "2026-01-11T05:00:29.746431"
+  },
+  {
+    "title": "DocDancer: Towards Agentic Document-Grounded Information Seeking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05163",
+    "scraped_at": "2026-01-11T05:00:29.746694"
+  },
+  {
+    "title": "One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03111",
+    "scraped_at": "2026-01-11T05:00:29.746958"
+  },
+  {
+    "title": "Multi-Scale Local Speculative Decoding for Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05149",
+    "scraped_at": "2026-01-11T05:00:29.747198"
+  },
+  {
+    "title": "PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04792",
+    "scraped_at": "2026-01-11T05:00:29.747439"
+  },
+  {
+    "title": "ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04754",
+    "scraped_at": "2026-01-11T05:00:29.747730"
+  },
+  {
+    "title": "ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04342",
+    "scraped_at": "2026-01-11T05:00:29.747973"
+  },
+  {
+    "title": "Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03362",
+    "scraped_at": "2026-01-11T05:00:29.748218"
+  },
+  {
+    "title": "Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.24160",
+    "scraped_at": "2026-01-11T05:00:29.748519"
+  },
+  {
+    "title": "Memorization in 3D Shape Generation: An Empirical Study",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2512.23628",
+    "scraped_at": "2026-01-11T05:00:29.748757"
+  },
+  {
+    "title": "AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04620",
+    "scraped_at": "2026-01-11T05:00:29.749003"
+  },
+  {
+    "title": "Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04575",
+    "scraped_at": "2026-01-11T05:00:29.749262"
+  },
+  {
+    "title": "Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04300",
+    "scraped_at": "2026-01-11T05:00:29.749511"
+  },
+  {
+    "title": "Learning User Preferences Through Interaction for Long-Term Collaboration",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02702",
+    "scraped_at": "2026-01-11T05:00:29.749779"
+  },
+  {
+    "title": "Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02016",
+    "scraped_at": "2026-01-11T05:00:29.750075"
+  },
+  {
+    "title": "LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04233",
+    "scraped_at": "2026-01-11T05:00:29.750311"
+  },
+  {
+    "title": "VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05125",
+    "scraped_at": "2026-01-11T05:00:29.750588"
+  },
+  {
+    "title": "Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.01887",
+    "scraped_at": "2026-01-11T05:00:29.750867"
+  }
+]
