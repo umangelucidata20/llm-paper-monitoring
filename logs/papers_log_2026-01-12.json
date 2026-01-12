@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05432",
+    "scraped_at": "2026-01-12T05:03:44.392218"
+  },
+  {
+    "title": "Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06021",
+    "scraped_at": "2026-01-12T05:03:44.392547"
+  },
+  {
+    "title": "The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06002",
+    "scraped_at": "2026-01-12T05:03:44.392836"
+  },
+  {
+    "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05808",
+    "scraped_at": "2026-01-12T05:03:44.393127"
+  },
+  {
+    "title": "Can We Predict Before Executing Machine Learning Agents?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05930",
+    "scraped_at": "2026-01-12T05:03:44.393435"
+  },
+  {
+    "title": "Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05905",
+    "scraped_at": "2026-01-12T05:03:44.393697"
+  },
+  {
+    "title": "Orient Anything V2: Unifying Orientation and Rotation Understanding",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05573",
+    "scraped_at": "2026-01-12T05:03:44.393989"
+  },
+  {
+    "title": "Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05848",
+    "scraped_at": "2026-01-12T05:03:44.394288"
+  },
+  {
+    "title": "SmartSearch: Process Reward-Guided Query Refinement for Search Agents",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04888",
+    "scraped_at": "2026-01-12T05:03:44.394591"
+  },
+  {
+    "title": "AgentOCR: Reimagining Agent History via Optical Self-Compression",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04786",
+    "scraped_at": "2026-01-12T05:03:44.394832"
+  },
+  {
+    "title": "VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05966",
+    "scraped_at": "2026-01-12T05:03:44.395099"
+  },
+  {
+    "title": "DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04823",
+    "scraped_at": "2026-01-12T05:03:44.395388"
+  },
+  {
+    "title": "IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05870",
+    "scraped_at": "2026-01-12T05:03:44.395644"
+  },
+  {
+    "title": "Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05851",
+    "scraped_at": "2026-01-12T05:03:44.395875"
+  },
+  {
+    "title": "GenCtrl -- A Formal Controllability Toolkit for Generative Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05637",
+    "scraped_at": "2026-01-12T05:03:44.396095"
+  },
+  {
+    "title": "Over-Searching in Search-Augmented Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.05503",
+    "scraped_at": "2026-01-12T05:03:44.396345"
+  }
+]
