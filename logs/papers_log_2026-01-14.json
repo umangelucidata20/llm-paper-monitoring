@@ -1,0 +1,86 @@
+[
+  {
+    "title": "The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.07264",
+    "scraped_at": "2026-01-14T04:59:06.072293"
+  },
+  {
+    "title": "MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06789",
+    "scraped_at": "2026-01-14T04:59:06.072753"
+  },
+  {
+    "title": "ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06487",
+    "scraped_at": "2026-01-14T04:59:06.073056"
+  },
+  {
+    "title": "Motion Attribution for Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08828",
+    "scraped_at": "2026-01-14T04:59:06.073312"
+  },
+  {
+    "title": "Ministral 3",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08584",
+    "scraped_at": "2026-01-14T04:59:06.073591"
+  },
+  {
+    "title": "User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08225",
+    "scraped_at": "2026-01-14T04:59:06.073836"
+  },
+  {
+    "title": "End-to-End Video Character Replacement without Structural Guidance",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08587",
+    "scraped_at": "2026-01-14T04:59:06.074108"
+  },
+  {
+    "title": "Solar Open Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.07022",
+    "scraped_at": "2026-01-14T04:59:06.074355"
+  },
+  {
+    "title": "VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08665",
+    "scraped_at": "2026-01-14T04:59:06.074612"
+  },
+  {
+    "title": "JudgeRLVR: Judge First, Generate Second for Efficient Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08468",
+    "scraped_at": "2026-01-14T04:59:06.074866"
+  },
+  {
+    "title": "SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08303",
+    "scraped_at": "2026-01-14T04:59:06.075102"
+  },
+  {
+    "title": "Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.04582",
+    "scraped_at": "2026-01-14T04:59:06.075332"
+  }
+]
