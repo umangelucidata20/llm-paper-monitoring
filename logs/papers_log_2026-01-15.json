@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Controlled Self-Evolution for Algorithmic Code Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.07348",
+    "scraped_at": "2026-01-15T04:58:05.972895"
+  },
+  {
+    "title": "DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09688",
+    "scraped_at": "2026-01-15T04:58:05.973202"
+  },
+  {
+    "title": "Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09708",
+    "scraped_at": "2026-01-15T04:58:05.973465"
+  },
+  {
+    "title": "SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09136",
+    "scraped_at": "2026-01-15T04:58:05.973711"
+  },
+  {
+    "title": "MAXS: Meta-Adaptive Exploration with LLM Agents",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09259",
+    "scraped_at": "2026-01-15T04:58:05.973984"
+  },
+  {
+    "title": "A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09274",
+    "scraped_at": "2026-01-15T04:58:05.974234"
+  },
+  {
+    "title": "Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06596",
+    "scraped_at": "2026-01-15T04:58:05.974479"
+  },
+  {
+    "title": "TranslateGemma Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09012",
+    "scraped_at": "2026-01-15T04:58:05.974701"
+  },
+  {
+    "title": "FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.03928",
+    "scraped_at": "2026-01-15T04:58:05.974933"
+  },
+  {
+    "title": "Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09697",
+    "scraped_at": "2026-01-15T04:58:05.975170"
+  },
+  {
+    "title": "OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09575",
+    "scraped_at": "2026-01-15T04:58:05.975380"
+  },
+  {
+    "title": "EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09465",
+    "scraped_at": "2026-01-15T04:58:05.975617"
+  },
+  {
+    "title": "The AI Hippocampus: How Far are We From Human Memory?",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09113",
+    "scraped_at": "2026-01-15T04:58:05.975880"
+  }
+]
