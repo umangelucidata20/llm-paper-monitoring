@@ -1,0 +1,128 @@
+[
+  {
+    "title": "STEP3-VL-10B Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09668",
+    "scraped_at": "2026-01-16T04:56:06.425529"
+  },
+  {
+    "title": "DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10305",
+    "scraped_at": "2026-01-16T04:56:06.425936"
+  },
+  {
+    "title": "CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10061",
+    "scraped_at": "2026-01-16T04:56:06.426239"
+  },
+  {
+    "title": "Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08763",
+    "scraped_at": "2026-01-16T04:56:06.426494"
+  },
+  {
+    "title": "Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10332",
+    "scraped_at": "2026-01-16T04:56:06.426788"
+  },
+  {
+    "title": "Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09667",
+    "scraped_at": "2026-01-16T04:56:06.427035"
+  },
+  {
+    "title": "MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10712",
+    "scraped_at": "2026-01-16T04:56:06.427301"
+  },
+  {
+    "title": "A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10527",
+    "scraped_at": "2026-01-16T04:56:06.427598"
+  },
+  {
+    "title": "ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10156",
+    "scraped_at": "2026-01-16T04:56:06.427891"
+  },
+  {
+    "title": "FlowAct-R1: Towards Interactive Humanoid Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10103",
+    "scraped_at": "2026-01-16T04:56:06.428119"
+  },
+  {
+    "title": "Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10611",
+    "scraped_at": "2026-01-16T04:56:06.428376"
+  },
+  {
+    "title": "EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09142",
+    "scraped_at": "2026-01-16T04:56:06.428661"
+  },
+  {
+    "title": "Action100M: A Large-scale Video Action Dataset",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10592",
+    "scraped_at": "2026-01-16T04:56:06.428890"
+  },
+  {
+    "title": "Transition Matching Distillation for Fast Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09881",
+    "scraped_at": "2026-01-16T04:56:06.429112"
+  },
+  {
+    "title": "Inference-time Physics Alignment of Video Generative Models with Latent World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10553",
+    "scraped_at": "2026-01-16T04:56:06.429349"
+  },
+  {
+    "title": "PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10201",
+    "scraped_at": "2026-01-16T04:56:06.429603"
+  },
+  {
+    "title": "LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10129",
+    "scraped_at": "2026-01-16T04:56:06.429921"
+  },
+  {
+    "title": "Deriving Character Logic from Storyline as Codified Decision Trees",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10080",
+    "scraped_at": "2026-01-16T04:56:06.430198"
+  }
+]
