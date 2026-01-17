@@ -1,0 +1,268 @@
+[
+  {
+    "title": "Urban Socio-Semantic Segmentation with Vision-Language Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10477",
+    "scraped_at": "2026-01-17T04:51:00.188499"
+  },
+  {
+    "title": "STEP3-VL-10B Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09668",
+    "scraped_at": "2026-01-17T04:51:00.188828"
+  },
+  {
+    "title": "Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08763",
+    "scraped_at": "2026-01-17T04:51:00.189151"
+  },
+  {
+    "title": "Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09667",
+    "scraped_at": "2026-01-17T04:51:00.189417"
+  },
+  {
+    "title": "VIBE: Visual Instruction Based Editor",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.02242",
+    "scraped_at": "2026-01-17T04:51:00.189739"
+  },
+  {
+    "title": "Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.07641",
+    "scraped_at": "2026-01-17T04:51:00.190023"
+  },
+  {
+    "title": "DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10305",
+    "scraped_at": "2026-01-17T04:51:00.190345"
+  },
+  {
+    "title": "Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10402",
+    "scraped_at": "2026-01-17T04:51:00.190618"
+  },
+  {
+    "title": "CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10061",
+    "scraped_at": "2026-01-17T04:51:00.190883"
+  },
+  {
+    "title": "Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10332",
+    "scraped_at": "2026-01-17T04:51:00.191156"
+  },
+  {
+    "title": "Alterbute: Editing Intrinsic Attributes of Objects in Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10714",
+    "scraped_at": "2026-01-17T04:51:00.191404"
+  },
+  {
+    "title": "MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10712",
+    "scraped_at": "2026-01-17T04:51:00.191657"
+  },
+  {
+    "title": "ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10156",
+    "scraped_at": "2026-01-17T04:51:00.191950"
+  },
+  {
+    "title": "A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10527",
+    "scraped_at": "2026-01-17T04:51:00.192260"
+  },
+  {
+    "title": "Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10611",
+    "scraped_at": "2026-01-17T04:51:00.192551"
+  },
+  {
+    "title": "PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10657",
+    "scraped_at": "2026-01-17T04:51:00.192802"
+  },
+  {
+    "title": "FlowAct-R1: Towards Interactive Humanoid Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10103",
+    "scraped_at": "2026-01-17T04:51:00.193066"
+  },
+  {
+    "title": "Transition Matching Distillation for Fast Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09881",
+    "scraped_at": "2026-01-17T04:51:00.193303"
+  },
+  {
+    "title": "Action100M: A Large-scale Video Action Dataset",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10592",
+    "scraped_at": "2026-01-17T04:51:00.193557"
+  },
+  {
+    "title": "M^4olGen: Multi-Agent, Multi-Stage Molecular Generation under Precise Multi-Property Constraints",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10131",
+    "scraped_at": "2026-01-17T04:51:00.193793"
+  },
+  {
+    "title": "HeartMuLa: A Family of Open Sourced Music Foundation Models",
+    "authors": "28 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10547",
+    "scraped_at": "2026-01-17T04:51:00.194105"
+  },
+  {
+    "title": "TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08881",
+    "scraped_at": "2026-01-17T04:51:00.194387"
+  },
+  {
+    "title": "Inference-time Physics Alignment of Video Generative Models with Latent World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10553",
+    "scraped_at": "2026-01-17T04:51:00.194627"
+  },
+  {
+    "title": "EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09142",
+    "scraped_at": "2026-01-17T04:51:00.194899"
+  },
+  {
+    "title": "LSRIF: Logic-Structured Reinforcement Learning for Instruction Following",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06431",
+    "scraped_at": "2026-01-17T04:51:00.195153"
+  },
+  {
+    "title": "PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10201",
+    "scraped_at": "2026-01-17T04:51:00.195453"
+  },
+  {
+    "title": "LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10129",
+    "scraped_at": "2026-01-17T04:51:00.195731"
+  },
+  {
+    "title": "Patient-Similarity Cohort Reasoning in Clinical Text-to-SQL",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09876",
+    "scraped_at": "2026-01-17T04:51:00.196005"
+  },
+  {
+    "title": "Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10338",
+    "scraped_at": "2026-01-17T04:51:00.196289"
+  },
+  {
+    "title": "Deriving Character Logic from Storyline as Codified Decision Trees",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10080",
+    "scraped_at": "2026-01-17T04:51:00.196574"
+  },
+  {
+    "title": "V-DPM: 4D Video Reconstruction with Dynamic Point Maps",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09499",
+    "scraped_at": "2026-01-17T04:51:00.196863"
+  },
+  {
+    "title": "RigMo: Unifying Rig and Motion Learning for Generative Animation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.06378",
+    "scraped_at": "2026-01-17T04:51:00.197115"
+  },
+  {
+    "title": "CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09923",
+    "scraped_at": "2026-01-17T04:51:00.197397"
+  },
+  {
+    "title": "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10716",
+    "scraped_at": "2026-01-17T04:51:00.197636"
+  },
+  {
+    "title": "VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10124",
+    "scraped_at": "2026-01-17T04:51:00.197919"
+  },
+  {
+    "title": "Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08302",
+    "scraped_at": "2026-01-17T04:51:00.198192"
+  },
+  {
+    "title": "Demystifying the Slash Pattern in Attention: The Role of RoPE",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08297",
+    "scraped_at": "2026-01-17T04:51:00.198455"
+  },
+  {
+    "title": "Memory Bank Compression for Continual Adaptation of Large Language Models",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.00756",
+    "scraped_at": "2026-01-17T04:51:00.198732"
+  }
+]
