@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Your Group-Relative Advantage Is Biased",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08521",
+    "scraped_at": "2026-01-19T05:05:15.254609"
+  },
+  {
+    "title": "RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08430",
+    "scraped_at": "2026-01-19T05:05:15.254914"
+  },
+  {
+    "title": "Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10355",
+    "scraped_at": "2026-01-19T05:05:15.255174"
+  },
+  {
+    "title": "BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11037",
+    "scraped_at": "2026-01-19T05:05:15.255446"
+  },
+  {
+    "title": "ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.09195",
+    "scraped_at": "2026-01-19T05:05:15.255675"
+  },
+  {
+    "title": "Reasoning Models Generate Societies of Thought",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10825",
+    "scraped_at": "2026-01-19T05:05:15.255916"
+  },
+  {
+    "title": "PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11087",
+    "scraped_at": "2026-01-19T05:05:15.256150"
+  },
+  {
+    "title": "FrankenMotion: Part-level Human Motion Generation and Composition",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10909",
+    "scraped_at": "2026-01-19T05:05:15.256405"
+  },
+  {
+    "title": "Building Production-Ready Probes For Gemini",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11516",
+    "scraped_at": "2026-01-19T05:05:15.256645"
+  },
+  {
+    "title": "AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11354",
+    "scraped_at": "2026-01-19T05:05:15.256895"
+  }
+]
