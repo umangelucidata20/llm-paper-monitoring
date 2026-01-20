@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08808",
+    "scraped_at": "2026-01-20T05:01:47.100765"
+  },
+  {
+    "title": "ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11077",
+    "scraped_at": "2026-01-20T05:01:47.101026"
+  },
+  {
+    "title": "The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.10387",
+    "scraped_at": "2026-01-20T05:01:47.101302"
+  },
+  {
+    "title": "CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11096",
+    "scraped_at": "2026-01-20T05:01:47.101559"
+  }
+]
