@@ -1,0 +1,65 @@
+[
+  {
+    "title": "UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11522",
+    "scraped_at": "2026-01-21T05:00:57.405607"
+  },
+  {
+    "title": "MemoryRewardBench: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11969",
+    "scraped_at": "2026-01-21T05:00:57.405912"
+  },
+  {
+    "title": "Aligning Agentic World Models via Knowledgeable Experience Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.13247",
+    "scraped_at": "2026-01-21T05:00:57.406229"
+  },
+  {
+    "title": "Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.12993",
+    "scraped_at": "2026-01-21T05:00:57.406484"
+  },
+  {
+    "title": "ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.12294",
+    "scraped_at": "2026-01-21T05:00:57.406725"
+  },
+  {
+    "title": "Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11655",
+    "scraped_at": "2026-01-21T05:00:57.406979"
+  },
+  {
+    "title": "Toward Efficient Agents: Memory, Tool learning, and Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14192",
+    "scraped_at": "2026-01-21T05:00:57.407240"
+  },
+  {
+    "title": "A BERTology View of LLM Orchestrations: Token- and Layer-Selective Probes for Efficient Single-Pass Classification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.13288",
+    "scraped_at": "2026-01-21T05:00:57.407489"
+  },
+  {
+    "title": "OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14250",
+    "scraped_at": "2026-01-21T05:00:57.407728"
+  }
+]
