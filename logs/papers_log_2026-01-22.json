@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Agentic Reasoning for Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.12538",
+    "scraped_at": "2026-01-22T05:01:58.170458"
+  },
+  {
+    "title": "Rethinking Video Generation Model for the Embodied World",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15282",
+    "scraped_at": "2026-01-22T05:01:58.170777"
+  },
+  {
+    "title": "Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14171",
+    "scraped_at": "2026-01-22T05:01:58.171081"
+  },
+  {
+    "title": "MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.12346",
+    "scraped_at": "2026-01-22T05:01:58.171368"
+  },
+  {
+    "title": "FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.07853",
+    "scraped_at": "2026-01-22T05:01:58.171646"
+  },
+  {
+    "title": "Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14750",
+    "scraped_at": "2026-01-22T05:01:58.171906"
+  },
+  {
+    "title": "RoboBrain 2.5: Depth in Sight, Time in Mind",
+    "authors": "35 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14352",
+    "scraped_at": "2026-01-22T05:01:58.172170"
+  },
+  {
+    "title": "Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14152",
+    "scraped_at": "2026-01-22T05:01:58.172421"
+  },
+  {
+    "title": "The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15059",
+    "scraped_at": "2026-01-22T05:01:58.172678"
+  },
+  {
+    "title": "XR: Cross-Modal Agents for Composed Image Retrieval",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14245",
+    "scraped_at": "2026-01-22T05:01:58.172986"
+  },
+  {
+    "title": "Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15100",
+    "scraped_at": "2026-01-22T05:01:58.173234"
+  },
+  {
+    "title": "FARE: Fast-Slow Agentic Robotic Exploration",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14681",
+    "scraped_at": "2026-01-22T05:01:58.173490"
+  }
+]
