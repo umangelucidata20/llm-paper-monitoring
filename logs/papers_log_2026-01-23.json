@@ -1,0 +1,100 @@
+[
+  {
+    "title": "The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15165",
+    "scraped_at": "2026-01-23T04:59:35.682599"
+  },
+  {
+    "title": "LLM-in-Sandbox Elicits General Agentic Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16206",
+    "scraped_at": "2026-01-23T04:59:35.682978"
+  },
+  {
+    "title": "BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15197",
+    "scraped_at": "2026-01-23T04:59:35.683308"
+  },
+  {
+    "title": "SAMTok: Representing Any Mask with Two Words",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16093",
+    "scraped_at": "2026-01-23T04:59:35.683568"
+  },
+  {
+    "title": "Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16208",
+    "scraped_at": "2026-01-23T04:59:35.683839"
+  },
+  {
+    "title": "Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16125",
+    "scraped_at": "2026-01-23T04:59:35.684148"
+  },
+  {
+    "title": "Learning to Discover at Test Time",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16175",
+    "scraped_at": "2026-01-23T04:59:35.684404"
+  },
+  {
+    "title": "Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15892",
+    "scraped_at": "2026-01-23T04:59:35.684656"
+  },
+  {
+    "title": "OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15369",
+    "scraped_at": "2026-01-23T04:59:35.684898"
+  },
+  {
+    "title": "Qwen3-TTS Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15621",
+    "scraped_at": "2026-01-23T04:59:35.685170"
+  },
+  {
+    "title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16163",
+    "scraped_at": "2026-01-23T04:59:35.685411"
+  },
+  {
+    "title": "HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14724",
+    "scraped_at": "2026-01-23T04:59:35.685663"
+  },
+  {
+    "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+    "authors": "85 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11868",
+    "scraped_at": "2026-01-23T04:59:35.685932"
+  },
+  {
+    "title": "Wigner's Friend as a Circuit: Inter-Branch Communication Witness Benchmarks on Superconducting Quantum Hardware",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16004",
+    "scraped_at": "2026-01-23T04:59:35.686215"
+  }
+]
