@@ -1,0 +1,191 @@
+[
+  {
+    "title": "EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15876",
+    "scraped_at": "2026-01-24T04:53:50.581533"
+  },
+  {
+    "title": "The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15165",
+    "scraped_at": "2026-01-24T04:53:50.581857"
+  },
+  {
+    "title": "HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14724",
+    "scraped_at": "2026-01-24T04:53:50.582160"
+  },
+  {
+    "title": "BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15197",
+    "scraped_at": "2026-01-24T04:53:50.582463"
+  },
+  {
+    "title": "LLM-in-Sandbox Elicits General Agentic Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16206",
+    "scraped_at": "2026-01-24T04:53:50.582735"
+  },
+  {
+    "title": "Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16208",
+    "scraped_at": "2026-01-24T04:53:50.583001"
+  },
+  {
+    "title": "Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15892",
+    "scraped_at": "2026-01-24T04:53:50.583258"
+  },
+  {
+    "title": "SAMTok: Representing Any Mask with Two Words",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16093",
+    "scraped_at": "2026-01-24T04:53:50.583545"
+  },
+  {
+    "title": "Learning to Discover at Test Time",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16175",
+    "scraped_at": "2026-01-24T04:53:50.583802"
+  },
+  {
+    "title": "Qwen3-TTS Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15621",
+    "scraped_at": "2026-01-24T04:53:50.584067"
+  },
+  {
+    "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+    "authors": "85 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11868",
+    "scraped_at": "2026-01-24T04:53:50.584405"
+  },
+  {
+    "title": "Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16125",
+    "scraped_at": "2026-01-24T04:53:50.584716"
+  },
+  {
+    "title": "OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15369",
+    "scraped_at": "2026-01-24T04:53:50.584958"
+  },
+  {
+    "title": "Towards Automated Kernel Generation in the Era of LLMs",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15727",
+    "scraped_at": "2026-01-24T04:53:50.585230"
+  },
+  {
+    "title": "PROGRESSLM: Towards Progress Reasoning in Vision-Language Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15224",
+    "scraped_at": "2026-01-24T04:53:50.585550"
+  },
+  {
+    "title": "VideoMaMa: Mask-Guided Video Matting via Generative Prior",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14255",
+    "scraped_at": "2026-01-24T04:53:50.585804"
+  },
+  {
+    "title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16163",
+    "scraped_at": "2026-01-24T04:53:50.586042"
+  },
+  {
+    "title": "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16148",
+    "scraped_at": "2026-01-24T04:53:50.586323"
+  },
+  {
+    "title": "360Anything: Geometry-Free Lifting of Images and Videos to 360°",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16192",
+    "scraped_at": "2026-01-24T04:53:50.586571"
+  },
+  {
+    "title": "VIOLA: Towards Video In-Context Learning with Minimal Annotations",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15549",
+    "scraped_at": "2026-01-24T04:53:50.586831"
+  },
+  {
+    "title": "Agentic Confidence Calibration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15778",
+    "scraped_at": "2026-01-24T04:53:50.587075"
+  },
+  {
+    "title": "Agentic Uncertainty Quantification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15703",
+    "scraped_at": "2026-01-24T04:53:50.587333"
+  },
+  {
+    "title": "From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15690",
+    "scraped_at": "2026-01-24T04:53:50.587575"
+  },
+  {
+    "title": "LLM Prompt Evaluation for Educational Applications",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16134",
+    "scraped_at": "2026-01-24T04:53:50.587809"
+  },
+  {
+    "title": "Numba-Accelerated 2D Diffusion-Limited Aggregation: Implementation and Fractal Characterization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15440",
+    "scraped_at": "2026-01-24T04:53:50.588069"
+  },
+  {
+    "title": "MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.08118",
+    "scraped_at": "2026-01-24T04:53:50.588366"
+  },
+  {
+    "title": "Wigner's Friend as a Circuit: Inter-Branch Communication Witness Benchmarks on Superconducting Quantum Hardware",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16004",
+    "scraped_at": "2026-01-24T04:53:50.588658"
+  }
+]
