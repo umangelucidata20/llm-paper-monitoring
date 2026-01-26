@@ -1,0 +1,79 @@
+[
+  {
+    "title": "TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.14133",
+    "scraped_at": "2026-01-26T05:07:24.654305"
+  },
+  {
+    "title": "VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16973",
+    "scraped_at": "2026-01-26T05:07:24.654576"
+  },
+  {
+    "title": "LongCat-Flash-Thinking-2601 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16725",
+    "scraped_at": "2026-01-26T05:07:24.654849"
+  },
+  {
+    "title": "MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.07251",
+    "scraped_at": "2026-01-26T05:07:24.655123"
+  },
+  {
+    "title": "SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16746",
+    "scraped_at": "2026-01-26T05:07:24.655348"
+  },
+  {
+    "title": "SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16515",
+    "scraped_at": "2026-01-26T05:07:24.655559"
+  },
+  {
+    "title": "Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16296",
+    "scraped_at": "2026-01-26T05:07:24.655782"
+  },
+  {
+    "title": "Endless Terminals: Scaling RL Environments for Terminal Agents",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16443",
+    "scraped_at": "2026-01-26T05:07:24.656029"
+  },
+  {
+    "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16344",
+    "scraped_at": "2026-01-26T05:07:24.656259"
+  },
+  {
+    "title": "Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15808",
+    "scraped_at": "2026-01-26T05:07:24.656468"
+  },
+  {
+    "title": "Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16018",
+    "scraped_at": "2026-01-26T05:07:24.656703"
+  }
+]
