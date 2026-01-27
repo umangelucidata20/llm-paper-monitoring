@@ -1,0 +1,121 @@
+[
+  {
+    "title": "The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17737",
+    "scraped_at": "2026-01-27T05:01:00.588113"
+  },
+  {
+    "title": "Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17058",
+    "scraped_at": "2026-01-27T05:01:00.588401"
+  },
+  {
+    "title": "Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17367",
+    "scraped_at": "2026-01-27T05:01:00.588679"
+  },
+  {
+    "title": "iFSQ: Improving FSQ for Image Generation with 1 Line of Code",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17124",
+    "scraped_at": "2026-01-27T05:01:00.588907"
+  },
+  {
+    "title": "Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17027",
+    "scraped_at": "2026-01-27T05:01:00.589140"
+  },
+  {
+    "title": "Self-Refining Video Sampling",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18577",
+    "scraped_at": "2026-01-27T05:01:00.589401"
+  },
+  {
+    "title": "VIBEVOICE-ASR Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18184",
+    "scraped_at": "2026-01-27T05:01:00.589624"
+  },
+  {
+    "title": "AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17761",
+    "scraped_at": "2026-01-27T05:01:00.589920"
+  },
+  {
+    "title": "Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17111",
+    "scraped_at": "2026-01-27T05:01:00.590132"
+  },
+  {
+    "title": "CGPT: Cluster-Guided Partial Tables with LLM-Generated Supervision for Table Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.15849",
+    "scraped_at": "2026-01-27T05:01:00.590351"
+  },
+  {
+    "title": "RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18130",
+    "scraped_at": "2026-01-27T05:01:00.590600"
+  },
+  {
+    "title": "DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18081",
+    "scraped_at": "2026-01-27T05:01:00.590879"
+  },
+  {
+    "title": "SkyReels-V3 Technique Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17323",
+    "scraped_at": "2026-01-27T05:01:00.591080"
+  },
+  {
+    "title": "IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.16207",
+    "scraped_at": "2026-01-27T05:01:00.591323"
+  },
+  {
+    "title": "UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18759",
+    "scraped_at": "2026-01-27T05:01:00.591580"
+  },
+  {
+    "title": "SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18202",
+    "scraped_at": "2026-01-27T05:01:00.591789"
+  },
+  {
+    "title": "Agentic Very Long Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18157",
+    "scraped_at": "2026-01-27T05:01:00.591993"
+  }
+]
