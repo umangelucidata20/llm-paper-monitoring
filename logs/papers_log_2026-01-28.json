@@ -1,0 +1,51 @@
+[
+  {
+    "title": "AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18491",
+    "scraped_at": "2026-01-28T05:00:12.713151"
+  },
+  {
+    "title": "AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking",
+    "authors": "33 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17645",
+    "scraped_at": "2026-01-28T05:00:12.713644"
+  },
+  {
+    "title": "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19834",
+    "scraped_at": "2026-01-28T05:00:12.714109"
+  },
+  {
+    "title": "AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18631",
+    "scraped_at": "2026-01-28T05:00:12.714591"
+  },
+  {
+    "title": "Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19375",
+    "scraped_at": "2026-01-28T05:00:12.715027"
+  },
+  {
+    "title": "Revisiting Parameter Server in LLM Post-Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19362",
+    "scraped_at": "2026-01-28T05:00:12.715389"
+  },
+  {
+    "title": "GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19149",
+    "scraped_at": "2026-01-28T05:00:12.715727"
+  }
+]
