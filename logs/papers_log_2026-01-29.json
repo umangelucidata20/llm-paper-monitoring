@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20614",
+    "scraped_at": "2026-01-29T05:27:39.716690"
+  },
+  {
+    "title": "Advancing Open-source World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20540",
+    "scraped_at": "2026-01-29T05:27:39.716981"
+  },
+  {
+    "title": "Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20209",
+    "scraped_at": "2026-01-29T05:27:39.717259"
+  },
+  {
+    "title": "DeepSeek-OCR 2: Visual Causal Flow",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20552",
+    "scraped_at": "2026-01-29T05:27:39.717500"
+  },
+  {
+    "title": "Linear representations in language models can change dramatically over a conversation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20834",
+    "scraped_at": "2026-01-29T05:27:39.717714"
+  },
+  {
+    "title": "Innovator-VL: A Multimodal Large Language Model for Scientific Discovery",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19325",
+    "scraped_at": "2026-01-29T05:27:39.717948"
+  },
+  {
+    "title": "SERA: Soft-Verified Efficient Repository Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20789",
+    "scraped_at": "2026-01-29T05:27:39.718173"
+  },
+  {
+    "title": "GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20618",
+    "scraped_at": "2026-01-29T05:27:39.718392"
+  },
+  {
+    "title": "RIR-Mega-Speech: A Reverberant Speech Corpus with Comprehensive Acoustic Metadata and Reproducible Evaluation",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19949",
+    "scraped_at": "2026-01-29T05:27:39.718630"
+  },
+  {
+    "title": "SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20622",
+    "scraped_at": "2026-01-29T05:27:39.718848"
+  },
+  {
+    "title": "OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20380",
+    "scraped_at": "2026-01-29T05:27:39.719119"
+  },
+  {
+    "title": "SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19194",
+    "scraped_at": "2026-01-29T05:27:39.719327"
+  }
+]
