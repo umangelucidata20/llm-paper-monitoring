@@ -1,0 +1,135 @@
+[
+  {
+    "title": "DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22153",
+    "scraped_at": "2026-01-30T05:30:07.875922"
+  },
+  {
+    "title": "MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21821",
+    "scraped_at": "2026-01-30T05:30:07.876279"
+  },
+  {
+    "title": "Language-based Trial and Error Falls Behind in the Era of Experience",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21754",
+    "scraped_at": "2026-01-30T05:30:07.876694"
+  },
+  {
+    "title": "Qwen3-ASR Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21337",
+    "scraped_at": "2026-01-30T05:30:07.877008"
+  },
+  {
+    "title": "Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18129",
+    "scraped_at": "2026-01-30T05:30:07.877331"
+  },
+  {
+    "title": "VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22069",
+    "scraped_at": "2026-01-30T05:30:07.877617"
+  },
+  {
+    "title": "MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21181",
+    "scraped_at": "2026-01-30T05:30:07.877909"
+  },
+  {
+    "title": "ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21420",
+    "scraped_at": "2026-01-30T05:30:07.878238"
+  },
+  {
+    "title": "Exploring Reasoning Reward Model for Agents",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22154",
+    "scraped_at": "2026-01-30T05:30:07.878549"
+  },
+  {
+    "title": "Beyond Imitation: Reinforcement Learning for Active Latent Planning",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21598",
+    "scraped_at": "2026-01-30T05:30:07.878825"
+  },
+  {
+    "title": "Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21406",
+    "scraped_at": "2026-01-30T05:30:07.879199"
+  },
+  {
+    "title": "Self-Improving Pretraining: using post-trained models to pretrain better models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21343",
+    "scraped_at": "2026-01-30T05:30:07.879490"
+  },
+  {
+    "title": "Scaling Embeddings Outperforms Scaling Experts in Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21204",
+    "scraped_at": "2026-01-30T05:30:07.879748"
+  },
+  {
+    "title": "Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21051",
+    "scraped_at": "2026-01-30T05:30:07.879999"
+  },
+  {
+    "title": "DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20975",
+    "scraped_at": "2026-01-30T05:30:07.880278"
+  },
+  {
+    "title": "Segment Length Matters: A Study of Segment Lengths on Audio Fingerprinting Performance",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.17690",
+    "scraped_at": "2026-01-30T05:30:07.880564"
+  },
+  {
+    "title": "PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.11747",
+    "scraped_at": "2026-01-30T05:30:07.880856"
+  },
+  {
+    "title": "WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21872",
+    "scraped_at": "2026-01-30T05:30:07.881136"
+  },
+  {
+    "title": "WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21282",
+    "scraped_at": "2026-01-30T05:30:07.881433"
+  }
+]
