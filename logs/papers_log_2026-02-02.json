@@ -1,0 +1,128 @@
+[
+  {
+    "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21558",
+    "scraped_at": "2026-02-02T05:46:14.832234"
+  },
+  {
+    "title": "THINKSAFE: Self-Generated Safety Alignment for Reasoning Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23143",
+    "scraped_at": "2026-02-02T05:46:14.832581"
+  },
+  {
+    "title": "TTCS: Test-Time Curriculum Synthesis for Self-Evolving",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22628",
+    "scraped_at": "2026-02-02T05:46:14.832901"
+  },
+  {
+    "title": "SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22491",
+    "scraped_at": "2026-02-02T05:46:14.833190"
+  },
+  {
+    "title": "MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21468",
+    "scraped_at": "2026-02-02T05:46:14.833472"
+  },
+  {
+    "title": "DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21716",
+    "scraped_at": "2026-02-02T05:46:14.833736"
+  },
+  {
+    "title": "DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20218",
+    "scraped_at": "2026-02-02T05:46:14.833987"
+  },
+  {
+    "title": "Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22642",
+    "scraped_at": "2026-02-02T05:46:14.834232"
+  },
+  {
+    "title": "Latent Chain-of-Thought as Planning: Decoupling Reasoning from Verbalization",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21358",
+    "scraped_at": "2026-02-02T05:46:14.834531"
+  },
+  {
+    "title": "PaperBanana: Automating Academic Illustration for AI Scientists",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23265",
+    "scraped_at": "2026-02-02T05:46:14.834784"
+  },
+  {
+    "title": "ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23184",
+    "scraped_at": "2026-02-02T05:46:14.835070"
+  },
+  {
+    "title": "Real-Time Aligned Reward Model beyond Semantics",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22664",
+    "scraped_at": "2026-02-02T05:46:14.835337"
+  },
+  {
+    "title": "Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22141",
+    "scraped_at": "2026-02-02T05:46:14.835632"
+  },
+  {
+    "title": "LMK > CLS: Landmark Pooling for Dense Embeddings",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21525",
+    "scraped_at": "2026-02-02T05:46:14.835898"
+  },
+  {
+    "title": "Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23188",
+    "scraped_at": "2026-02-02T05:46:14.836137"
+  },
+  {
+    "title": "DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22904",
+    "scraped_at": "2026-02-02T05:46:14.836395"
+  },
+  {
+    "title": "NativeTok: Native Visual Tokenization for Improved Image Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22837",
+    "scraped_at": "2026-02-02T05:46:14.836702"
+  },
+  {
+    "title": "DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23161",
+    "scraped_at": "2026-02-02T05:46:14.836936"
+  }
+]
