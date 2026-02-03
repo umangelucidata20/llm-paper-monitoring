@@ -1,0 +1,226 @@
+[
+  {
+    "title": "FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01566",
+    "scraped_at": "2026-02-03T05:33:19.586992"
+  },
+  {
+    "title": "WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02053",
+    "scraped_at": "2026-02-03T05:33:19.587297"
+  },
+  {
+    "title": "PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01624",
+    "scraped_at": "2026-02-03T05:33:19.587611"
+  },
+  {
+    "title": "Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01590",
+    "scraped_at": "2026-02-03T05:33:19.587877"
+  },
+  {
+    "title": "RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02488",
+    "scraped_at": "2026-02-03T05:33:19.588138"
+  },
+  {
+    "title": "How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01851",
+    "scraped_at": "2026-02-03T05:33:19.588410"
+  },
+  {
+    "title": "Closing the Loop: Universal Repository Representation with RPG-Encoder",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02084",
+    "scraped_at": "2026-02-03T05:33:19.588767"
+  },
+  {
+    "title": "Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02185",
+    "scraped_at": "2026-02-03T05:33:19.589050"
+  },
+  {
+    "title": "Toward Cognitive Supersensing in Multimodal Large Language Model",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01541",
+    "scraped_at": "2026-02-03T05:33:19.589333"
+  },
+  {
+    "title": "Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01538",
+    "scraped_at": "2026-02-03T05:33:19.589633"
+  },
+  {
+    "title": "Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22060",
+    "scraped_at": "2026-02-03T05:33:19.589924"
+  },
+  {
+    "title": "Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01756",
+    "scraped_at": "2026-02-03T05:33:19.590210"
+  },
+  {
+    "title": "PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02493",
+    "scraped_at": "2026-02-03T05:33:19.590464"
+  },
+  {
+    "title": "Show, Don't Tell: Morphing Latent Reasoning into Image Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02227",
+    "scraped_at": "2026-02-03T05:33:19.590720"
+  },
+  {
+    "title": "Ebisu: Benchmarking Large Language Models in Japanese Finance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01479",
+    "scraped_at": "2026-02-03T05:33:19.590955"
+  },
+  {
+    "title": "Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01335",
+    "scraped_at": "2026-02-03T05:33:19.591187"
+  },
+  {
+    "title": "RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02486",
+    "scraped_at": "2026-02-03T05:33:19.591449"
+  },
+  {
+    "title": "Kimi K2.5: Visual Agentic Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02276",
+    "scraped_at": "2026-02-03T05:33:19.591692"
+  },
+  {
+    "title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02214",
+    "scraped_at": "2026-02-03T05:33:19.591947"
+  },
+  {
+    "title": "Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01058",
+    "scraped_at": "2026-02-03T05:33:19.592211"
+  },
+  {
+    "title": "LoopViT: Scaling Visual ARC with Looped Transformers",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02156",
+    "scraped_at": "2026-02-03T05:33:19.592475"
+  },
+  {
+    "title": "Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01511",
+    "scraped_at": "2026-02-03T05:33:19.592770"
+  },
+  {
+    "title": "PromptRL: Prompt Matters in RL for Flow-Based Image Generation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01382",
+    "scraped_at": "2026-02-03T05:33:19.593072"
+  },
+  {
+    "title": "Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.00759",
+    "scraped_at": "2026-02-03T05:33:19.593316"
+  },
+  {
+    "title": "Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22588",
+    "scraped_at": "2026-02-03T05:33:19.593628"
+  },
+  {
+    "title": "Interacted Planes Reveal 3D Line Mapping",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01296",
+    "scraped_at": "2026-02-03T05:33:19.593914"
+  },
+  {
+    "title": "UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02437",
+    "scraped_at": "2026-02-03T05:33:19.594171"
+  },
+  {
+    "title": "FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02092",
+    "scraped_at": "2026-02-03T05:33:19.594398"
+  },
+  {
+    "title": "Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01842",
+    "scraped_at": "2026-02-03T05:33:19.594707"
+  },
+  {
+    "title": "CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01660",
+    "scraped_at": "2026-02-03T05:33:19.594976"
+  },
+  {
+    "title": "On the Relationship Between Representation Geometry and Generalization in Deep Neural Networks",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.00130",
+    "scraped_at": "2026-02-03T05:33:19.595225"
+  },
+  {
+    "title": "SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01618",
+    "scraped_at": "2026-02-03T05:33:19.595460"
+  }
+]
