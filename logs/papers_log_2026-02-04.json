@@ -1,0 +1,205 @@
+[
+  {
+    "title": "CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01785",
+    "scraped_at": "2026-02-04T05:30:34.916491"
+  },
+  {
+    "title": "MARS: Modular Agent with Reflective Search for Automated AI Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02660",
+    "scraped_at": "2026-02-04T05:30:34.916985"
+  },
+  {
+    "title": "No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02103",
+    "scraped_at": "2026-02-04T05:30:34.917516"
+  },
+  {
+    "title": "daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02619",
+    "scraped_at": "2026-02-04T05:30:34.918000"
+  },
+  {
+    "title": "Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01630",
+    "scraped_at": "2026-02-04T05:30:34.918516"
+  },
+  {
+    "title": "Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03619",
+    "scraped_at": "2026-02-04T05:30:34.918980"
+  },
+  {
+    "title": "3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03796",
+    "scraped_at": "2026-02-04T05:30:34.919450"
+  },
+  {
+    "title": "Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03845",
+    "scraped_at": "2026-02-04T05:30:34.919958"
+  },
+  {
+    "title": "Unified Personalized Reward Model for Vision Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02380",
+    "scraped_at": "2026-02-04T05:30:34.920452"
+  },
+  {
+    "title": "WideSeek: Advancing Wide Research via Multi-Agent Scaling",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02636",
+    "scraped_at": "2026-02-04T05:30:34.921013"
+  },
+  {
+    "title": "AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02676",
+    "scraped_at": "2026-02-04T05:30:34.921607"
+  },
+  {
+    "title": "Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21244",
+    "scraped_at": "2026-02-04T05:30:34.922068"
+  },
+  {
+    "title": "AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03786",
+    "scraped_at": "2026-02-04T05:30:34.922602"
+  },
+  {
+    "title": "Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.00747",
+    "scraped_at": "2026-02-04T05:30:34.923097"
+  },
+  {
+    "title": "SWE-World: Building Software Engineering Agents in Docker-Free Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03419",
+    "scraped_at": "2026-02-04T05:30:34.923611"
+  },
+  {
+    "title": "SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03411",
+    "scraped_at": "2026-02-04T05:30:34.924047"
+  },
+  {
+    "title": "CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03048",
+    "scraped_at": "2026-02-04T05:30:34.924522"
+  },
+  {
+    "title": "Balancing Understanding and Generation in Discrete Diffusion Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01362",
+    "scraped_at": "2026-02-04T05:30:34.925075"
+  },
+  {
+    "title": "Glance and Focus Reinforcement for Pan-cancer Screening",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.19103",
+    "scraped_at": "2026-02-04T05:30:34.925583"
+  },
+  {
+    "title": "Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
+    "authors": "34 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03837",
+    "scraped_at": "2026-02-04T05:30:34.926080"
+  },
+  {
+    "title": "Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03806",
+    "scraped_at": "2026-02-04T05:30:34.926573"
+  },
+  {
+    "title": "Contextualized Visual Personalization in Vision-Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03454",
+    "scraped_at": "2026-02-04T05:30:34.927053"
+  },
+  {
+    "title": "FaceLinkGen: Rethinking Identity Leakage in Privacy-Preserving Face Recognition with Identity Extraction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02914",
+    "scraped_at": "2026-02-04T05:30:34.927499"
+  },
+  {
+    "title": "SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02419",
+    "scraped_at": "2026-02-04T05:30:34.927981"
+  },
+  {
+    "title": "WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02537",
+    "scraped_at": "2026-02-04T05:30:34.928451"
+  },
+  {
+    "title": "Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03647",
+    "scraped_at": "2026-02-04T05:30:34.928897"
+  },
+  {
+    "title": "Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03139",
+    "scraped_at": "2026-02-04T05:30:34.929425"
+  },
+  {
+    "title": "ObjEmbed: Towards Universal Multimodal Object Embeddings",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01753",
+    "scraped_at": "2026-02-04T05:30:34.929997"
+  },
+  {
+    "title": "Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03817",
+    "scraped_at": "2026-02-04T05:30:34.930488"
+  }
+]
