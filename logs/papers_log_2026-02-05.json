@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02958",
+    "scraped_at": "2026-02-05T05:35:52.641790"
+  },
+  {
+    "title": "SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02402",
+    "scraped_at": "2026-02-05T05:35:52.642086"
+  },
+  {
+    "title": "EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04515",
+    "scraped_at": "2026-02-05T05:35:52.642425"
+  },
+  {
+    "title": "Rethinking the Trust Region in LLM Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04879",
+    "scraped_at": "2026-02-05T05:35:52.642746"
+  },
+  {
+    "title": "Training Data Efficiency in Multimodal Process Reward Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04145",
+    "scraped_at": "2026-02-05T05:35:52.643020"
+  },
+  {
+    "title": "Residual Context Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22954",
+    "scraped_at": "2026-02-05T05:35:52.643285"
+  },
+  {
+    "title": "A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03442",
+    "scraped_at": "2026-02-05T05:35:52.643561"
+  },
+  {
+    "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04634",
+    "scraped_at": "2026-02-05T05:35:52.643812"
+  },
+  {
+    "title": "Vibe AIGC: A New Paradigm for Content Generation via Agentic Orchestration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04575",
+    "scraped_at": "2026-02-05T05:35:52.644053"
+  },
+  {
+    "title": "PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.18207",
+    "scraped_at": "2026-02-05T05:35:52.644373"
+  },
+  {
+    "title": "From Data to Behavior: Predicting Unintended Model Behaviors Before Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04735",
+    "scraped_at": "2026-02-05T05:35:52.644623"
+  },
+  {
+    "title": "A2Eval: Agentic and Automated Evaluation for Embodied Brain",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01640",
+    "scraped_at": "2026-02-05T05:35:52.644854"
+  },
+  {
+    "title": "Horizon-LM: A RAM-Centric Architecture for LLM Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04816",
+    "scraped_at": "2026-02-05T05:35:52.645102"
+  },
+  {
+    "title": "Self-Hinting Language Models Enhance Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03143",
+    "scraped_at": "2026-02-05T05:35:52.645365"
+  },
+  {
+    "title": "BatCoder: Self-Supervised Bidirectional Code-Documentation Learning via Back-Translation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02554",
+    "scraped_at": "2026-02-05T05:35:52.645630"
+  },
+  {
+    "title": "Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04486",
+    "scraped_at": "2026-02-05T05:35:52.645900"
+  },
+  {
+    "title": "VLS: Steering Pretrained Robot Policies via Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03973",
+    "scraped_at": "2026-02-05T05:35:52.646141"
+  },
+  {
+    "title": "HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03560",
+    "scraped_at": "2026-02-05T05:35:52.646397"
+  },
+  {
+    "title": "Context Learning for Multi-Agent Discussion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02350",
+    "scraped_at": "2026-02-05T05:35:52.646633"
+  },
+  {
+    "title": "ERNIE 5.0 Technical Report",
+    "authors": "438 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04705",
+    "scraped_at": "2026-02-05T05:35:52.646880"
+  },
+  {
+    "title": "Likelihood-Based Reward Designs for General LLM Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03979",
+    "scraped_at": "2026-02-05T05:35:52.647098"
+  },
+  {
+    "title": "Protein Autoregressive Modeling via Multiscale Structure Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04883",
+    "scraped_at": "2026-02-05T05:35:52.647344"
+  },
+  {
+    "title": "Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04805",
+    "scraped_at": "2026-02-05T05:35:52.647608"
+  },
+  {
+    "title": "OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04804",
+    "scraped_at": "2026-02-05T05:35:52.647868"
+  },
+  {
+    "title": "RexBERT: Context Specialized Bidirectional Encoders for E-commerce",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04605",
+    "scraped_at": "2026-02-05T05:35:52.648096"
+  },
+  {
+    "title": "Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04284",
+    "scraped_at": "2026-02-05T05:35:52.648359"
+  },
+  {
+    "title": "HY3D-Bench: Generation of 3D Assets",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03907",
+    "scraped_at": "2026-02-05T05:35:52.648587"
+  },
+  {
+    "title": "TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02196",
+    "scraped_at": "2026-02-05T05:35:52.648850"
+  }
+]
