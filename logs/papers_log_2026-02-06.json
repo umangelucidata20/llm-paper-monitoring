@@ -1,0 +1,163 @@
+[
+  {
+    "title": "RISE-Video: Can Video Generators Decode Implicit World Rules?",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05986",
+    "scraped_at": "2026-02-06T05:34:18.901828"
+  },
+  {
+    "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06028",
+    "scraped_at": "2026-02-06T05:34:18.902154"
+  },
+  {
+    "title": "Steering LLMs via Scalable Interactive Oversight",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04210",
+    "scraped_at": "2026-02-06T05:34:18.902442"
+  },
+  {
+    "title": "Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05261",
+    "scraped_at": "2026-02-06T05:34:18.902751"
+  },
+  {
+    "title": "Semantic Search over 9 Million Mathematical Theorems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05216",
+    "scraped_at": "2026-02-06T05:34:18.903009"
+  },
+  {
+    "title": "InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06035",
+    "scraped_at": "2026-02-06T05:34:18.903287"
+  },
+  {
+    "title": "Grounding and Enhancing Informativeness and Utility in Dataset Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21296",
+    "scraped_at": "2026-02-06T05:34:18.903539"
+  },
+  {
+    "title": "SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06040",
+    "scraped_at": "2026-02-06T05:34:18.903833"
+  },
+  {
+    "title": "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05975",
+    "scraped_at": "2026-02-06T05:34:18.904105"
+  },
+  {
+    "title": "Reinforcement World Model Learning for LLM-based Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05842",
+    "scraped_at": "2026-02-06T05:34:18.904345"
+  },
+  {
+    "title": "Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21937",
+    "scraped_at": "2026-02-06T05:34:18.904602"
+  },
+  {
+    "title": "LatentMem: Customizing Latent Memory for Multi-Agent Systems",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03036",
+    "scraped_at": "2026-02-06T05:34:18.904903"
+  },
+  {
+    "title": "Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01965",
+    "scraped_at": "2026-02-06T05:34:18.905188"
+  },
+  {
+    "title": "Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05393",
+    "scraped_at": "2026-02-06T05:34:18.905423"
+  },
+  {
+    "title": "BABE: Biology Arena BEnchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05857",
+    "scraped_at": "2026-02-06T05:34:18.905660"
+  },
+  {
+    "title": "FastVMT: Eliminating Redundancy in Video Motion Transfer",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05551",
+    "scraped_at": "2026-02-06T05:34:18.905949"
+  },
+  {
+    "title": "ProAct: Agentic Lookahead in Interactive Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05327",
+    "scraped_at": "2026-02-06T05:34:18.906202"
+  },
+  {
+    "title": "Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05023",
+    "scraped_at": "2026-02-06T05:34:18.906468"
+  },
+  {
+    "title": "Reinforced Attention Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04884",
+    "scraped_at": "2026-02-06T05:34:18.906879"
+  },
+  {
+    "title": "UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04683",
+    "scraped_at": "2026-02-06T05:34:18.907412"
+  },
+  {
+    "title": "Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23174",
+    "scraped_at": "2026-02-06T05:34:18.907878"
+  },
+  {
+    "title": "Pathwise Test-Time Correction for Autoregressive Long Video Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05871",
+    "scraped_at": "2026-02-06T05:34:18.908362"
+  },
+  {
+    "title": "Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.00298",
+    "scraped_at": "2026-02-06T05:34:18.908887"
+  }
+]
