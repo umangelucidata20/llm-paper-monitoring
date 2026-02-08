@@ -1,0 +1,331 @@
+[
+  {
+    "title": "CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22027",
+    "scraped_at": "2026-02-08T05:44:41.965702"
+  },
+  {
+    "title": "Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05386",
+    "scraped_at": "2026-02-08T05:44:41.966037"
+  },
+  {
+    "title": "Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05261",
+    "scraped_at": "2026-02-08T05:44:41.966400"
+  },
+  {
+    "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02474",
+    "scraped_at": "2026-02-08T05:44:41.966674"
+  },
+  {
+    "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06028",
+    "scraped_at": "2026-02-08T05:44:41.966943"
+  },
+  {
+    "title": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06036",
+    "scraped_at": "2026-02-08T05:44:41.967219"
+  },
+  {
+    "title": "RISE-Video: Can Video Generators Decode Implicit World Rules?",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05986",
+    "scraped_at": "2026-02-08T05:44:41.967508"
+  },
+  {
+    "title": "Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03338",
+    "scraped_at": "2026-02-08T05:44:41.967763"
+  },
+  {
+    "title": "ProAct: Agentic Lookahead in Interactive Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05327",
+    "scraped_at": "2026-02-08T05:44:41.968018"
+  },
+  {
+    "title": "Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05885",
+    "scraped_at": "2026-02-08T05:44:41.968280"
+  },
+  {
+    "title": "Privileged Information Distillation for Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04942",
+    "scraped_at": "2026-02-08T05:44:41.968522"
+  },
+  {
+    "title": "InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06035",
+    "scraped_at": "2026-02-08T05:44:41.968807"
+  },
+  {
+    "title": "Reinforcement World Model Learning for LLM-based Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05842",
+    "scraped_at": "2026-02-08T05:44:41.969058"
+  },
+  {
+    "title": "Semantic Search over 9 Million Mathematical Theorems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05216",
+    "scraped_at": "2026-02-08T05:44:41.969315"
+  },
+  {
+    "title": "Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21937",
+    "scraped_at": "2026-02-08T05:44:41.969566"
+  },
+  {
+    "title": "SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05115",
+    "scraped_at": "2026-02-08T05:44:41.969832"
+  },
+  {
+    "title": "Steering LLMs via Scalable Interactive Oversight",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04210",
+    "scraped_at": "2026-02-08T05:44:41.970074"
+  },
+  {
+    "title": "Grounding and Enhancing Informativeness and Utility in Dataset Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21296",
+    "scraped_at": "2026-02-08T05:44:41.970345"
+  },
+  {
+    "title": "Reinforced Attention Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04884",
+    "scraped_at": "2026-02-08T05:44:41.970577"
+  },
+  {
+    "title": "Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21037",
+    "scraped_at": "2026-02-08T05:44:41.970808"
+  },
+  {
+    "title": "LatentMem: Customizing Latent Memory for Multi-Agent Systems",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03036",
+    "scraped_at": "2026-02-08T05:44:41.971090"
+  },
+  {
+    "title": "SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06040",
+    "scraped_at": "2026-02-08T05:44:41.971360"
+  },
+  {
+    "title": "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05975",
+    "scraped_at": "2026-02-08T05:44:41.971639"
+  },
+  {
+    "title": "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05073",
+    "scraped_at": "2026-02-08T05:44:41.971879"
+  },
+  {
+    "title": "BABE: Biology Arena BEnchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05857",
+    "scraped_at": "2026-02-08T05:44:41.972111"
+  },
+  {
+    "title": "V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06034",
+    "scraped_at": "2026-02-08T05:44:41.972405"
+  },
+  {
+    "title": "Multi-Task GRPO: Reliable LLM Reasoning Across Tasks",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05547",
+    "scraped_at": "2026-02-08T05:44:41.972677"
+  },
+  {
+    "title": "DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02016",
+    "scraped_at": "2026-02-08T05:44:41.972930"
+  },
+  {
+    "title": "Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05933",
+    "scraped_at": "2026-02-08T05:44:41.973196"
+  },
+  {
+    "title": "CoPE: Clipped RoPE as A Scalable Free Lunch for Long Context LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05258",
+    "scraped_at": "2026-02-08T05:44:41.973454"
+  },
+  {
+    "title": "Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05393",
+    "scraped_at": "2026-02-08T05:44:41.973685"
+  },
+  {
+    "title": "Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01965",
+    "scraped_at": "2026-02-08T05:44:41.973956"
+  },
+  {
+    "title": "Pathwise Test-Time Correction for Autoregressive Long Video Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05871",
+    "scraped_at": "2026-02-08T05:44:41.974232"
+  },
+  {
+    "title": "Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04998",
+    "scraped_at": "2026-02-08T05:44:41.974493"
+  },
+  {
+    "title": "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02393",
+    "scraped_at": "2026-02-08T05:44:41.974728"
+  },
+  {
+    "title": "A Unified Framework for Rethinking Policy Divergence Measures in GRPO",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05494",
+    "scraped_at": "2026-02-08T05:44:41.974998"
+  },
+  {
+    "title": "Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05023",
+    "scraped_at": "2026-02-08T05:44:41.975275"
+  },
+  {
+    "title": "Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04789",
+    "scraped_at": "2026-02-08T05:44:41.975554"
+  },
+  {
+    "title": "Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23174",
+    "scraped_at": "2026-02-08T05:44:41.975805"
+  },
+  {
+    "title": "Failing to Explore: Language Models on Interactive Tasks",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.22345",
+    "scraped_at": "2026-02-08T05:44:41.976104"
+  },
+  {
+    "title": "FastVMT: Eliminating Redundancy in Video Motion Transfer",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05551",
+    "scraped_at": "2026-02-08T05:44:41.976398"
+  },
+  {
+    "title": "Fast-SAM3D: 3Dfy Anything in Images but Faster",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05293",
+    "scraped_at": "2026-02-08T05:44:41.976678"
+  },
+  {
+    "title": "UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04683",
+    "scraped_at": "2026-02-08T05:44:41.976964"
+  },
+  {
+    "title": "Adaptive 1D Video Diffusion Autoencoder",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04220",
+    "scraped_at": "2026-02-08T05:44:41.977248"
+  },
+  {
+    "title": "Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.00298",
+    "scraped_at": "2026-02-08T05:44:41.977525"
+  },
+  {
+    "title": "PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06030",
+    "scraped_at": "2026-02-08T05:44:41.977756"
+  },
+  {
+    "title": "Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.02159",
+    "scraped_at": "2026-02-08T05:44:41.978046"
+  }
+]
