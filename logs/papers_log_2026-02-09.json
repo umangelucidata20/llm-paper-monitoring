@@ -1,0 +1,142 @@
+[
+  {
+    "title": "On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.03392",
+    "scraped_at": "2026-02-09T05:51:36.700309"
+  },
+  {
+    "title": "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06291",
+    "scraped_at": "2026-02-09T05:51:36.700680"
+  },
+  {
+    "title": "Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05940",
+    "scraped_at": "2026-02-09T05:51:36.701009"
+  },
+  {
+    "title": "Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06570",
+    "scraped_at": "2026-02-09T05:51:36.702420"
+  },
+  {
+    "title": "MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06075",
+    "scraped_at": "2026-02-09T05:51:36.702693"
+  },
+  {
+    "title": "InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06960",
+    "scraped_at": "2026-02-09T05:51:36.702969"
+  },
+  {
+    "title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06949",
+    "scraped_at": "2026-02-09T05:51:36.703201"
+  },
+  {
+    "title": "PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06663",
+    "scraped_at": "2026-02-09T05:51:36.703513"
+  },
+  {
+    "title": "POINTS-GUI-G: GUI-Grounding Journey",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06391",
+    "scraped_at": "2026-02-09T05:51:36.703787"
+  },
+  {
+    "title": "Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05281",
+    "scraped_at": "2026-02-09T05:51:36.704050"
+  },
+  {
+    "title": "MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01734",
+    "scraped_at": "2026-02-09T05:51:36.704288"
+  },
+  {
+    "title": "SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06854",
+    "scraped_at": "2026-02-09T05:51:36.704539"
+  },
+  {
+    "title": "RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05367",
+    "scraped_at": "2026-02-09T05:51:36.704783"
+  },
+  {
+    "title": "OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05843",
+    "scraped_at": "2026-02-09T05:51:36.705073"
+  },
+  {
+    "title": "Revisiting the Shape Convention of Transformer Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06471",
+    "scraped_at": "2026-02-09T05:51:36.705314"
+  },
+  {
+    "title": "EgoAVU: Egocentric Audio-Visual Understanding",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06139",
+    "scraped_at": "2026-02-09T05:51:36.705618"
+  },
+  {
+    "title": "OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05711",
+    "scraped_at": "2026-02-09T05:51:36.705873"
+  },
+  {
+    "title": "Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.23039",
+    "scraped_at": "2026-02-09T05:51:36.706133"
+  },
+  {
+    "title": "SeeUPO: Sequence-Level Agentic-RL with Convergence Guarantees",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06554",
+    "scraped_at": "2026-02-09T05:51:36.706362"
+  },
+  {
+    "title": "Exploring Knowledge Purification in Multi-Teacher Knowledge Distillation for LLMs",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.01064",
+    "scraped_at": "2026-02-09T05:51:36.706646"
+  }
+]
