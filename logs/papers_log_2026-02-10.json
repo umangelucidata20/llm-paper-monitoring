@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07026",
+    "scraped_at": "2026-02-10T05:55:20.071194"
+  },
+  {
+    "title": "Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06422",
+    "scraped_at": "2026-02-10T05:55:20.071476"
+  },
+  {
+    "title": "LLaDA2.1: Speeding Up Text Diffusion via Token Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08676",
+    "scraped_at": "2026-02-10T05:55:20.071753"
+  },
+  {
+    "title": "Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07845",
+    "scraped_at": "2026-02-10T05:55:20.071997"
+  },
+  {
+    "title": "QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07085",
+    "scraped_at": "2026-02-10T05:55:20.072225"
+  },
+  {
+    "title": "LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07962",
+    "scraped_at": "2026-02-10T05:55:20.072456"
+  },
+  {
+    "title": "Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08439",
+    "scraped_at": "2026-02-10T05:55:20.072716"
+  },
+  {
+    "title": "LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07075",
+    "scraped_at": "2026-02-10T05:55:20.073036"
+  },
+  {
+    "title": "RelayGen: Intra-Generation Model Switching for Efficient Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06454",
+    "scraped_at": "2026-02-10T05:55:20.073264"
+  },
+  {
+    "title": "MOVA: Towards Scalable and Synchronized Video-Audio Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08794",
+    "scraped_at": "2026-02-10T05:55:20.073471"
+  },
+  {
+    "title": "AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06540",
+    "scraped_at": "2026-02-10T05:55:20.073713"
+  },
+  {
+    "title": "WorldCompass: Reinforcement Learning for Long-Horizon World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09022",
+    "scraped_at": "2026-02-10T05:55:20.073922"
+  },
+  {
+    "title": "NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06694",
+    "scraped_at": "2026-02-10T05:55:20.074137"
+  },
+  {
+    "title": "Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21363",
+    "scraped_at": "2026-02-10T05:55:20.074388"
+  },
+  {
+    "title": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
+    "authors": "57 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08990",
+    "scraped_at": "2026-02-10T05:55:20.074632"
+  },
+  {
+    "title": "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08236",
+    "scraped_at": "2026-02-10T05:55:20.074859"
+  },
+  {
+    "title": "Reliable and Responsible Foundation Models: A Comprehensive Survey",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08145",
+    "scraped_at": "2026-02-10T05:55:20.075066"
+  },
+  {
+    "title": "WildReward: Learning Reward Models from In-the-Wild Human Interactions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08829",
+    "scraped_at": "2026-02-10T05:55:20.075273"
+  },
+  {
+    "title": "How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08808",
+    "scraped_at": "2026-02-10T05:55:20.075475"
+  },
+  {
+    "title": "GISA: A Benchmark for General Information-Seeking Assistant",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08543",
+    "scraped_at": "2026-02-10T05:55:20.075687"
+  },
+  {
+    "title": "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07775",
+    "scraped_at": "2026-02-10T05:55:20.075884"
+  },
+  {
+    "title": "Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07090",
+    "scraped_at": "2026-02-10T05:55:20.076113"
+  },
+  {
+    "title": "ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06445",
+    "scraped_at": "2026-02-10T05:55:20.076352"
+  },
+  {
+    "title": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07040",
+    "scraped_at": "2026-02-10T05:55:20.076560"
+  }
+]
