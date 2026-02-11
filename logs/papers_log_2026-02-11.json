@@ -1,0 +1,163 @@
+[
+  {
+    "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05400",
+    "scraped_at": "2026-02-11T05:51:44.699875"
+  },
+  {
+    "title": "Code2World: A GUI World Model via Renderable Code Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09856",
+    "scraped_at": "2026-02-11T05:51:44.700206"
+  },
+  {
+    "title": "UI-Venus-1.5 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09082",
+    "scraped_at": "2026-02-11T05:51:44.700505"
+  },
+  {
+    "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08234",
+    "scraped_at": "2026-02-11T05:51:44.700796"
+  },
+  {
+    "title": "Prism: Spectral-Aware Block-Sparse Attention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08426",
+    "scraped_at": "2026-02-11T05:51:44.701054"
+  },
+  {
+    "title": "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10090",
+    "scraped_at": "2026-02-11T05:51:44.701316"
+  },
+  {
+    "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07035",
+    "scraped_at": "2026-02-11T05:51:44.701577"
+  },
+  {
+    "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04208",
+    "scraped_at": "2026-02-11T05:51:44.701880"
+  },
+  {
+    "title": "Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09084",
+    "scraped_at": "2026-02-11T05:51:44.702136"
+  },
+  {
+    "title": "Chain of Mindset: Reasoning with Adaptive Cognitive Modes",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10063",
+    "scraped_at": "2026-02-11T05:51:44.702392"
+  },
+  {
+    "title": "VideoWorld 2: Learning Transferable Knowledge from Real-world Videos",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10102",
+    "scraped_at": "2026-02-11T05:51:44.702660"
+  },
+  {
+    "title": "BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09849",
+    "scraped_at": "2026-02-11T05:51:44.702933"
+  },
+  {
+    "title": "ANCHOR: Branch-Point Data Generation for GUI Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07153",
+    "scraped_at": "2026-02-11T05:51:44.703178"
+  },
+  {
+    "title": "Covo-Audio Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09823",
+    "scraped_at": "2026-02-11T05:51:44.703397"
+  },
+  {
+    "title": "OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08344",
+    "scraped_at": "2026-02-11T05:51:44.703681"
+  },
+  {
+    "title": "SAGE: Scalable Agentic 3D Scene Generation for Embodied AI",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10116",
+    "scraped_at": "2026-02-11T05:51:44.703923"
+  },
+  {
+    "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10104",
+    "scraped_at": "2026-02-11T05:51:44.704185"
+  },
+  {
+    "title": "Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08847",
+    "scraped_at": "2026-02-11T05:51:44.704423"
+  },
+  {
+    "title": "Autoregressive Image Generation with Masked Bit Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09024",
+    "scraped_at": "2026-02-11T05:51:44.704688"
+  },
+  {
+    "title": "SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.21235",
+    "scraped_at": "2026-02-11T05:51:44.704954"
+  },
+  {
+    "title": "VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10098",
+    "scraped_at": "2026-02-11T05:51:44.705219"
+  },
+  {
+    "title": "Fine-T2I: An Open, Large-Scale, and Diverse Dataset for High-Quality T2I Fine-Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09439",
+    "scraped_at": "2026-02-11T05:51:44.705452"
+  },
+  {
+    "title": "Temporal Pair Consistency for Variance-Reduced Flow Matching",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04908",
+    "scraped_at": "2026-02-11T05:51:44.705747"
+  }
+]
