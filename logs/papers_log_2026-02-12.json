@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10604",
+    "scraped_at": "2026-02-12T05:46:11.646990"
+  },
+  {
+    "title": "PhyCritic: Multimodal Critic Models for Physical AI",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11124",
+    "scraped_at": "2026-02-12T05:46:11.647287"
+  },
+  {
+    "title": "Towards Autonomous Mathematics Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10177",
+    "scraped_at": "2026-02-12T05:46:11.647551"
+  },
+  {
+    "title": "When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10560",
+    "scraped_at": "2026-02-12T05:46:11.647820"
+  },
+  {
+    "title": "DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11089",
+    "scraped_at": "2026-02-12T05:46:11.648122"
+  },
+  {
+    "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08253",
+    "scraped_at": "2026-02-12T05:46:11.648414"
+  },
+  {
+    "title": "Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10224",
+    "scraped_at": "2026-02-12T05:46:11.648712"
+  },
+  {
+    "title": "CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10999",
+    "scraped_at": "2026-02-12T05:46:11.648996"
+  },
+  {
+    "title": "Online Causal Kalman Filtering for Stable and Effective Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10609",
+    "scraped_at": "2026-02-12T05:46:11.649241"
+  },
+  {
+    "title": "Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09713",
+    "scraped_at": "2026-02-12T05:46:11.649500"
+  },
+  {
+    "title": "FeatureBench: Benchmarking Agentic Coding for Complex Feature Development",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10975",
+    "scraped_at": "2026-02-12T05:46:11.649802"
+  },
+  {
+    "title": "TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08711",
+    "scraped_at": "2026-02-12T05:46:11.650062"
+  },
+  {
+    "title": "ASA: Training-Free Representation Engineering for Tool-Calling Agents",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04935",
+    "scraped_at": "2026-02-12T05:46:11.650329"
+  },
+  {
+    "title": "QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09901",
+    "scraped_at": "2026-02-12T05:46:11.650593"
+  },
+  {
+    "title": "When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10179",
+    "scraped_at": "2026-02-12T05:46:11.650848"
+  },
+  {
+    "title": "Beyond Correctness: Learning Robust Reasoning via Transfer",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08489",
+    "scraped_at": "2026-02-12T05:46:11.651121"
+  },
+  {
+    "title": "AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06008",
+    "scraped_at": "2026-02-12T05:46:11.651382"
+  },
+  {
+    "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11144",
+    "scraped_at": "2026-02-12T05:46:11.651663"
+  },
+  {
+    "title": "UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10652",
+    "scraped_at": "2026-02-12T05:46:11.651923"
+  },
+  {
+    "title": "ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09014",
+    "scraped_at": "2026-02-12T05:46:11.652184"
+  },
+  {
+    "title": "Free(): Learning to Forget in Malloc-Only Reasoning Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08030",
+    "scraped_at": "2026-02-12T05:46:11.652433"
+  },
+  {
+    "title": "When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08995",
+    "scraped_at": "2026-02-12T05:46:11.652706"
+  },
+  {
+    "title": "Weight Decay Improves Language Model Plasticity",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11137",
+    "scraped_at": "2026-02-12T05:46:11.652966"
+  },
+  {
+    "title": "Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10699",
+    "scraped_at": "2026-02-12T05:46:11.653232"
+  }
+]
