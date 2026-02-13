@@ -1,0 +1,156 @@
+[
+  {
+    "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09877",
+    "scraped_at": "2026-02-13T05:42:38.920895"
+  },
+  {
+    "title": "Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12125",
+    "scraped_at": "2026-02-13T05:42:38.921213"
+  },
+  {
+    "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12099",
+    "scraped_at": "2026-02-13T05:42:38.921538"
+  },
+  {
+    "title": "Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12280",
+    "scraped_at": "2026-02-13T05:42:38.921822"
+  },
+  {
+    "title": "LawThinker: A Deep Research Legal Agent in Dynamic Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12056",
+    "scraped_at": "2026-02-13T05:42:38.922083"
+  },
+  {
+    "title": "Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05548",
+    "scraped_at": "2026-02-13T05:42:38.922348"
+  },
+  {
+    "title": "dVoting: Fast Voting for dLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12153",
+    "scraped_at": "2026-02-13T05:42:38.922638"
+  },
+  {
+    "title": "Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11541",
+    "scraped_at": "2026-02-13T05:42:38.922886"
+  },
+  {
+    "title": "MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10934",
+    "scraped_at": "2026-02-13T05:42:38.923148"
+  },
+  {
+    "title": "Dreaming in Code for Curriculum Learning in Open-Ended Worlds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08194",
+    "scraped_at": "2026-02-13T05:42:38.923408"
+  },
+  {
+    "title": "Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12164",
+    "scraped_at": "2026-02-13T05:42:38.923667"
+  },
+  {
+    "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11964",
+    "scraped_at": "2026-02-13T05:42:38.923893"
+  },
+  {
+    "title": "ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11683",
+    "scraped_at": "2026-02-13T05:42:38.924128"
+  },
+  {
+    "title": "MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11337",
+    "scraped_at": "2026-02-13T05:42:38.924373"
+  },
+  {
+    "title": "Voxtral Realtime",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11298",
+    "scraped_at": "2026-02-13T05:42:38.924618"
+  },
+  {
+    "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11761",
+    "scraped_at": "2026-02-13T05:42:38.924859"
+  },
+  {
+    "title": "ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11636",
+    "scraped_at": "2026-02-13T05:42:38.925114"
+  },
+  {
+    "title": "Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11543",
+    "scraped_at": "2026-02-13T05:42:38.925369"
+  },
+  {
+    "title": "Multimodal Fact-Level Attribution for Verifiable Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11509",
+    "scraped_at": "2026-02-13T05:42:38.925733"
+  },
+  {
+    "title": "PISCO: Precise Video Instance Insertion with Sparse Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08277",
+    "scraped_at": "2026-02-13T05:42:38.925991"
+  },
+  {
+    "title": "ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation",
+    "authors": "44 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11598",
+    "scraped_at": "2026-02-13T05:42:38.926267"
+  },
+  {
+    "title": "Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10585",
+    "scraped_at": "2026-02-13T05:42:38.926574"
+  }
+]
