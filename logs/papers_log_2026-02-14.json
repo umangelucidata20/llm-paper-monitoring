@@ -1,0 +1,289 @@
+[
+  {
+    "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09877",
+    "scraped_at": "2026-02-14T05:28:36.011856"
+  },
+  {
+    "title": "Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12036",
+    "scraped_at": "2026-02-14T05:28:36.012187"
+  },
+  {
+    "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12205",
+    "scraped_at": "2026-02-14T05:28:36.012484"
+  },
+  {
+    "title": "Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12125",
+    "scraped_at": "2026-02-14T05:28:36.012763"
+  },
+  {
+    "title": "MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10934",
+    "scraped_at": "2026-02-14T05:28:36.013053"
+  },
+  {
+    "title": "NarraScore: Bridging Visual Narrative and Musical Dynamics via Hierarchical Affective Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09070",
+    "scraped_at": "2026-02-14T05:28:36.013307"
+  },
+  {
+    "title": "GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12099",
+    "scraped_at": "2026-02-14T05:28:36.013572"
+  },
+  {
+    "title": "LawThinker: A Deep Research Legal Agent in Dynamic Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12056",
+    "scraped_at": "2026-02-14T05:28:36.013846"
+  },
+  {
+    "title": "Thinking with Drafting: Optical Decompression via Logical Reconstruction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11731",
+    "scraped_at": "2026-02-14T05:28:36.014092"
+  },
+  {
+    "title": "Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12280",
+    "scraped_at": "2026-02-14T05:28:36.014350"
+  },
+  {
+    "title": "Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11748",
+    "scraped_at": "2026-02-14T05:28:36.014604"
+  },
+  {
+    "title": "RISE: Self-Improving Robot Policy with Compositional World Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11075",
+    "scraped_at": "2026-02-14T05:28:36.014861"
+  },
+  {
+    "title": "dVoting: Fast Voting for dLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12153",
+    "scraped_at": "2026-02-14T05:28:36.015122"
+  },
+  {
+    "title": "χ_{0}: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09021",
+    "scraped_at": "2026-02-14T05:28:36.015376"
+  },
+  {
+    "title": "EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10106",
+    "scraped_at": "2026-02-14T05:28:36.015643"
+  },
+  {
+    "title": "DeepSight: An All-in-One LM Safety Toolkit",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12092",
+    "scraped_at": "2026-02-14T05:28:36.015909"
+  },
+  {
+    "title": "Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05827",
+    "scraped_at": "2026-02-14T05:28:36.016189"
+  },
+  {
+    "title": "Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.05548",
+    "scraped_at": "2026-02-14T05:28:36.016446"
+  },
+  {
+    "title": "Adapting Vision-Language Models for E-commerce Understanding at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11733",
+    "scraped_at": "2026-02-14T05:28:36.016683"
+  },
+  {
+    "title": "PISCO: Precise Video Instance Insertion with Sparse Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08277",
+    "scraped_at": "2026-02-14T05:28:36.016950"
+  },
+  {
+    "title": "T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12262",
+    "scraped_at": "2026-02-14T05:28:36.017242"
+  },
+  {
+    "title": "ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11683",
+    "scraped_at": "2026-02-14T05:28:36.017515"
+  },
+  {
+    "title": "Voxtral Realtime",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11298",
+    "scraped_at": "2026-02-14T05:28:36.017745"
+  },
+  {
+    "title": "Dreaming in Code for Curriculum Learning in Open-Ended Worlds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08194",
+    "scraped_at": "2026-02-14T05:28:36.018018"
+  },
+  {
+    "title": "MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11761",
+    "scraped_at": "2026-02-14T05:28:36.018251"
+  },
+  {
+    "title": "MemFly: On-the-Fly Memory Optimization via Information Bottleneck",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07885",
+    "scraped_at": "2026-02-14T05:28:36.018513"
+  },
+  {
+    "title": "MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11337",
+    "scraped_at": "2026-02-14T05:28:36.018763"
+  },
+  {
+    "title": "MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10575",
+    "scraped_at": "2026-02-14T05:28:36.019059"
+  },
+  {
+    "title": "ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12203",
+    "scraped_at": "2026-02-14T05:28:36.019302"
+  },
+  {
+    "title": "Single-minus gluon tree amplitudes are nonzero",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12176",
+    "scraped_at": "2026-02-14T05:28:36.019538"
+  },
+  {
+    "title": "P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12116",
+    "scraped_at": "2026-02-14T05:28:36.019803"
+  },
+  {
+    "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11964",
+    "scraped_at": "2026-02-14T05:28:36.020043"
+  },
+  {
+    "title": "Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11541",
+    "scraped_at": "2026-02-14T05:28:36.020283"
+  },
+  {
+    "title": "Multimodal Fact-Level Attribution for Verifiable Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11509",
+    "scraped_at": "2026-02-14T05:28:36.020571"
+  },
+  {
+    "title": "Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12164",
+    "scraped_at": "2026-02-14T05:28:36.020853"
+  },
+  {
+    "title": "ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11636",
+    "scraped_at": "2026-02-14T05:28:36.021111"
+  },
+  {
+    "title": "ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation",
+    "authors": "44 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11598",
+    "scraped_at": "2026-02-14T05:28:36.021392"
+  },
+  {
+    "title": "Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11543",
+    "scraped_at": "2026-02-14T05:28:36.021641"
+  },
+  {
+    "title": "Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10585",
+    "scraped_at": "2026-02-14T05:28:36.021929"
+  },
+  {
+    "title": "Stemphonic: All-at-once Flexible Multi-stem Music Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09891",
+    "scraped_at": "2026-02-14T05:28:36.022159"
+  },
+  {
+    "title": "Detecting RLVR Training Data via Structural Convergence of Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11792",
+    "scraped_at": "2026-02-14T05:28:36.022409"
+  }
+]
