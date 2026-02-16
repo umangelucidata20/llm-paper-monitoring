@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10388",
+    "scraped_at": "2026-02-16T05:49:30.523805"
+  },
+  {
+    "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11858",
+    "scraped_at": "2026-02-16T05:49:30.524125"
+  },
+  {
+    "title": "MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12705",
+    "scraped_at": "2026-02-16T05:49:30.524433"
+  },
+  {
+    "title": "OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08683",
+    "scraped_at": "2026-02-16T05:49:30.524739"
+  },
+  {
+    "title": "RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12628",
+    "scraped_at": "2026-02-16T05:49:30.524992"
+  },
+  {
+    "title": "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12395",
+    "scraped_at": "2026-02-16T05:49:30.525271"
+  },
+  {
+    "title": "Intelligent AI Delegation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11865",
+    "scraped_at": "2026-02-16T05:49:30.525504"
+  },
+  {
+    "title": "Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13013",
+    "scraped_at": "2026-02-16T05:49:30.525756"
+  },
+  {
+    "title": "SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12984",
+    "scraped_at": "2026-02-16T05:49:30.526036"
+  },
+  {
+    "title": "GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12617",
+    "scraped_at": "2026-02-16T05:49:30.526338"
+  },
+  {
+    "title": "On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12506",
+    "scraped_at": "2026-02-16T05:49:30.526564"
+  },
+  {
+    "title": "ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11236",
+    "scraped_at": "2026-02-16T05:49:30.526817"
+  },
+  {
+    "title": "CoPE-VideoLM: Codec Primitives For Efficient Video Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13191",
+    "scraped_at": "2026-02-16T05:49:30.527050"
+  },
+  {
+    "title": "FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12829",
+    "scraped_at": "2026-02-16T05:49:30.527348"
+  },
+  {
+    "title": "Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12684",
+    "scraped_at": "2026-02-16T05:49:30.527600"
+  },
+  {
+    "title": "TADA! Tuning Audio Diffusion Models through Activation Steering",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11910",
+    "scraped_at": "2026-02-16T05:49:30.527878"
+  },
+  {
+    "title": "Light4D: Training-Free Extreme Viewpoint 4D Video Relighting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11769",
+    "scraped_at": "2026-02-16T05:49:30.528126"
+  },
+  {
+    "title": "Code2Worlds: Empowering Coding LLMs for 4D World Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11757",
+    "scraped_at": "2026-02-16T05:49:30.528401"
+  },
+  {
+    "title": "DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.11715",
+    "scraped_at": "2026-02-16T05:49:30.528678"
+  },
+  {
+    "title": "GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04315",
+    "scraped_at": "2026-02-16T05:49:30.528927"
+  },
+  {
+    "title": "BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.04163",
+    "scraped_at": "2026-02-16T05:49:30.529177"
+  }
+]
