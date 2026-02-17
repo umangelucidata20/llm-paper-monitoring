@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Qute: Towards Quantum-Native Database",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14699",
+    "scraped_at": "2026-02-17T05:41:37.857563"
+  },
+  {
+    "title": "REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14234",
+    "scraped_at": "2026-02-17T05:41:37.857852"
+  },
+  {
+    "title": "Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13823",
+    "scraped_at": "2026-02-17T05:41:37.858176"
+  },
+  {
+    "title": "UniWeTok: An Unified Binary Tokenizer with Codebook Size 2^{128} for Unified Multimodal Large Language Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14178",
+    "scraped_at": "2026-02-17T05:41:37.858435"
+  },
+  {
+    "title": "BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12876",
+    "scraped_at": "2026-02-17T05:41:37.858714"
+  },
+  {
+    "title": "LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14147",
+    "scraped_at": "2026-02-17T05:41:37.858965"
+  },
+  {
+    "title": "BitDance: Scaling Autoregressive Generative Models with Binary Tokens",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14041",
+    "scraped_at": "2026-02-17T05:41:37.859271"
+  },
+  {
+    "title": "FireRed-Image-Edit-1.0 Techinical Report",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13344",
+    "scraped_at": "2026-02-17T05:41:37.859557"
+  },
+  {
+    "title": "AIDev: Studying AI Coding Agents on GitHub",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09185",
+    "scraped_at": "2026-02-17T05:41:37.859817"
+  },
+  {
+    "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14721",
+    "scraped_at": "2026-02-17T05:41:37.860053"
+  },
+  {
+    "title": "A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14696",
+    "scraped_at": "2026-02-17T05:41:37.860336"
+  },
+  {
+    "title": "MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14534",
+    "scraped_at": "2026-02-17T05:41:37.860577"
+  }
+]
