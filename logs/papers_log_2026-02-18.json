@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14299",
+    "scraped_at": "2026-02-18T05:43:02.332100"
+  },
+  {
+    "title": "GLM-5: from Vibe Coding to Agentic Engineering",
+    "authors": "186 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15763",
+    "scraped_at": "2026-02-18T05:43:02.332461"
+  },
+  {
+    "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15112",
+    "scraped_at": "2026-02-18T05:43:02.332783"
+  },
+  {
+    "title": "Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15772",
+    "scraped_at": "2026-02-18T05:43:02.333106"
+  },
+  {
+    "title": "Visual Persuasion: What Influences Decisions of Vision-Language Models?",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15278",
+    "scraped_at": "2026-02-18T05:43:02.333387"
+  },
+  {
+    "title": "Revisiting the Platonic Representation Hypothesis: An Aristotelian View",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14486",
+    "scraped_at": "2026-02-18T05:43:02.333832"
+  },
+  {
+    "title": "ClinAlign: Scaling Healthcare Alignment from Clinician Preference",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.09653",
+    "scraped_at": "2026-02-18T05:43:02.334136"
+  },
+  {
+    "title": "STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15620",
+    "scraped_at": "2026-02-18T05:43:02.334430"
+  },
+  {
+    "title": "On Surprising Effectiveness of Masking Updates in Adaptive Optimizers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15322",
+    "scraped_at": "2026-02-18T05:43:02.334678"
+  },
+  {
+    "title": "Learning Native Continuation for Action Chunking Flow Policies",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12978",
+    "scraped_at": "2026-02-18T05:43:02.334976"
+  },
+  {
+    "title": "Geometry-Aware Rotary Position Embedding for Consistent Video World Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.07854",
+    "scraped_at": "2026-02-18T05:43:02.335214"
+  }
+]
