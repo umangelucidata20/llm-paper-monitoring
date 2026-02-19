@@ -1,0 +1,72 @@
+[
+  {
+    "title": "SLA2: Sparse-Linear Attention with Learnable Routing and QAT",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12675",
+    "scraped_at": "2026-02-19T05:42:14.430999"
+  },
+  {
+    "title": "Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16705",
+    "scraped_at": "2026-02-19T05:42:14.431328"
+  },
+  {
+    "title": "RynnBrain: Open Embodied Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14979",
+    "scraped_at": "2026-02-19T05:42:14.431645"
+  },
+  {
+    "title": "Multi-agent cooperation through in-context co-player inference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16301",
+    "scraped_at": "2026-02-19T05:42:14.431904"
+  },
+  {
+    "title": "World Action Models are Zero-shot Policies",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15922",
+    "scraped_at": "2026-02-19T05:42:14.432151"
+  },
+  {
+    "title": "Learning Situated Awareness in the Real World",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16682",
+    "scraped_at": "2026-02-19T05:42:14.432435"
+  },
+  {
+    "title": "MMA: Multimodal Memory Agent",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16493",
+    "scraped_at": "2026-02-19T05:42:14.432715"
+  },
+  {
+    "title": "Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14080",
+    "scraped_at": "2026-02-19T05:42:14.432966"
+  },
+  {
+    "title": "Towards a Science of AI Agent Reliability",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16666",
+    "scraped_at": "2026-02-19T05:42:14.433196"
+  },
+  {
+    "title": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15989",
+    "scraped_at": "2026-02-19T05:42:14.433489"
+  }
+]
