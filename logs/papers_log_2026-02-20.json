@@ -1,0 +1,79 @@
+[
+  {
+    "title": "SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13515",
+    "scraped_at": "2026-02-20T05:35:34.135472"
+  },
+  {
+    "title": "Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14457",
+    "scraped_at": "2026-02-20T05:35:34.135731"
+  },
+  {
+    "title": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16855",
+    "scraped_at": "2026-02-20T05:35:34.135989"
+  },
+  {
+    "title": "DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16968",
+    "scraped_at": "2026-02-20T05:35:34.136232"
+  },
+  {
+    "title": "Unified Latents (UL): How to train your latents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17270",
+    "scraped_at": "2026-02-20T05:35:34.136443"
+  },
+  {
+    "title": "Arcee Trinity Large Technical Report",
+    "authors": "26 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17004",
+    "scraped_at": "2026-02-20T05:35:34.136672"
+  },
+  {
+    "title": "Discovering Multiagent Learning Algorithms with Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16928",
+    "scraped_at": "2026-02-20T05:35:34.136879"
+  },
+  {
+    "title": "Computer-Using World Model",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17365",
+    "scraped_at": "2026-02-20T05:35:34.137149"
+  },
+  {
+    "title": "2Mamba2Furious: Linear in Complexity, Competitive in Accuracy",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17363",
+    "scraped_at": "2026-02-20T05:35:34.137387"
+  },
+  {
+    "title": "References Improve LLM Alignment in Non-Verifiable Domains",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16802",
+    "scraped_at": "2026-02-20T05:35:34.137612"
+  },
+  {
+    "title": "TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13579",
+    "scraped_at": "2026-02-20T05:35:34.137826"
+  }
+]
