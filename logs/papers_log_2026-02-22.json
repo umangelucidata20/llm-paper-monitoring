@@ -1,0 +1,163 @@
+[
+  {
+    "title": "SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13515",
+    "scraped_at": "2026-02-22T05:33:51.095155"
+  },
+  {
+    "title": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16855",
+    "scraped_at": "2026-02-22T05:33:51.095474"
+  },
+  {
+    "title": "Unified Latents (UL): How to train your latents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17270",
+    "scraped_at": "2026-02-22T05:33:51.095764"
+  },
+  {
+    "title": "Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14457",
+    "scraped_at": "2026-02-22T05:33:51.096037"
+  },
+  {
+    "title": "Arcee Trinity Large Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17004",
+    "scraped_at": "2026-02-22T05:33:51.096290"
+  },
+  {
+    "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16699",
+    "scraped_at": "2026-02-22T05:33:51.096631"
+  },
+  {
+    "title": "\"What Are You Doing?\": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15569",
+    "scraped_at": "2026-02-22T05:33:51.096908"
+  },
+  {
+    "title": "DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16968",
+    "scraped_at": "2026-02-22T05:33:51.097158"
+  },
+  {
+    "title": "TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.13579",
+    "scraped_at": "2026-02-22T05:33:51.097413"
+  },
+  {
+    "title": "Computer-Using World Model",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17365",
+    "scraped_at": "2026-02-22T05:33:51.097721"
+  },
+  {
+    "title": "ArXiv-to-Model: A Practical Study of Scientific LM Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17288",
+    "scraped_at": "2026-02-22T05:33:51.097994"
+  },
+  {
+    "title": "On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16849",
+    "scraped_at": "2026-02-22T05:33:51.098256"
+  },
+  {
+    "title": "2Mamba2Furious: Linear in Complexity, Competitive in Accuracy",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17363",
+    "scraped_at": "2026-02-22T05:33:51.098537"
+  },
+  {
+    "title": "Discovering Multiagent Learning Algorithms with Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16928",
+    "scraped_at": "2026-02-22T05:33:51.098777"
+  },
+  {
+    "title": "FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17259",
+    "scraped_at": "2026-02-22T05:33:51.099086"
+  },
+  {
+    "title": "NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16756",
+    "scraped_at": "2026-02-22T05:33:51.099359"
+  },
+  {
+    "title": "CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.15823",
+    "scraped_at": "2026-02-22T05:33:51.099640"
+  },
+  {
+    "title": "World Models for Policy Refinement in StarCraft II",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14857",
+    "scraped_at": "2026-02-22T05:33:51.099907"
+  },
+  {
+    "title": "Modeling Distinct Human Interaction in Web Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17588",
+    "scraped_at": "2026-02-22T05:33:51.100158"
+  },
+  {
+    "title": "References Improve LLM Alignment in Non-Verifiable Domains",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16802",
+    "scraped_at": "2026-02-22T05:33:51.100421"
+  },
+  {
+    "title": "Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10377",
+    "scraped_at": "2026-02-22T05:33:51.100741"
+  },
+  {
+    "title": "StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16915",
+    "scraped_at": "2026-02-22T05:33:51.101002"
+  },
+  {
+    "title": "NeST: Neuron Selective Tuning for LLM Safety",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16835",
+    "scraped_at": "2026-02-22T05:33:51.101239"
+  }
+]
