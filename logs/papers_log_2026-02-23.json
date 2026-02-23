@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.08354",
+    "scraped_at": "2026-02-23T05:47:49.606908"
+  },
+  {
+    "title": "Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18422",
+    "scraped_at": "2026-02-23T05:47:49.607199"
+  },
+  {
+    "title": "EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18071",
+    "scraped_at": "2026-02-23T05:47:49.607475"
+  },
+  {
+    "title": "SARAH: Spatially Aware Real-time Agentic Humans",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18432",
+    "scraped_at": "2026-02-23T05:47:49.607736"
+  },
+  {
+    "title": "Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18312",
+    "scraped_at": "2026-02-23T05:47:49.607970"
+  }
+]
