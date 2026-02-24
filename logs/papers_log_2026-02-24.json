@@ -1,0 +1,65 @@
+[
+  {
+    "title": "A Very Big Video Reasoning Suite",
+    "authors": "56 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20159",
+    "scraped_at": "2026-02-24T05:40:31.332131"
+  },
+  {
+    "title": "TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.19313",
+    "scraped_at": "2026-02-24T05:40:31.332451"
+  },
+  {
+    "title": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20161",
+    "scraped_at": "2026-02-24T05:40:31.332751"
+  },
+  {
+    "title": "DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.19895",
+    "scraped_at": "2026-02-24T05:40:31.333055"
+  },
+  {
+    "title": "Agents of Chaos",
+    "authors": "38 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20021",
+    "scraped_at": "2026-02-24T05:40:31.333326"
+  },
+  {
+    "title": "tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20160",
+    "scraped_at": "2026-02-24T05:40:31.333626"
+  },
+  {
+    "title": "K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.19128",
+    "scraped_at": "2026-02-24T05:40:31.333885"
+  },
+  {
+    "title": "SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.19455",
+    "scraped_at": "2026-02-24T05:40:31.334187"
+  },
+  {
+    "title": "AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18915",
+    "scraped_at": "2026-02-24T05:40:31.334469"
+  }
+]
