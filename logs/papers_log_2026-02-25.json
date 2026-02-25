@@ -1,0 +1,79 @@
+[
+  {
+    "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21193",
+    "scraped_at": "2026-02-25T05:42:28.314068"
+  },
+  {
+    "title": "From Perception to Action: An Interactive Benchmark for Vision Reasoning",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21015",
+    "scraped_at": "2026-02-25T05:42:28.314429"
+  },
+  {
+    "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20739",
+    "scraped_at": "2026-02-25T05:42:28.314761"
+  },
+  {
+    "title": "LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14337",
+    "scraped_at": "2026-02-25T05:42:28.315059"
+  },
+  {
+    "title": "Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16990",
+    "scraped_at": "2026-02-25T05:42:28.315315"
+  },
+  {
+    "title": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21198",
+    "scraped_at": "2026-02-25T05:42:28.315607"
+  },
+  {
+    "title": "The Art of Efficient Reasoning: Data, Reward, and Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20945",
+    "scraped_at": "2026-02-25T05:42:28.315842"
+  },
+  {
+    "title": "FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.16603",
+    "scraped_at": "2026-02-25T05:42:28.316142"
+  },
+  {
+    "title": "Aletheia tackles FirstProof autonomously",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21201",
+    "scraped_at": "2026-02-25T05:42:28.316363"
+  },
+  {
+    "title": "The Diffusion Duality, Chapter II: Ψ-Samplers and Efficient Curriculum",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21185",
+    "scraped_at": "2026-02-25T05:42:28.316672"
+  },
+  {
+    "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20424",
+    "scraped_at": "2026-02-25T05:42:28.316918"
+  }
+]
