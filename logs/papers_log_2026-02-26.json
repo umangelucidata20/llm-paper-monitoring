@@ -1,0 +1,100 @@
+[
+  {
+    "title": "DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.12160",
+    "scraped_at": "2026-02-26T05:38:53.236299"
+  },
+  {
+    "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21534",
+    "scraped_at": "2026-02-26T05:38:53.236663"
+  },
+  {
+    "title": "HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18283",
+    "scraped_at": "2026-02-26T05:38:53.237003"
+  },
+  {
+    "title": "SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21818",
+    "scraped_at": "2026-02-26T05:38:53.237309"
+  },
+  {
+    "title": "JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.19163",
+    "scraped_at": "2026-02-26T05:38:53.237582"
+  },
+  {
+    "title": "GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22190",
+    "scraped_at": "2026-02-26T05:38:53.237845"
+  },
+  {
+    "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22208",
+    "scraped_at": "2026-02-26T05:38:53.238155"
+  },
+  {
+    "title": "World Guidance: World Modeling in Condition Space for Action Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22010",
+    "scraped_at": "2026-02-26T05:38:53.238399"
+  },
+  {
+    "title": "Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.14878",
+    "scraped_at": "2026-02-26T05:38:53.238682"
+  },
+  {
+    "title": "NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22144",
+    "scraped_at": "2026-02-26T05:38:53.238983"
+  },
+  {
+    "title": "JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18527",
+    "scraped_at": "2026-02-26T05:38:53.239221"
+  },
+  {
+    "title": "UniVBench: Towards Unified Evaluation for Video Foundation Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21835",
+    "scraped_at": "2026-02-26T05:38:53.239490"
+  },
+  {
+    "title": "The Design Space of Tri-Modal Masked Diffusion Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21472",
+    "scraped_at": "2026-02-26T05:38:53.239711"
+  },
+  {
+    "title": "MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.19004",
+    "scraped_at": "2026-02-26T05:38:53.240084"
+  }
+]
