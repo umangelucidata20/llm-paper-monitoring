@@ -1,0 +1,86 @@
+[
+  {
+    "title": "The Trinity of Consistency as a Defining Principle for General World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23152",
+    "scraped_at": "2026-02-27T05:34:09.534578"
+  },
+  {
+    "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22897",
+    "scraped_at": "2026-02-27T05:34:09.534928"
+  },
+  {
+    "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22766",
+    "scraped_at": "2026-02-27T05:34:09.535252"
+  },
+  {
+    "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23008",
+    "scraped_at": "2026-02-27T05:34:09.535517"
+  },
+  {
+    "title": "Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21760",
+    "scraped_at": "2026-02-27T05:34:09.535805"
+  },
+  {
+    "title": "Causal Motion Diffusion Models for Autoregressive Motion Generation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22594",
+    "scraped_at": "2026-02-27T05:34:09.536076"
+  },
+  {
+    "title": "AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17594",
+    "scraped_at": "2026-02-27T05:34:09.536343"
+  },
+  {
+    "title": "Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23259",
+    "scraped_at": "2026-02-27T05:34:09.536613"
+  },
+  {
+    "title": "DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23165",
+    "scraped_at": "2026-02-27T05:34:09.536894"
+  },
+  {
+    "title": "GeoWorld: Geometric World Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23058",
+    "scraped_at": "2026-02-27T05:34:09.537159"
+  },
+  {
+    "title": "Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22479",
+    "scraped_at": "2026-02-27T05:34:09.537445"
+  },
+  {
+    "title": "veScale-FSDP: Flexible and High-Performance FSDP at Scale",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22437",
+    "scraped_at": "2026-02-27T05:34:09.537712"
+  }
+]
