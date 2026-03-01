@@ -1,0 +1,198 @@
+[
+  {
+    "title": "The Trinity of Consistency as a Defining Principle for General World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23152",
+    "scraped_at": "2026-03-01T05:34:49.246718"
+  },
+  {
+    "title": "From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22859",
+    "scraped_at": "2026-03-01T05:34:49.247082"
+  },
+  {
+    "title": "MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22638",
+    "scraped_at": "2026-03-01T05:34:49.247398"
+  },
+  {
+    "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22897",
+    "scraped_at": "2026-03-01T05:34:49.247748"
+  },
+  {
+    "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22766",
+    "scraped_at": "2026-03-01T05:34:49.248011"
+  },
+  {
+    "title": "Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23008",
+    "scraped_at": "2026-03-01T05:34:49.248274"
+  },
+  {
+    "title": "AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23258",
+    "scraped_at": "2026-03-01T05:34:49.248566"
+  },
+  {
+    "title": "Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22675",
+    "scraped_at": "2026-03-01T05:34:49.248842"
+  },
+  {
+    "title": "MediX-R1: Open Ended Medical Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23363",
+    "scraped_at": "2026-03-01T05:34:49.249115"
+  },
+  {
+    "title": "Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21760",
+    "scraped_at": "2026-03-01T05:34:49.249406"
+  },
+  {
+    "title": "VGG-T^3: Offline Feed-Forward 3D Reconstruction at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23361",
+    "scraped_at": "2026-03-01T05:34:49.249683"
+  },
+  {
+    "title": "EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23205",
+    "scraped_at": "2026-03-01T05:34:49.249984"
+  },
+  {
+    "title": "AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17594",
+    "scraped_at": "2026-03-01T05:34:49.250223"
+  },
+  {
+    "title": "General Agent Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22953",
+    "scraped_at": "2026-03-01T05:34:49.250497"
+  },
+  {
+    "title": "Causal Motion Diffusion Models for Autoregressive Motion Generation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22594",
+    "scraped_at": "2026-03-01T05:34:49.250761"
+  },
+  {
+    "title": "GeoWorld: Geometric World Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23058",
+    "scraped_at": "2026-03-01T05:34:49.251035"
+  },
+  {
+    "title": "veScale-FSDP: Flexible and High-Performance FSDP at Scale",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22437",
+    "scraped_at": "2026-03-01T05:34:49.251313"
+  },
+  {
+    "title": "Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23339",
+    "scraped_at": "2026-03-01T05:34:49.251611"
+  },
+  {
+    "title": "Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21420",
+    "scraped_at": "2026-03-01T05:34:49.251850"
+  },
+  {
+    "title": "Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23259",
+    "scraped_at": "2026-03-01T05:34:49.252117"
+  },
+  {
+    "title": "DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22045",
+    "scraped_at": "2026-03-01T05:34:49.252378"
+  },
+  {
+    "title": "MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20423",
+    "scraped_at": "2026-03-01T05:34:49.252716"
+  },
+  {
+    "title": "No One Size Fits All: QueryBandits for Hallucination Mitigation",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20332",
+    "scraped_at": "2026-03-01T05:34:49.252988"
+  },
+  {
+    "title": "What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20300",
+    "scraped_at": "2026-03-01T05:34:49.253253"
+  },
+  {
+    "title": "DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23165",
+    "scraped_at": "2026-03-01T05:34:49.253551"
+  },
+  {
+    "title": "MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.18253",
+    "scraped_at": "2026-03-01T05:34:49.253810"
+  },
+  {
+    "title": "Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22479",
+    "scraped_at": "2026-03-01T05:34:49.254067"
+  },
+  {
+    "title": "Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.20981",
+    "scraped_at": "2026-03-01T05:34:49.254300"
+  }
+]
