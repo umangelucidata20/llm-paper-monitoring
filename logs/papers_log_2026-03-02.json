@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22207",
+    "scraped_at": "2026-03-02T05:34:09.797500"
+  },
+  {
+    "title": "dLLM: Simple Diffusion Language Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22661",
+    "scraped_at": "2026-03-02T05:34:09.797835"
+  },
+  {
+    "title": "Enhancing Spatial Understanding in Image Generation via Reward Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.24233",
+    "scraped_at": "2026-03-02T05:34:09.798129"
+  },
+  {
+    "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.24289",
+    "scraped_at": "2026-03-02T05:34:09.798390"
+  },
+  {
+    "title": "Accelerating Masked Image Generation by Learning Latent Controlled Dynamics",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23996",
+    "scraped_at": "2026-03-02T05:34:09.798703"
+  },
+  {
+    "title": "CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23452",
+    "scraped_at": "2026-03-02T05:34:09.798949"
+  },
+  {
+    "title": "Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23898",
+    "scraped_at": "2026-03-02T05:34:09.799208"
+  },
+  {
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.24286",
+    "scraped_at": "2026-03-02T05:34:09.799444"
+  },
+  {
+    "title": "Memory Caching: RNNs with Growing Memory",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.24281",
+    "scraped_at": "2026-03-02T05:34:09.799734"
+  },
+  {
+    "title": "SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.24208",
+    "scraped_at": "2026-03-02T05:34:09.799997"
+  },
+  {
+    "title": "DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23622",
+    "scraped_at": "2026-03-02T05:34:09.800253"
+  },
+  {
+    "title": "Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.22647",
+    "scraped_at": "2026-03-02T05:34:09.800506"
+  }
+]
