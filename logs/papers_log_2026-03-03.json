@@ -1,0 +1,149 @@
+[
+  {
+    "title": "OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02138",
+    "scraped_at": "2026-03-03T05:31:47.808692"
+  },
+  {
+    "title": "VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00912",
+    "scraped_at": "2026-03-03T05:31:47.809027"
+  },
+  {
+    "title": "RubricBench: Aligning Model-Generated Rubrics with Human Standards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01562",
+    "scraped_at": "2026-03-03T05:31:47.809334"
+  },
+  {
+    "title": "Spectral Condition for μP under Width-Depth Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00541",
+    "scraped_at": "2026-03-03T05:31:47.809644"
+  },
+  {
+    "title": "LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01068",
+    "scraped_at": "2026-03-03T05:31:47.809916"
+  },
+  {
+    "title": "When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01301",
+    "scraped_at": "2026-03-03T05:31:47.810186"
+  },
+  {
+    "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.21320",
+    "scraped_at": "2026-03-03T05:31:47.810448"
+  },
+  {
+    "title": "Legal RAG Bench: an end-to-end benchmark for legal RAG",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01710",
+    "scraped_at": "2026-03-03T05:31:47.810763"
+  },
+  {
+    "title": "CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23952",
+    "scraped_at": "2026-03-03T05:31:47.811057"
+  },
+  {
+    "title": "Half-Truths Break Similarity-Based Retrieval",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23906",
+    "scraped_at": "2026-03-03T05:31:47.811336"
+  },
+  {
+    "title": "MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02024",
+    "scraped_at": "2026-03-03T05:31:47.811602"
+  },
+  {
+    "title": "CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01973",
+    "scraped_at": "2026-03-03T05:31:47.811848"
+  },
+  {
+    "title": "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01940",
+    "scraped_at": "2026-03-03T05:31:47.812117"
+  },
+  {
+    "title": "LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01425",
+    "scraped_at": "2026-03-03T05:31:47.812361"
+  },
+  {
+    "title": "ArtLLM: Generating Articulated Assets via 3D LLM",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01142",
+    "scraped_at": "2026-03-03T05:31:47.812616"
+  },
+  {
+    "title": "RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00483",
+    "scraped_at": "2026-03-03T05:31:47.812871"
+  },
+  {
+    "title": "Tool Verification for Test-Time Reinforcement Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02203",
+    "scraped_at": "2026-03-03T05:31:47.813122"
+  },
+  {
+    "title": "Recursive Think-Answer Process for LLMs and VLMs",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02099",
+    "scraped_at": "2026-03-03T05:31:47.813378"
+  },
+  {
+    "title": "Agentic Code Reasoning",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01896",
+    "scraped_at": "2026-03-03T05:31:47.813655"
+  },
+  {
+    "title": "FireRed-OCR Technical Report",
+    "authors": "22 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01840",
+    "scraped_at": "2026-03-03T05:31:47.813932"
+  },
+  {
+    "title": "Learn Hard Problems During RL with Reference Guided Fine-tuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01223",
+    "scraped_at": "2026-03-03T05:31:47.814158"
+  }
+]
