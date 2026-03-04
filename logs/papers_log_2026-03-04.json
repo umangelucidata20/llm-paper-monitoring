@@ -1,0 +1,128 @@
+[
+  {
+    "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03241",
+    "scraped_at": "2026-03-04T05:28:44.496658"
+  },
+  {
+    "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03276",
+    "scraped_at": "2026-03-04T05:28:44.496990"
+  },
+  {
+    "title": "Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01571",
+    "scraped_at": "2026-03-04T05:28:44.497275"
+  },
+  {
+    "title": "How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02578",
+    "scraped_at": "2026-03-04T05:28:44.497536"
+  },
+  {
+    "title": "Kling-MotionControl Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03160",
+    "scraped_at": "2026-03-04T05:28:44.497772"
+  },
+  {
+    "title": "Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02175",
+    "scraped_at": "2026-03-04T05:28:44.498053"
+  },
+  {
+    "title": "NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02802",
+    "scraped_at": "2026-03-04T05:28:44.498344"
+  },
+  {
+    "title": "PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02479",
+    "scraped_at": "2026-03-04T05:28:44.498625"
+  },
+  {
+    "title": "BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03194",
+    "scraped_at": "2026-03-04T05:28:44.498881"
+  },
+  {
+    "title": "Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02573",
+    "scraped_at": "2026-03-04T05:28:44.499191"
+  },
+  {
+    "title": "APRES: An Agentic Paper Revision and Evaluation System",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03142",
+    "scraped_at": "2026-03-04T05:28:44.499422"
+  },
+  {
+    "title": "HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02684",
+    "scraped_at": "2026-03-04T05:28:44.499705"
+  },
+  {
+    "title": "SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23496",
+    "scraped_at": "2026-03-04T05:28:44.500016"
+  },
+  {
+    "title": "Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03202",
+    "scraped_at": "2026-03-04T05:28:44.500287"
+  },
+  {
+    "title": "DREAM: Where Visual Understanding Meets Text-to-Image Generation",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02667",
+    "scraped_at": "2026-03-04T05:28:44.500559"
+  },
+  {
+    "title": "Fast Matrix Multiplication in Small Formats: Discovering New Schemes with an Open-Source Flip Graph Framework",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02398",
+    "scraped_at": "2026-03-04T05:28:44.500825"
+  },
+  {
+    "title": "Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.01400",
+    "scraped_at": "2026-03-04T05:28:44.501109"
+  },
+  {
+    "title": "AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.17100",
+    "scraped_at": "2026-03-04T05:28:44.501343"
+  }
+]
