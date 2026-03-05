@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Helios: Real Real-Time Long Video Generation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04379",
+    "scraped_at": "2026-03-05T05:31:07.258829"
+  },
+  {
+    "title": "T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03790",
+    "scraped_at": "2026-03-05T05:31:07.259205"
+  },
+  {
+    "title": "Heterogeneous Agent Collaborative Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02604",
+    "scraped_at": "2026-03-05T05:31:07.259483"
+  },
+  {
+    "title": "Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04257",
+    "scraped_at": "2026-03-05T05:31:07.259762"
+  },
+  {
+    "title": "CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04291",
+    "scraped_at": "2026-03-05T05:31:07.260046"
+  },
+  {
+    "title": "Phi-4-reasoning-vision-15B Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03975",
+    "scraped_at": "2026-03-05T05:31:07.260296"
+  },
+  {
+    "title": "Proact-VL: A Proactive VideoLLM for Real-Time AI Companions",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03447",
+    "scraped_at": "2026-03-05T05:31:07.260566"
+  },
+  {
+    "title": "ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04338",
+    "scraped_at": "2026-03-05T05:31:07.260857"
+  },
+  {
+    "title": "MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03379",
+    "scraped_at": "2026-03-05T05:31:07.261165"
+  },
+  {
+    "title": "MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02482",
+    "scraped_at": "2026-03-05T05:31:07.261436"
+  },
+  {
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03823",
+    "scraped_at": "2026-03-05T05:31:07.261706"
+  }
+]
