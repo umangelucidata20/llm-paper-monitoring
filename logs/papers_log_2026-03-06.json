@@ -1,0 +1,100 @@
+[
+  {
+    "title": "MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03756",
+    "scraped_at": "2026-03-06T05:30:20.723041"
+  },
+  {
+    "title": "DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04743",
+    "scraped_at": "2026-03-06T05:30:20.723351"
+  },
+  {
+    "title": "SageBwd: A Trainable Low-bit Attention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02170",
+    "scraped_at": "2026-03-06T05:30:20.723649"
+  },
+  {
+    "title": "HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02210",
+    "scraped_at": "2026-03-06T05:30:20.723932"
+  },
+  {
+    "title": "DreamWorld: Unified World Modeling in Video Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00466",
+    "scraped_at": "2026-03-06T05:30:20.724222"
+  },
+  {
+    "title": "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23166",
+    "scraped_at": "2026-03-06T05:30:20.724496"
+  },
+  {
+    "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05449",
+    "scraped_at": "2026-03-06T05:30:20.724799"
+  },
+  {
+    "title": "Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05484",
+    "scraped_at": "2026-03-06T05:30:20.725058"
+  },
+  {
+    "title": "KARL: Knowledge Agents via Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05218",
+    "scraped_at": "2026-03-06T05:30:20.725287"
+  },
+  {
+    "title": "Locality-Attending Vision Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04892",
+    "scraped_at": "2026-03-06T05:30:20.725538"
+  },
+  {
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05433",
+    "scraped_at": "2026-03-06T05:30:20.725826"
+  },
+  {
+    "title": "Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04791",
+    "scraped_at": "2026-03-06T05:30:20.726060"
+  },
+  {
+    "title": "UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05312",
+    "scraped_at": "2026-03-06T05:30:20.726311"
+  },
+  {
+    "title": "Distribution-Conditioned Transport",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04736",
+    "scraped_at": "2026-03-06T05:30:20.726572"
+  }
+]
