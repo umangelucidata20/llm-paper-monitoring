@@ -1,0 +1,170 @@
+[
+  {
+    "title": "MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03756",
+    "scraped_at": "2026-03-07T05:12:21.492055"
+  },
+  {
+    "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04448",
+    "scraped_at": "2026-03-07T05:12:21.492347"
+  },
+  {
+    "title": "DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04743",
+    "scraped_at": "2026-03-07T05:12:21.492659"
+  },
+  {
+    "title": "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23166",
+    "scraped_at": "2026-03-07T05:12:21.492911"
+  },
+  {
+    "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05504",
+    "scraped_at": "2026-03-07T05:12:21.493147"
+  },
+  {
+    "title": "HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02210",
+    "scraped_at": "2026-03-07T05:12:21.493386"
+  },
+  {
+    "title": "SageBwd: A Trainable Low-bit Attention",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02170",
+    "scraped_at": "2026-03-07T05:12:21.493613"
+  },
+  {
+    "title": "DreamWorld: Unified World Modeling in Video Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00466",
+    "scraped_at": "2026-03-07T05:12:21.493917"
+  },
+  {
+    "title": "Large Multimodal Models as General In-Context Classifiers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23229",
+    "scraped_at": "2026-03-07T05:12:21.494163"
+  },
+  {
+    "title": "Interactive Benchmarks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04737",
+    "scraped_at": "2026-03-07T05:12:21.494388"
+  },
+  {
+    "title": "MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04800",
+    "scraped_at": "2026-03-07T05:12:21.494609"
+  },
+  {
+    "title": "Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04791",
+    "scraped_at": "2026-03-07T05:12:21.494833"
+  },
+  {
+    "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05449",
+    "scraped_at": "2026-03-07T05:12:21.495080"
+  },
+  {
+    "title": "Locality-Attending Vision Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04892",
+    "scraped_at": "2026-03-07T05:12:21.495310"
+  },
+  {
+    "title": "On-Policy Self-Distillation for Reasoning Compression",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05433",
+    "scraped_at": "2026-03-07T05:12:21.495551"
+  },
+  {
+    "title": "KARL: Knowledge Agents via Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05218",
+    "scraped_at": "2026-03-07T05:12:21.495772"
+  },
+  {
+    "title": "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00695",
+    "scraped_at": "2026-03-07T05:12:21.495993"
+  },
+  {
+    "title": "Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05484",
+    "scraped_at": "2026-03-07T05:12:21.496217"
+  },
+  {
+    "title": "UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05312",
+    "scraped_at": "2026-03-07T05:12:21.496459"
+  },
+  {
+    "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03655",
+    "scraped_at": "2026-03-07T05:12:21.496693"
+  },
+  {
+    "title": "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04553",
+    "scraped_at": "2026-03-07T05:12:21.496953"
+  },
+  {
+    "title": "Distribution-Conditioned Transport",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04736",
+    "scraped_at": "2026-03-07T05:12:21.497195"
+  },
+  {
+    "title": "Lightweight Visual Reasoning for Socially-Aware Robots",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03942",
+    "scraped_at": "2026-03-07T05:12:21.497429"
+  },
+  {
+    "title": "Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.23440",
+    "scraped_at": "2026-03-07T05:12:21.497683"
+  }
+]
