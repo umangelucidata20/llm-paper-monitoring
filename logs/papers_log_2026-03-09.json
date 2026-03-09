@@ -1,0 +1,65 @@
+[
+  {
+    "title": "BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04918",
+    "scraped_at": "2026-03-09T05:38:45.531425"
+  },
+  {
+    "title": "Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06569",
+    "scraped_at": "2026-03-09T05:38:45.531799"
+  },
+  {
+    "title": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04639",
+    "scraped_at": "2026-03-09T05:38:45.532158"
+  },
+  {
+    "title": "Reasoning Models Struggle to Control their Chains of Thought",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05706",
+    "scraped_at": "2026-03-09T05:38:45.532436"
+  },
+  {
+    "title": "π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02083",
+    "scraped_at": "2026-03-09T05:38:45.532712"
+  },
+  {
+    "title": "Dynamic Chunking Diffusion Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06351",
+    "scraped_at": "2026-03-09T05:38:45.532954"
+  },
+  {
+    "title": "Physical Simulator In-the-Loop Video Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06408",
+    "scraped_at": "2026-03-09T05:38:45.533276"
+  },
+  {
+    "title": "FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06199",
+    "scraped_at": "2026-03-09T05:38:45.533571"
+  },
+  {
+    "title": "PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05888",
+    "scraped_at": "2026-03-09T05:38:45.533838"
+  }
+]
