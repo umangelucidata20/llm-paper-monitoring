@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Believe Your Model: Distribution-Guided Confidence Calibration",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03872",
+    "scraped_at": "2026-03-10T05:30:38.259498"
+  },
+  {
+    "title": "Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence",
+    "authors": "17 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07660",
+    "scraped_at": "2026-03-10T05:30:38.259876"
+  },
+  {
+    "title": "LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03269",
+    "scraped_at": "2026-03-10T05:30:38.260297"
+  },
+  {
+    "title": "\\$OneMillion-Bench: How Far are Language Agents from Human Experts?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07980",
+    "scraped_at": "2026-03-10T05:30:38.260607"
+  },
+  {
+    "title": "HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08703",
+    "scraped_at": "2026-03-10T05:30:38.260913"
+  },
+  {
+    "title": "CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08589",
+    "scraped_at": "2026-03-10T05:30:38.261254"
+  },
+  {
+    "title": "PureCC: Pure Learning for Text-to-Image Concept Customization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07561",
+    "scraped_at": "2026-03-10T05:30:38.261535"
+  },
+  {
+    "title": "PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08013",
+    "scraped_at": "2026-03-10T05:30:38.261837"
+  },
+  {
+    "title": "From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03825",
+    "scraped_at": "2026-03-10T05:30:38.262132"
+  },
+  {
+    "title": "Agentic Critical Training",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08706",
+    "scraped_at": "2026-03-10T05:30:38.262414"
+  },
+  {
+    "title": "Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06713",
+    "scraped_at": "2026-03-10T05:30:38.262673"
+  },
+  {
+    "title": "Scale Space Diffusion",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08709",
+    "scraped_at": "2026-03-10T05:30:38.262966"
+  },
+  {
+    "title": "FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08708",
+    "scraped_at": "2026-03-10T05:30:38.263247"
+  },
+  {
+    "title": "NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07901",
+    "scraped_at": "2026-03-10T05:30:38.263516"
+  },
+  {
+    "title": "Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02554",
+    "scraped_at": "2026-03-10T05:30:38.263826"
+  },
+  {
+    "title": "Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07475",
+    "scraped_at": "2026-03-10T05:30:38.264106"
+  },
+  {
+    "title": "AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07300",
+    "scraped_at": "2026-03-10T05:30:38.264361"
+  },
+  {
+    "title": "CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06449",
+    "scraped_at": "2026-03-10T05:30:38.264633"
+  },
+  {
+    "title": "Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05581",
+    "scraped_at": "2026-03-10T05:30:38.264915"
+  },
+  {
+    "title": "OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08655",
+    "scraped_at": "2026-03-10T05:30:38.265197"
+  },
+  {
+    "title": "SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05117",
+    "scraped_at": "2026-03-10T05:30:38.265493"
+  },
+  {
+    "title": "Autophoresis of a Janus particle near a planar wall: a lubrication limit",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.00791",
+    "scraped_at": "2026-03-10T05:30:38.265766"
+  }
+]
