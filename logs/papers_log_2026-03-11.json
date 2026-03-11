@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06577",
+    "scraped_at": "2026-03-11T05:31:05.972672"
+  },
+  {
+    "title": "MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09206",
+    "scraped_at": "2026-03-11T05:31:05.972964"
+  },
+  {
+    "title": "Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09095",
+    "scraped_at": "2026-03-11T05:31:05.973216"
+  },
+  {
+    "title": "Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.03143",
+    "scraped_at": "2026-03-11T05:31:05.973467"
+  },
+  {
+    "title": "Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09896",
+    "scraped_at": "2026-03-11T05:31:05.973748"
+  },
+  {
+    "title": "InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing",
+    "authors": "29 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09877",
+    "scraped_at": "2026-03-11T05:31:05.974006"
+  },
+  {
+    "title": "VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07888",
+    "scraped_at": "2026-03-11T05:31:05.974244"
+  },
+  {
+    "title": "Fish Audio S2 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08823",
+    "scraped_at": "2026-03-11T05:31:05.974471"
+  },
+  {
+    "title": "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09652",
+    "scraped_at": "2026-03-11T05:31:05.974734"
+  },
+  {
+    "title": "Streaming Autoregressive Video Generation via Diagonal Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09488",
+    "scraped_at": "2026-03-11T05:31:05.974960"
+  },
+  {
+    "title": "The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09200",
+    "scraped_at": "2026-03-11T05:31:05.975207"
+  },
+  {
+    "title": "SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06333",
+    "scraped_at": "2026-03-11T05:31:05.975446"
+  },
+  {
+    "title": "Towards a Neural Debugger for Python",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09951",
+    "scraped_at": "2026-03-11T05:31:05.975682"
+  },
+  {
+    "title": "A Text-Native Interface for Generative Video Authoring",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09072",
+    "scraped_at": "2026-03-11T05:31:05.975890"
+  }
+]
