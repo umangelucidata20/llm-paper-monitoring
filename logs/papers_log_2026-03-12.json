@@ -1,0 +1,128 @@
+[
+  {
+    "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10165",
+    "scraped_at": "2026-03-12T05:33:23.120626"
+  },
+  {
+    "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09229",
+    "scraped_at": "2026-03-12T05:33:23.120969"
+  },
+  {
+    "title": "MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09827",
+    "scraped_at": "2026-03-12T05:33:23.121281"
+  },
+  {
+    "title": "Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07392",
+    "scraped_at": "2026-03-12T05:33:23.121580"
+  },
+  {
+    "title": "ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10160",
+    "scraped_at": "2026-03-12T05:33:23.121862"
+  },
+  {
+    "title": "RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08561",
+    "scraped_at": "2026-03-12T05:33:23.122139"
+  },
+  {
+    "title": "CodePercept: Code-Grounded Visual STEM Perception for MLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10757",
+    "scraped_at": "2026-03-12T05:33:23.122415"
+  },
+  {
+    "title": "Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.04597",
+    "scraped_at": "2026-03-12T05:33:23.122751"
+  },
+  {
+    "title": "Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10744",
+    "scraped_at": "2026-03-12T05:33:23.123034"
+  },
+  {
+    "title": "Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10705",
+    "scraped_at": "2026-03-12T05:33:23.123331"
+  },
+  {
+    "title": "RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09723",
+    "scraped_at": "2026-03-12T05:33:23.123610"
+  },
+  {
+    "title": "V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11042",
+    "scraped_at": "2026-03-12T05:33:23.123869"
+  },
+  {
+    "title": "V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10848",
+    "scraped_at": "2026-03-12T05:33:23.124106"
+  },
+  {
+    "title": "CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10101",
+    "scraped_at": "2026-03-12T05:33:23.124380"
+  },
+  {
+    "title": "Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10098",
+    "scraped_at": "2026-03-12T05:33:23.124615"
+  },
+  {
+    "title": "EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05757",
+    "scraped_at": "2026-03-12T05:33:23.124886"
+  },
+  {
+    "title": "Any to Full: Prompting Depth Anything for Depth Completion in One Stage",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05711",
+    "scraped_at": "2026-03-12T05:33:23.125181"
+  },
+  {
+    "title": "LLM2Vec-Gen: Generative Embeddings from Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10913",
+    "scraped_at": "2026-03-12T05:33:23.125438"
+  }
+]
