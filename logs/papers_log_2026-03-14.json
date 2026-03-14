@@ -1,0 +1,338 @@
+[
+  {
+    "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12255",
+    "scraped_at": "2026-03-14T05:29:45.060504"
+  },
+  {
+    "title": "Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12180",
+    "scraped_at": "2026-03-14T05:29:45.060859"
+  },
+  {
+    "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12201",
+    "scraped_at": "2026-03-14T05:29:45.061179"
+  },
+  {
+    "title": "Video-Based Reward Modeling for Computer-Use Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10178",
+    "scraped_at": "2026-03-14T05:29:45.061492"
+  },
+  {
+    "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12257",
+    "scraped_at": "2026-03-14T05:29:45.061770"
+  },
+  {
+    "title": "Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12247",
+    "scraped_at": "2026-03-14T05:29:45.062053"
+  },
+  {
+    "title": "DVD: Deterministic Video Depth Estimation with Generative Priors",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12250",
+    "scraped_at": "2026-03-14T05:29:45.062365"
+  },
+  {
+    "title": "ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11421",
+    "scraped_at": "2026-03-14T05:29:45.062666"
+  },
+  {
+    "title": "WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11593",
+    "scraped_at": "2026-03-14T05:29:45.062962"
+  },
+  {
+    "title": "GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12264",
+    "scraped_at": "2026-03-14T05:29:45.063296"
+  },
+  {
+    "title": "One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12245",
+    "scraped_at": "2026-03-14T05:29:45.063590"
+  },
+  {
+    "title": "CREATE: Testing LLMs for Associative Creativity",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09970",
+    "scraped_at": "2026-03-14T05:29:45.063874"
+  },
+  {
+    "title": "EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12267",
+    "scraped_at": "2026-03-14T05:29:45.064147"
+  },
+  {
+    "title": "EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12252",
+    "scraped_at": "2026-03-14T05:29:45.064424"
+  },
+  {
+    "title": "RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09160",
+    "scraped_at": "2026-03-14T05:29:45.064707"
+  },
+  {
+    "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12265",
+    "scraped_at": "2026-03-14T05:29:45.065019"
+  },
+  {
+    "title": "XSkill: Continual Learning from Experience and Skills in Multimodal Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12056",
+    "scraped_at": "2026-03-14T05:29:45.065312"
+  },
+  {
+    "title": "Mobile-GS: Real-time Gaussian Splatting for Mobile Devices",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11531",
+    "scraped_at": "2026-03-14T05:29:45.065613"
+  },
+  {
+    "title": "Are Video Reasoning Models Ready to Go Outside?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10652",
+    "scraped_at": "2026-03-14T05:29:45.065878"
+  },
+  {
+    "title": "Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11103",
+    "scraped_at": "2026-03-14T05:29:45.066123"
+  },
+  {
+    "title": "The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training",
+    "authors": "18 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10444",
+    "scraped_at": "2026-03-14T05:29:45.066400"
+  },
+  {
+    "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12246",
+    "scraped_at": "2026-03-14T05:29:45.066664"
+  },
+  {
+    "title": "Coarse-Guided Visual Generation via Weighted h-Transform Sampling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12057",
+    "scraped_at": "2026-03-14T05:29:45.066921"
+  },
+  {
+    "title": "Meta-Reinforcement Learning with Self-Reflection for Agentic Search",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11327",
+    "scraped_at": "2026-03-14T05:29:45.067166"
+  },
+  {
+    "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11076",
+    "scraped_at": "2026-03-14T05:29:45.067449"
+  },
+  {
+    "title": "Automatic Generation of High-Performance RL Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12145",
+    "scraped_at": "2026-03-14T05:29:45.067725"
+  },
+  {
+    "title": "PACED: Distillation at the Frontier of Student Competence",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11178",
+    "scraped_at": "2026-03-14T05:29:45.068017"
+  },
+  {
+    "title": "Geometric Autoencoder for Diffusion Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10365",
+    "scraped_at": "2026-03-14T05:29:45.068292"
+  },
+  {
+    "title": "Training Language Models via Neural Cellular Automata",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10055",
+    "scraped_at": "2026-03-14T05:29:45.068596"
+  },
+  {
+    "title": "Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11665",
+    "scraped_at": "2026-03-14T05:29:45.068845"
+  },
+  {
+    "title": "Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11653",
+    "scraped_at": "2026-03-14T05:29:45.069121"
+  },
+  {
+    "title": "Tiny Aya: Bridging Scale and Multilingual Depth",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11510",
+    "scraped_at": "2026-03-14T05:29:45.069365"
+  },
+  {
+    "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11045",
+    "scraped_at": "2026-03-14T05:29:45.069629"
+  },
+  {
+    "title": "FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10420",
+    "scraped_at": "2026-03-14T05:29:45.069938"
+  },
+  {
+    "title": "TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07988",
+    "scraped_at": "2026-03-14T05:29:45.070211"
+  },
+  {
+    "title": "SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07865",
+    "scraped_at": "2026-03-14T05:29:45.070465"
+  },
+  {
+    "title": "Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07534",
+    "scraped_at": "2026-03-14T05:29:45.070731"
+  },
+  {
+    "title": "NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06922",
+    "scraped_at": "2026-03-14T05:29:45.070988"
+  },
+  {
+    "title": "SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.05483",
+    "scraped_at": "2026-03-14T05:29:45.071257"
+  },
+  {
+    "title": "EmbTracker: Traceable Black-box Watermarking for Federated Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12089",
+    "scraped_at": "2026-03-14T05:29:45.071518"
+  },
+  {
+    "title": "Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12046",
+    "scraped_at": "2026-03-14T05:29:45.071799"
+  },
+  {
+    "title": "Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11487",
+    "scraped_at": "2026-03-14T05:29:45.072070"
+  },
+  {
+    "title": "A Mixed Diet Makes DINO An Omnivorous Vision Encoder",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.24181",
+    "scraped_at": "2026-03-14T05:29:45.072316"
+  },
+  {
+    "title": "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12228",
+    "scraped_at": "2026-03-14T05:29:45.072595"
+  },
+  {
+    "title": "HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10604",
+    "scraped_at": "2026-03-14T05:29:45.072876"
+  },
+  {
+    "title": "4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10125",
+    "scraped_at": "2026-03-14T05:29:45.073181"
+  },
+  {
+    "title": "WaDi: Weight Direction-aware Distillation for One-step Image Synthesis",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08258",
+    "scraped_at": "2026-03-14T05:29:45.073471"
+  },
+  {
+    "title": "Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07331",
+    "scraped_at": "2026-03-14T05:29:45.073762"
+  }
+]
