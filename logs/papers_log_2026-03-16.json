@@ -1,0 +1,121 @@
+[
+  {
+    "title": "LMEB: Long-horizon Memory Embedding Benchmark",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12572",
+    "scraped_at": "2026-03-16T06:04:32.915322"
+  },
+  {
+    "title": "Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation",
+    "authors": "22 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12793",
+    "scraped_at": "2026-03-16T06:04:32.915677"
+  },
+  {
+    "title": "daVinci-Env: Open SWE Environment Synthesis at Scale",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13023",
+    "scraped_at": "2026-03-16T06:04:32.916005"
+  },
+  {
+    "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13224",
+    "scraped_at": "2026-03-16T06:04:32.916337"
+  },
+  {
+    "title": "V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13089",
+    "scraped_at": "2026-03-16T06:04:32.916629"
+  },
+  {
+    "title": "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11647",
+    "scraped_at": "2026-03-16T06:04:32.916925"
+  },
+  {
+    "title": "HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.07815",
+    "scraped_at": "2026-03-16T06:04:32.917201"
+  },
+  {
+    "title": "From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12648",
+    "scraped_at": "2026-03-16T06:04:32.917478"
+  },
+  {
+    "title": "VQQA: An Agentic Approach for Video Evaluation and Quality Improvement",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12310",
+    "scraped_at": "2026-03-16T06:04:32.917714"
+  },
+  {
+    "title": "MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12266",
+    "scraped_at": "2026-03-16T06:04:32.917984"
+  },
+  {
+    "title": "Can Vision-Language Models Solve the Shell Game?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08436",
+    "scraped_at": "2026-03-16T06:04:32.918271"
+  },
+  {
+    "title": "Multimodal OCR: Parse Anything from Documents",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13032",
+    "scraped_at": "2026-03-16T06:04:32.918550"
+  },
+  {
+    "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10899",
+    "scraped_at": "2026-03-16T06:04:32.918810"
+  },
+  {
+    "title": "SimRecon: SimReady Compositional Scene Reconstruction from Real Videos",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.02133",
+    "scraped_at": "2026-03-16T06:04:32.919132"
+  },
+  {
+    "title": "Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13131",
+    "scraped_at": "2026-03-16T06:04:32.919434"
+  },
+  {
+    "title": "Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12634",
+    "scraped_at": "2026-03-16T06:04:32.919695"
+  },
+  {
+    "title": "Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11382",
+    "scraped_at": "2026-03-16T06:04:32.919954"
+  }
+]
