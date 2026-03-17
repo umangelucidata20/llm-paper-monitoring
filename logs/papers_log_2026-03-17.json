@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Grounding World Simulation Models in a Real-World Metropolis",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15583",
+    "scraped_at": "2026-03-17T05:40:47.209067"
+  },
+  {
+    "title": "AI Can Learn Scientific Taste",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14473",
+    "scraped_at": "2026-03-17T05:40:47.209411"
+  },
+  {
+    "title": "OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15594",
+    "scraped_at": "2026-03-17T05:40:47.209717"
+  },
+  {
+    "title": "Safe and Scalable Web Agent Learning via Recreated Websites",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.10505",
+    "scraped_at": "2026-03-17T05:40:47.209998"
+  },
+  {
+    "title": "ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15478",
+    "scraped_at": "2026-03-17T05:40:47.210278"
+  },
+  {
+    "title": "WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13391",
+    "scraped_at": "2026-03-17T05:40:47.210559"
+  },
+  {
+    "title": "Panoramic Affordance Prediction",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15558",
+    "scraped_at": "2026-03-17T05:40:47.210863"
+  },
+  {
+    "title": "Attention Residuals",
+    "authors": "37 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15031",
+    "scraped_at": "2026-03-17T05:40:47.211146"
+  },
+  {
+    "title": "MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14145",
+    "scraped_at": "2026-03-17T05:40:47.211432"
+  },
+  {
+    "title": "FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12146",
+    "scraped_at": "2026-03-17T05:40:47.211730"
+  },
+  {
+    "title": "HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15612",
+    "scraped_at": "2026-03-17T05:40:47.212018"
+  },
+  {
+    "title": "TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12529",
+    "scraped_at": "2026-03-17T05:40:47.212290"
+  },
+  {
+    "title": "FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13364",
+    "scraped_at": "2026-03-17T05:40:47.212585"
+  },
+  {
+    "title": "Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15611",
+    "scraped_at": "2026-03-17T05:40:47.212871"
+  },
+  {
+    "title": "MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12743",
+    "scraped_at": "2026-03-17T05:40:47.213173"
+  },
+  {
+    "title": "Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14313",
+    "scraped_at": "2026-03-17T05:40:47.213481"
+  },
+  {
+    "title": "EvoClaw: Evaluating AI Agents on Continuous Software Evolution",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13428",
+    "scraped_at": "2026-03-17T05:40:47.213749"
+  }
+]
