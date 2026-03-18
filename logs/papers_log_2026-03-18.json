@@ -1,0 +1,184 @@
+[
+  {
+    "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16790",
+    "scraped_at": "2026-03-18T05:45:06.833726"
+  },
+  {
+    "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15726",
+    "scraped_at": "2026-03-18T05:45:06.834065"
+  },
+  {
+    "title": "Demystifing Video Reasoning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16870",
+    "scraped_at": "2026-03-18T05:45:06.834392"
+  },
+  {
+    "title": "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16871",
+    "scraped_at": "2026-03-18T05:45:06.834671"
+  },
+  {
+    "title": "Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13366",
+    "scraped_at": "2026-03-18T05:45:06.834992"
+  },
+  {
+    "title": "TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16448",
+    "scraped_at": "2026-03-18T05:45:06.835264"
+  },
+  {
+    "title": "Online Experiential Learning for Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16856",
+    "scraped_at": "2026-03-18T05:45:06.835534"
+  },
+  {
+    "title": "FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.08262",
+    "scraped_at": "2026-03-18T05:45:06.835828"
+  },
+  {
+    "title": "AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14465",
+    "scraped_at": "2026-03-18T05:45:06.836183"
+  },
+  {
+    "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16859",
+    "scraped_at": "2026-03-18T05:45:06.836492"
+  },
+  {
+    "title": "SegviGen: Repurposing 3D Generative Model for Part Segmentation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16869",
+    "scraped_at": "2026-03-18T05:45:06.836761"
+  },
+  {
+    "title": "M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16844",
+    "scraped_at": "2026-03-18T05:45:06.837055"
+  },
+  {
+    "title": "Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16189",
+    "scraped_at": "2026-03-18T05:45:06.837328"
+  },
+  {
+    "title": "One-Eval: An Agentic System for Automated and Traceable LLM Evaluation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09821",
+    "scraped_at": "2026-03-18T05:45:06.837604"
+  },
+  {
+    "title": "Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15929",
+    "scraped_at": "2026-03-18T05:45:06.837877"
+  },
+  {
+    "title": "SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14152",
+    "scraped_at": "2026-03-18T05:45:06.838211"
+  },
+  {
+    "title": "From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15600",
+    "scraped_at": "2026-03-18T05:45:06.838473"
+  },
+  {
+    "title": "Efficient Reasoning on the Edge",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16867",
+    "scraped_at": "2026-03-18T05:45:06.838724"
+  },
+  {
+    "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15653",
+    "scraped_at": "2026-03-18T05:45:06.838998"
+  },
+  {
+    "title": "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16861",
+    "scraped_at": "2026-03-18T05:45:06.839255"
+  },
+  {
+    "title": "Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16343",
+    "scraped_at": "2026-03-18T05:45:06.839506"
+  },
+  {
+    "title": "Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16184",
+    "scraped_at": "2026-03-18T05:45:06.839773"
+  },
+  {
+    "title": "FlashSampling: Fast and Memory-Efficient Exact Sampling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15854",
+    "scraped_at": "2026-03-18T05:45:06.840057"
+  },
+  {
+    "title": "CCTU: A Benchmark for Tool Use under Complex Constraints",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15309",
+    "scraped_at": "2026-03-18T05:45:06.840338"
+  },
+  {
+    "title": "OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16099",
+    "scraped_at": "2026-03-18T05:45:06.840623"
+  },
+  {
+    "title": "Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13715",
+    "scraped_at": "2026-03-18T05:45:06.840892"
+  }
+]
