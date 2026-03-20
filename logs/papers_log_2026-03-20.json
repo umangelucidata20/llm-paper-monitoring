@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19235",
+    "scraped_at": "2026-03-20T05:33:34.033762"
+  },
+  {
+    "title": "FASTER: Rethinking Real-Time Flow VLAs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19199",
+    "scraped_at": "2026-03-20T05:33:34.034141"
+  },
+  {
+    "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19228",
+    "scraped_at": "2026-03-20T05:33:34.034479"
+  },
+  {
+    "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19223",
+    "scraped_at": "2026-03-20T05:33:34.034780"
+  },
+  {
+    "title": "Memento-Skills: Let Agents Design Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18743",
+    "scraped_at": "2026-03-20T05:33:34.035120"
+  },
+  {
+    "title": "Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19232",
+    "scraped_at": "2026-03-20T05:33:34.035431"
+  },
+  {
+    "title": "LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19217",
+    "scraped_at": "2026-03-20T05:33:34.035770"
+  },
+  {
+    "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19220",
+    "scraped_at": "2026-03-20T05:33:34.036093"
+  },
+  {
+    "title": "OSM-based Domain Adaptation for Remote Sensing VLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11804",
+    "scraped_at": "2026-03-20T05:33:34.036382"
+  },
+  {
+    "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19227",
+    "scraped_at": "2026-03-20T05:33:34.036681"
+  },
+  {
+    "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18815",
+    "scraped_at": "2026-03-20T05:33:34.036964"
+  },
+  {
+    "title": "VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15030",
+    "scraped_at": "2026-03-20T05:33:34.037303"
+  },
+  {
+    "title": "MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16929",
+    "scraped_at": "2026-03-20T05:33:34.037591"
+  },
+  {
+    "title": "Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18472",
+    "scraped_at": "2026-03-20T05:33:34.037905"
+  },
+  {
+    "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18002",
+    "scraped_at": "2026-03-20T05:33:34.038203"
+  },
+  {
+    "title": "Matryoshka Gaussian Splatting",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19234",
+    "scraped_at": "2026-03-20T05:33:34.038523"
+  },
+  {
+    "title": "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18886",
+    "scraped_at": "2026-03-20T05:33:34.038824"
+  },
+  {
+    "title": "COT-FM: Cluster-wise Optimal Transport Flow Matching",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13395",
+    "scraped_at": "2026-03-20T05:33:34.039154"
+  }
+]
