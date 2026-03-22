@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19235",
+    "scraped_at": "2026-03-22T05:36:21.410782"
+  },
+  {
+    "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19228",
+    "scraped_at": "2026-03-22T05:36:21.411191"
+  },
+  {
+    "title": "FASTER: Rethinking Real-Time Flow VLAs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19199",
+    "scraped_at": "2026-03-22T05:36:21.411551"
+  },
+  {
+    "title": "3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18524",
+    "scraped_at": "2026-03-22T05:36:21.411896"
+  },
+  {
+    "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19220",
+    "scraped_at": "2026-03-22T05:36:21.412200"
+  },
+  {
+    "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19227",
+    "scraped_at": "2026-03-22T05:36:21.412522"
+  },
+  {
+    "title": "Memento-Skills: Let Agents Design Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18743",
+    "scraped_at": "2026-03-22T05:36:21.412861"
+  },
+  {
+    "title": "Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19232",
+    "scraped_at": "2026-03-22T05:36:21.413190"
+  },
+  {
+    "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19231",
+    "scraped_at": "2026-03-22T05:36:21.413506"
+  },
+  {
+    "title": "LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19217",
+    "scraped_at": "2026-03-22T05:36:21.413888"
+  },
+  {
+    "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19223",
+    "scraped_at": "2026-03-22T05:36:21.414187"
+  },
+  {
+    "title": "ReactMotion: Generating Reactive Listener Motions from Speaker Utterance",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15083",
+    "scraped_at": "2026-03-22T05:36:21.414540"
+  },
+  {
+    "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
+    "authors": "28 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18429",
+    "scraped_at": "2026-03-22T05:36:21.414950"
+  },
+  {
+    "title": "Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18472",
+    "scraped_at": "2026-03-22T05:36:21.415284"
+  },
+  {
+    "title": "EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19224",
+    "scraped_at": "2026-03-22T05:36:21.415605"
+  },
+  {
+    "title": "VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.15030",
+    "scraped_at": "2026-03-22T05:36:21.415983"
+  },
+  {
+    "title": "Tinted Frames: Question Framing Blinds Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19203",
+    "scraped_at": "2026-03-22T05:36:21.416296"
+  },
+  {
+    "title": "SimulU: Training-free Policy for Long-form Simultaneous Speech-to-Speech Translation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16924",
+    "scraped_at": "2026-03-22T05:36:21.416603"
+  },
+  {
+    "title": "MOSS-TTS Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18090",
+    "scraped_at": "2026-03-22T05:36:21.416933"
+  },
+  {
+    "title": "Matryoshka Gaussian Splatting",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19234",
+    "scraped_at": "2026-03-22T05:36:21.417286"
+  },
+  {
+    "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18815",
+    "scraped_at": "2026-03-22T05:36:21.417597"
+  },
+  {
+    "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18002",
+    "scraped_at": "2026-03-22T05:36:21.417917"
+  },
+  {
+    "title": "MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16929",
+    "scraped_at": "2026-03-22T05:36:21.418208"
+  },
+  {
+    "title": "OSM-based Domain Adaptation for Remote Sensing VLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.11804",
+    "scraped_at": "2026-03-22T05:36:21.418496"
+  },
+  {
+    "title": "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18886",
+    "scraped_at": "2026-03-22T05:36:21.418847"
+  },
+  {
+    "title": "Prompt-Free Universal Region Proposal Network",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.17554",
+    "scraped_at": "2026-03-22T05:36:21.419200"
+  },
+  {
+    "title": "What Really Controls Temporal Reasoning in Large Language Models: Tokenisation or Representation of Time?",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19017",
+    "scraped_at": "2026-03-22T05:36:21.419548"
+  },
+  {
+    "title": "PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14456",
+    "scraped_at": "2026-03-22T05:36:21.419919"
+  },
+  {
+    "title": "VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13964",
+    "scraped_at": "2026-03-22T05:36:21.420281"
+  },
+  {
+    "title": "Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13045",
+    "scraped_at": "2026-03-22T05:36:21.420634"
+  },
+  {
+    "title": "COT-FM: Cluster-wise Optimal Transport Flow Matching",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13395",
+    "scraped_at": "2026-03-22T05:36:21.420977"
+  },
+  {
+    "title": "DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19216",
+    "scraped_at": "2026-03-22T05:36:21.421265"
+  }
+]
