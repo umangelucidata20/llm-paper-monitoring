@@ -1,0 +1,100 @@
+[
+  {
+    "title": "HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.17024",
+    "scraped_at": "2026-03-23T05:53:39.231328"
+  },
+  {
+    "title": "Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.17051",
+    "scraped_at": "2026-03-23T05:53:39.231729"
+  },
+  {
+    "title": "LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.20192",
+    "scraped_at": "2026-03-23T05:53:39.232056"
+  },
+  {
+    "title": "How Well Does Generative Recommendation Generalize?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19809",
+    "scraped_at": "2026-03-23T05:53:39.232380"
+  },
+  {
+    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19685",
+    "scraped_at": "2026-03-23T05:53:39.232687"
+  },
+  {
+    "title": "WorldAgents: Can Foundation Image Models be Agents for 3D World Models?",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19708",
+    "scraped_at": "2026-03-23T05:53:39.232993"
+  },
+  {
+    "title": "BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19635",
+    "scraped_at": "2026-03-23T05:53:39.233304"
+  },
+  {
+    "title": "Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.20155",
+    "scraped_at": "2026-03-23T05:53:39.233593"
+  },
+  {
+    "title": "Hyperagents",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19461",
+    "scraped_at": "2026-03-23T05:53:39.233924"
+  },
+  {
+    "title": "EgoForge: Goal-Directed Egocentric World Simulator",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.20169",
+    "scraped_at": "2026-03-23T05:53:39.234202"
+  },
+  {
+    "title": "FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19598",
+    "scraped_at": "2026-03-23T05:53:39.234515"
+  },
+  {
+    "title": "AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19005",
+    "scraped_at": "2026-03-23T05:53:39.234878"
+  },
+  {
+    "title": "Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.17512",
+    "scraped_at": "2026-03-23T05:53:39.235198"
+  },
+  {
+    "title": "Teaching an Agent to Sketch One Part at a Time",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19500",
+    "scraped_at": "2026-03-23T05:53:39.235497"
+  }
+]
