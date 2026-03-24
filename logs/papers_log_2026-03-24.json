@@ -1,0 +1,135 @@
+[
+  {
+    "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21065",
+    "scraped_at": "2026-03-24T05:41:37.001282"
+  },
+  {
+    "title": "VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22285",
+    "scraped_at": "2026-03-24T05:41:37.001659"
+  },
+  {
+    "title": "Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model",
+    "authors": "45 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21986",
+    "scraped_at": "2026-03-24T05:41:37.002036"
+  },
+  {
+    "title": "mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21606",
+    "scraped_at": "2026-03-24T05:41:37.002499"
+  },
+  {
+    "title": "Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21944",
+    "scraped_at": "2026-03-24T05:41:37.002833"
+  },
+  {
+    "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22276",
+    "scraped_at": "2026-03-24T05:41:37.003197"
+  },
+  {
+    "title": "On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22117",
+    "scraped_at": "2026-03-24T05:41:37.003506"
+  },
+  {
+    "title": "PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21383",
+    "scraped_at": "2026-03-24T05:41:37.003792"
+  },
+  {
+    "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22286",
+    "scraped_at": "2026-03-24T05:41:37.004143"
+  },
+  {
+    "title": "Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18795",
+    "scraped_at": "2026-03-24T05:41:37.004439"
+  },
+  {
+    "title": "MemDLM: Memory-Enhanced DLM Training",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22241",
+    "scraped_at": "2026-03-24T05:41:37.004788"
+  },
+  {
+    "title": "AnimalCLAP: Taxonomy-Aware Language-Audio Pretraining for Species Recognition and Trait Inference",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22053",
+    "scraped_at": "2026-03-24T05:41:37.005147"
+  },
+  {
+    "title": "Agentic AI and the next intelligence explosion",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.20639",
+    "scraped_at": "2026-03-24T05:41:37.005455"
+  },
+  {
+    "title": "Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18118",
+    "scraped_at": "2026-03-24T05:41:37.005737"
+  },
+  {
+    "title": "Effective Strategies for Asynchronous Software Engineering Agents",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21489",
+    "scraped_at": "2026-03-24T05:41:37.006044"
+  },
+  {
+    "title": "Understanding Behavior Cloning with Action Quantization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.20538",
+    "scraped_at": "2026-03-24T05:41:37.006347"
+  },
+  {
+    "title": "In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19456",
+    "scraped_at": "2026-03-24T05:41:37.006629"
+  },
+  {
+    "title": "Semantic Audio-Visual Navigation in Continuous Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.19660",
+    "scraped_at": "2026-03-24T05:41:37.006933"
+  },
+  {
+    "title": "ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.09290",
+    "scraped_at": "2026-03-24T05:41:37.007273"
+  }
+]
