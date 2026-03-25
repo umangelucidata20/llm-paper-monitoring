@@ -1,0 +1,142 @@
+[
+  {
+    "title": "MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22458",
+    "scraped_at": "2026-03-25T05:42:27.293485"
+  },
+  {
+    "title": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23497",
+    "scraped_at": "2026-03-25T05:42:27.293917"
+  },
+  {
+    "title": "PEARL: Personalized Streaming Video Understanding Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.20422",
+    "scraped_at": "2026-03-25T05:42:27.294313"
+  },
+  {
+    "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22386",
+    "scraped_at": "2026-03-25T05:42:27.294655"
+  },
+  {
+    "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23386",
+    "scraped_at": "2026-03-25T05:42:27.295006"
+  },
+  {
+    "title": "SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23483",
+    "scraped_at": "2026-03-25T05:42:27.295386"
+  },
+  {
+    "title": "Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22847",
+    "scraped_at": "2026-03-25T05:42:27.295759"
+  },
+  {
+    "title": "UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23500",
+    "scraped_at": "2026-03-25T05:42:27.296092"
+  },
+  {
+    "title": "Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.12254",
+    "scraped_at": "2026-03-25T05:42:27.296445"
+  },
+  {
+    "title": "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22281",
+    "scraped_at": "2026-03-25T05:42:27.296748"
+  },
+  {
+    "title": "RealMaster: Lifting Rendered Scenes into Photorealistic Video",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23462",
+    "scraped_at": "2026-03-25T05:42:27.297099"
+  },
+  {
+    "title": "MultiBind: A Benchmark for Attribute Misbinding in Multi-Subject Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21937",
+    "scraped_at": "2026-03-25T05:42:27.297439"
+  },
+  {
+    "title": "TrajLoom: Dense Future Trajectory Generation from Video",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22606",
+    "scraped_at": "2026-03-25T05:42:27.297794"
+  },
+  {
+    "title": "Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22529",
+    "scraped_at": "2026-03-25T05:42:27.298170"
+  },
+  {
+    "title": "Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22446",
+    "scraped_at": "2026-03-25T05:42:27.298459"
+  },
+  {
+    "title": "Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22042",
+    "scraped_at": "2026-03-25T05:42:27.298778"
+  },
+  {
+    "title": "AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22327",
+    "scraped_at": "2026-03-25T05:42:27.299148"
+  },
+  {
+    "title": "ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23376",
+    "scraped_at": "2026-03-25T05:42:27.299494"
+  },
+  {
+    "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23481",
+    "scraped_at": "2026-03-25T05:42:27.299793"
+  },
+  {
+    "title": "Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21854",
+    "scraped_at": "2026-03-25T05:42:27.300150"
+  }
+]
