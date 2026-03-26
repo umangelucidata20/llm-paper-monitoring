@@ -1,0 +1,100 @@
+[
+  {
+    "title": "T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22341",
+    "scraped_at": "2026-03-26T05:55:33.847888"
+  },
+  {
+    "title": "GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24329",
+    "scraped_at": "2026-03-26T05:55:33.848351"
+  },
+  {
+    "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24472",
+    "scraped_at": "2026-03-26T05:55:33.848700"
+  },
+  {
+    "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22918",
+    "scraped_at": "2026-03-26T05:55:33.849179"
+  },
+  {
+    "title": "4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21618",
+    "scraped_at": "2026-03-26T05:55:33.849477"
+  },
+  {
+    "title": "When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21289",
+    "scraped_at": "2026-03-26T05:55:33.849799"
+  },
+  {
+    "title": "CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24157",
+    "scraped_at": "2026-03-26T05:55:33.850149"
+  },
+  {
+    "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23638",
+    "scraped_at": "2026-03-26T05:55:33.850439"
+  },
+  {
+    "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24533",
+    "scraped_at": "2026-03-26T05:55:33.850758"
+  },
+  {
+    "title": "Toward Physically Consistent Driving Video World Models under Challenging Trajectories",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24506",
+    "scraped_at": "2026-03-26T05:55:33.851094"
+  },
+  {
+    "title": "OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24458",
+    "scraped_at": "2026-03-26T05:55:33.851412"
+  },
+  {
+    "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24440",
+    "scraped_at": "2026-03-26T05:55:33.851710"
+  },
+  {
+    "title": "UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23478",
+    "scraped_at": "2026-03-26T05:55:33.852032"
+  },
+  {
+    "title": "PLDR-LLMs Reason At Self-Organized Criticality",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23539",
+    "scraped_at": "2026-03-26T05:55:33.852334"
+  }
+]
