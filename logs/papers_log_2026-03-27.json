@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale",
+    "authors": "174 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25040",
+    "scraped_at": "2026-03-27T05:55:43.148327"
+  },
+  {
+    "title": "MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25319",
+    "scraped_at": "2026-03-27T05:55:43.148693"
+  },
+  {
+    "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24755",
+    "scraped_at": "2026-03-27T05:55:43.149085"
+  },
+  {
+    "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23516",
+    "scraped_at": "2026-03-27T05:55:43.149414"
+  },
+  {
+    "title": "PixelSmile: Toward Fine-Grained Facial Expression Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25728",
+    "scraped_at": "2026-03-27T05:55:43.149714"
+  },
+  {
+    "title": "Voxtral TTS",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25551",
+    "scraped_at": "2026-03-27T05:55:43.150056"
+  },
+  {
+    "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25744",
+    "scraped_at": "2026-03-27T05:55:43.150376"
+  },
+  {
+    "title": "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23883",
+    "scraped_at": "2026-03-27T05:55:43.150717"
+  },
+  {
+    "title": "Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25745",
+    "scraped_at": "2026-03-27T05:55:43.151032"
+  },
+  {
+    "title": "RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25502",
+    "scraped_at": "2026-03-27T05:55:43.151325"
+  },
+  {
+    "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24943",
+    "scraped_at": "2026-03-27T05:55:43.151616"
+  },
+  {
+    "title": "Vega: Learning to Drive with Natural Language Instructions",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25741",
+    "scraped_at": "2026-03-27T05:55:43.151964"
+  },
+  {
+    "title": "Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21768",
+    "scraped_at": "2026-03-27T05:55:43.152330"
+  }
+]
