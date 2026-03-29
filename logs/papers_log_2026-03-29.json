@@ -1,0 +1,205 @@
+[
+  {
+    "title": "PixelSmile: Toward Fine-Grained Facial Expression Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25728",
+    "scraped_at": "2026-03-29T05:56:24.767605"
+  },
+  {
+    "title": "Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25040",
+    "scraped_at": "2026-03-29T05:56:24.767979"
+  },
+  {
+    "title": "Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24800",
+    "scraped_at": "2026-03-29T05:56:24.768448"
+  },
+  {
+    "title": "RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25502",
+    "scraped_at": "2026-03-29T05:56:24.768793"
+  },
+  {
+    "title": "Voxtral TTS",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25551",
+    "scraped_at": "2026-03-29T05:56:24.769095"
+  },
+  {
+    "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23516",
+    "scraped_at": "2026-03-29T05:56:24.769477"
+  },
+  {
+    "title": "MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25319",
+    "scraped_at": "2026-03-29T05:56:24.769787"
+  },
+  {
+    "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24755",
+    "scraped_at": "2026-03-29T05:56:24.770110"
+  },
+  {
+    "title": "AVControl: Efficient Framework for Training Audio-Visual Controls",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24793",
+    "scraped_at": "2026-03-29T05:56:24.770409"
+  },
+  {
+    "title": "VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24575",
+    "scraped_at": "2026-03-29T05:56:24.770736"
+  },
+  {
+    "title": "Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25745",
+    "scraped_at": "2026-03-29T05:56:24.771023"
+  },
+  {
+    "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25744",
+    "scraped_at": "2026-03-29T05:56:24.771405"
+  },
+  {
+    "title": "Representation Alignment for Just Image Transformers is not Easier than You Think",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14366",
+    "scraped_at": "2026-03-29T05:56:24.771712"
+  },
+  {
+    "title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.18718",
+    "scraped_at": "2026-03-29T05:56:24.772052"
+  },
+  {
+    "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24943",
+    "scraped_at": "2026-03-29T05:56:24.772408"
+  },
+  {
+    "title": "AVO: Agentic Variation Operators for Autonomous Evolutionary Search",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24517",
+    "scraped_at": "2026-03-29T05:56:24.772740"
+  },
+  {
+    "title": "Vega: Learning to Drive with Natural Language Instructions",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25741",
+    "scraped_at": "2026-03-29T05:56:24.773062"
+  },
+  {
+    "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25702",
+    "scraped_at": "2026-03-29T05:56:24.773427"
+  },
+  {
+    "title": "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25562",
+    "scraped_at": "2026-03-29T05:56:24.773746"
+  },
+  {
+    "title": "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.23883",
+    "scraped_at": "2026-03-29T05:56:24.774070"
+  },
+  {
+    "title": "Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.13904",
+    "scraped_at": "2026-03-29T05:56:24.774450"
+  },
+  {
+    "title": "Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25718",
+    "scraped_at": "2026-03-29T05:56:24.774795"
+  },
+  {
+    "title": "PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25398",
+    "scraped_at": "2026-03-29T05:56:24.775106"
+  },
+  {
+    "title": "Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24961",
+    "scraped_at": "2026-03-29T05:56:24.775473"
+  },
+  {
+    "title": "Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24844",
+    "scraped_at": "2026-03-29T05:56:24.775776"
+  },
+  {
+    "title": "WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24836",
+    "scraped_at": "2026-03-29T05:56:24.776075"
+  },
+  {
+    "title": "Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.14636",
+    "scraped_at": "2026-03-29T05:56:24.776431"
+  },
+  {
+    "title": "Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.21768",
+    "scraped_at": "2026-03-29T05:56:24.776787"
+  },
+  {
+    "title": "IQuest-Coder-V1 Technical Report",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.16733",
+    "scraped_at": "2026-03-29T05:56:24.777064"
+  }
+]
