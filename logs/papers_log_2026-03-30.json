@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25716",
+    "scraped_at": "2026-03-30T06:14:45.283718"
+  },
+  {
+    "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25746",
+    "scraped_at": "2026-03-30T06:14:45.284215"
+  },
+  {
+    "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25730",
+    "scraped_at": "2026-03-30T06:14:45.284553"
+  },
+  {
+    "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25158",
+    "scraped_at": "2026-03-30T06:14:45.284893"
+  },
+  {
+    "title": "Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.22782",
+    "scraped_at": "2026-03-30T06:14:45.285231"
+  },
+  {
+    "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25750",
+    "scraped_at": "2026-03-30T06:14:45.285527"
+  }
+]
