@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Towards a Medical AI Scientist",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28589",
+    "scraped_at": "2026-03-31T06:00:10.382058"
+  },
+  {
+    "title": "Emergent Social Intelligence Risks in Generative Multi-Agent Systems",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27771",
+    "scraped_at": "2026-03-31T06:00:10.382482"
+  },
+  {
+    "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28767",
+    "scraped_at": "2026-03-31T06:00:10.382844"
+  },
+  {
+    "title": "On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27481",
+    "scraped_at": "2026-03-31T06:00:10.383178"
+  },
+  {
+    "title": "GEditBench v2: A Human-Aligned Benchmark for General Image Editing",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28547",
+    "scraped_at": "2026-03-31T06:00:10.383563"
+  },
+  {
+    "title": "Make Geometry Matter for Spatial Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26639",
+    "scraped_at": "2026-03-31T06:00:10.383878"
+  },
+  {
+    "title": "Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28342",
+    "scraped_at": "2026-03-31T06:00:10.384180"
+  },
+  {
+    "title": "PRBench: End-to-end Paper Reproduction in Physics Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27646",
+    "scraped_at": "2026-03-31T06:00:10.384534"
+  },
+  {
+    "title": "ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28610",
+    "scraped_at": "2026-03-31T06:00:10.384876"
+  },
+  {
+    "title": "Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28376",
+    "scraped_at": "2026-03-31T06:00:10.385200"
+  },
+  {
+    "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27862",
+    "scraped_at": "2026-03-31T06:00:10.385526"
+  },
+  {
+    "title": "MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27813",
+    "scraped_at": "2026-03-31T06:00:10.385845"
+  },
+  {
+    "title": "DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28713",
+    "scraped_at": "2026-03-31T06:00:10.386110"
+  },
+  {
+    "title": "Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25926",
+    "scraped_at": "2026-03-31T06:00:10.386446"
+  },
+  {
+    "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27065",
+    "scraped_at": "2026-03-31T06:00:10.386728"
+  },
+  {
+    "title": "Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26610",
+    "scraped_at": "2026-03-31T06:00:10.387027"
+  },
+  {
+    "title": "Superintelligence and Law",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28669",
+    "scraped_at": "2026-03-31T06:00:10.387324"
+  },
+  {
+    "title": "HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28458",
+    "scraped_at": "2026-03-31T06:00:10.387647"
+  },
+  {
+    "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28069",
+    "scraped_at": "2026-03-31T06:00:10.387948"
+  },
+  {
+    "title": "MOOZY: A Patient-First Foundation Model for Computational Pathology",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27048",
+    "scraped_at": "2026-03-31T06:00:10.388241"
+  }
+]
