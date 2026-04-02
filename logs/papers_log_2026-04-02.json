@@ -1,0 +1,128 @@
+[
+  {
+    "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28407",
+    "scraped_at": "2026-04-02T05:55:40.338645"
+  },
+  {
+    "title": "Terminal Agents Suffice for Enterprise Automation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00073",
+    "scraped_at": "2026-04-02T05:55:40.338948"
+  },
+  {
+    "title": "QuitoBench: A High-Quality Open Time Series Forecasting Benchmark",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26017",
+    "scraped_at": "2026-04-02T05:55:40.339264"
+  },
+  {
+    "title": "ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25823",
+    "scraped_at": "2026-04-02T05:55:40.339539"
+  },
+  {
+    "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26648",
+    "scraped_at": "2026-04-02T05:55:40.339817"
+  },
+  {
+    "title": "Universal YOCO for Efficient Depth Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01220",
+    "scraped_at": "2026-04-02T05:55:40.340062"
+  },
+  {
+    "title": "PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26653",
+    "scraped_at": "2026-04-02T05:55:40.340349"
+  },
+  {
+    "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01221",
+    "scraped_at": "2026-04-02T05:55:40.340647"
+  },
+  {
+    "title": "GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26661",
+    "scraped_at": "2026-04-02T05:55:40.340895"
+  },
+  {
+    "title": "Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01128",
+    "scraped_at": "2026-04-02T05:55:40.341172"
+  },
+  {
+    "title": "Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00528",
+    "scraped_at": "2026-04-02T05:55:40.341453"
+  },
+  {
+    "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25406",
+    "scraped_at": "2026-04-02T05:55:40.341718"
+  },
+  {
+    "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01193",
+    "scraped_at": "2026-04-02T05:55:40.341991"
+  },
+  {
+    "title": "Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01029",
+    "scraped_at": "2026-04-02T05:55:40.342230"
+  },
+  {
+    "title": "Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00913",
+    "scraped_at": "2026-04-02T05:55:40.342507"
+  },
+  {
+    "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00842",
+    "scraped_at": "2026-04-02T05:55:40.342784"
+  },
+  {
+    "title": "Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.29002",
+    "scraped_at": "2026-04-02T05:55:40.343052"
+  },
+  {
+    "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00590",
+    "scraped_at": "2026-04-02T05:55:40.343291"
+  }
+]
