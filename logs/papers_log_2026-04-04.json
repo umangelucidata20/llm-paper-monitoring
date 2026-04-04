@@ -1,0 +1,317 @@
+[
+  {
+    "title": "DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26164",
+    "scraped_at": "2026-04-04T05:38:58.430810"
+  },
+  {
+    "title": "The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook",
+    "authors": "37 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02029",
+    "scraped_at": "2026-04-04T05:38:58.431238"
+  },
+  {
+    "title": "Generative World Renderer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02329",
+    "scraped_at": "2026-04-04T05:38:58.431607"
+  },
+  {
+    "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02268",
+    "scraped_at": "2026-04-04T05:38:58.431974"
+  },
+  {
+    "title": "Steerable Visual Representations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02327",
+    "scraped_at": "2026-04-04T05:38:58.432309"
+  },
+  {
+    "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01001",
+    "scraped_at": "2026-04-04T05:38:58.432668"
+  },
+  {
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01658",
+    "scraped_at": "2026-04-04T05:38:58.432970"
+  },
+  {
+    "title": "LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02097",
+    "scraped_at": "2026-04-04T05:38:58.433348"
+  },
+  {
+    "title": "NearID: Identity Representation Learning via Near-identity Distractors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01973",
+    "scraped_at": "2026-04-04T05:38:58.433637"
+  },
+  {
+    "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01007",
+    "scraped_at": "2026-04-04T05:38:58.433918"
+  },
+  {
+    "title": "VOID: Video Object and Interaction Deletion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02296",
+    "scraped_at": "2026-04-04T05:38:58.434221"
+  },
+  {
+    "title": "Therefore I am. I Think",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01202",
+    "scraped_at": "2026-04-04T05:38:58.434544"
+  },
+  {
+    "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02190",
+    "scraped_at": "2026-04-04T05:38:58.434844"
+  },
+  {
+    "title": "Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00917",
+    "scraped_at": "2026-04-04T05:38:58.435130"
+  },
+  {
+    "title": "ASI-Evolve: AI Accelerates AI",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.29640",
+    "scraped_at": "2026-04-04T05:38:58.435452"
+  },
+  {
+    "title": "GPA: Learning GUI Process Automation from Demonstrations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01676",
+    "scraped_at": "2026-04-04T05:38:58.435740"
+  },
+  {
+    "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01618",
+    "scraped_at": "2026-04-04T05:38:58.436042"
+  },
+  {
+    "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.30043",
+    "scraped_at": "2026-04-04T05:38:58.436339"
+  },
+  {
+    "title": "AIBench: Evaluating Visual-Logical Consistency in Academic Illustration Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28068",
+    "scraped_at": "2026-04-04T05:38:58.436634"
+  },
+  {
+    "title": "VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01569",
+    "scraped_at": "2026-04-04T05:38:58.436927"
+  },
+  {
+    "title": "AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01014",
+    "scraped_at": "2026-04-04T05:38:58.437269"
+  },
+  {
+    "title": "MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.28130",
+    "scraped_at": "2026-04-04T05:38:58.437603"
+  },
+  {
+    "title": "LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00829",
+    "scraped_at": "2026-04-04T05:38:58.437888"
+  },
+  {
+    "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01298",
+    "scraped_at": "2026-04-04T05:38:58.438161"
+  },
+  {
+    "title": "Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02289",
+    "scraped_at": "2026-04-04T05:38:58.438496"
+  },
+  {
+    "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01666",
+    "scraped_at": "2026-04-04T05:38:58.438756"
+  },
+  {
+    "title": "T5Gemma-TTS Technical Report",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01760",
+    "scraped_at": "2026-04-04T05:38:58.439085"
+  },
+  {
+    "title": "Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02007",
+    "scraped_at": "2026-04-04T05:38:58.439382"
+  },
+  {
+    "title": "FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02088",
+    "scraped_at": "2026-04-04T05:38:58.439687"
+  },
+  {
+    "title": "Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01328",
+    "scraped_at": "2026-04-04T05:38:58.439998"
+  },
+  {
+    "title": "Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27666",
+    "scraped_at": "2026-04-04T05:38:58.440375"
+  },
+  {
+    "title": "Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26259",
+    "scraped_at": "2026-04-04T05:38:58.440655"
+  },
+  {
+    "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02330",
+    "scraped_at": "2026-04-04T05:38:58.440966"
+  },
+  {
+    "title": "Woosh: A Sound Effects Foundation Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01929",
+    "scraped_at": "2026-04-04T05:38:58.441264"
+  },
+  {
+    "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00491",
+    "scraped_at": "2026-04-04T05:38:58.441542"
+  },
+  {
+    "title": "UniRecGen: Unifying Multi-View 3D Reconstruction and Generation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01479",
+    "scraped_at": "2026-04-04T05:38:58.441894"
+  },
+  {
+    "title": "Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24257",
+    "scraped_at": "2026-04-04T05:38:58.442187"
+  },
+  {
+    "title": "Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26233",
+    "scraped_at": "2026-04-04T05:38:58.442502"
+  },
+  {
+    "title": "Automatic Image-Level Morphological Trait Annotation for Organismal Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01619",
+    "scraped_at": "2026-04-04T05:38:58.442791"
+  },
+  {
+    "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00356",
+    "scraped_at": "2026-04-04T05:38:58.443078"
+  },
+  {
+    "title": "Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01404",
+    "scraped_at": "2026-04-04T05:38:58.443433"
+  },
+  {
+    "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01152",
+    "scraped_at": "2026-04-04T05:38:58.443739"
+  },
+  {
+    "title": "An Empirical Recipe for Universal Phone Recognition",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.29042",
+    "scraped_at": "2026-04-04T05:38:58.444027"
+  },
+  {
+    "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.06679",
+    "scraped_at": "2026-04-04T05:38:58.444358"
+  },
+  {
+    "title": "LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27449",
+    "scraped_at": "2026-04-04T05:38:58.444650"
+  }
+]
