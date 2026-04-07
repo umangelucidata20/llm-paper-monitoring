@@ -1,0 +1,100 @@
+[
+  {
+    "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04771",
+    "scraped_at": "2026-04-07T06:04:22.404698"
+  },
+  {
+    "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
+    "authors": "41 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04707",
+    "scraped_at": "2026-04-07T06:04:22.405114"
+  },
+  {
+    "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04921",
+    "scraped_at": "2026-04-07T06:04:22.405449"
+  },
+  {
+    "title": "AURA: Always-On Understanding and Real-Time Assistance via Video Streams",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04184",
+    "scraped_at": "2026-04-07T06:04:22.405803"
+  },
+  {
+    "title": "SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04911",
+    "scraped_at": "2026-04-07T06:04:22.406134"
+  },
+  {
+    "title": "LightThinker++: From Reasoning Compression to Memory Management",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.03679",
+    "scraped_at": "2026-04-07T06:04:22.406407"
+  },
+  {
+    "title": "ClawArena: Benchmarking AI Agents in Evolving Information Environments",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04202",
+    "scraped_at": "2026-04-07T06:04:22.406717"
+  },
+  {
+    "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04804",
+    "scraped_at": "2026-04-07T06:04:22.407059"
+  },
+  {
+    "title": "Vero: An Open RL Recipe for General Visual Reasoning",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04917",
+    "scraped_at": "2026-04-07T06:04:22.407384"
+  },
+  {
+    "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04901",
+    "scraped_at": "2026-04-07T06:04:22.407678"
+  },
+  {
+    "title": "Less Detail, Better Answers: Degradation-Driven Prompting for VQA",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04838",
+    "scraped_at": "2026-04-07T06:04:22.407995"
+  },
+  {
+    "title": "Memory Intelligence Agent",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04503",
+    "scraped_at": "2026-04-07T06:04:22.408320"
+  },
+  {
+    "title": "HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04522",
+    "scraped_at": "2026-04-07T06:04:22.408581"
+  },
+  {
+    "title": "Can LLMs Learn to Reason Robustly under Noisy Supervision?",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.03993",
+    "scraped_at": "2026-04-07T06:04:22.408894"
+  }
+]
