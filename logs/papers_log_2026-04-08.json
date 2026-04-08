@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05015",
+    "scraped_at": "2026-04-08T06:04:53.541948"
+  },
+  {
+    "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05404",
+    "scraped_at": "2026-04-08T06:04:53.542306"
+  },
+  {
+    "title": "Learning to Retrieve from Agent Trajectories",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04949",
+    "scraped_at": "2026-04-08T06:04:53.542642"
+  },
+  {
+    "title": "ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.01591",
+    "scraped_at": "2026-04-08T06:04:53.543123"
+  },
+  {
+    "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04934",
+    "scraped_at": "2026-04-08T06:04:53.543461"
+  },
+  {
+    "title": "How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04323",
+    "scraped_at": "2026-04-08T06:04:53.543766"
+  },
+  {
+    "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06170",
+    "scraped_at": "2026-04-08T06:04:53.544109"
+  },
+  {
+    "title": "Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06132",
+    "scraped_at": "2026-04-08T06:04:53.544464"
+  },
+  {
+    "title": "ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.03922",
+    "scraped_at": "2026-04-08T06:04:53.544816"
+  },
+  {
+    "title": "Demystifying When Pruning Works via Representation Hierarchies",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.24652",
+    "scraped_at": "2026-04-08T06:04:53.545123"
+  },
+  {
+    "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06168",
+    "scraped_at": "2026-04-08T06:04:53.545427"
+  },
+  {
+    "title": "In-Place Test-Time Training",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06169",
+    "scraped_at": "2026-04-08T06:04:53.545744"
+  },
+  {
+    "title": "FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04074",
+    "scraped_at": "2026-04-08T06:04:53.546048"
+  },
+  {
+    "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05091",
+    "scraped_at": "2026-04-08T06:04:53.546365"
+  },
+  {
+    "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06156",
+    "scraped_at": "2026-04-08T06:04:53.546651"
+  },
+  {
+    "title": "Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06079",
+    "scraped_at": "2026-04-08T06:04:53.546979"
+  },
+  {
+    "title": "MedGemma 1.5 Technical Report",
+    "authors": "42 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05081",
+    "scraped_at": "2026-04-08T06:04:53.547280"
+  },
+  {
+    "title": "GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.02648",
+    "scraped_at": "2026-04-08T06:04:53.547587"
+  },
+  {
+    "title": "Experience Transfer for Multimodal LLM Agents in Minecraft Game",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05533",
+    "scraped_at": "2026-04-08T06:04:53.547930"
+  }
+]
