@@ -1,0 +1,142 @@
+[
+  {
+    "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06268",
+    "scraped_at": "2026-04-09T06:05:35.956718"
+  },
+  {
+    "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04746",
+    "scraped_at": "2026-04-09T06:05:35.957004"
+  },
+  {
+    "title": "MARS: Enabling Autoregressive Models Multi-Token Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07023",
+    "scraped_at": "2026-04-09T06:05:35.957302"
+  },
+  {
+    "title": "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07209",
+    "scraped_at": "2026-04-09T06:05:35.957599"
+  },
+  {
+    "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06757",
+    "scraped_at": "2026-04-09T06:05:35.957888"
+  },
+  {
+    "title": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07340",
+    "scraped_at": "2026-04-09T06:05:35.958185"
+  },
+  {
+    "title": "Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07343",
+    "scraped_at": "2026-04-09T06:05:35.958452"
+  },
+  {
+    "title": "SEVerA: Verified Synthesis of Self-Evolving Agents",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.25111",
+    "scraped_at": "2026-04-09T06:05:35.958722"
+  },
+  {
+    "title": "Fast Spatial Memory with Elastic Test-Time Training",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07350",
+    "scraped_at": "2026-04-09T06:05:35.959009"
+  },
+  {
+    "title": "Improving Semantic Proximity in Information Retrieval through Cross-Lingual Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05684",
+    "scraped_at": "2026-04-09T06:05:35.959238"
+  },
+  {
+    "title": "Neural Computers",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06425",
+    "scraped_at": "2026-04-09T06:05:35.959531"
+  },
+  {
+    "title": "Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04734",
+    "scraped_at": "2026-04-09T06:05:35.959767"
+  },
+  {
+    "title": "DeonticBench: A Benchmark for Reasoning over Rules",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04443",
+    "scraped_at": "2026-04-09T06:05:35.960034"
+  },
+  {
+    "title": "Learning to Hint for Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.00698",
+    "scraped_at": "2026-04-09T06:05:35.960274"
+  },
+  {
+    "title": "FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06916",
+    "scraped_at": "2026-04-09T06:05:35.960520"
+  },
+  {
+    "title": "The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06427",
+    "scraped_at": "2026-04-09T06:05:35.960785"
+  },
+  {
+    "title": "VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06182",
+    "scraped_at": "2026-04-09T06:05:35.961054"
+  },
+  {
+    "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06912",
+    "scraped_at": "2026-04-09T06:05:35.961324"
+  },
+  {
+    "title": "MoRight: Motion Control Done Right",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07348",
+    "scraped_at": "2026-04-09T06:05:35.961558"
+  },
+  {
+    "title": "Tunable Soft Equivariance with Guarantees",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.26657",
+    "scraped_at": "2026-04-09T06:05:35.961826"
+  }
+]
