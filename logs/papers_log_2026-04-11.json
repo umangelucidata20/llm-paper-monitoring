@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06628",
+    "scraped_at": "2026-04-11T05:43:49.617245"
+  },
+  {
+    "title": "SkillClaw: Let Skills Evolve Collectively with Agentic Evolver",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08377",
+    "scraped_at": "2026-04-11T05:43:49.617637"
+  },
+  {
+    "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07430",
+    "scraped_at": "2026-04-11T05:43:49.617953"
+  },
+  {
+    "title": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08546",
+    "scraped_at": "2026-04-11T05:43:49.618245"
+  },
+  {
+    "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08523",
+    "scraped_at": "2026-04-11T05:43:49.618549"
+  },
+  {
+    "title": "MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08364",
+    "scraped_at": "2026-04-11T05:43:49.618822"
+  },
+  {
+    "title": "LPM 1.0: Video-based Character Performance Model",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07823",
+    "scraped_at": "2026-04-11T05:43:49.619140"
+  },
+  {
+    "title": "KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08455",
+    "scraped_at": "2026-04-11T05:43:49.619482"
+  },
+  {
+    "title": "Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering",
+    "authors": "21 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08224",
+    "scraped_at": "2026-04-11T05:43:49.619796"
+  },
+  {
+    "title": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08539",
+    "scraped_at": "2026-04-11T05:43:49.620083"
+  },
+  {
+    "title": "DMax: Aggressive Parallel Decoding for dLLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08302",
+    "scraped_at": "2026-04-11T05:43:49.620347"
+  },
+  {
+    "title": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08545",
+    "scraped_at": "2026-04-11T05:43:49.620657"
+  },
+  {
+    "title": "MolmoWeb: Open Visual Web Agent and Open Data for the Open Web",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08516",
+    "scraped_at": "2026-04-11T05:43:49.620946"
+  },
+  {
+    "title": "OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07296",
+    "scraped_at": "2026-04-11T05:43:49.621217"
+  },
+  {
+    "title": "Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05333",
+    "scraped_at": "2026-04-11T05:43:49.621502"
+  },
+  {
+    "title": "OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08209",
+    "scraped_at": "2026-04-11T05:43:49.621766"
+  },
+  {
+    "title": "Structured Distillation of Web Agent Capabilities Enables Generalization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07776",
+    "scraped_at": "2026-04-11T05:43:49.622039"
+  },
+  {
+    "title": "FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08526",
+    "scraped_at": "2026-04-11T05:43:49.622286"
+  },
+  {
+    "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08544",
+    "scraped_at": "2026-04-11T05:43:49.622565"
+  },
+  {
+    "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08168",
+    "scraped_at": "2026-04-11T05:43:49.622840"
+  },
+  {
+    "title": "Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07394",
+    "scraped_at": "2026-04-11T05:43:49.623118"
+  },
+  {
+    "title": "Automating Database-Native Function Code Synthesis with LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06231",
+    "scraped_at": "2026-04-11T05:43:49.623368"
+  },
+  {
+    "title": "Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces",
+    "authors": "14 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08362",
+    "scraped_at": "2026-04-11T05:43:49.623685"
+  },
+  {
+    "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07429",
+    "scraped_at": "2026-04-11T05:43:49.623975"
+  },
+  {
+    "title": "Small Vision-Language Models are Smart Compressors for Long Video Understanding",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08120",
+    "scraped_at": "2026-04-11T05:43:49.624270"
+  },
+  {
+    "title": "Lighting-grounded Video Generation with Renderer-based Agent Reasoning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07966",
+    "scraped_at": "2026-04-11T05:43:49.624564"
+  },
+  {
+    "title": "Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08476",
+    "scraped_at": "2026-04-11T05:43:49.624822"
+  },
+  {
+    "title": "PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08340",
+    "scraped_at": "2026-04-11T05:43:49.625104"
+  },
+  {
+    "title": "The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06377",
+    "scraped_at": "2026-04-11T05:43:49.625390"
+  },
+  {
+    "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2601.20524",
+    "scraped_at": "2026-04-11T05:43:49.625679"
+  },
+  {
+    "title": "On the Global Photometric Alignment for Low-Level Vision",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08172",
+    "scraped_at": "2026-04-11T05:43:49.625967"
+  },
+  {
+    "title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08064",
+    "scraped_at": "2026-04-11T05:43:49.626233"
+  },
+  {
+    "title": "Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08124",
+    "scraped_at": "2026-04-11T05:43:49.626554"
+  },
+  {
+    "title": "Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08503",
+    "scraped_at": "2026-04-11T05:43:49.626808"
+  },
+  {
+    "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06938",
+    "scraped_at": "2026-04-11T05:43:49.627128"
+  },
+  {
+    "title": "QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.06057",
+    "scraped_at": "2026-04-11T05:43:49.627414"
+  },
+  {
+    "title": "RewardFlow: Generate Images by Optimizing What You Reward",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08536",
+    "scraped_at": "2026-04-11T05:43:49.627680"
+  },
+  {
+    "title": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07338",
+    "scraped_at": "2026-04-11T05:43:49.627933"
+  },
+  {
+    "title": "Training a Student Expert via Semi-Supervised Foundation Model Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.03841",
+    "scraped_at": "2026-04-11T05:43:49.628184"
+  },
+  {
+    "title": "Structural Graph Probing of Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27070",
+    "scraped_at": "2026-04-11T05:43:49.628464"
+  },
+  {
+    "title": "CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.16428",
+    "scraped_at": "2026-04-11T05:43:49.628746"
+  },
+  {
+    "title": "Personalizing Text-to-Image Generation to Individual Taste",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07427",
+    "scraped_at": "2026-04-11T05:43:49.629015"
+  }
+]
