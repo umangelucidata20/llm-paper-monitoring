@@ -1,0 +1,93 @@
+[
+  {
+    "title": "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07413",
+    "scraped_at": "2026-04-13T06:29:55.472981"
+  },
+  {
+    "title": "RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06870",
+    "scraped_at": "2026-04-13T06:29:55.473355"
+  },
+  {
+    "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08626",
+    "scraped_at": "2026-04-13T06:29:55.473730"
+  },
+  {
+    "title": "EXAONE 4.5 Technical Report",
+    "authors": "58 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08644",
+    "scraped_at": "2026-04-13T06:29:55.474080"
+  },
+  {
+    "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08995",
+    "scraped_at": "2026-04-13T06:29:55.474383"
+  },
+  {
+    "title": "ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09450",
+    "scraped_at": "2026-04-13T06:29:55.474729"
+  },
+  {
+    "title": "Structured Causal Video Reasoning via Multi-Objective Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04415",
+    "scraped_at": "2026-04-13T06:29:55.475076"
+  },
+  {
+    "title": "ELT: Elastic Looped Transformers for Visual Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09168",
+    "scraped_at": "2026-04-13T06:29:55.475356"
+  },
+  {
+    "title": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09531",
+    "scraped_at": "2026-04-13T06:29:55.475688"
+  },
+  {
+    "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09544",
+    "scraped_at": "2026-04-13T06:29:55.475976"
+  },
+  {
+    "title": "CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09201",
+    "scraped_at": "2026-04-13T06:29:55.476300"
+  },
+  {
+    "title": "Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07786",
+    "scraped_at": "2026-04-13T06:29:55.476618"
+  },
+  {
+    "title": "AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27490",
+    "scraped_at": "2026-04-13T06:29:55.476900"
+  }
+]
