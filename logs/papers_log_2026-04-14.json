@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation",
+    "authors": "20 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10098",
+    "scraped_at": "2026-04-14T06:15:27.753577"
+  },
+  {
+    "title": "Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10949",
+    "scraped_at": "2026-04-14T06:15:27.753915"
+  },
+  {
+    "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09132",
+    "scraped_at": "2026-04-14T06:15:27.754266"
+  },
+  {
+    "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11804",
+    "scraped_at": "2026-04-14T06:15:27.754568"
+  },
+  {
+    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11784",
+    "scraped_at": "2026-04-14T06:15:27.754899"
+  },
+  {
+    "title": "CocoaBench: Evaluating Unified Digital Agents in the Wild",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11201",
+    "scraped_at": "2026-04-14T06:15:27.755243"
+  },
+  {
+    "title": "CodeTracer: Towards Traceable Agent States",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11641",
+    "scraped_at": "2026-04-14T06:15:27.755543"
+  },
+  {
+    "title": "Introspective Diffusion Language Models",
+    "authors": "15 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11035",
+    "scraped_at": "2026-04-14T06:15:27.755879"
+  },
+  {
+    "title": "Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10480",
+    "scraped_at": "2026-04-14T06:15:27.756204"
+  },
+  {
+    "title": "Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10030",
+    "scraped_at": "2026-04-14T06:15:27.756500"
+  },
+  {
+    "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09459",
+    "scraped_at": "2026-04-14T06:15:27.756810"
+  },
+  {
+    "title": "Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10905",
+    "scraped_at": "2026-04-14T06:15:27.757102"
+  },
+  {
+    "title": "General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11778",
+    "scraped_at": "2026-04-14T06:15:27.757401"
+  },
+  {
+    "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11805",
+    "scraped_at": "2026-04-14T06:15:27.757700"
+  },
+  {
+    "title": "Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11547",
+    "scraped_at": "2026-04-14T06:15:27.758030"
+  },
+  {
+    "title": "Zero-shot World Models Are Developmentally Efficient Learners",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10333",
+    "scraped_at": "2026-04-14T06:15:27.758331"
+  },
+  {
+    "title": "Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11446",
+    "scraped_at": "2026-04-14T06:15:27.758619"
+  },
+  {
+    "title": "TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10784",
+    "scraped_at": "2026-04-14T06:15:27.758909"
+  },
+  {
+    "title": "TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08921",
+    "scraped_at": "2026-04-14T06:15:27.759240"
+  },
+  {
+    "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11716",
+    "scraped_at": "2026-04-14T06:15:27.759532"
+  },
+  {
+    "title": "Continuous Adversarial Flow Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11521",
+    "scraped_at": "2026-04-14T06:15:27.759809"
+  },
+  {
+    "title": "ADD for Multi-Bit Image Watermarking",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11491",
+    "scraped_at": "2026-04-14T06:15:27.760749"
+  },
+  {
+    "title": "SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10718",
+    "scraped_at": "2026-04-14T06:15:27.761021"
+  },
+  {
+    "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09212",
+    "scraped_at": "2026-04-14T06:15:27.761345"
+  }
+]
