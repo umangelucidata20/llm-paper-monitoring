@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11784",
+    "scraped_at": "2026-04-15T06:15:52.166451"
+  },
+  {
+    "title": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13016",
+    "scraped_at": "2026-04-15T06:15:52.166824"
+  },
+  {
+    "title": "KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12627",
+    "scraped_at": "2026-04-15T06:15:52.167194"
+  },
+  {
+    "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13018",
+    "scraped_at": "2026-04-15T06:15:52.167528"
+  },
+  {
+    "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08865",
+    "scraped_at": "2026-04-15T06:15:52.167860"
+  },
+  {
+    "title": "Towards Long-horizon Agentic Multimodal Search",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12890",
+    "scraped_at": "2026-04-15T06:15:52.168187"
+  },
+  {
+    "title": "Lyra 2.0: Explorable Generative 3D Worlds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13036",
+    "scraped_at": "2026-04-15T06:15:52.168486"
+  },
+  {
+    "title": "Self-Adversarial One Step Generation via Condition Shifting",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12322",
+    "scraped_at": "2026-04-15T06:15:52.168805"
+  },
+  {
+    "title": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
+    "authors": "12 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12626",
+    "scraped_at": "2026-04-15T06:15:52.169139"
+  },
+  {
+    "title": "Many-Tier Instruction Hierarchy in LLM Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09443",
+    "scraped_at": "2026-04-15T06:15:52.169502"
+  },
+  {
+    "title": "Rethinking the Diffusion Model from a Langevin Perspective",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10465",
+    "scraped_at": "2026-04-15T06:15:52.169795"
+  },
+  {
+    "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12374",
+    "scraped_at": "2026-04-15T06:15:52.170066"
+  },
+  {
+    "title": "LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11689",
+    "scraped_at": "2026-04-15T06:15:52.170409"
+  },
+  {
+    "title": "You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10966",
+    "scraped_at": "2026-04-15T06:15:52.170701"
+  },
+  {
+    "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13010",
+    "scraped_at": "2026-04-15T06:15:52.170973"
+  },
+  {
+    "title": "VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12887",
+    "scraped_at": "2026-04-15T06:15:52.171315"
+  },
+  {
+    "title": "Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.05072",
+    "scraped_at": "2026-04-15T06:15:52.171624"
+  },
+  {
+    "title": "Generative Refinement Networks for Visual Synthesis",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13030",
+    "scraped_at": "2026-04-15T06:15:52.171959"
+  },
+  {
+    "title": "Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12119",
+    "scraped_at": "2026-04-15T06:15:52.172315"
+  },
+  {
+    "title": "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11579",
+    "scraped_at": "2026-04-15T06:15:52.172660"
+  },
+  {
+    "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09746",
+    "scraped_at": "2026-04-15T06:15:52.172982"
+  }
+]
