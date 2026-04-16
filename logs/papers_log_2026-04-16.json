@@ -1,0 +1,128 @@
+[
+  {
+    "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11626",
+    "scraped_at": "2026-04-16T06:18:08.219870"
+  },
+  {
+    "title": "Seedance 2.0: Advancing Video Generation for World Complexity",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14148",
+    "scraped_at": "2026-04-16T06:18:08.220240"
+  },
+  {
+    "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14144",
+    "scraped_at": "2026-04-16T06:18:08.220608"
+  },
+  {
+    "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07429",
+    "scraped_at": "2026-04-16T06:18:08.220905"
+  },
+  {
+    "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10866",
+    "scraped_at": "2026-04-16T06:18:08.221287"
+  },
+  {
+    "title": "Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14004",
+    "scraped_at": "2026-04-16T06:18:08.221588"
+  },
+  {
+    "title": "From P(y|x) to P(y): Investigating Reinforcement Learning in Pre-train Space",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14142",
+    "scraped_at": "2026-04-16T06:18:08.221883"
+  },
+  {
+    "title": "Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14048",
+    "scraped_at": "2026-04-16T06:18:08.222213"
+  },
+  {
+    "title": "TIP: Token Importance in On-Policy Distillation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14084",
+    "scraped_at": "2026-04-16T06:18:08.222510"
+  },
+  {
+    "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14116",
+    "scraped_at": "2026-04-16T06:18:08.222786"
+  },
+  {
+    "title": "UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14113",
+    "scraped_at": "2026-04-16T06:18:08.223123"
+  },
+  {
+    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13151",
+    "scraped_at": "2026-04-16T06:18:08.223414"
+  },
+  {
+    "title": "UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13822",
+    "scraped_at": "2026-04-16T06:18:08.223740"
+  },
+  {
+    "title": "MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13418",
+    "scraped_at": "2026-04-16T06:18:08.224079"
+  },
+  {
+    "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11045",
+    "scraped_at": "2026-04-16T06:18:08.224377"
+  },
+  {
+    "title": "Do AI Coding Agents Log Like Humans? An Empirical Study",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.09409",
+    "scraped_at": "2026-04-16T06:18:08.224657"
+  },
+  {
+    "title": "ROSE: Retrieval-Oriented Segmentation Enhancement",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14147",
+    "scraped_at": "2026-04-16T06:18:08.225003"
+  },
+  {
+    "title": "InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13201",
+    "scraped_at": "2026-04-16T06:18:08.225407"
+  }
+]
