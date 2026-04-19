@@ -1,0 +1,205 @@
+[
+  {
+    "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+    "authors": "45 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14268",
+    "scraped_at": "2026-04-19T06:12:49.549699"
+  },
+  {
+    "title": "DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14683",
+    "scraped_at": "2026-04-19T06:12:49.550121"
+  },
+  {
+    "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15308",
+    "scraped_at": "2026-04-19T06:12:49.550465"
+  },
+  {
+    "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14164",
+    "scraped_at": "2026-04-19T06:12:49.550873"
+  },
+  {
+    "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15284",
+    "scraped_at": "2026-04-19T06:12:49.551250"
+  },
+  {
+    "title": "ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2509.25843",
+    "scraped_at": "2026-04-19T06:12:49.551561"
+  },
+  {
+    "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14125",
+    "scraped_at": "2026-04-19T06:12:49.551906"
+  },
+  {
+    "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14228",
+    "scraped_at": "2026-04-19T06:12:49.552247"
+  },
+  {
+    "title": "UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14967",
+    "scraped_at": "2026-04-19T06:12:49.552553"
+  },
+  {
+    "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14629",
+    "scraped_at": "2026-04-19T06:12:49.552890"
+  },
+  {
+    "title": "LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15311",
+    "scraped_at": "2026-04-19T06:12:49.553176"
+  },
+  {
+    "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11707",
+    "scraped_at": "2026-04-19T06:12:49.553497"
+  },
+  {
+    "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14531",
+    "scraped_at": "2026-04-19T06:12:49.553800"
+  },
+  {
+    "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14062",
+    "scraped_at": "2026-04-19T06:12:49.554133"
+  },
+  {
+    "title": "KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13226",
+    "scraped_at": "2026-04-19T06:12:49.554432"
+  },
+  {
+    "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15231",
+    "scraped_at": "2026-04-19T06:12:49.554708"
+  },
+  {
+    "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14572",
+    "scraped_at": "2026-04-19T06:12:49.555109"
+  },
+  {
+    "title": "LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14922",
+    "scraped_at": "2026-04-19T06:12:49.555426"
+  },
+  {
+    "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15309",
+    "scraped_at": "2026-04-19T06:12:49.555723"
+  },
+  {
+    "title": "Reinforcement Learning via Value Gradient Flow",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14265",
+    "scraped_at": "2026-04-19T06:12:49.556103"
+  },
+  {
+    "title": "Boosting Visual Instruction Tuning with Self-Supervised Guidance",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.12966",
+    "scraped_at": "2026-04-19T06:12:49.556402"
+  },
+  {
+    "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04514",
+    "scraped_at": "2026-04-19T06:12:49.556668"
+  },
+  {
+    "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14914",
+    "scraped_at": "2026-04-19T06:12:49.557009"
+  },
+  {
+    "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11661",
+    "scraped_at": "2026-04-19T06:12:49.557313"
+  },
+  {
+    "title": "Cross-Tokenizer LLM Distillation through a Byte-Level Interface",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.07466",
+    "scraped_at": "2026-04-19T06:12:49.557626"
+  },
+  {
+    "title": "Three-Phase Transformer",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14430",
+    "scraped_at": "2026-04-19T06:12:49.557945"
+  },
+  {
+    "title": "C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13618",
+    "scraped_at": "2026-04-19T06:12:49.558274"
+  },
+  {
+    "title": "An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2211.16780",
+    "scraped_at": "2026-04-19T06:12:49.558586"
+  },
+  {
+    "title": "Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2603.27844",
+    "scraped_at": "2026-04-19T06:12:49.558932"
+  }
+]
