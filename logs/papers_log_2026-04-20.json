@@ -1,0 +1,86 @@
+[
+  {
+    "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13074",
+    "scraped_at": "2026-04-20T06:30:26.905007"
+  },
+  {
+    "title": "Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16029",
+    "scraped_at": "2026-04-20T06:30:26.905285"
+  },
+  {
+    "title": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.04936",
+    "scraped_at": "2026-04-20T06:30:26.905567"
+  },
+  {
+    "title": "Qwen3.5-Omni Technical Report",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15804",
+    "scraped_at": "2026-04-20T06:30:26.905858"
+  },
+  {
+    "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2502.07408",
+    "scraped_at": "2026-04-20T06:30:26.906084"
+  },
+  {
+    "title": "Repurposing 3D Generative Model for Autoregressive Layout Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16299",
+    "scraped_at": "2026-04-20T06:30:26.906287"
+  },
+  {
+    "title": "Learning Adaptive Reasoning Paths for Efficient Visual Reasoning",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.14568",
+    "scraped_at": "2026-04-20T06:30:26.906533"
+  },
+  {
+    "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15715",
+    "scraped_at": "2026-04-20T06:30:26.906773"
+  },
+  {
+    "title": "AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2511.15915",
+    "scraped_at": "2026-04-20T06:30:26.907002"
+  },
+  {
+    "title": "ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16254",
+    "scraped_at": "2026-04-20T06:30:26.907219"
+  },
+  {
+    "title": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16272",
+    "scraped_at": "2026-04-20T06:30:26.907442"
+  },
+  {
+    "title": "PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research",
+    "authors": "22 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15411",
+    "scraped_at": "2026-04-20T06:30:26.907659"
+  }
+]
