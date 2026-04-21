@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18292",
+    "scraped_at": "2026-04-21T06:18:39.387629"
+  },
+  {
+    "title": "OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18486",
+    "scraped_at": "2026-04-21T06:18:39.387926"
+  },
+  {
+    "title": "OpenGame: Open Agentic Coding for Games",
+    "authors": "11 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18394",
+    "scraped_at": "2026-04-21T06:18:39.388194"
+  },
+  {
+    "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18564",
+    "scraped_at": "2026-04-21T06:18:39.388431"
+  },
+  {
+    "title": "EasyVideoR1: Easier RL for Video Understanding",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16893",
+    "scraped_at": "2026-04-21T06:18:39.388689"
+  },
+  {
+    "title": "WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18224",
+    "scraped_at": "2026-04-21T06:18:39.388979"
+  },
+  {
+    "title": "When Can LLMs Learn to Reason with Weak Supervision?",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18574",
+    "scraped_at": "2026-04-21T06:18:39.389235"
+  },
+  {
+    "title": "SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents",
+    "authors": "16 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17308",
+    "scraped_at": "2026-04-21T06:18:39.389498"
+  },
+  {
+    "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18543",
+    "scraped_at": "2026-04-21T06:18:39.389751"
+  },
+  {
+    "title": "Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16593",
+    "scraped_at": "2026-04-21T06:18:39.389973"
+  },
+  {
+    "title": "OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.11102",
+    "scraped_at": "2026-04-21T06:18:39.390180"
+  },
+  {
+    "title": "Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17696",
+    "scraped_at": "2026-04-21T06:18:39.390400"
+  },
+  {
+    "title": "Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17338",
+    "scraped_at": "2026-04-21T06:18:39.390617"
+  },
+  {
+    "title": "Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08537",
+    "scraped_at": "2026-04-21T06:18:39.390840"
+  },
+  {
+    "title": "MedConclusion: A Benchmark for Biomedical Conclusion Generation from Structured Abstracts",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.06505",
+    "scraped_at": "2026-04-21T06:18:39.391055"
+  },
+  {
+    "title": "Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18131",
+    "scraped_at": "2026-04-21T06:18:39.391286"
+  },
+  {
+    "title": "Modeling Multiple Support Strategies within a Single Turn for Emotional Support Conversations",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17972",
+    "scraped_at": "2026-04-21T06:18:39.391486"
+  },
+  {
+    "title": "The Geometric Canary: Predicting Steerability and Detecting Drift via Representational Stability",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17698",
+    "scraped_at": "2026-04-21T06:18:39.391720"
+  },
+  {
+    "title": "EvoMaster: A Foundational Agent Framework for Building Evolving Autonomous Scientific Agents at Scale",
+    "authors": "23 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17406",
+    "scraped_at": "2026-04-21T06:18:39.391960"
+  },
+  {
+    "title": "Crowded in B-Space: Calibrating Shared Directions for LoRA Merging",
+    "authors": "2 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16826",
+    "scraped_at": "2026-04-21T06:18:39.392185"
+  },
+  {
+    "title": "MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16943",
+    "scraped_at": "2026-04-21T06:18:39.392413"
+  },
+  {
+    "title": "Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress",
+    "authors": "1 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16642",
+    "scraped_at": "2026-04-21T06:18:39.392640"
+  },
+  {
+    "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18584",
+    "scraped_at": "2026-04-21T06:18:39.392881"
+  },
+  {
+    "title": "Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18203",
+    "scraped_at": "2026-04-21T06:18:39.393083"
+  },
+  {
+    "title": "Back to Repair: A Minimal Denoising Network\\ for Time Series Anomaly Detection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17388",
+    "scraped_at": "2026-04-21T06:18:39.393304"
+  },
+  {
+    "title": "HSG: Hyperbolic Scene Graph",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17454",
+    "scraped_at": "2026-04-21T06:18:39.393528"
+  }
+]
