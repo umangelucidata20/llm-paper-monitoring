@@ -1,0 +1,142 @@
+[
+  {
+    "title": "AgentSPEX: An Agent SPecification and EXecution Language",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.13346",
+    "scraped_at": "2026-04-22T06:17:46.104374"
+  },
+  {
+    "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19748",
+    "scraped_at": "2026-04-22T06:17:46.104706"
+  },
+  {
+    "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19747",
+    "scraped_at": "2026-04-22T06:17:46.105049"
+  },
+  {
+    "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19295",
+    "scraped_at": "2026-04-22T06:17:46.105409"
+  },
+  {
+    "title": "CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19636",
+    "scraped_at": "2026-04-22T06:17:46.105686"
+  },
+  {
+    "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19742",
+    "scraped_at": "2026-04-22T06:17:46.105962"
+  },
+  {
+    "title": "Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19667",
+    "scraped_at": "2026-04-22T06:17:46.106218"
+  },
+  {
+    "title": "Dual-View Training for Instruction-Following Information Retrieval",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18845",
+    "scraped_at": "2026-04-22T06:17:46.106526"
+  },
+  {
+    "title": "Code-Switching Information Retrieval: Benchmarks, Analysis, and the Limits of Current Retrievers",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17632",
+    "scraped_at": "2026-04-22T06:17:46.106802"
+  },
+  {
+    "title": "Speculative Decoding for Autoregressive Video Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17397",
+    "scraped_at": "2026-04-22T06:17:46.107075"
+  },
+  {
+    "title": "Target-Oriented Pretraining Data Selection via Neuron-Activated Graph",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.15706",
+    "scraped_at": "2026-04-22T06:17:46.107361"
+  },
+  {
+    "title": "UniMesh: Unifying 3D Mesh Understanding and Generation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17472",
+    "scraped_at": "2026-04-22T06:17:46.107614"
+  },
+  {
+    "title": "MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18164",
+    "scraped_at": "2026-04-22T06:17:46.107928"
+  },
+  {
+    "title": "LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction",
+    "authors": "10 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19550",
+    "scraped_at": "2026-04-22T06:17:46.108215"
+  },
+  {
+    "title": "Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17761",
+    "scraped_at": "2026-04-22T06:17:46.108524"
+  },
+  {
+    "title": "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing",
+    "authors": "13 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19587",
+    "scraped_at": "2026-04-22T06:17:46.108807"
+  },
+  {
+    "title": "ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19211",
+    "scraped_at": "2026-04-22T06:17:46.109080"
+  },
+  {
+    "title": "Evaluation-driven Scaling for Scientific Discovery",
+    "authors": "25 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19341",
+    "scraped_at": "2026-04-22T06:17:46.109377"
+  },
+  {
+    "title": "Predicting integers from continuous parameters",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2602.10751",
+    "scraped_at": "2026-04-22T06:17:46.109627"
+  },
+  {
+    "title": "SPRITE: From Static Mockups to Engine-Ready Game UI",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.18591",
+    "scraped_at": "2026-04-22T06:17:46.109898"
+  }
+]
