@@ -1,0 +1,156 @@
+[
+  {
+    "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17295",
+    "scraped_at": "2026-04-25T06:05:18.975014"
+  },
+  {
+    "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+    "authors": "8 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21686",
+    "scraped_at": "2026-04-25T06:05:18.975389"
+  },
+  {
+    "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.19734",
+    "scraped_at": "2026-04-25T06:05:18.975735"
+  },
+  {
+    "title": "StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition",
+    "authors": "6 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21689",
+    "scraped_at": "2026-04-25T06:05:18.976129"
+  },
+  {
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.20987",
+    "scraped_at": "2026-04-25T06:05:18.976442"
+  },
+  {
+    "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+    "authors": "9 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21931",
+    "scraped_at": "2026-04-25T06:05:18.976745"
+  },
+  {
+    "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21375",
+    "scraped_at": "2026-04-25T06:05:18.977069"
+  },
+  {
+    "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21889",
+    "scraped_at": "2026-04-25T06:05:18.977377"
+  },
+  {
+    "title": "Hybrid Policy Distillation for LLMs",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.20244",
+    "scraped_at": "2026-04-25T06:05:18.977716"
+  },
+  {
+    "title": "Context Unrolling in Omni Models",
+    "authors": "19 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21921",
+    "scraped_at": "2026-04-25T06:05:18.978054"
+  },
+  {
+    "title": "EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.10268",
+    "scraped_at": "2026-04-25T06:05:18.978367"
+  },
+  {
+    "title": "Vista4D: Video Reshooting with 4D Point Clouds",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21915",
+    "scraped_at": "2026-04-25T06:05:18.978649"
+  },
+  {
+    "title": "UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21904",
+    "scraped_at": "2026-04-25T06:05:18.978975"
+  },
+  {
+    "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
+    "authors": "7 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.20398",
+    "scraped_at": "2026-04-25T06:05:18.979292"
+  },
+  {
+    "title": "Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21193",
+    "scraped_at": "2026-04-25T06:05:18.979631"
+  },
+  {
+    "title": "Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI",
+    "authors": "5 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21300",
+    "scraped_at": "2026-04-25T06:05:18.980008"
+  },
+  {
+    "title": "Coevolving Representations in Joint Image-Feature Diffusion",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.17492",
+    "scraped_at": "2026-04-25T06:05:18.980332"
+  },
+  {
+    "title": "Encoder-Free Human Motion Understanding via Structured Motion Descriptions",
+    "authors": "4 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.21668",
+    "scraped_at": "2026-04-25T06:05:18.980668"
+  },
+  {
+    "title": "Temporally Extended Mixture-of-Experts Models",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.20156",
+    "scraped_at": "2026-04-25T06:05:18.980985"
+  },
+  {
+    "title": "Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts",
+    "authors": "3 authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.16926",
+    "scraped_at": "2026-04-25T06:05:18.981292"
+  },
+  {
+    "title": "PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2506.17001",
+    "scraped_at": "2026-04-25T06:05:18.981567"
+  },
+  {
+    "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
+    "authors": "Unknown authors",
+    "abstract": "",
+    "link": "https://huggingface.co/papers/2604.08645",
+    "scraped_at": "2026-04-25T06:05:18.981843"
+  }
+]
